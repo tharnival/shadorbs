@@ -2,6 +2,8 @@
 
 This is a set of programs that take videos of people playing Slay the Spire
 and outputs an agent that can play the game based on what it learned from those videos.
+The name is a portmanteau of shadow and Jorbs
+since I used his videos as the training data.
 For more information, read `thesis.pdf`.
 Below is a description of the contents of this repo.
 
