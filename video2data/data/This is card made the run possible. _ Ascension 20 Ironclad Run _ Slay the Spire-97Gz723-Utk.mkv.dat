@@ -1,0 +1,515 @@
+{"frame": 2582, "card": "Strike", "hand": ["Strike", "Defend", "Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2604, "card": "Strike", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2946, "card": "Bash", "hand": ["Defend", "Defend", "Strike", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2974, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 3366, "card": "Defend", "hand": ["Strike", "Defend", "Defend"], "floor": 1, "hp": 62, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3422, "card": "Defend", "hand": ["Dazed", "Defend", "Strike"], "floor": 1, "hp": 62, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3452, "card": "Defend", "hand": ["Defend", "Strike"], "floor": 1, "hp": 62, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3486, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 1, "hp": 62, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 3728, "card": "Strike", "hand": ["Defend", "Strike", "Strike", "Bash"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3750, "card": "Strike", "hand": ["Defend"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3772, "card": "Strike", "hand": [], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5064, "card": "Uppercut", "hand": ["Strike+", "Strike", "Defend", "Strike"], "floor": 3, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5372, "card": "Strike+", "hand": ["Bash", "Defend", "Defend", "Ascender's Bane"], "floor": 3, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5414, "card": "Defend", "hand": ["Bash", "Ascender's Bane"], "floor": 3, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5446, "card": "Defend", "hand": ["Bash", "Ascender's Bane"], "floor": 3, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5730, "card": "Strike+", "hand": [], "floor": 3, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12044, "card": "Bash", "hand": ["Defend", "Defend", "Strike", "Blind"], "floor": 6, "hp": 73, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12122, "card": "Combust", "hand": ["Defend", "Defend", "Strike"], "floor": 6, "hp": 73, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 12448, "card": "Battle Trance", "hand": ["Strike+", "Ascender's Bane", "Strike+", "Bash"], "floor": 6, "hp": 72, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12742, "card": "Strike+", "hand": ["Bash", "Strike+", "Strike", "Defend"], "floor": 6, "hp": 72, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12796, "card": "Strike+", "hand": ["Strike", "Defend", "Dazed", "Bash"], "floor": 6, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 12856, "card": "Defend", "hand": ["Strike", "Defend", "Bash"], "floor": 6, "hp": 72, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 13348, "card": "Battle Trance", "hand": ["Strike", "Defend", "Defend", "Blind"], "floor": 6, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13432, "card": "Uppercut", "hand": ["Strike", "Defend", "Defend", "Defend", "Bash"], "floor": 6, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13664, "card": "Defend", "hand": ["Strike", "Defend", "Defend", "Dazed"], "floor": 6, "hp": 56, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 14056, "card": "Strike+", "hand": ["Strike", "Strike+", "Defend", "Defend"], "floor": 6, "hp": 45, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14096, "card": "Strike+", "hand": ["Strike", "Defend", "Defend"], "floor": 6, "hp": 45, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 14138, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 6, "hp": 45, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 14468, "card": "Uppercut", "hand": [], "floor": 6, "hp": 44, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16934, "card": "Uppercut", "hand": ["Strike", "Strike", "Strike+", "Blind"], "floor": 10, "hp": 50, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16978, "card": "Smite", "hand": ["Strike", "Strike", "Feel No Pain"], "floor": 10, "hp": 50, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 17294, "card": "Bash", "hand": ["Defend", "Defend", "Defend", "Strike+", "Combust+", "Blind"], "floor": 10, "hp": 41, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 17320, "card": "Strike+", "hand": [], "floor": 10, "hp": 11, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 18148, "card": "Defend", "hand": ["Strike", "Defend", "Bash", "Blind"], "floor": 11, "hp": 47, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18188, "card": "Strike", "hand": ["Defend", "Bash"], "floor": 11, "hp": 47, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 18218, "card": "Defend", "hand": ["Bash", "Ascender's Bane"], "floor": 11, "hp": 47, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 19784, "card": "Sadistic Nature", "hand": ["Shrug It Off", "Strike", "Defend", "Strike+", "Strike", "Blind"], "floor": 11, "hp": 45, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 19864, "card": "Uppercut", "hand": ["Shrug It Off", "Strike", "Defend"], "floor": 11, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 19962, "card": "Shrug It Off", "hand": ["Strike", "Defend", "Combust+", "Blind"], "floor": 11, "hp": 45, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 20674, "card": "Uppercut", "hand": ["Defend", "Strike+", "Shrug It Off", "Combust+", "Feel No Pain"], "floor": 11, "hp": 35, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21246, "card": "Strike+", "hand": ["Defend", "Defend", "Feel No Pain"], "floor": 11, "hp": 35, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 21316, "card": "Battle Trance", "hand": ["Defend", "Combust+", "Defend", "Feel No Pain", "Shrug It Off"], "floor": 11, "hp": 35, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 21932, "card": "Shrug It Off", "hand": ["Strike", "Strike", "Defend", "Defend"], "floor": 11, "hp": 35, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22068, "card": "Battle Trance", "hand": ["Strike+", "Strike", "Defend", "Defend", "Dazed", "Defend", "Strike", "Blind"], "floor": 11, "hp": 35, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 22232, "card": "Combust+", "hand": ["Strike", "Defend", "Defend"], "floor": 11, "hp": 35, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 22306, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 11, "hp": 35, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 28760, "card": "Battle Trance", "hand": ["Shrug It Off", "Defend", "Defend", "Feel No Pain"], "floor": 13, "hp": 40, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29124, "card": "Armaments", "hand": ["Shrug It Off", "Defend", "Defend", "Feel No Pain"], "floor": 13, "hp": 40, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29902, "card": "Bash", "hand": ["Strike", "Strike", "Defend"], "floor": 13, "hp": 40, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29938, "card": "Strike", "hand": ["Strike+", "Strike", "Combust+"], "floor": 13, "hp": 40, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 30470, "card": "Strike+", "hand": ["Armaments", "Defend", "Defend", "Defend", "Ascender's Bane+", "Strike+"], "floor": 13, "hp": 32, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 30622, "card": "Immolate", "hand": ["Armaments", "Defend", "Dazed", "Defend", "Ascender's Bane", "Strike+"], "floor": 13, "hp": 32, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 31020, "card": "Uppercut", "hand": ["Shrug It Off", "Strike", "Bash", "Defend", "Combust+", "Battle Trance"], "floor": 13, "hp": 16, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31850, "card": "Combust+", "hand": ["Bash", "Strike", "Strike+"], "floor": 14, "hp": 22, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32210, "card": "Strike+", "hand": ["Strike", "Bash", "Feel No Pain"], "floor": 14, "hp": 22, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 32280, "card": "Strike", "hand": ["Bash", "Feel No Pain"], "floor": 14, "hp": 22, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 32676, "card": "Battle Trance", "hand": ["Armaments", "Impervious+", "Shrug It Off", "Defend"], "floor": 14, "hp": 15, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32784, "card": "Immolate", "hand": ["Armaments", "Impervious", "Defend", "Shrug It Off", "Brutality"], "floor": 14, "hp": 15, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33846, "card": "Battle Trance", "hand": ["Impervious", "Battle Trance", "Combust+", "Feel No Pain"], "floor": 16, "hp": 45, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34190, "card": "Feel No Pain", "hand": ["Impervious", "Strike", "Strike+", "Armaments", "Battle Trance"], "floor": 16, "hp": 45, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 34582, "card": "Bash", "hand": ["Defend", "Shrug It Off", "Defend", "Defend", "Anger", "Strike+"], "floor": 16, "hp": 44, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34638, "card": "Strike+", "hand": ["Defend", "Defend"], "floor": 16, "hp": 44, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 35328, "card": "Immolate", "hand": ["Strike", "Shrug It Off", "Slimed", "Shockwave"], "floor": 16, "hp": 43, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35654, "card": "Battle Trance", "hand": ["Uppercut", "Shockwave", "Shrug It Off", "Slimed"], "floor": 16, "hp": 43, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 36232, "card": "Armaments", "hand": ["Defend", "Defend", "Shame", "Carnage"], "floor": 16, "hp": 42, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 36368, "card": "Bash+", "hand": ["Strike", "Defend", "Defend", "Slimed", "Slimed", "Feed"], "floor": 16, "hp": 42, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 37012, "card": "Bash", "hand": ["Shame", "Slimed", "Shrug It Off"], "floor": 16, "hp": 34, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37402, "card": "Strike+", "hand": ["Defend", "Slimed", "Burn", "Shame"], "floor": 16, "hp": 34, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 37976, "card": "Uppercut", "hand": ["Strike", "Armaments", "Defend", "Shame"], "floor": 16, "hp": 13, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38426, "card": "Strike", "hand": [], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 38940, "card": "Strike+", "hand": ["Slimed", "Slimed", "Defend", "Defend", "Slimed", "Reaper"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 39052, "card": "Battle Trance", "hand": ["Shame", "Defend", "Defend", "Shame"], "floor": 16, "hp": 12, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 39292, "card": "Strike", "hand": ["Defend", "Defend", "Shame", "Slimed", "Shame"], "floor": 16, "hp": 12, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 39728, "card": "Immolate", "hand": ["Defend", "Fiend Fire", "Bash+", "Armaments", "Uppercut"], "floor": 16, "hp": 11, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 42692, "card": "Shrug It Off", "hand": ["Armaments", "Defend", "Combust+"], "floor": 18, "hp": 66, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 42808, "card": "Armaments", "hand": ["Defend", "Defend", "Battle Trance"], "floor": 18, "hp": 66, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 42904, "card": "Defend+", "hand": ["Defend", "Battle Trance", "Combust+"], "floor": 18, "hp": 66, "maxhp": 82, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 44048, "card": "Battle Trance", "hand": ["Strike", "Strike+", "Strike", "Defend", "Feel No Pain", "Blind"], "floor": 18, "hp": 66, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 44340, "card": "Feel No Pain", "hand": ["Strike", "Strike", "Immolate", "Blind"], "floor": 18, "hp": 66, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 44410, "card": "Shockwave", "hand": ["Strike", "Strike+", "Strike", "Defend", "Blind"], "floor": 18, "hp": 66, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 44542, "card": "Defend", "hand": ["Strike", "Strike", "Strike+", "Blind"], "floor": 18, "hp": 66, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 45026, "card": "Battle Trance", "hand": ["Bash", "Defend", "Defend", "Uppercut", "Blind"], "floor": 18, "hp": 65, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 45316, "card": "Uppercut", "hand": ["Defend", "Bash", "Defend", "Strike+", "Impervious", "Blind"], "floor": 18, "hp": 65, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 45412, "card": "Impervious+", "hand": ["Defend", "Bash", "Defend", "Strike+", "Battle Trance", "Blind"], "floor": 18, "hp": 65, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 46248, "card": "Immolate+", "hand": ["Strike", "Defend", "Defend", "Strike+", "Blind"], "floor": 18, "hp": 65, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 46700, "card": "Immolate+", "hand": ["Strike", "Defend+", "Defend", "Combust+", "Uppercut"], "floor": 18, "hp": 65, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 48314, "card": "Battle Trance", "hand": ["Defend", "Pommel Strike"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 48468, "card": "Bash", "hand": ["Defend", "Pommel Strike", "Defend", "Battle Trance"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 48588, "card": "Feel No Pain", "hand": ["Defend", "Pommel Strike", "Defend", "Battle Trance", "Combust+", "Blind"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 49200, "card": "Uppercut", "hand": ["Strike", "Shrug It Off", "Immolate", "Defend"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 49258, "card": "Immolate", "hand": ["Shrug It Off", "Impervious", "Strike+"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 49724, "card": "Pommel Strike", "hand": ["Defend", "Safety", "Armaments", "Strike+", "Battle Trance"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 49834, "card": "Immolate", "hand": ["Defend", "Strike+", "Armaments", "Strike+"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 55466, "card": "Shrug It Off", "hand": ["Impervious", "Feel No Pain", "Ascender's Bane", "Uppercut"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 55632, "card": "Feel No Pain", "hand": ["Impervious", "Uppercut"], "floor": 24, "hp": 77, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 55670, "card": "Shockwave", "hand": ["Impervious", "Uppercut"], "floor": 24, "hp": 77, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 56158, "card": "Flash of Steel", "hand": ["Defend", "Strike+", "True Grit", "Battle Trance"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 56272, "card": "Pommel Strike", "hand": ["Defend", "Strike+", "Immolate", "True Grit", "Battle Trance"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 56434, "card": "Armaments+", "hand": ["Defend", "Immolate", "True Grit", "Battle Trance"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 56508, "card": "Immolate+", "hand": ["True Grit+", "Defend+", "Strike+"], "floor": 24, "hp": 77, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 56622, "card": "True Grit+", "hand": ["Defend+", "Strike+", "Battle Trance+", "Combust+"], "floor": 24, "hp": 77, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 57038, "card": "Battle Trance", "hand": ["Strike+", "Defend"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 57062, "card": "Battle Trance", "hand": ["Strike+", "Defend"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 57230, "card": "Impervious", "hand": ["Strike+", "Bash", "Defend", "Strike+", "Feel No Pain"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 57312, "card": "Bash", "hand": ["Strike+", "Defend", "Feel No Pain"], "floor": 24, "hp": 77, "maxhp": 82, "block": 33, "energy": 4, "v2.0": false}
+{"frame": 57762, "card": "Immolate+", "hand": ["True Grit+", "Flex"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 57800, "card": "Immolate+", "hand": ["True Grit+", "Shrug It Off", "Defend+", "Disarm+"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 58036, "card": "Immolate+", "hand": ["True Grit+", "Shrug It Off", "Defend+", "Defend+"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 58188, "card": "True Grit+", "hand": ["Defend+", "Uppercut", "Shrug It Off", "Armaments+"], "floor": 24, "hp": 77, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 58666, "card": "Immolate+", "hand": ["Bash", "Clash", "Pommel Strike", "Battle Trance+"], "floor": 24, "hp": 75, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 59326, "card": "Battle Trance", "hand": ["Impervious", "Strike+", "Feel No Pain", "Strike+"], "floor": 25, "hp": 81, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 59644, "card": "Feel No Pain+", "hand": ["Strike+", "Strike+", "Pommel Strike+", "Impervious+"], "floor": 25, "hp": 81, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 60610, "card": "Feel No Pain", "hand": ["Bash"], "floor": 25, "hp": 76, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 61090, "card": "Shockwave", "hand": ["Defend", "Bash"], "floor": 25, "hp": 76, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 61594, "card": "Juggernaut", "hand": ["Defend", "Bash", "Defend", "Defend", "Blind"], "floor": 25, "hp": 76, "maxhp": 82, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 61676, "card": "Defend", "hand": ["Defend", "Bash", "Defend", "Blind"], "floor": 25, "hp": 76, "maxhp": 82, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 61932, "card": "Combust+", "hand": ["Defend", "Defend", "Bash", "Blind"], "floor": 25, "hp": 76, "maxhp": 82, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 62434, "card": "Feel No Pain", "hand": ["Immolate", "True Grit", "Flash of Steel", "Shrug It Off", "Blind"], "floor": 25, "hp": 69, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 62482, "card": "Flash of Steel", "hand": ["Immolate", "Shrug It Off", "True Grit"], "floor": 25, "hp": 63, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62614, "card": "Shrug It Off", "hand": ["Immolate", "True Grit", "Uppercut", "Blind"], "floor": 25, "hp": 69, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62748, "card": "True Grit", "hand": ["Immolate", "Uppercut", "Wound"], "floor": 25, "hp": 69, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 63140, "card": "Battle Trance", "hand": ["Armaments+", "Defend", "Strike+", "Wound", "Blind"], "floor": 25, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 63454, "card": "Impervious+", "hand": ["Armaments+", "Defend", "Strike", "Bash", "Wound", "Blind"], "floor": 25, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 63520, "card": "Bash", "hand": ["Armaments+", "Defend", "Strike+", "Wound", "Wound"], "floor": 25, "hp": 68, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 64238, "card": "Pommel Strike+", "hand": ["Defend", "Defend", "Bash", "Strike+", "Battle Trance"], "floor": 25, "hp": 67, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 64362, "card": "Flash of Steel", "hand": ["Defend", "Defend", "Bash", "Shame", "Strike"], "floor": 25, "hp": 67, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 65938, "card": "Bash", "hand": ["Battle Trance", "Defend", "Defend", "Shrug It Off", "Strike", "Wound"], "floor": 25, "hp": 67, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 66336, "card": "Defend", "hand": ["Defend", "Shrug It Off"], "floor": 25, "hp": 67, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 66978, "card": "Strike+", "hand": ["Defend", "True Grit", "Immolate", "Blind"], "floor": 25, "hp": 66, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 67008, "card": "Immolate", "hand": ["Defend", "True Grit", "Wound"], "floor": 25, "hp": 66, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 69390, "card": "Battle Trance", "hand": ["Bash", "Armaments+", "Strike+", "Shockwave"], "floor": 28, "hp": 72, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 69822, "card": "Offering+", "hand": ["Bash", "Defend+", "Shockwave+", "Uppercut+"], "floor": 28, "hp": 72, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 69918, "card": "Shockwave+", "hand": ["Strike+", "Bash", "Defend+", "Uppercut+", "Blind"], "floor": 28, "hp": 66, "maxhp": 82, "block": 5, "energy": 5, "v2.0": false}
+{"frame": 70022, "card": "Defend+", "hand": ["Uppercut+"], "floor": 28, "hp": 66, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 70626, "card": "Battle Trance", "hand": ["Defend", "Strike+", "Combust+", "Impervious", "Blind"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 70912, "card": "Feel No Pain", "hand": ["Defend", "Strike+", "Sentinel", "True Grit+", "Blind"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 70954, "card": "Feel No Pain", "hand": ["Defend", "Strike+", "Impervious", "True Grit+", "Blind"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 70988, "card": "Impervious", "hand": ["Defend", "Strike+", "True Grit+", "Combust+"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 71498, "card": "Shrug It Off", "hand": ["Immolate", "Blind"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 71628, "card": "Flash of Steel", "hand": ["Immolate", "Defend", "Pommel Strike"], "floor": 28, "hp": 64, "maxhp": 82, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 71806, "card": "Shrug It Off", "hand": ["Immolate", "Defend", "Pommel Strike"], "floor": 28, "hp": 64, "maxhp": 82, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 72616, "card": "Armaments+", "hand": ["Strike+", "Defend", "Bash", "Combust+", "Battle Trance", "Blind"], "floor": 28, "hp": 64, "maxhp": 82, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 72726, "card": "Bash+", "hand": ["Strike+", "Defend+", "Battle Trance+", "Combust+", "Blind"], "floor": 28, "hp": 64, "maxhp": 82, "block": 20, "energy": 2, "v2.0": false}
+{"frame": 73302, "card": "Armaments+", "hand": ["Defend+", "Defend", "Immolate", "Bash", "Uppercut+", "Shrug It Off", "Blind"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 73456, "card": "Shrug It Off+", "hand": ["Defend+", "Defend+", "Immolate+", "Bash", "Strike+", "Uppercut+", "Blind"], "floor": 28, "hp": 64, "maxhp": 82, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 73530, "card": "Uppercut+", "hand": ["Defend+", "Defend+", "Immolate+", "Bash+", "Strike+"], "floor": 28, "hp": 64, "maxhp": 82, "block": 11, "energy": 2, "v2.0": false}
+{"frame": 74122, "card": "Flash of Steel", "hand": ["Pommel Strike", "True Grit+", "Strike", "Defend+", "Immolate+"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 74406, "card": "True Grit+", "hand": ["Defend+", "Immolate+", "Pommel Strike"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 74690, "card": "Uppercut+", "hand": ["Pommel Strike", "Defend+", "Immolate+", "Shrug It Off+", "Battle Trance+"], "floor": 28, "hp": 64, "maxhp": 82, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 75348, "card": "Uppercut+", "hand": ["Defend+", "Defend+", "Bash", "Armaments+", "Blind"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 75560, "card": "Battle Trance+", "hand": ["Armaments+", "Defend+", "Defend+", "Bash"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 75642, "card": "Immolate+", "hand": ["Defend", "Bash", "Armaments+", "True Grit+"], "floor": 28, "hp": 64, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 77064, "card": "Armaments+", "hand": ["Defend", "Immolate"], "floor": 29, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 77088, "card": "Armaments+", "hand": ["Defend", "Immolate"], "floor": 29, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 77116, "card": "Armaments+", "hand": ["Defend", "Strike", "Immolate", "Feel No Pain", "Ascender's Bane"], "floor": 29, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 77194, "card": "Feel No Pain+", "hand": ["Defend+", "Strike+", "Immolate+"], "floor": 29, "hp": 70, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 77232, "card": "Immolate+", "hand": ["Defend+", "Strike+"], "floor": 29, "hp": 70, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 77924, "card": "Combust+", "hand": ["Offering", "Defend"], "floor": 29, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 78070, "card": "Bash", "hand": ["Offering", "Impervious", "Defend", "Offering", "Uppercut"], "floor": 29, "hp": 70, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79528, "card": "Shockwave", "hand": ["Strike+", "Shrug It Off", "Shrug It Off", "Feed", "Pommel Strike"], "floor": 29, "hp": 69, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 80072, "card": "Flash of Steel", "hand": ["True Grit+", "Defend+", "Defend", "Shrug It Off", "Defend", "Blind"], "floor": 29, "hp": 42, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 80154, "card": "Battle Trance", "hand": ["Defend+", "Defend", "Defend", "Armaments", "True Grit+", "Blind"], "floor": 29, "hp": 42, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 80294, "card": "Armaments+", "hand": ["Defend+", "Defend", "Shrug It Off", "Deep Breath", "Blind"], "floor": 29, "hp": 42, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 80360, "card": "Immolate+", "hand": ["Defend", "Defend", "Shrug It Off+", "Defend+", "True Grit+", "Battle Trance+", "Blind"], "floor": 29, "hp": 42, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 80516, "card": "True Grit+", "hand": ["Defend+", "Shrug It Off+", "Defend+", "Battle Trance+", "Blind"], "floor": 29, "hp": 42, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 80990, "card": "Uppercut", "hand": ["Strike+", "Shrug It Off", "Pommel Strike", "Offering"], "floor": 29, "hp": 41, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 81902, "card": "Feel No Pain", "hand": ["Shrug It Off", "Shrug It Off"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 81978, "card": "Shockwave", "hand": ["Bash", "Shrug It Off", "Shrug It Off", "Blind"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82524, "card": "Battle Trance", "hand": ["Strike+", "Strike+"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 82684, "card": "Armaments+", "hand": ["Defend", "Strike", "Impervious", "Strike+"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 83728, "card": "Battle Trance", "hand": ["Defend", "True Grit+", "Uppercut"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 84040, "card": "Armaments+", "hand": ["Defend", "Uppercut"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 84112, "card": "Immolate+", "hand": ["Defend+", "Pummel", "True Grit+", "Uppercut+"], "floor": 30, "hp": 47, "maxhp": 82, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 84800, "card": "Bash", "hand": ["Impervious+", "Strike+", "Shame", "Twin Strike+", "Combust+", "Dazed"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 84858, "card": "Strike+", "hand": ["Strike+", "Impervious+", "Combust+"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 84958, "card": "Strike+", "hand": ["Impervious+", "Combust+", "Battle Trance"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 85360, "card": "Shrug It Off", "hand": ["Flash of Steel+", "Offering", "Defend+", "Headbutt", "Defend+"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 86158, "card": "True Grit+", "hand": ["Impervious", "Strike+", "Bash", "Dazed", "Blind"], "floor": 30, "hp": 47, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 86382, "card": "Bash", "hand": ["Strike+", "Impervious+", "Strike+", "Burn"], "floor": 30, "hp": 47, "maxhp": 82, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 86720, "card": "Headbutt", "hand": [], "floor": 30, "hp": 47, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 87212, "card": "Immolate+", "hand": ["Shrug It Off"], "floor": 30, "hp": 17, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 89372, "card": "Offering", "hand": ["Armaments+", "Defend", "Immolate", "Shockwave"], "floor": 33, "hp": 53, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 89808, "card": "Battle Trance", "hand": ["Defend", "Immolate", "Armaments+", "Bash", "Clash", "Blind"], "floor": 33, "hp": 47, "maxhp": 82, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 89996, "card": "Armaments+", "hand": ["Bash", "Shrug It Off", "True Grit"], "floor": 33, "hp": 47, "maxhp": 82, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 90118, "card": "Shockwave+", "hand": ["Shrug It Off+", "True Grit+", "Immolate+", "Flash of Steel+", "Bash"], "floor": 33, "hp": 47, "maxhp": 82, "block": 5, "energy": 5, "v2.0": false}
+{"frame": 90648, "card": "Bash+", "hand": ["Defend+", "Immolate+", "Flash of Steel+", "Shrug It Off+", "True Grit+", "Blind"], "floor": 33, "hp": 47, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 90798, "card": "True Grit+", "hand": ["Defend+", "Shrug It Off+", "Immolate+", "Flash of Steel+", "Ascender's Bane", "Blind"], "floor": 33, "hp": 47, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 91126, "card": "Flash of Steel+", "hand": ["Defend+", "Shrug It Off+", "Ascender's Bane"], "floor": 33, "hp": 47, "maxhp": 82, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 91578, "card": "Battle Trance", "hand": ["Uppercut", "Combust+", "Defend", "Feel No Pain", "Blind"], "floor": 33, "hp": 47, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 92100, "card": "Feel No Pain", "hand": ["Defend", "Impervious", "Strike+", "Uppercut", "Blind"], "floor": 33, "hp": 47, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 92152, "card": "Defend", "hand": ["Impervious", "Strike+", "Pommel Strike", "Uppercut", "Combust+"], "floor": 33, "hp": 47, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92768, "card": "Feel No Pain+", "hand": ["Defend", "Bash", "Impervious", "Shockwave", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 93574, "card": "Shockwave", "hand": ["Shrug It Off", "Bash", "Impervious"], "floor": 33, "hp": -1, "maxhp": -1, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 94402, "card": "Flash of Steel+", "hand": ["Armaments+", "Defend", "Pommel Strike", "Strike+", "Battle Trance", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 94560, "card": "Battle Trance", "hand": ["Armaments+", "Defend", "Pommel Strike", "Defend+", "Shrug It Off", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 94750, "card": "Armaments+", "hand": ["Defend", "Shrug It Off+", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 94912, "card": "Uppercut+", "hand": ["Pommel Strike+", "Defend+", "Shrug It Off+", "Impervious", "Strike", "Blind"], "floor": 33, "hp": 12, "maxhp": 82, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 95054, "card": "Pommel Strike+", "hand": ["Defend+", "Defend+", "Shrug It Off+", "Trip", "Strike+", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 95122, "card": "True Grit+", "hand": ["Strike+", "Defend+", "Defend+", "Shrug It Off+", "Battle Trance+", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 95902, "card": "Flash of Steel+", "hand": ["Bash+", "Shrug It Off", "Defend+", "Blind"], "floor": 33, "hp": 32, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 96122, "card": "Armaments+", "hand": ["Bash+", "Defend+", "Combust+", "Shrug It Off", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 96162, "card": "Shrug It Off+", "hand": ["Bash+", "Defend+", "Combust+"], "floor": 33, "hp": 42, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 96290, "card": "Uppercut+", "hand": ["Bash+", "Defend+", "Combust+"], "floor": 33, "hp": 42, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 96750, "card": "Pommel Strike+", "hand": ["Shrug It Off+", "True Grit+", "Impervious+", "Battle Trance", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 96878, "card": "True Grit+", "hand": ["Shrug It Off+", "Impervious+", "Defend+"], "floor": 33, "hp": 42, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 97160, "card": "Battle Trance+", "hand": ["Shrug It Off+"], "floor": 33, "hp": 42, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 97186, "card": "Battle Trance+", "hand": ["Shrug It Off+", "Impervious+", "Battle Trance", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 97206, "card": "Battle Trance+", "hand": ["Shrug It Off+", "Impervious+", "Battle Trance"], "floor": 33, "hp": 42, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 97242, "card": "Battle Trance+", "hand": ["Shrug It Off+", "Battle Trance", "Impervious+", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 97374, "card": "True Grit+", "hand": ["Shrug It Off+", "Bash", "Impervious+", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 97586, "card": "Flash of Steel+", "hand": ["Shrug It Off+", "Battle Trance", "Impervious+", "Uppercut+", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 32, "energy": 1, "v2.0": false}
+{"frame": 98030, "card": "Shrug It Off+", "hand": ["Armaments+", "Pommel Strike+", "Defend+", "Combust+", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 98172, "card": "Pommel Strike+", "hand": ["Armaments+", "Defend+", "Impervious+", "Clumsy+"], "floor": 33, "hp": 42, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 98278, "card": "Flash of Steel+", "hand": ["Armaments+", "Defend+", "Impervious+", "Combust+", "Battle Trance+", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 98418, "card": "Battle Trance+", "hand": ["Defend+", "Impervious+", "Trip", "Armaments+", "Combust+", "Uppercut+", "Blind"], "floor": 33, "hp": 42, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 98652, "card": "True Grit+", "hand": ["Defend+", "Impervious+", "Shame+"], "floor": 33, "hp": 42, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 98874, "card": "Combust+", "hand": ["Defend", "Shrug It Off+"], "floor": 33, "hp": 42, "maxhp": 82, "block": 2, "energy": 1, "v2.0": false}
+{"frame": 99706, "card": "Shrug It Off+", "hand": ["Shrug It Off+", "Impervious+", "Uppercut+", "Battle Trance"], "floor": 33, "hp": 41, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 99812, "card": "Battle Trance+", "hand": ["Shrug It Off+", "Impervious+", "Uppercut+", "Battle Trance"], "floor": 33, "hp": 41, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 99834, "card": "Battle Trance+", "hand": ["Shrug It Off+", "Impervious+", "True Grit+", "Uppercut+", "Battle Trance"], "floor": 33, "hp": 11, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 99952, "card": "True Grit+", "hand": ["Battle Trance", "Pommel Strike+", "Bash"], "floor": 33, "hp": 41, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 100222, "card": "Uppercut+", "hand": ["Shrug It Off+", "Impervious+", "Pommel Strike+", "Shrug It Off+", "Battle Trance"], "floor": 33, "hp": 41, "maxhp": 82, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 100816, "card": "Flash of Steel+", "hand": ["Shrug It Off+", "True Grit+", "Uppercut+", "Blind"], "floor": 33, "hp": 40, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 100956, "card": "Pommel Strike+", "hand": ["Shrug It Off+", "True Grit+", "Uppercut+", "Battle Trance"], "floor": 33, "hp": 40, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 101206, "card": "True Grit+", "hand": ["Shrug It Off+", "Shrug It Off+", "Uppercut+", "Battle Trance"], "floor": 33, "hp": 40, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 101350, "card": "Battle Trance+", "hand": ["Shrug It Off+", "Shrug It Off+", "Uppercut+", "Impervious+", "Mind Blast"], "floor": 33, "hp": 40, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 101370, "card": "Battle Trance+", "hand": ["Shrug It Off+", "Shrug It Off+", "Impervious+", "Mind Blast"], "floor": 33, "hp": 40, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 101898, "card": "Pommel Strike+", "hand": ["Shrug It Off+", "Shrug It Off+", "True Grit+", "Uppercut+", "Impervious+"], "floor": 33, "hp": 40, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 102488, "card": "Pommel Strike+", "hand": ["Impervious+", "Shrug It Off+", "Uppercut+", "Flash of Steel+"], "floor": 33, "hp": 39, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 102704, "card": "Flash of Steel+", "hand": ["Impervious+", "Shrug It Off+", "True Grit+", "Uppercut+", "Battle Trance+"], "floor": 33, "hp": 39, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 102818, "card": "Shrug It Off+", "hand": ["Impervious+", "True Grit+", "Pommel Strike+", "Battle Trance+"], "floor": 33, "hp": 39, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 102948, "card": "Flash of Steel+", "hand": ["Impervious+", "True Grit+", "Pommel Strike+", "Uppercut+", "Battle Trance+"], "floor": 33, "hp": 39, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 103054, "card": "Shrug It Off+", "hand": ["Impervious+", "True Grit+", "Pommel Strike+", "Uppercut+", "Battle Trance+"], "floor": 33, "hp": 39, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 103256, "card": "Flash of Steel+", "hand": ["True Grit+", "Pommel Strike+", "Uppercut+", "Impervious+", "Battle Trance+"], "floor": 33, "hp": 39, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 103330, "card": "Pummel", "hand": ["True Grit+", "Shrug It Off+", "Uppercut+", "Impervious+", "Battle Trance+"], "floor": 33, "hp": 39, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 103428, "card": "Flash of Steel+", "hand": ["Uppercut+", "Impervious+", "Battle Trance+", "True Grit+", "Shrug It Off+"], "floor": 33, "hp": 39, "maxhp": 82, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 104046, "card": "Pommel Strike+", "hand": ["Impervious+", "Flash of Steel+", "Uppercut+", "Battle Trance+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 104124, "card": "Flash of Steel+", "hand": ["Impervious+", "True Grit+", "Shrug It Off+", "Uppercut+", "Battle Trance+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 104230, "card": "Pommel Strike+", "hand": ["Impervious+", "True Grit+", "Shrug It Off+", "Uppercut+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 104332, "card": "Flash of Steel+", "hand": ["Impervious+", "True Grit+", "Shrug It Off+", "Uppercut+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 104432, "card": "Pommel Strike+", "hand": ["Impervious+", "True Grit+", "Shrug It Off+", "Uppercut+", "Battle Trance+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 104536, "card": "Flash of Steel+", "hand": ["True Grit+", "Shrug It Off+", "Uppercut+", "Impervious+", "Battle Trance+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 104684, "card": "True Grit+", "hand": ["Shrug It Off+", "Pommel Strike+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 105576, "card": "Impervious+", "hand": ["True Grit+", "Pommel Strike+", "Clash+", "Shrug It Off+"], "floor": 33, "hp": 37, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 105858, "card": "Flash of Steel+", "hand": ["True Grit+", "Shrug It Off+", "Uppercut+"], "floor": 33, "hp": 37, "maxhp": 82, "block": 47, "energy": 1, "v2.0": false}
+{"frame": 105956, "card": "Pommel Strike+", "hand": ["True Grit+", "Shrug It Off+", "Uppercut+"], "floor": 33, "hp": 37, "maxhp": 82, "block": 47, "energy": 1, "v2.0": false}
+{"frame": 106044, "card": "Flash of Steel+", "hand": ["True Grit+", "Shrug It Off+", "Uppercut+"], "floor": 33, "hp": 37, "maxhp": 82, "block": 47, "energy": 0, "v2.0": false}
+{"frame": 106486, "card": "Uppercut+", "hand": ["Flash of Steel+", "Shrug It Off+", "True Grit+", "Pommel Strike+", "Blind"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 106586, "card": "Flash of Steel+", "hand": ["Shrug It Off+", "True Grit+", "Pommel Strike+", "Blind"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 106682, "card": "Pommel Strike+", "hand": ["Shrug It Off+", "True Grit+", "Uppercut+", "Blind"], "floor": 33, "hp": 29, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 106780, "card": "Flash of Steel+", "hand": ["Shrug It Off+", "True Grit+", "Uppercut+", "Blind"], "floor": 33, "hp": 29, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 106872, "card": "Pommel Strike+", "hand": ["Shrug It Off+", "True Grit+", "Uppercut+"], "floor": 33, "hp": 29, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 111762, "card": "Armaments+", "hand": ["Shrug It Off", "Defend", "Feel No Pain", "Immolate", "Shockwave"], "floor": 35, "hp": 76, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 111878, "card": "Shockwave+", "hand": ["Immolate+", "Shrug It Off+", "Defend+"], "floor": 35, "hp": 70, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 112000, "card": "Defend+", "hand": ["Immolate+", "Shrug It Off+"], "floor": 35, "hp": 70, "maxhp": 82, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 112052, "card": "Immolate+", "hand": ["Shrug It Off+"], "floor": 35, "hp": 70, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 112400, "card": "Shrug It Off", "hand": ["Offering", "Battle Trance", "Ascender's Bane", "Combust+", "Battle Trance"], "floor": 35, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 112530, "card": "Strike+", "hand": ["Offering", "Ascender's Bane", "Combust+"], "floor": 35, "hp": 70, "maxhp": 82, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 112592, "card": "Bash", "hand": ["Offering", "Battle Trance", "Ascender's Bane", "Combust+"], "floor": 35, "hp": 70, "maxhp": 82, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 112644, "card": "Battle Trance", "hand": ["Ascender's Bane", "Combust+", "Offering", "Battle Trance"], "floor": 35, "hp": 70, "maxhp": 82, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 112784, "card": "Shockwave", "hand": ["Pommel Strike", "Ascender's Bane", "Combust+", "Battle Trance"], "floor": 35, "hp": -1, "maxhp": -1, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 112832, "card": "Pommel Strike", "hand": ["Offering", "Ascender's Bane", "Battle Trance", "Feel No Pain+"], "floor": 35, "hp": 70, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 113256, "card": "Uppercut", "hand": [], "floor": 35, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 115678, "card": "Shockwave", "hand": ["Pommel Strike", "Clash", "Defend", "Battle Trance", "Immolate"], "floor": 36, "hp": 76, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 115944, "card": "Pommel Strike", "hand": ["Flash of Steel", "Defend", "Uppercut"], "floor": 36, "hp": 76, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 116488, "card": "Corruption", "hand": ["Shrug It Off", "True Grit+", "Shockwave", "Feel No Pain+", "Blind"], "floor": 36, "hp": 60, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 116598, "card": "Feel No Pain+", "hand": ["True Grit", "Burn", "Blind"], "floor": 36, "hp": 60, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 116684, "card": "Shrug It Off", "hand": ["True Grit+", "Shrug It Off", "Shockwave", "Ascender's Bane", "Blind"], "floor": 36, "hp": 60, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 116774, "card": "Shockwave", "hand": ["True Grit+", "Shrug It Off", "Ascender's Bane", "Blind"], "floor": 36, "hp": 60, "maxhp": 82, "block": 1, "energy": 2, "v2.0": false}
+{"frame": 116866, "card": "Shrug It Off", "hand": ["Burn", "True Grit+", "Blind"], "floor": 36, "hp": 60, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 117210, "card": "Bash", "hand": ["True Grit+", "Defend", "Battle Trance", "Blind"], "floor": 36, "hp": 60, "maxhp": 82, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 117282, "card": "Defend", "hand": ["True Grit", "Battle Trance", "Blind"], "floor": 36, "hp": 60, "maxhp": 82, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 118078, "card": "Armaments+", "hand": ["Impervious", "Strike+", "Defend", "Combust+", "Blind"], "floor": 36, "hp": 60, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 118174, "card": "Offering+", "hand": ["Impervious+", "Strike+", "Defend+", "Blind"], "floor": 36, "hp": 60, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 118510, "card": "Combust+", "hand": ["Strike", "Defend+", "Defend", "Blind"], "floor": 36, "hp": 54, "maxhp": 82, "block": 13, "energy": 6, "v2.0": false}
+{"frame": 118630, "card": "Defend+", "hand": ["Strike+", "Burn", "Defend", "Blind"], "floor": 36, "hp": 54, "maxhp": 82, "block": 13, "energy": 5, "v2.0": false}
+{"frame": 118758, "card": "Uppercut", "hand": ["Strike", "Impervious+", "Defend", "Burn", "Blind"], "floor": 36, "hp": 54, "maxhp": 82, "block": 25, "energy": 5, "v2.0": false}
+{"frame": 118826, "card": "Defend", "hand": ["Impervious+", "Strike", "Burn", "Blind"], "floor": 36, "hp": 54, "maxhp": 82, "block": 25, "energy": 3, "v2.0": false}
+{"frame": 118920, "card": "Strike+", "hand": ["Impervious+", "Burn", "Burn", "Burn", "Blind"], "floor": 36, "hp": 54, "maxhp": 82, "block": 34, "energy": 3, "v2.0": false}
+{"frame": 119000, "card": "Impervious+", "hand": ["Burn", "Burn", "Burn", "Blind"], "floor": 36, "hp": 54, "maxhp": 82, "block": 34, "energy": 1, "v2.0": false}
+{"frame": 119490, "card": "Pommel Strike", "hand": ["True Grit+", "Bash", "Burn", "Battle Trance", "Feel No Pain", "Flash of Steel", "Blind"], "floor": 36, "hp": 53, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119592, "card": "Battle Trance", "hand": ["Purity", "Bash", "True Grit+", "Blind"], "floor": 36, "hp": 53, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119662, "card": "Immolate", "hand": ["Bash", "Feel No Pain", "Blind"], "floor": 36, "hp": 53, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 123126, "card": "Armaments+", "hand": ["Shrug It Off", "Shrug It Off", "Feel No Pain+", "Flash of Steel"], "floor": 39, "hp": 59, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 123184, "card": "Shrug It Off+", "hand": ["Shrug It Off+", "Feel No Pain+", "Combust+", "Flash of Steel+", "Bash+"], "floor": 39, "hp": 59, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 124018, "card": "Corruption", "hand": ["Defend", "Demon Form", "Battle Trance"], "floor": 39, "hp": 54, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 124140, "card": "Feel No Pain", "hand": [], "floor": 39, "hp": 54, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 124256, "card": "Defend", "hand": ["Pommel Strike", "Defend", "Battle Trance", "Ascender's Bane", "Blind"], "floor": 39, "hp": 54, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 125016, "card": "Armaments+", "hand": ["Defend", "Shockwave", "Battle Trance+"], "floor": 39, "hp": 54, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 125112, "card": "Shockwave+", "hand": ["Trip", "Defend+"], "floor": 39, "hp": 54, "maxhp": 82, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 125232, "card": "Battle Trance+", "hand": ["Defend+"], "floor": 39, "hp": 54, "maxhp": 82, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 125450, "card": "Immolate", "hand": ["Defend+", "Shrug It Off+"], "floor": 39, "hp": 54, "maxhp": 82, "block": 26, "energy": 3, "v2.0": false}
+{"frame": 125870, "card": "Uppercut+", "hand": ["Defend+", "Offering", "Shrug It Off+", "Clash", "True Grit+", "Flame Barrier+"], "floor": 39, "hp": 54, "maxhp": 82, "block": 33, "energy": 1, "v2.0": false}
+{"frame": 126056, "card": "Flame Barrier+", "hand": ["Defend+", "Offering", "Shrug It Off+"], "floor": 39, "hp": 54, "maxhp": 82, "block": 33, "energy": 0, "v2.0": false}
+{"frame": 126836, "card": "Burning Pact", "hand": ["Battle Trance", "Shrug It Off+", "Impervious"], "floor": 39, "hp": 54, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 126928, "card": "Burning Pact", "hand": ["Shrug It Off+", "Impervious", "Bash+", "Battle Trance", "Defend"], "floor": 39, "hp": 54, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 127068, "card": "Shrug It Off+", "hand": ["Shrug It Off+", "Defend", "Impervious", "Bash+", "Offering", "Battle Trance+"], "floor": 39, "hp": 54, "maxhp": 82, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 127150, "card": "Shrug It Off+", "hand": ["Defend", "Impervious", "Bash+", "Offering"], "floor": 39, "hp": 54, "maxhp": 82, "block": 32, "energy": 4, "v2.0": false}
+{"frame": 127236, "card": "Bash+", "hand": ["Defend", "Impervious", "Offering", "Defend+", "Battle Trance"], "floor": 39, "hp": 54, "maxhp": 82, "block": 50, "energy": 4, "v2.0": false}
+{"frame": 127276, "card": "Battle Trance", "hand": ["Defend", "Impervious", "Defend+"], "floor": 39, "hp": 54, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 127434, "card": "Flash of Steel+", "hand": ["Impervious", "Offering", "Defend+", "Defend"], "floor": 39, "hp": 54, "maxhp": 82, "block": 57, "energy": 4, "v2.0": false}
+{"frame": 127500, "card": "True Grit+", "hand": ["Defend", "Impervious", "Offering", "Defend"], "floor": 39, "hp": 54, "maxhp": 82, "block": 57, "energy": 1, "v2.0": false}
+{"frame": 129060, "card": "Feel No Pain+", "hand": ["Defend", "Shrug It Off", "Impervious", "Blind"], "floor": 40, "hp": 60, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 129292, "card": "Shockwave", "hand": ["Defend", "Shrug It Off"], "floor": 40, "hp": 60, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 129312, "card": "Shockwave", "hand": ["Defend", "Shrug It Off", "Impervious"], "floor": 40, "hp": 60, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 129364, "card": "Shockwave", "hand": ["Defend", "Shrug It Off", "Impervious", "Blind"], "floor": 40, "hp": 60, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 129940, "card": "Uppercut", "hand": ["Impervious", "Flash of Steel", "Defend"], "floor": 40, "hp": 60, "maxhp": 82, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 131084, "card": "Shockwave", "hand": ["Shrug It Off", "Armaments+", "Pommel Strike"], "floor": 40, "hp": 58, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 131326, "card": "Armaments+", "hand": ["Shrug It Off", "Immolate", "Pummel"], "floor": 40, "hp": 58, "maxhp": 82, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 131448, "card": "Shrug It Off+", "hand": ["Bash+", "Pommel Strike", "Combust+", "Immolate+", "Blind"], "floor": 40, "hp": 58, "maxhp": 82, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 131626, "card": "Immolate+", "hand": ["Pommel Strike+", "Combust+", "Blind"], "floor": 40, "hp": 58, "maxhp": 82, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 131882, "card": "Battle Trance+", "hand": ["Bash+", "Pommel Strike+", "Flame Barrier", "Combust+", "Feel No Pain+", "Blind"], "floor": 40, "hp": 58, "maxhp": 82, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 132036, "card": "Bash+", "hand": ["Pommel Strike+", "True Grit+", "Combust+", "Feel No Pain+", "Blind"], "floor": 40, "hp": -1, "maxhp": -1, "block": 32, "energy": 2, "v2.0": false}
+{"frame": 132614, "card": "Shrug It Off", "hand": ["Offering", "Defend", "Immolate+", "True Grit+", "Ascender's Bane"], "floor": 40, "hp": 58, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 132712, "card": "Defend", "hand": ["Offering", "Immolate+", "True Grit+"], "floor": 40, "hp": 58, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 132794, "card": "Immolate+", "hand": ["Offering", "True Grit"], "floor": 40, "hp": 58, "maxhp": 82, "block": 29, "energy": 2, "v2.0": false}
+{"frame": 133200, "card": "Defend", "hand": ["Impervious", "Pommel Strike+", "Flash of Steel"], "floor": 40, "hp": 58, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 133354, "card": "Burning Pact", "hand": ["Impervious", "Pommel Strike+", "Defend", "Flash of Steel"], "floor": 40, "hp": 58, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 133482, "card": "Battle Trance", "hand": ["Impervious", "Pommel Strike+", "Defend", "Flash of Steel", "Wound"], "floor": 40, "hp": 58, "maxhp": 82, "block": 29, "energy": 4, "v2.0": false}
+{"frame": 133572, "card": "Uppercut", "hand": ["Pommel Strike+", "Defend", "Shame", "Impervious", "Wound", "Blind"], "floor": 40, "hp": 58, "maxhp": 82, "block": 37, "energy": 4, "v2.0": false}
+{"frame": 133726, "card": "Pommel Strike+", "hand": ["Impervious", "Defend", "Flash of Steel", "Blind"], "floor": 40, "hp": -1, "maxhp": -1, "block": 37, "energy": 2, "v2.0": false}
+{"frame": 133802, "card": "Flame Barrier", "hand": ["Defend"], "floor": 40, "hp": 58, "maxhp": 82, "block": 37, "energy": 1, "v2.0": false}
+{"frame": 134302, "card": "Uppercut", "hand": ["Bash+", "Offering", "Impervious", "Pommel Strike+", "Blind"], "floor": 40, "hp": 58, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 134404, "card": "Pommel Strike+", "hand": [], "floor": 40, "hp": 58, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 135834, "card": "Shockwave", "hand": ["Defend", "Defend", "Brutality+", "Flash of Steel", "Blind"], "floor": 42, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 135930, "card": "Dark Embrace+", "hand": ["Flash of Steel", "Combust+", "Defend", "Battle Trance", "Blind"], "floor": 42, "hp": 64, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 136422, "card": "Shrug It Off", "hand": ["Shrug It Off", "Bash", "Blind"], "floor": 42, "hp": 64, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 136606, "card": "Feel No Pain+", "hand": ["Flame Barrier+"], "floor": 42, "hp": 64, "maxhp": 82, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 136870, "card": "Battle Trance", "hand": ["Shrug It Off", "Flame Barrier", "Burning Pact", "Uppercut", "Blind"], "floor": 42, "hp": 64, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 137034, "card": "Corruption", "hand": ["Flash of Steel"], "floor": 42, "hp": 64, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 137128, "card": "Feel No Pain", "hand": ["Shrug It Off"], "floor": 42, "hp": 64, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 137188, "card": "Shockwave", "hand": ["Shrug It Off", "Flame Barrier", "True Grit+", "Burning Pact", "Blind"], "floor": 42, "hp": 64, "maxhp": 82, "block": 8, "energy": 0, "v2.0": false}
+{"frame": 138346, "card": "Combust+", "hand": ["Armaments+", "Immolate", "Impervious", "Offering", "Blind"], "floor": 42, "hp": 64, "maxhp": 82, "block": 18, "energy": 5, "v2.0": false}
+{"frame": 138552, "card": "Armaments+", "hand": ["Offering", "Immolate", "Pommel Strike", "Impervious", "Defend"], "floor": 42, "hp": 64, "maxhp": 82, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 138704, "card": "Flash of Steel+", "hand": ["Offering+", "Immolate+", "Defend+", "Pommel Strike+", "Impervious+"], "floor": 42, "hp": 64, "maxhp": 82, "block": 30, "energy": 4, "v2.0": false}
+{"frame": 138968, "card": "Pommel Strike+", "hand": ["Offering+", "Immolate+", "Defend+", "Impervious+"], "floor": 42, "hp": 64, "maxhp": 82, "block": 30, "energy": 4, "v2.0": false}
+{"frame": 139092, "card": "Immolate+", "hand": ["True Grit+", "Burn"], "floor": 42, "hp": 64, "maxhp": 82, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 139412, "card": "Battle Trance", "hand": ["Offering+", "Defend+", "Impervious+", "True Grit+", "Shrug It Off"], "floor": 42, "hp": 64, "maxhp": 82, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 139508, "card": "Bash", "hand": ["Defend+", "Impervious+", "True Grit+", "Shrug It Off", "Offering+", "Blind"], "floor": 42, "hp": 64, "maxhp": 82, "block": 37, "energy": 2, "v2.0": false}
+{"frame": 139990, "card": "Shrug It Off", "hand": ["Defend", "Battle Trance+", "Body Slam+"], "floor": 42, "hp": 63, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 140142, "card": "Defend", "hand": ["Defend", "Immolate+", "Battle Trance+", "Flame Barrier"], "floor": 42, "hp": 63, "maxhp": 82, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 140296, "card": "Defend", "hand": ["Immolate+", "Smite", "Flame Barrier", "Pommel Strike+"], "floor": 42, "hp": 63, "maxhp": 82, "block": 27, "energy": 4, "v2.0": false}
+{"frame": 140418, "card": "Pommel Strike+", "hand": ["Immolate+", "Offering+", "Impervious+", "Burn", "Battle Trance+", "Flame Barrier", "Burn"], "floor": 42, "hp": 63, "maxhp": 82, "block": 39, "energy": 4, "v2.0": false}
+{"frame": 140524, "card": "Burning Pact", "hand": ["Immolate+", "Offering+", "Uppercut"], "floor": 42, "hp": 63, "maxhp": 82, "block": 39, "energy": 4, "v2.0": false}
+{"frame": 140598, "card": "Burning Pact+", "hand": ["Impervious+", "Offering+", "Uppercut", "Bash"], "floor": 42, "hp": 63, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 140864, "card": "Uppercut", "hand": ["Offering+", "Impervious+", "Bash", "True Grit+", "Battle Trance"], "floor": 42, "hp": 63, "maxhp": 82, "block": 53, "energy": 4, "v2.0": false}
+{"frame": 140912, "card": "Immolate+", "hand": ["Offering+", "Impervious+", "Bash", "True Grit+"], "floor": 42, "hp": 63, "maxhp": 82, "block": 53, "energy": 3, "v2.0": false}
+{"frame": 140936, "card": "Immolate+", "hand": ["Impervious+", "Bash", "True Grit+", "The Bomb"], "floor": 42, "hp": 63, "maxhp": 82, "block": 53, "energy": 3, "v2.0": false}
+{"frame": 141818, "card": "Shrug It Off", "hand": ["Offering+", "Immolate+", "Battle Trance", "Flash of Steel+", "Purity"], "floor": 42, "hp": 62, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 141930, "card": "Impervious+", "hand": ["Offering+", "Immolate+", "Battle Trance", "Flash of Steel+", "Bash"], "floor": 42, "hp": 62, "maxhp": 82, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 142058, "card": "True Grit+", "hand": ["Offering+", "Immolate+", "Pommel Strike+", "Flash of Steel+", "Battle Trance"], "floor": 42, "hp": 62, "maxhp": 82, "block": 62, "energy": 4, "v2.0": false}
+{"frame": 142252, "card": "Flame Barrier", "hand": ["Offering+", "Immolate+", "Pommel Strike+"], "floor": 42, "hp": 62, "maxhp": 82, "block": 85, "energy": 4, "v2.0": false}
+{"frame": 142558, "card": "Immolate+", "hand": ["Bash", "Pommel Strike+"], "floor": 42, "hp": 62, "maxhp": 82, "block": 119, "energy": 4, "v2.0": false}
+{"frame": 142666, "card": "Flash of Steel+", "hand": ["Offering+", "Bash", "Pommel Strike+", "Battle Trance"], "floor": 42, "hp": 62, "maxhp": 82, "block": 119, "energy": 4, "v2.0": false}
+{"frame": 142764, "card": "Bash", "hand": ["Offering+", "Pommel Strike+", "Immolate+", "Battle Trance", "Uppercut"], "floor": 42, "hp": 62, "maxhp": 82, "block": 119, "energy": 4, "v2.0": false}
+{"frame": 142802, "card": "Immolate+", "hand": ["Offering+", "Pommel Strike+", "Uppercut"], "floor": 42, "hp": 62, "maxhp": 82, "block": 119, "energy": 4, "v2.0": false}
+{"frame": 144020, "card": "Corruption", "hand": ["Defend", "Offering", "Immolate", "Defend"], "floor": 44, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144100, "card": "Offering", "hand": [], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 144416, "card": "Flash of Steel", "hand": ["Immolate", "Defend", "Shrug It Off", "True Grit+", "Defend", "Blind"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144522, "card": "Immolate", "hand": ["Bash", "Shrug It Off", "True Grit+", "Inflame", "Blind"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144650, "card": "Shrug It Off", "hand": ["Defend", "Defend", "Battle Trance"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 144824, "card": "Armaments+", "hand": ["Defend", "Defend", "True Grit+", "Battle Trance"], "floor": 44, "hp": 62, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 144940, "card": "Battle Trance+", "hand": ["Defend+", "Defend+", "True Grit+", "Ascender's Bane"], "floor": 44, "hp": 62, "maxhp": 82, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 145110, "card": "Feel No Pain", "hand": ["Impervious", "Defend+", "True Grit+", "Flame Barrier+"], "floor": 44, "hp": 62, "maxhp": 82, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 145168, "card": "Shockwave", "hand": ["Defend+", "True Grit+", "Impervious", "Burn", "Defend+", "Flame Barrier+"], "floor": 44, "hp": 62, "maxhp": 82, "block": 13, "energy": 0, "v2.0": false}
+{"frame": 145914, "card": "Dark Embrace+", "hand": ["Pommel Strike", "Bash"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 145982, "card": "Shrug It Off", "hand": ["Pommel Strike", "Battle Trance"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 146094, "card": "Shockwave", "hand": ["Pommel Strike", "Bash", "Defend", "Battle Trance", "Combust+"], "floor": 44, "hp": 62, "maxhp": 82, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 146248, "card": "Defend", "hand": ["Pommel Strike", "Bash", "Battle Trance", "Combust+", "Uppercut"], "floor": 44, "hp": 62, "maxhp": 82, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 146516, "card": "Burning Pact", "hand": ["Pommel Strike", "Bash", "Battle Trance", "Uppercut"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 146972, "card": "Uppercut", "hand": ["Bash", "Impervious", "Pommel Strike", "Battle Trance", "Wound"], "floor": 44, "hp": 62, "maxhp": 82, "block": 48, "energy": 1, "v2.0": false}
+{"frame": 147124, "card": "Bash", "hand": ["Pommel Strike", "Impervious", "Battle Trance", "Wound"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 147888, "card": "Immolate", "hand": ["True Grit+", "Defend+", "Defend+"], "floor": 44, "hp": 62, "maxhp": 82, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 148348, "card": "True Grit+", "hand": ["Defend+", "Flame Barrier+", "Defend+"], "floor": 44, "hp": 62, "maxhp": 82, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 148560, "card": "Pommel Strike", "hand": ["Defend+", "Defend+", "Flame Barrier+", "Flash of Steel"], "floor": 44, "hp": 62, "maxhp": 82, "block": 41, "energy": 4, "v2.0": false}
+{"frame": 149146, "card": "Immolate", "hand": ["Impervious", "Defend+"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 149348, "card": "Pommel Strike", "hand": ["Impervious", "Defend+", "Defend+"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 149446, "card": "Flame Barrier+", "hand": ["Impervious", "Defend+"], "floor": 44, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 149562, "card": "Defend+", "hand": ["Impervious", "Defend", "Battle Trance", "Wound"], "floor": 44, "hp": 62, "maxhp": 82, "block": 23, "energy": 3, "v2.0": false}
+{"frame": 149700, "card": "Bash", "hand": ["Impervious", "Defend+", "Battle Trance"], "floor": 44, "hp": 62, "maxhp": 82, "block": 38, "energy": 3, "v2.0": false}
+{"frame": 153438, "card": "Corruption", "hand": ["Defend", "Shrug It Off"], "floor": 45, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 153526, "card": "Shrug It Off", "hand": [], "floor": 45, "hp": 68, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 153872, "card": "Burning Pact", "hand": ["Battle Trance", "Defend", "Ghostly Armor"], "floor": 45, "hp": 68, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 153942, "card": "Burning Pact", "hand": ["Defend", "Battle Trance+", "Ghostly Armor"], "floor": 45, "hp": 68, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 154044, "card": "Shrug It Off", "hand": ["Defend"], "floor": 45, "hp": 68, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 154148, "card": "Battle Trance", "hand": ["Defend", "Armaments+", "Combust+"], "floor": 45, "hp": 68, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 154272, "card": "Dark Embrace+", "hand": ["Defend+"], "floor": 45, "hp": 68, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 154312, "card": "Armaments+", "hand": ["Defend", "Defend", "Ascender's Bane", "Armaments+", "Combust+", "Bash"], "floor": 45, "hp": 68, "maxhp": 82, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 154504, "card": "Defend+", "hand": ["Defend+", "Ascender's Bane"], "floor": 45, "hp": 68, "maxhp": 82, "block": 21, "energy": 0, "v2.0": false}
+{"frame": 155136, "card": "Feel No Pain", "hand": ["Offering", "Flame Barrier", "Entrench"], "floor": 45, "hp": 68, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 155188, "card": "Shockwave", "hand": ["Defend", "Pommel Strike", "Immolate", "Flame Barrier", "Entrench"], "floor": 45, "hp": 6, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 155448, "card": "Immolate", "hand": ["Defend", "Impervious"], "floor": 45, "hp": 68, "maxhp": 82, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 155550, "card": "Shockwave", "hand": ["Pommel Strike", "Impervious"], "floor": 45, "hp": 6, "maxhp": 82, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 155694, "card": "Pommel Strike", "hand": ["Offering", "Defend", "Impervious"], "floor": 45, "hp": 68, "maxhp": 82, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 155810, "card": "Uppercut", "hand": ["Offering", "Flash of Steel", "Defend", "Impervious", "Burn"], "floor": 45, "hp": 68, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 155880, "card": "Flash of Steel", "hand": ["Offering", "Defend", "Impervious", "True Grit+", "Flame Barrier", "Entrench"], "floor": 45, "hp": 68, "maxhp": 82, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 155940, "card": "Defend", "hand": ["Flame Barrier", "Impervious", "True Grit+"], "floor": 45, "hp": 68, "maxhp": 82, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 156114, "card": "Pommel Strike", "hand": [], "floor": 45, "hp": -1, "maxhp": -1, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 157742, "card": "Corruption", "hand": ["Bash", "Flash of Steel", "Armaments+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 157840, "card": "Armaments+", "hand": ["Bash", "Impervious"], "floor": 47, "hp": 74, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 158056, "card": "Bash+", "hand": ["Impervious+", "Battle Trance+", "Flash of Steel+", "Dropkick+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 158098, "card": "Flash of Steel+", "hand": ["Impervious+", "Battle Trance+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 158186, "card": "Shockwave", "hand": ["Impervious+", "Dropkick+", "Battle Trance+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 158262, "card": "Battle Trance+", "hand": ["Impervious+", "Dropkick+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 158286, "card": "Battle Trance+", "hand": ["Impervious+", "Dropkick+", "Pommel Strike"], "floor": 47, "hp": 74, "maxhp": 78, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 158396, "card": "Ghostly Armor", "hand": ["Impervious+", "Defend", "Dropkick+", "Combust+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 159216, "card": "Shockwave", "hand": ["Immolate", "True Grit+", "Shrug It Off", "Defend", "Uppercut"], "floor": 47, "hp": 74, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 159850, "card": "Feel No Pain+", "hand": ["Defend", "Shrug It Off", "Burning Pact"], "floor": 47, "hp": 74, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 159898, "card": "Dark Embrace+", "hand": ["Defend", "Shrug It Off", "Offering", "Flame Barrier", "Exhume"], "floor": 47, "hp": 74, "maxhp": 78, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 159938, "card": "Feel No Pain", "hand": ["Defend", "Shrug It Off", "Offering"], "floor": 47, "hp": 74, "maxhp": 78, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 160080, "card": "Immolate", "hand": ["Defend", "Shrug It Off", "Flame Barrier+", "Battle Trance"], "floor": 47, "hp": 74, "maxhp": 78, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 160204, "card": "Shrug It Off", "hand": ["Defend", "Flame Barrier+", "Bite"], "floor": 47, "hp": 74, "maxhp": 78, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 160348, "card": "Dropkick+", "hand": ["Defend", "Offering", "Flame Barrier+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 33, "energy": 3, "v2.0": false}
+{"frame": 160462, "card": "Defend", "hand": ["Offering", "Burning Pact", "Battle Trance"], "floor": 47, "hp": 74, "maxhp": 78, "block": 33, "energy": 4, "v2.0": false}
+{"frame": 160980, "card": "Burning Pact", "hand": ["Battle Trance", "Offering", "Burn"], "floor": 47, "hp": 74, "maxhp": 78, "block": 45, "energy": 4, "v2.0": false}
+{"frame": 161044, "card": "Burning Pact", "hand": ["Offering", "Flame Barrier+", "Battle Trance", "Combust+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 161162, "card": "Bash+", "hand": ["Offering", "Pommel Strike", "Flame Barrier+", "Combust+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 59, "energy": 4, "v2.0": false}
+{"frame": 161350, "card": "Uppercut", "hand": ["Offering", "Pommel Strike", "Shrug It Off", "Flame Barrier+", "Battle Trance", "Combust+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 59, "energy": 4, "v2.0": false}
+{"frame": 161544, "card": "Pommel Strike", "hand": ["Offering", "Shrug It Off", "Flame Barrier+", "Battle Trance", "Combust+"], "floor": 47, "hp": 74, "maxhp": 78, "block": 59, "energy": 3, "v2.0": false}
+{"frame": 161630, "card": "Combust+", "hand": ["Offering", "Shame", "Defend", "Flame Barrier+", "Battle Trance+", "Burn"], "floor": 47, "hp": 74, "maxhp": 78, "block": 59, "energy": 1, "v2.0": false}
+{"frame": 162160, "card": "Defend", "hand": ["True Grit+", "Burn", "Flash of Steel+", "Blind"], "floor": 47, "hp": 73, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 163274, "card": "Dropkick+", "hand": ["Shrug It Off", "Defend", "Bash+", "Battle Trance", "Offering", "Burn"], "floor": 47, "hp": 72, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 163432, "card": "Immolate", "hand": ["Shrug It Off", "Defend", "Bite", "Offering"], "floor": 47, "hp": 72, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 164746, "card": "Dark Embrace+", "hand": ["Defend", "Bash", "Blood for Blood+", "Battle Trance", "Burning Pact"], "floor": 48, "hp": 78, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 165408, "card": "Feel No Pain", "hand": ["Flame Barrier", "Offering", "Shrug It Off"], "floor": 48, "hp": 78, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 165692, "card": "Immolate", "hand": ["Defend", "Offering", "Shrug It Off", "Flame Barrier", "Ghostly Armor"], "floor": 48, "hp": 78, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 165806, "card": "Combust+", "hand": ["Ghostly Armor", "Offering", "Shrug It Off", "Evolve"], "floor": 48, "hp": 78, "maxhp": 78, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 166544, "card": "Corruption", "hand": ["Defend", "Pommel Strike"], "floor": 48, "hp": 77, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 167196, "card": "Shockwave", "hand": ["Defend+", "Armaments+", "Pommel Strike", "Impervious"], "floor": 48, "hp": 77, "maxhp": 78, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 167448, "card": "Armaments+", "hand": ["True Grit", "Pommel Strike", "Impervious", "Defend"], "floor": 48, "hp": 77, "maxhp": 78, "block": 25, "energy": 1, "v2.0": false}
+{"frame": 168122, "card": "Shrug It Off", "hand": ["Shame", "Defend", "Immolate", "Uppercut"], "floor": 48, "hp": 76, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 168436, "card": "Bash", "hand": ["Defend", "Immolate", "Battle Trance", "Uppercut"], "floor": 48, "hp": 76, "maxhp": 78, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 168494, "card": "Blood for Blood+", "hand": ["Defend", "Shame", "Uppercut"], "floor": 48, "hp": 76, "maxhp": 78, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 169196, "card": "Burning Pact", "hand": ["Shame", "Bash", "Offering", "Slimed"], "floor": 48, "hp": 75, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 169290, "card": "Burning Pact", "hand": ["Shame+"], "floor": 48, "hp": 75, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 169570, "card": "Dropkick+", "hand": ["Slimed", "Offering", "Shame", "Pommel Strike+"], "floor": 48, "hp": 75, "maxhp": 78, "block": 21, "energy": 4, "v2.0": false}
+{"frame": 169694, "card": "Slimed", "hand": ["Offering", "Pommel Strike+", "Bash", "Shame"], "floor": 48, "hp": 75, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 169788, "card": "Slimed", "hand": ["Pommel Strike+", "Bash", "True Grit+", "Burn", "Slimed"], "floor": 48, "hp": 75, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 169938, "card": "True Grit+", "hand": ["Pummel+", "Bash", "Offering", "Slimed", "Uppercut"], "floor": 48, "hp": 75, "maxhp": 78, "block": 35, "energy": 5, "v2.0": false}
+{"frame": 171152, "card": "Shrug It Off", "hand": ["Shame", "Battle Trance", "Pommel Strike+", "Bash", "Shame", "Impervious+"], "floor": 48, "hp": 75, "maxhp": 78, "block": 65, "energy": 5, "v2.0": false}
+{"frame": 171270, "card": "Defend", "hand": ["Slimed", "Battle Trance", "Pommel Strike+", "Bash", "Shame"], "floor": 48, "hp": 75, "maxhp": 78, "block": 78, "energy": 5, "v2.0": false}
+{"frame": 171430, "card": "Slimed", "hand": ["Slimed", "Battle Trance", "Pummel", "Bash", "Impervious+"], "floor": 48, "hp": 75, "maxhp": 78, "block": 88, "energy": 5, "v2.0": false}
+{"frame": 171568, "card": "Immolate", "hand": ["Shame", "Battle Trance", "Pommel Strike+", "Bash", "Impervious+", "Battle Trance"], "floor": 48, "hp": 75, "maxhp": 78, "block": 95, "energy": 4, "v2.0": false}
+{"frame": 171808, "card": "Battle Trance", "hand": ["Shame", "Impervious+", "Pommel Strike", "Bash"], "floor": 48, "hp": 75, "maxhp": 78, "block": 95, "energy": 1, "v2.0": false}
+{"frame": 172108, "card": "Blood for Blood+", "hand": [], "floor": 48, "hp": 75, "maxhp": 78, "block": 102, "energy": 1, "v2.0": false}
+{"frame": 176868, "card": "Shrug It Off", "hand": ["Bash", "Shockwave", "Battle Trance", "Blind"], "floor": 50, "hp": 78, "maxhp": 78, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 177018, "card": "Flame Barrier", "hand": [], "floor": 50, "hp": 78, "maxhp": 78, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 177040, "card": "Flame Barrier", "hand": [], "floor": 50, "hp": 78, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 177832, "card": "Feel No Pain+", "hand": ["Defend", "Offering", "Defend", "Feel No Pain+", "Battle Trance", "Blind"], "floor": 50, "hp": 77, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 178060, "card": "Uppercut", "hand": ["Offering", "Defend", "Defend", "Entrench"], "floor": 50, "hp": 77, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 178120, "card": "Offering", "hand": ["Defend", "Battle Trance", "Blind"], "floor": 50, "hp": 77, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 178292, "card": "Dropkick+", "hand": ["Defend", "Shrug It Off", "Defend", "Blind"], "floor": 50, "hp": 71, "maxhp": 78, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 178556, "card": "Dark Embrace+", "hand": ["Defend", "Shrug It Off", "Defend", "Blind"], "floor": 50, "hp": 71, "maxhp": 78, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 178614, "card": "Shockwave", "hand": ["Defend", "Shame", "Defend", "Battle Trance", "Blind"], "floor": 50, "hp": 71, "maxhp": 78, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 179548, "card": "Corruption", "hand": ["Armaments+", "True Grit+", "Defend", "Pommel Strike", "Blind"], "floor": 50, "hp": 1, "maxhp": 78, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 179668, "card": "Defend", "hand": ["True Grit+", "Impervious", "Armaments+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 179806, "card": "Dropkick+", "hand": ["Armaments+", "True Grit+", "Impervious", "Defend", "Pommel Strike"], "floor": 50, "hp": 71, "maxhp": 78, "block": 31, "energy": 2, "v2.0": false}
+{"frame": 181078, "card": "Flash of Steel", "hand": ["Defend", "Bash", "Shrug It Off", "Battle Trance", "Battle Trance"], "floor": 50, "hp": 71, "maxhp": 78, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 182422, "card": "Armaments+", "hand": ["Pommel Strike", "Dazed", "Burning Pact"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 182696, "card": "Uppercut", "hand": ["Defend+", "Defend+", "Pommel Strike+", "Bash+", "Shrug It Off+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 13, "energy": 5, "v2.0": false}
+{"frame": 182756, "card": "Pommel Strike+", "hand": ["Defend+", "Defend+", "Shrug It Off+", "Battle Trance+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 13, "energy": 5, "v2.0": false}
+{"frame": 182852, "card": "Flame Barrier", "hand": ["Defend+", "Defend+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 13, "energy": 5, "v2.0": false}
+{"frame": 183238, "card": "Blood for Blood+", "hand": ["Defend+", "Bash+", "Shrug It Off+", "Burning Pact+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 49, "energy": 5, "v2.0": false}
+{"frame": 183282, "card": "Bash+", "hand": ["Defend+", "Shrug It Off+", "Burning Pact+", "Battle Trance+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 49, "energy": 2, "v2.0": false}
+{"frame": 184324, "card": "Dropkick+", "hand": ["Impervious", "Bash+", "Battle Trance", "Combust+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 25, "energy": 2, "v2.0": false}
+{"frame": 184428, "card": "Bash+", "hand": ["Impervious", "Battle Trance", "Combust+", "Dazed", "Dazed"], "floor": 50, "hp": 71, "maxhp": 78, "block": 25, "energy": 2, "v2.0": false}
+{"frame": 185238, "card": "Bash+", "hand": ["Shrug It Off+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 185474, "card": "Uppercut", "hand": ["Shrug It Off+", "Defend+", "Pommel Strike+", "Burning Pact+", "Blood for Blood+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 185532, "card": "Shrug It Off+", "hand": ["Pommel Strike+", "Defend+", "Burning Pact+", "Blind"], "floor": 50, "hp": 71, "maxhp": 78, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 185644, "card": "Defend+", "hand": ["Pommel Strike+", "Burning Pact+", "Flash of Steel", "Battle Trance"], "floor": 50, "hp": 71, "maxhp": 78, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 185798, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Burning Pact+", "Battle Trance+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 35, "energy": 1, "v2.0": false}
+{"frame": 186384, "card": "Dropkick+", "hand": ["Burn", "Pommel Strike+", "Uppercut", "Blind"], "floor": 50, "hp": 71, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 186502, "card": "Pommel Strike+", "hand": ["Burn", "Uppercut", "Blind"], "floor": 50, "hp": 71, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 186596, "card": "Blood for Blood+", "hand": ["Burn", "Uppercut", "Burn", "Dazed", "Blind"], "floor": 50, "hp": 71, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 186878, "card": "Bash+", "hand": ["Impervious", "Immolate", "Uppercut", "Battle Trance+"], "floor": 50, "hp": 71, "maxhp": 78, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 186938, "card": "Immolate", "hand": ["Combust"], "floor": 50, "hp": 71, "maxhp": 78, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 187912, "card": "Corruption", "hand": ["Pommel Strike", "Dropkick+", "Dark Embrace+"], "floor": 51, "hp": 77, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 189454, "card": "Feel No Pain+", "hand": ["Armaments+", "Defend", "Immolate", "Flash of Steel"], "floor": 51, "hp": 77, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 189518, "card": "Feel No Pain+", "hand": ["Armaments+", "Pummel", "Offering"], "floor": 51, "hp": 77, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 189584, "card": "Armaments+", "hand": ["Immolate", "Flash of Steel", "Decay"], "floor": 51, "hp": 77, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 189688, "card": "Flame Barrier+", "hand": ["Defend+", "Immolate+", "True Grit+"], "floor": 51, "hp": 77, "maxhp": 78, "block": 11, "energy": 4, "v2.0": false}
+{"frame": 190624, "card": "Shockwave", "hand": ["Defend", "Shrug It Off", "Impervious", "Bash"], "floor": 51, "hp": 77, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 190726, "card": "Bash", "hand": ["Defend", "Shrug It Off", "Impervious", "Battle Trance"], "floor": 51, "hp": 77, "maxhp": 78, "block": 26, "energy": 5, "v2.0": false}
+{"frame": 191822, "card": "Dark Embrace+", "hand": ["Exhume"], "floor": 51, "hp": 77, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 191864, "card": "Uppercut+", "hand": ["Defend", "Flash of Steel+", "Shrug It Off+", "Burning Pact"], "floor": 51, "hp": 77, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 192404, "card": "Shrug It Off", "hand": ["True Grit", "Immolate+", "Decay"], "floor": 51, "hp": 77, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 192690, "card": "True Grit+", "hand": ["Immolate+", "Offering+", "Battle Trance"], "floor": 51, "hp": 77, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 194064, "card": "Bash+", "hand": ["Defend+", "Defend", "Offering+"], "floor": 51, "hp": 76, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 194124, "card": "Uppercut+", "hand": ["Defend+", "Defend", "Defend", "Flash of Steel+", "Burning Pact"], "floor": 51, "hp": 76, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 194182, "card": "Defend+", "hand": ["Defend", "Offering+", "Flash of Steel+", "Burning Pact+"], "floor": 51, "hp": 76, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 194322, "card": "Immolate+", "hand": ["Defend", "Defend"], "floor": 51, "hp": 76, "maxhp": 78, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 194568, "card": "Pommel Strike+", "hand": ["Defend", "Offering+"], "floor": 51, "hp": 76, "maxhp": 78, "block": 29, "energy": 3, "v2.0": false}
+{"frame": 194812, "card": "Slimed", "hand": ["Defend", "Offering+"], "floor": 51, "hp": 76, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 195116, "card": "Slimed", "hand": ["Defend", "Offering+"], "floor": 51, "hp": 76, "maxhp": 78, "block": 37, "energy": 0, "v2.0": false}
+{"frame": 195900, "card": "Dropkick+", "hand": ["Impervious", "Flash of Steel+", "Pommel Strike", "Shockwave", "Shrug It Off"], "floor": 51, "hp": 75, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 196012, "card": "Pommel Strike+", "hand": ["Impervious"], "floor": 51, "hp": 75, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 196114, "card": "Shrug It Off", "hand": ["Impervious", "Flash of Steel+", "Shockwave"], "floor": 51, "hp": 75, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 196296, "card": "Uppercut+", "hand": ["Warcry", "Flash of Steel+", "Burning Pact", "Immolate+"], "floor": 51, "hp": 75, "maxhp": 78, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 197530, "card": "Shockwave", "hand": ["Immolate+", "Impervious", "Bash"], "floor": 51, "hp": 63, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 198036, "card": "Bash+", "hand": ["Immolate+", "Impervious", "Dropkick+"], "floor": 51, "hp": 63, "maxhp": 78, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 198160, "card": "Blood for Blood+", "hand": ["Immolate+", "Impervious", "Offering+", "Defend"], "floor": 51, "hp": 63, "maxhp": 78, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 198986, "card": "Impervious", "hand": ["Defend"], "floor": 51, "hp": 62, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 199212, "card": "Immolate+", "hand": ["Offering+"], "floor": 51, "hp": 62, "maxhp": 78, "block": 30, "energy": 4, "v2.0": false}
+{"frame": 199370, "card": "Dropkick+", "hand": ["Battle Trance", "Defend", "Uppercut", "Burn"], "floor": 51, "hp": 62, "maxhp": 78, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 199538, "card": "Blood for Blood+", "hand": ["Pommel Strike", "Defend", "Offering+"], "floor": 51, "hp": 62, "maxhp": 78, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 199596, "card": "Burning Pact", "hand": [], "floor": 51, "hp": 62, "maxhp": 78, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 199840, "card": "Blood for Blood+", "hand": ["Pommel Strike", "Defend", "Offering+", "Bash"], "floor": 51, "hp": 62, "maxhp": 78, "block": 46, "energy": 2, "v2.0": false}
+{"frame": 200246, "card": "Dropkick+", "hand": ["Defend", "Offering+"], "floor": 51, "hp": 62, "maxhp": 78, "block": 46, "energy": 2, "v2.0": false}
+{"frame": 200390, "card": "Immolate+", "hand": [], "floor": 51, "hp": 62, "maxhp": 78, "block": 46, "energy": 1, "v2.0": false}
+{"frame": 200416, "card": "Immolate+", "hand": ["Defend", "Offering+", "Uppercut", "Pommel Strike", "Battle Trance"], "floor": 51, "hp": 62, "maxhp": 78, "block": 46, "energy": 1, "v2.0": false}
+{"frame": 200550, "card": "Battle Trance", "hand": ["Offering+", "Pommel Strike", "Defend"], "floor": 51, "hp": 62, "maxhp": 78, "block": 46, "energy": 1, "v2.0": false}
+{"frame": 201240, "card": "Dropkick+", "hand": ["Defend", "Pommel Strike", "Shame", "Burn", "Uppercut"], "floor": 51, "hp": 61, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 201336, "card": "Uppercut+", "hand": ["Defend", "Pommel Strike", "Slimed", "Immolate+", "Burn"], "floor": 51, "hp": 61, "maxhp": 78, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 201546, "card": "Immolate+", "hand": ["Defend", "Pummel", "Shame", "Burn"], "floor": 51, "hp": 61, "maxhp": 78, "block": 0, "energy": 5, "v2.0": false}
+done

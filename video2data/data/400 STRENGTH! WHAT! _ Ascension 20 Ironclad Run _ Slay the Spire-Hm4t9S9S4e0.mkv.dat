@@ -1,0 +1,605 @@
+{"frame": 2390, "card": "Defend", "hand": ["Defend", "Strike", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2480, "card": "Strike", "hand": ["Defend", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 2850, "card": "Bash", "hand": ["Strike", "Strike", "Strike"], "floor": 1, "hp": 66, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2882, "card": "Strike", "hand": ["Strike", "Ascender's Bane", "Strike"], "floor": 1, "hp": 66, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 3506, "card": "Strike", "hand": ["Defend", "Defend", "Bash"], "floor": 1, "hp": 66, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3534, "card": "Strike", "hand": ["Defend", "Defend", "Bash"], "floor": 1, "hp": 66, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3804, "card": "Strike", "hand": ["Strike", "Defend", "Strike", "Defend"], "floor": 1, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3836, "card": "Strike", "hand": [], "floor": 1, "hp": 54, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 4528, "card": "Bash", "hand": ["Strike", "Strike", "Defend"], "floor": 2, "hp": 60, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 4562, "card": "Strike", "hand": ["Strike", "Ascender's Bane", "Defend"], "floor": 2, "hp": 60, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 4816, "card": "Strike", "hand": ["Strike", "Strike", "Defend", "Defend"], "floor": 2, "hp": 60, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 4868, "card": "Strike", "hand": ["Strike", "Defend", "Defend"], "floor": 2, "hp": 60, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5092, "card": "Defend", "hand": ["Strike", "Defend"], "floor": 2, "hp": 60, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5662, "card": "Defend", "hand": ["Thunderclap", "Defend", "Strike"], "floor": 2, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5694, "card": "Defend", "hand": ["Thunderclap", "Bash", "Strike"], "floor": 2, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5960, "card": "Strike", "hand": ["Defend", "Defend", "Writhe"], "floor": 2, "hp": 58, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5986, "card": "Strike", "hand": [], "floor": 2, "hp": 58, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 6702, "card": "Anger", "hand": ["Strike", "Defend", "Strike"], "floor": 4, "hp": 64, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6740, "card": "Strike", "hand": ["Defend", "Strike"], "floor": 4, "hp": 64, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6766, "card": "Strike", "hand": ["Defend"], "floor": 4, "hp": 64, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 6790, "card": "Strike", "hand": ["Defend"], "floor": 4, "hp": 64, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 7188, "card": "Bash", "hand": ["Strike", "Thunderclap", "Defend", "Ascender's Bane"], "floor": 4, "hp": 64, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 7232, "card": "Strike", "hand": [], "floor": 4, "hp": 64, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 10366, "card": "Flash of Steel", "hand": ["Strike", "Defend", "Defend", "Defend"], "floor": 6, "hp": 68, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10890, "card": "Thunderclap", "hand": ["Defend", "Defend", "Strike", "Strike", "Strike"], "floor": 6, "hp": 68, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 11160, "card": "Strike", "hand": ["Defend", "Defend", "Defend", "Strike", "Strike", "Strike"], "floor": 6, "hp": 68, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 11304, "card": "Carnage", "hand": ["Defend", "Defend", "Strike", "Strike", "Defend", "Strike"], "floor": 6, "hp": 68, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 11950, "card": "Anger", "hand": ["Defend", "Bash", "Defend", "Strike"], "floor": 6, "hp": 58, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12108, "card": "Bash", "hand": ["Defend", "Defend"], "floor": 6, "hp": 58, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12136, "card": "Defend", "hand": ["Defend"], "floor": 6, "hp": 58, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 12524, "card": "Flash of Steel", "hand": ["Strike", "Defend", "Dazed"], "floor": 6, "hp": 53, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12630, "card": "Strike", "hand": ["Defend", "Dazed", "Dazed"], "floor": 6, "hp": 53, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13034, "card": "Thunderclap", "hand": ["Strike", "Dazed"], "floor": 6, "hp": 43, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13148, "card": "Defend", "hand": ["Strike", "Dazed"], "floor": 6, "hp": 43, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13662, "card": "Carnage", "hand": ["Strike", "Strike", "Dazed", "Dazed"], "floor": 6, "hp": 38, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13936, "card": "Bash", "hand": ["Defend", "Defend", "Dazed", "Dazed"], "floor": 6, "hp": 28, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14250, "card": "Flash of Steel+", "hand": ["Defend", "Strike", "Dazed", "Dazed"], "floor": 6, "hp": 28, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14324, "card": "Defend", "hand": ["Strike", "Anger", "Dazed"], "floor": 6, "hp": 28, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14364, "card": "Anger", "hand": ["Strike", "Dazed"], "floor": 6, "hp": 28, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 14706, "card": "Anger", "hand": ["Defend", "Dazed", "Dazed", "Dazed"], "floor": 6, "hp": 23, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15024, "card": "Strike", "hand": [], "floor": 6, "hp": 23, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 17564, "card": "Bash", "hand": ["Defend", "Anger", "Strike", "Feel No Pain"], "floor": 7, "hp": 29, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 17648, "card": "Anger", "hand": ["Defend", "Strike", "Feel No Pain"], "floor": 7, "hp": 29, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 18402, "card": "Defend", "hand": ["Feel No Pain"], "floor": 7, "hp": 29, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 18808, "card": "Thunderclap", "hand": ["Defend", "Strike"], "floor": 7, "hp": 19, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18882, "card": "Strike", "hand": ["Defend", "Strike", "Strike"], "floor": 7, "hp": 19, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 18922, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 7, "hp": 19, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 19450, "card": "Carnage", "hand": ["Defend", "Defend", "Flash of Steel"], "floor": 7, "hp": 19, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 19540, "card": "Defend", "hand": ["Defend", "Flash of Steel", "Ascender's Bane"], "floor": 7, "hp": 19, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 19962, "card": "Defend", "hand": ["Anger", "Defend", "Thunderclap", "Strike"], "floor": 7, "hp": 19, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20028, "card": "Defend", "hand": ["Anger", "Thunderclap", "Strike"], "floor": 7, "hp": 19, "maxhp": 68, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 20206, "card": "Anger", "hand": ["Thunderclap", "Pride"], "floor": 7, "hp": 19, "maxhp": 68, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 20254, "card": "Strike", "hand": ["Thunderclap"], "floor": 7, "hp": 19, "maxhp": 68, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 20492, "card": "Flash of Steel+", "hand": ["Strike", "Strike", "Defend", "Feel No Pain"], "floor": 7, "hp": 19, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20530, "card": "Strike", "hand": ["Strike", "Defend", "Strike", "Feel No Pain"], "floor": 7, "hp": 19, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20594, "card": "Strike", "hand": [], "floor": 7, "hp": 15, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 22762, "card": "Bash", "hand": ["Flash of Steel", "Anger", "Strike", "Carnage"], "floor": 11, "hp": 34, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22834, "card": "Flash of Steel", "hand": ["Anger", "Strike", "Carnage"], "floor": 11, "hp": 34, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 22900, "card": "Anger", "hand": ["Strike", "Strike", "Carnage"], "floor": 11, "hp": 34, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 23342, "card": "Defend", "hand": ["Defend", "Thunderclap", "Inflame", "Feel No Pain"], "floor": 11, "hp": 23, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23390, "card": "Defend", "hand": ["Thunderclap", "Inflame", "Feel No Pain"], "floor": 11, "hp": 23, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 23428, "card": "Thunderclap", "hand": ["Inflame", "Feel No Pain"], "floor": 11, "hp": 23, "maxhp": 68, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 23690, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 11, "hp": 22, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23720, "card": "Strike", "hand": [], "floor": 11, "hp": 22, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 29196, "card": "Disarm", "hand": ["Defend", "Defend", "Defend", "True Grit"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29226, "card": "True Grit", "hand": ["Defend", "Defend", "Defend"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 29856, "card": "Feel No Pain", "hand": ["Defend"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29972, "card": "Bash", "hand": ["Defend", "Thunderclap", "Flash of Steel", "Anger", "Ascender's Bane"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 30438, "card": "Inflame", "hand": ["Flex", "True Grit", "Defend", "Bash", "Anger", "Strike"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 30600, "card": "Bash", "hand": ["Strike", "Defend", "True Grit", "Defend", "Anger"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 30678, "card": "Anger", "hand": ["Strike", "Strike", "Defend", "True Grit", "Defend"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 31220, "card": "Flash of Steel", "hand": ["Defend", "Thunderclap", "True Grit", "Strike", "Anger", "Bash", "Anger"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31360, "card": "Anger", "hand": ["Thunderclap", "True Grit", "Strike", "Bash", "Anger", "Strike", "Defend"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31422, "card": "Anger", "hand": ["Defend", "Thunderclap", "True Grit", "Strike", "Bash", "Strike"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31914, "card": "Strike", "hand": ["Defend", "Thunderclap", "True Grit", "Bash", "Strike"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31978, "card": "Defend", "hand": ["Thunderclap", "Bash", "Strike", "True Grit"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 32014, "card": "True Grit", "hand": ["Thunderclap", "Strike"], "floor": 14, "hp": 37, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 32382, "card": "Defend", "hand": ["Defend", "Anger", "Anger", "Bash"], "floor": 14, "hp": 34, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32442, "card": "Defend", "hand": ["Anger", "Bash"], "floor": 14, "hp": 34, "maxhp": 68, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 32494, "card": "Defend", "hand": ["Anger", "Anger", "Bash"], "floor": 14, "hp": 34, "maxhp": 68, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 32572, "card": "Anger", "hand": ["Anger", "Bash"], "floor": 14, "hp": 34, "maxhp": 68, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 32998, "card": "Flash of Steel", "hand": ["Anger", "Anger", "Strike", "True Grit", "Defend", "Anger", "Strike"], "floor": 14, "hp": 26, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33082, "card": "Anger", "hand": ["Anger", "Strike", "True Grit", "Defend", "Anger", "Anger", "Strike"], "floor": 14, "hp": 26, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33118, "card": "Anger", "hand": ["Strike", "Strike", "True Grit", "Defend", "Anger", "Anger"], "floor": 14, "hp": 26, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33158, "card": "Anger", "hand": ["Strike", "Strike", "True Grit", "Defend"], "floor": 14, "hp": 26, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33198, "card": "Anger", "hand": ["Defend"], "floor": 14, "hp": 26, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33236, "card": "Strike", "hand": [], "floor": 14, "hp": 26, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37014, "card": "Flash of Steel", "hand": ["Anger", "Defend", "Strike", "Feel No Pain"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37164, "card": "Feel No Pain", "hand": ["Anger", "Strike", "Disarm"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37368, "card": "Anger", "hand": ["Defend", "Strike", "Disarm"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 37782, "card": "Inflame+", "hand": ["Feed", "Thunderclap", "True Grit", "Defend"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37954, "card": "Bash", "hand": ["True Grit", "Defend", "Feed", "Thunderclap", "Defend", "Ascender's Bane"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 38460, "card": "Carnage", "hand": ["Defend", "Anger", "Defend", "Slimed", "Anger", "Shame"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38650, "card": "Anger", "hand": ["Strike", "Defend", "Slimed", "Anger", "Defend", "Slimed"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 38870, "card": "Strike", "hand": ["Anger", "Defend", "Defend", "Shame"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 39862, "card": "Thunderclap", "hand": ["Shame", "Bash", "Defend", "Clash", "Strike"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 39982, "card": "Flash of Steel", "hand": ["Strike", "Slimed", "Bash", "Defend", "True Grit"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 40140, "card": "Bash", "hand": ["Strike", "Slimed", "Defend", "True Grit", "Slimed"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 41776, "card": "Bash", "hand": ["Feed", "Slimed", "Defend", "Strike", "Thunderclap", "Defend", "True Grit"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 42152, "card": "Strike", "hand": ["Defend", "Feed", "Slimed", "Defend", "Thunderclap", "True Grit"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 42224, "card": "Feed", "hand": ["Defend", "Slimed+", "Defend", "Thunderclap", "True Grit"], "floor": 16, "hp": 41, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 42754, "card": "Carnage", "hand": ["Anger", "Slimed", "Strike", "Anger", "Anger", "Shame"], "floor": 16, "hp": 29, "maxhp": 71, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 42944, "card": "Strike", "hand": ["Anger", "Anger", "Anger", "Defend"], "floor": 16, "hp": 29, "maxhp": 7, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 43402, "card": "Thunderclap", "hand": ["Slimed", "Defend", "Disarm", "Flash of Steel", "Entrench"], "floor": 16, "hp": 29, "maxhp": 71, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 43472, "card": "Flash of Steel", "hand": ["Defend", "Slimed", "Slimed", "Anger", "Defend"], "floor": 16, "hp": 29, "maxhp": 71, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 43600, "card": "Anger", "hand": ["Defend", "Shame", "Slimed", "Defend", "Strike"], "floor": 16, "hp": 29, "maxhp": 71, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 43752, "card": "Strike", "hand": [], "floor": 16, "hp": 29, "maxhp": 71, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 48030, "card": "Inflame+", "hand": ["Limit Break", "Carnage"], "floor": 18, "hp": 62, "maxhp": 71, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 48122, "card": "Limit Break", "hand": ["Carnage", "Disarm"], "floor": 18, "hp": 62, "maxhp": 71, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 48272, "card": "Carnage", "hand": ["Feel No Pain", "Disarm"], "floor": 18, "hp": 62, "maxhp": 71, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 48616, "card": "Flash of Steel", "hand": ["Strike", "Defend", "True Grit", "Defend", "Defend", "Feed"], "floor": 18, "hp": 62, "maxhp": 71, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 48734, "card": "Thunderclap", "hand": ["Defend", "True Grit", "Defend", "Feed"], "floor": 18, "hp": 62, "maxhp": 71, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 48756, "card": "Thunderclap", "hand": ["Defend", "True Grit", "Defend", "Feed", "Strike"], "floor": 18, "hp": 62, "maxhp": 71, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 48848, "card": "Strike", "hand": ["Defend", "True Grit", "Defend", "Defend", "Feed", "Ascender's Bane"], "floor": 18, "hp": 62, "maxhp": 71, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 49392, "card": "Bash", "hand": ["Defend", "Strike", "Anger", "Defend", "Feed", "Strike"], "floor": 18, "hp": 62, "maxhp": 71, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 49470, "card": "Feed", "hand": ["Defend", "Strike", "Anger", "Defend", "Strike"], "floor": 18, "hp": 62, "maxhp": 71, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 58506, "card": "Feel No Pain", "hand": ["Bash", "Limit Break"], "floor": 21, "hp": 74, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 58654, "card": "Bash", "hand": ["Limit Break", "Defend+"], "floor": 21, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58700, "card": "Discovery", "hand": ["Ascender's Bane", "Limit Break"], "floor": 21, "hp": 74, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 59178, "card": "Inflame+", "hand": ["Defend+", "Defend+", "Defend+", "Carnage"], "floor": 21, "hp": 74, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 59358, "card": "Thunderclap", "hand": ["Defend+", "Defend+", "Defend+", "Carnage", "Whirlwind"], "floor": 21, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 59454, "card": "Defend+", "hand": ["Feed", "Defend+"], "floor": 21, "hp": 74, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 59908, "card": "Disarm", "hand": ["Strike+", "Anger", "True Grit", "Bash", "Defend+", "Defend+"], "floor": 21, "hp": 74, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 60050, "card": "Defend+", "hand": ["Strike+", "Anger", "True Grit", "Bash", "Defend+"], "floor": 21, "hp": 74, "maxhp": 74, "block": 37, "energy": 3, "v2.0": false}
+{"frame": 60296, "card": "Flash of Steel", "hand": ["Strike+", "Anger", "True Grit", "Bash", "Defend+"], "floor": 21, "hp": 74, "maxhp": 74, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 60392, "card": "Anger", "hand": ["Strike+", "True Grit", "Bash", "Defend+", "Defend+"], "floor": 21, "hp": 74, "maxhp": 74, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 60844, "card": "Strike+", "hand": ["Defend+", "Defend+", "Defend+"], "floor": 21, "hp": 74, "maxhp": 74, "block": 17, "energy": 1, "v2.0": false}
+{"frame": 61306, "card": "Limit Break", "hand": ["Thunderclap", "Feed", "Whirlwind", "Anger"], "floor": 21, "hp": 73, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 61378, "card": "Thunderclap", "hand": ["Feed", "Anger", "Whirlwind"], "floor": 21, "hp": 73, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 61520, "card": "Anger", "hand": ["Feed", "Whirlwind"], "floor": 21, "hp": 73, "maxhp": 74, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 62658, "card": "Feed", "hand": ["Whirlwind"], "floor": 21, "hp": 73, "maxhp": 74, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 64290, "card": "Carnage", "hand": ["Strike+", "True Grit", "Feel No Pain"], "floor": 23, "hp": 77, "maxhp": 77, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 64812, "card": "True Grit", "hand": ["Strike+", "Feel No Pain"], "floor": 23, "hp": 77, "maxhp": 77, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 65472, "card": "Flash of Steel", "hand": ["Defend+", "Bash", "Feed", "Defend+", "Anger", "Defend+", "Whirlwind"], "floor": 23, "hp": 64, "maxhp": 77, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 66056, "card": "Limit Break", "hand": ["Bash", "Feed", "Anger", "Defend+", "Whirlwind"], "floor": 23, "hp": 64, "maxhp": 77, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 66178, "card": "Anger", "hand": ["Defend+", "Defend+", "Bash", "Feed", "Defend+"], "floor": 23, "hp": 64, "maxhp": 77, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 66258, "card": "Feed", "hand": ["Defend+", "Defend+", "Bash", "Defend+", "Whirlwind"], "floor": 23, "hp": 64, "maxhp": 77, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 66496, "card": "Defend+", "hand": ["Defend+", "Defend+", "Whirlwind"], "floor": 23, "hp": 67, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 66824, "card": "Feel No Pain", "hand": ["Defend+", "Disarm", "Ascender's Bane", "Wound"], "floor": 23, "hp": 67, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 66868, "card": "Disarm", "hand": ["Defend+", "Ascender's Bane", "Wound"], "floor": 23, "hp": 67, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 67300, "card": "Carnage", "hand": ["Anger", "True Grit", "Defend+", "Strike", "Wound", "Wound"], "floor": 23, "hp": 67, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 67528, "card": "Strike+", "hand": ["Anger", "True Grit", "Defend+", "Wound", "Wound"], "floor": 23, "hp": 67, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 67788, "card": "Defend+", "hand": ["Anger", "True Grit", "Anger", "Wound"], "floor": 23, "hp": 67, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 68272, "card": "Defend+", "hand": ["Thunderclap", "Defend", "Whirlwind", "Bash", "Clash"], "floor": 23, "hp": 67, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 68326, "card": "Defend+", "hand": ["Thunderclap", "Whirlwind", "Flash of Steel", "Wound"], "floor": 23, "hp": 67, "maxhp": 80, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 69068, "card": "Flash of Steel+", "hand": ["Bash", "Thunderclap", "Carnage", "Wound", "Wound"], "floor": 23, "hp": 67, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 69172, "card": "Defend+", "hand": ["Bash", "Thunderclap", "Carnage"], "floor": 23, "hp": 67, "maxhp": 80, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 69240, "card": "Thunderclap", "hand": ["Bash", "Carnage+", "Wound"], "floor": 23, "hp": 67, "maxhp": 80, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 72944, "card": "Flash of Steel", "hand": ["Defend+", "Bash", "Limit Break"], "floor": 25, "hp": 80, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 73314, "card": "Bash", "hand": ["Defend+", "Limit Break", "Defend+", "Carnage"], "floor": 25, "hp": 80, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 73436, "card": "Defend+", "hand": ["Defend+", "Limit Break", "Carnage+"], "floor": 25, "hp": 80, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 74230, "card": "Feel No Pain", "hand": ["Fiend Fire", "True Grit", "Defend", "Strike", "Feed+"], "floor": 25, "hp": 78, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 74398, "card": "Disarm", "hand": ["Fiend Fire", "True Grit", "Defend+", "Anger", "Strike+"], "floor": 25, "hp": 78, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 74500, "card": "True Grit", "hand": ["Strike+", "Defend+", "Fiend Fire", "Anger", "Feed"], "floor": 25, "hp": 78, "maxhp": 80, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 75324, "card": "Inflame+", "hand": ["Feed+", "Thunderclap", "Whirlwind"], "floor": 25, "hp": 78, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 75464, "card": "Flash of Steel", "hand": ["Fiend Fire", "Feed+", "Ascender's Bane", "Whirlwind"], "floor": 25, "hp": 78, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 76198, "card": "Fiend Fire", "hand": ["Thunderclap", "Whirlwind", "Feed+", "Limit Break"], "floor": 25, "hp": 78, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 76782, "card": "Bash", "hand": ["True Grit", "Defend+", "Defend+", "Defend+", "Anger", "Defend+"], "floor": 25, "hp": 78, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 76866, "card": "Anger", "hand": ["Defend+", "True Grit", "Defend+", "Defend+", "Defend+"], "floor": 25, "hp": 78, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 76946, "card": "True Grit", "hand": ["Defend", "Defend", "Defend+", "Defend+", "Wound"], "floor": 25, "hp": 78, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 77050, "card": "Defend+", "hand": ["Defend+", "Defend+", "Wound"], "floor": 25, "hp": 78, "maxhp": 80, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 77468, "card": "Flash of Steel", "hand": ["Bash", "Defend+", "Anger", "Defend+"], "floor": 25, "hp": 74, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 77562, "card": "Anger", "hand": ["Bash", "Defend+", "Defend+", "Defend+", "Anger"], "floor": 25, "hp": 74, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 77706, "card": "Defend+", "hand": ["Bash", "Defend+", "Defend+", "Anger"], "floor": 25, "hp": 74, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 77744, "card": "Defend+", "hand": ["Bash", "Defend+", "Anger"], "floor": 25, "hp": 74, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 77820, "card": "Anger", "hand": [], "floor": 25, "hp": 74, "maxhp": 80, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 82626, "card": "Whirlwind", "hand": ["Strike+", "Feed", "Anger"], "floor": 28, "hp": 80, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 83620, "card": "Inflame+", "hand": ["Thunderclap", "Defend+", "Defend"], "floor": 28, "hp": 80, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 83648, "card": "Inflame+", "hand": ["Thunderclap", "Dazed", "Bash", "Defend", "Battle Trance", "Defend"], "floor": 28, "hp": 80, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 83974, "card": "Limit Break", "hand": ["Thunderclap", "Bash", "Defend+", "Battle Trance"], "floor": 28, "hp": 80, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 84118, "card": "Bash", "hand": ["Thunderclap", "Defend+", "Defend+", "Defend+", "Battle Trance"], "floor": 28, "hp": 80, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 84746, "card": "Feel No Pain", "hand": ["Thunderclap", "Carnage", "Feel No Pain", "Flash of Steel"], "floor": 28, "hp": 68, "maxhp": 80, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 84922, "card": "Feel No Pain", "hand": ["True Grit", "Thunderclap", "Dazed+", "Carnage", "Ascender's Bane", "Flash of Steel"], "floor": 28, "hp": 68, "maxhp": 80, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 85204, "card": "True Grit", "hand": ["Thunderclap", "Defend+", "Carnage", "Flash of Steel"], "floor": 28, "hp": 68, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 86206, "card": "Bash", "hand": ["Defend+", "Anger", "Disarm"], "floor": 28, "hp": 68, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 86280, "card": "Anger", "hand": ["Defend+", "Defend+", "Disarm", "Battle Trance"], "floor": 28, "hp": 68, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 86368, "card": "Defend+", "hand": ["Defend+", "Whirlwind", "Anger"], "floor": 28, "hp": 68, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 86410, "card": "Defend+", "hand": ["Anger", "Whirlwind", "Battle Trance"], "floor": 28, "hp": 68, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 86572, "card": "Anger", "hand": ["Whirlwind", "Disarm", "Battle Trance"], "floor": 28, "hp": 68, "maxhp": 80, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 86848, "card": "Feed+", "hand": ["Fiend Fire", "Defend+", "Strike+", "Bash"], "floor": 28, "hp": 68, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 87930, "card": "Feel No Pain", "hand": ["True Grit"], "floor": 29, "hp": 78, "maxhp": 84, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 88046, "card": "Feel No Pain", "hand": ["True Grit", "Anger", "Disarm", "Battle Trance"], "floor": 29, "hp": 78, "maxhp": 84, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 88580, "card": "Flash of Steel", "hand": ["True Grit", "Anger", "Disarm", "Battle Trance"], "floor": 29, "hp": 78, "maxhp": 84, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 88804, "card": "Battle Trance", "hand": ["True Grit", "Feed+"], "floor": 29, "hp": 78, "maxhp": 84, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 88860, "card": "Battle Trance", "hand": ["True Grit", "Anger", "Feed+", "Disarm"], "floor": 29, "hp": 78, "maxhp": 84, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 89214, "card": "Anger", "hand": ["True Grit", "Feed+", "Defend+", "Defend+", "Bash", "Disarm"], "floor": 29, "hp": 78, "maxhp": 84, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 89410, "card": "Bash", "hand": ["True Grit", "Feed+", "Defend+", "Defend+", "Disarm"], "floor": 29, "hp": 78, "maxhp": 84, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 89696, "card": "Feed+", "hand": ["True Grit", "Defend+", "Defend+", "Disarm"], "floor": 29, "hp": 78, "maxhp": 84, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 89760, "card": "True Grit", "hand": ["Defend+", "Defend+", "Disarm"], "floor": 29, "hp": 78, "maxhp": 84, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 90886, "card": "Disarm", "hand": ["Fiend Fire", "Strike+", "Whirlwind", "Carnage"], "floor": 29, "hp": 62, "maxhp": 84, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 91154, "card": "Strike+", "hand": ["Fiend Fire", "Whirlwind", "Carnage"], "floor": 29, "hp": 62, "maxhp": 84, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 91322, "card": "Fiend Fire", "hand": ["Rage", "Wound"], "floor": 29, "hp": 62, "maxhp": 84, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 91966, "card": "Inflame+", "hand": ["Thunderclap", "Limit Break", "Strike+"], "floor": 29, "hp": 61, "maxhp": 84, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 91998, "card": "Inflame+", "hand": ["Thunderclap", "Feel No Pain", "Defend", "Limit Break"], "floor": 29, "hp": 61, "maxhp": 84, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 92228, "card": "Feel No Pain", "hand": ["Dazed", "Thunderclap", "Defend+", "Limit Break", "Strike+", "Disarm"], "floor": 29, "hp": 61, "maxhp": 84, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 92296, "card": "Limit Break", "hand": ["Defend+", "Thunderclap", "Defend+"], "floor": 29, "hp": 61, "maxhp": 84, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 93416, "card": "Bash", "hand": ["Defend+", "Wound", "Wound", "Flash of Steel", "Wound"], "floor": 29, "hp": 56, "maxhp": 84, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 93476, "card": "Flash of Steel+", "hand": ["Defend+", "Wound", "Wound", "Wound", "Battle Trance"], "floor": 29, "hp": 56, "maxhp": 84, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 93554, "card": "Battle Trance", "hand": ["Wound"], "floor": 29, "hp": 56, "maxhp": 84, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 93682, "card": "Anger", "hand": ["Defend+", "True Grit", "Wound", "Wound"], "floor": 29, "hp": 56, "maxhp": 84, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 93724, "card": "Defend+", "hand": ["True Grit", "Wound", "Wound", "Wound", "Wound", "Wound"], "floor": 29, "hp": 56, "maxhp": 84, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 93764, "card": "True Grit", "hand": ["Wound", "Wound", "Wound"], "floor": 29, "hp": 56, "maxhp": 84, "block": 11, "energy": 1, "v2.0": false}
+{"frame": 94342, "card": "Flash of Steel", "hand": ["Anger", "Bash", "Wound"], "floor": 29, "hp": 56, "maxhp": 84, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 94422, "card": "Bash", "hand": ["Anger", "Wound", "Wound"], "floor": 29, "hp": 56, "maxhp": 84, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 94540, "card": "Anger", "hand": ["Strike+", "Wound", "Wound"], "floor": 29, "hp": 56, "maxhp": 84, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 95902, "card": "Flash of Steel", "hand": ["Strike+", "Inflame+", "Carnage", "Feel No Pain"], "floor": 30, "hp": 51, "maxhp": 84, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 96000, "card": "Feel No Pain", "hand": ["Strike+", "Defend+"], "floor": 30, "hp": 51, "maxhp": 84, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 96344, "card": "Inflame+", "hand": ["Strike+", "Carnage"], "floor": 30, "hp": 51, "maxhp": 84, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 97098, "card": "Defend+", "hand": ["Fiend Fire", "Anger", "Defend+"], "floor": 30, "hp": 38, "maxhp": 84, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 97236, "card": "Fiend Fire", "hand": ["Anger", "Defend+", "Bash"], "floor": 30, "hp": 38, "maxhp": 84, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 97392, "card": "Disarm", "hand": [], "floor": 30, "hp": 38, "maxhp": 84, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 97796, "card": "Feel No Pain", "hand": [], "floor": 30, "hp": 38, "maxhp": 84, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 97814, "card": "Feel No Pain", "hand": ["Thunderclap"], "floor": 30, "hp": 38, "maxhp": 84, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 98186, "card": "Disarm", "hand": ["Thunderclap", "True Grit", "Feel No Pain", "Whirlwind", "Defend+", "Feel No Pain"], "floor": 30, "hp": 38, "maxhp": 84, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 98348, "card": "Whirlwind", "hand": ["Thunderclap", "Feed"], "floor": 30, "hp": 38, "maxhp": 84, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 99214, "card": "Feed+", "hand": ["Limit Break", "Defend+", "Defend+", "Thunderclap"], "floor": 30, "hp": 38, "maxhp": 84, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 104682, "card": "Feel No Pain", "hand": ["Strike+", "Defend+", "Feel No Pain", "Disarm"], "floor": 31, "hp": 48, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 104730, "card": "Feel No Pain", "hand": ["Defend+", "Strike+", "Disarm"], "floor": 31, "hp": 48, "maxhp": 88, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 104788, "card": "Disarm", "hand": ["Defend+", "Strike+"], "floor": 31, "hp": 48, "maxhp": 88, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 104844, "card": "Defend+", "hand": ["Strike+"], "floor": 31, "hp": 48, "maxhp": 88, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 105320, "card": "Battle Trance", "hand": ["Limit Break", "Feel No Pain", "Whirlwind", "Fiend Fire"], "floor": 31, "hp": 37, "maxhp": 88, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 105742, "card": "Feel No Pain", "hand": ["Limit Break", "Thunderclap", "Whirlwind", "Fiend Fire", "Defend+"], "floor": 31, "hp": 37, "maxhp": 88, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 105876, "card": "Fiend Fire", "hand": ["Limit Break", "Whirlwind", "Thunderclap", "Defend+"], "floor": 31, "hp": 37, "maxhp": 88, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 106342, "card": "Disarm", "hand": ["Defend+", "Feed+", "Anger", "True Grit", "Bash", "Flash of Steel"], "floor": 31, "hp": 37, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 106516, "card": "Bash+", "hand": ["Defend+", "Feed+", "Anger", "True Grit", "Flash of Steel"], "floor": 31, "hp": 37, "maxhp": 88, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 106620, "card": "Anger", "hand": ["Defend+", "Feed+", "True Grit", "Flash of Steel"], "floor": 31, "hp": 37, "maxhp": 88, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 107116, "card": "Inflame+", "hand": ["Dazed", "Anger", "True Grit", "Defend+", "Feed+", "Defend"], "floor": 31, "hp": 37, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 107302, "card": "Defend+", "hand": ["Anger", "True Grit", "Defend+", "Feed+", "Defend+"], "floor": 31, "hp": 37, "maxhp": 88, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 107614, "card": "Battle Trance", "hand": ["Anger", "Defend+", "Feed+", "Defend+", "True Grit"], "floor": 31, "hp": 37, "maxhp": 88, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 108220, "card": "True Grit", "hand": ["Strike+", "Anger", "Defend+", "Bash", "Bash"], "floor": 31, "hp": 37, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 108624, "card": "Anger", "hand": ["Strike+", "Defend+", "Anger", "Battle Trance"], "floor": 31, "hp": 37, "maxhp": 88, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 108716, "card": "Anger", "hand": ["Strike+", "Defend+", "Defend+", "Battle Trance"], "floor": 31, "hp": 37, "maxhp": 88, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 108836, "card": "Sentinel", "hand": ["Defend+", "Defend+", "Battle Trance"], "floor": 31, "hp": 37, "maxhp": 88, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 108996, "card": "Defend+", "hand": ["Defend+", "Battle Trance"], "floor": 31, "hp": 37, "maxhp": 88, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 109380, "card": "Anger", "hand": ["Defend+", "Feed+", "Defend+", "Anger"], "floor": 31, "hp": 37, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 109516, "card": "Feed+", "hand": ["Defend+", "Defend+"], "floor": 31, "hp": 37, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 111858, "card": "Disarm", "hand": ["Feed+", "Defend+", "Defend+", "Ascender's Bane"], "floor": 33, "hp": 59, "maxhp": 92, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 111950, "card": "Defend+", "hand": ["Feed+", "Ascender's Bane"], "floor": 33, "hp": 59, "maxhp": 92, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 112354, "card": "Inflame+", "hand": ["Flex", "Defend+", "True Grit", "Defend+", "Thunderclap", "Strike+"], "floor": 33, "hp": 59, "maxhp": 92, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 112874, "card": "Limit Break+", "hand": ["Defend+", "True Grit", "Defend+", "Strike+", "Fiend Fire"], "floor": 33, "hp": 59, "maxhp": 92, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 114346, "card": "Fiend Fire", "hand": ["Defend+", "Carnage", "True Grit", "Defend+", "Thunderclap", "Strike+"], "floor": 33, "hp": 59, "maxhp": 92, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 115486, "card": "Feel No Pain", "hand": ["Bash", "Anger", "Feed", "Disarm"], "floor": 33, "hp": 43, "maxhp": 92, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 116060, "card": "Feel No Pain", "hand": ["Bash", "Anger", "Disarm", "Feed+"], "floor": 33, "hp": 43, "maxhp": 92, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 116290, "card": "Feel No Pain", "hand": ["Anger"], "floor": 33, "hp": 43, "maxhp": 92, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 119094, "card": "Whirlwind", "hand": ["Defend+", "Defend+", "Bash"], "floor": 33, "hp": 41, "maxhp": 92, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 119396, "card": "Anger", "hand": ["Defend+", "Defend+", "Feed+", "Disarm", "Bash"], "floor": 33, "hp": 41, "maxhp": 92, "block": 3, "energy": 0, "v2.0": false}
+{"frame": 119604, "card": "Flash of Steel", "hand": ["Defend+", "Defend+", "Feed", "Disarm", "Bash"], "floor": 33, "hp": 41, "maxhp": 92, "block": 3, "energy": 0, "v2.0": false}
+{"frame": 119752, "card": "Limit Break+", "hand": ["Defend+", "Defend+", "Feed"], "floor": 33, "hp": 41, "maxhp": 92, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 120004, "card": "Limit Break+", "hand": ["Defend+", "Defend+", "Feed", "Disarm"], "floor": 33, "hp": 41, "maxhp": 92, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 120448, "card": "Battle Trance", "hand": ["Bash"], "floor": 33, "hp": 41, "maxhp": 92, "block": 3, "energy": 0, "v2.0": false}
+{"frame": 120572, "card": "Anger", "hand": ["Defend+", "Defend+", "Feed+", "Disarm", "Bash", "Anger", "Flash of Steel"], "floor": 33, "hp": 41, "maxhp": 92, "block": 3, "energy": 0, "v2.0": false}
+{"frame": 120612, "card": "Anger", "hand": [], "floor": 33, "hp": 41, "maxhp": 92, "block": 3, "energy": 0, "v2.0": false}
+{"frame": 120652, "card": "Flash of Steel", "hand": ["Feed+", "Disarm", "Bash"], "floor": 33, "hp": 41, "maxhp": 92, "block": 3, "energy": 0, "v2.0": false}
+{"frame": 121058, "card": "Limit Break+", "hand": ["Anger", "Bash", "Whirlwind", "Defend+"], "floor": 33, "hp": 20, "maxhp": 92, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 121204, "card": "Bash", "hand": ["Anger", "Whirlwind", "Defend+"], "floor": 33, "hp": 20, "maxhp": 92, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 121268, "card": "Anger", "hand": ["Defend+", "Whirlwind"], "floor": 33, "hp": 20, "maxhp": 92, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 121604, "card": "Feed+", "hand": ["Anger", "Anger", "Defend+", "Battle Trance", "Disarm"], "floor": 33, "hp": 20, "maxhp": 92, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 129092, "card": "True Grit", "hand": ["Anger", "Fiend Fire", "Limit Break+", "Feed+"], "floor": 35, "hp": 80, "maxhp": 96, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 130396, "card": "Carnage", "hand": ["Anger", "Fiend Fire", "Feed+"], "floor": 35, "hp": 80, "maxhp": 96, "block": 7, "energy": 4, "v2.0": false}
+{"frame": 130506, "card": "Anger", "hand": ["Fiend Fire", "Feed+"], "floor": 35, "hp": 80, "maxhp": 96, "block": 7, "energy": 2, "v2.0": false}
+{"frame": 131110, "card": "Feel No Pain", "hand": ["Flash of Steel", "Offering", "Feel No Pain", "Disarm"], "floor": 35, "hp": 69, "maxhp": 96, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 131154, "card": "Feel No Pain", "hand": ["Offering", "Flash of Steel", "Battle Trance", "Disarm"], "floor": 35, "hp": 69, "maxhp": 96, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 131200, "card": "Feel No Pain", "hand": ["Flash of Steel", "Offering", "Inflame+", "Battle Trance", "Disarm"], "floor": 35, "hp": 69, "maxhp": 96, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 131244, "card": "Offering", "hand": ["Flash of Steel", "Inflame+", "Battle Trance", "Entrench"], "floor": 35, "hp": 69, "maxhp": 96, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 131580, "card": "Flash of Steel+", "hand": ["Bash", "Thunderclap+", "Inflame+", "Disarm"], "floor": 35, "hp": 63, "maxhp": 96, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 131704, "card": "Battle Trance", "hand": ["Bash", "Thunderclap", "Strike+", "Inflame+", "Disarm"], "floor": 35, "hp": 63, "maxhp": 96, "block": 15, "energy": 5, "v2.0": false}
+{"frame": 132072, "card": "Disarm", "hand": ["Bash", "Thunderclap", "Strike", "Defend+"], "floor": 35, "hp": 63, "maxhp": 96, "block": 15, "energy": 5, "v2.0": false}
+{"frame": 132302, "card": "Disarm", "hand": ["Bash", "Thunderclap", "Strike+", "Defend+", "Defend+", "Ascender's Bane"], "floor": 35, "hp": 63, "maxhp": 96, "block": 24, "energy": 4, "v2.0": false}
+{"frame": 132624, "card": "Inflame+", "hand": ["Thunderclap", "Strike+", "Defend+", "Defend+", "Bash"], "floor": 35, "hp": 63, "maxhp": 96, "block": 33, "energy": 3, "v2.0": false}
+{"frame": 133058, "card": "Thunderclap", "hand": ["Defend+", "Defend+", "Bash"], "floor": 35, "hp": 63, "maxhp": 96, "block": 33, "energy": 2, "v2.0": false}
+{"frame": 133528, "card": "Strike+", "hand": ["Ascender's Bane", "Bash", "Defend+", "Defend+"], "floor": 35, "hp": 63, "maxhp": 96, "block": 33, "energy": 1, "v2.0": false}
+{"frame": 134296, "card": "Defend+", "hand": ["Dazed+", "Whirlwind", "Flex", "Defend+"], "floor": 35, "hp": 63, "maxhp": 96, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 134314, "card": "Defend+", "hand": ["Defend+", "Flex", "Whirlwind"], "floor": 35, "hp": 63, "maxhp": 96, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 135350, "card": "Flash of Steel", "hand": ["Anger", "Defend+", "True Grit", "Thunderclap", "Battle Trance", "Anger"], "floor": 35, "hp": 63, "maxhp": 96, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 135450, "card": "True Grit", "hand": ["Defend+", "Thunderclap", "Battle Trance", "Anger", "Fiend Fire"], "floor": 35, "hp": 63, "maxhp": 96, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 135616, "card": "Battle Trance", "hand": ["Anger", "Defend+", "Anger", "Fiend Fire"], "floor": 35, "hp": 63, "maxhp": 96, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 137602, "card": "Flash of Steel", "hand": ["True Grit", "Defend+", "Feed+", "Fiend Fire", "Defend+", "Whirlwind", "Defend+"], "floor": 35, "hp": 63, "maxhp": 96, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 138074, "card": "Anger", "hand": ["Defend+", "True Grit", "Defend+", "Feed+", "Fiend Fire", "Defend+"], "floor": 35, "hp": 63, "maxhp": 96, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 138208, "card": "Defend+", "hand": ["Defend+", "True Grit", "Fiend Fire", "Defend+", "Whirlwind"], "floor": 35, "hp": 63, "maxhp": 96, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 138316, "card": "Defend+", "hand": ["Defend+", "True Grit", "Feed", "Fiend Fire", "Bash", "Whirlwind", "Entrench"], "floor": 35, "hp": 63, "maxhp": 96, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 139024, "card": "Battle Trance", "hand": ["Defend", "Strike+"], "floor": 35, "hp": 61, "maxhp": 96, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 139108, "card": "Feed+", "hand": ["Defend+", "Strike+", "Anger", "Anger", "Fiend Fire", "Defend+"], "floor": 35, "hp": 61, "maxhp": 96, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 140426, "card": "Feel No Pain", "hand": ["Defend+", "Defend+", "Carnage", "Battle Trance"], "floor": 36, "hp": 71, "maxhp": 100, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 141022, "card": "Feel No Pain", "hand": ["Fiend Fire", "Bash", "Offering", "Ghostly Armor", "Feel No Pain"], "floor": 36, "hp": 71, "maxhp": 100, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 141102, "card": "Feel No Pain", "hand": ["Defend+", "Feed+", "Fiend Fire", "Offering"], "floor": 36, "hp": 71, "maxhp": 100, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 141322, "card": "Offering", "hand": ["Feed+", "Flex", "Bash", "Ghostly Armor", "Burn"], "floor": 36, "hp": 71, "maxhp": 100, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 141712, "card": "Thunderclap", "hand": ["Fiend Fire", "Bash", "Flash of Steel", "Defend+"], "floor": 36, "hp": 65, "maxhp": 10, "block": 9, "energy": 5, "v2.0": false}
+{"frame": 141868, "card": "Anger", "hand": ["Feed+", "Fiend Fire", "Bash", "Strike"], "floor": 36, "hp": 65, "maxhp": 10, "block": 9, "energy": -1, "v2.0": false}
+{"frame": 141954, "card": "Bash", "hand": ["Defend+", "Feed+", "Fiend Fire", "Whirlwind", "Strike+"], "floor": 36, "hp": 65, "maxhp": 10, "block": 9, "energy": 5, "v2.0": false}
+{"frame": 142136, "card": "Defend+", "hand": ["Feed+", "Fiend Fire", "Whirlwind", "Ghostly Armor", "Strike+"], "floor": 36, "hp": 65, "maxhp": 10, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 142244, "card": "Strike+", "hand": ["Feed+", "Ghostly Armor", "Fiend Fire", "Whirlwind"], "floor": 36, "hp": 65, "maxhp": 10, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 142442, "card": "Whirlwind", "hand": ["Feed+", "Ghostly Armor", "Fiend Fire"], "floor": 36, "hp": 65, "maxhp": 10, "block": 17, "energy": 1, "v2.0": false}
+{"frame": 142788, "card": "Disarm", "hand": ["Limit Break+", "Defend+", "Disarm", "Ascender's Bane"], "floor": 36, "hp": 65, "maxhp": 10, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 142858, "card": "Disarm", "hand": ["Limit Break+", "Defend+", "Ascender's Bane"], "floor": 36, "hp": 65, "maxhp": 10, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 143740, "card": "Inflame+", "hand": ["Dazed", "Defend+", "Defend+", "Limit Break+", "Burn", "Burn"], "floor": 36, "hp": 65, "maxhp": 10, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 144220, "card": "True Grit", "hand": ["Defend+", "Defend+", "Limit Break+", "Defend+", "Strike+"], "floor": 36, "hp": 65, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144874, "card": "Defend+", "hand": ["Limit Break+", "Defend+", "Strike+"], "floor": 36, "hp": 65, "maxhp": 10, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 145014, "card": "Strike+", "hand": ["Limit Break+", "Burn", "Defend+", "Burn"], "floor": 36, "hp": 65, "maxhp": 10, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 145052, "card": "Defend+", "hand": ["Limit Break+", "Burn", "Burn"], "floor": 36, "hp": 65, "maxhp": 10, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 145384, "card": "Bash", "hand": ["Defend+", "Anger", "Fiend Fire", "Feed+"], "floor": 36, "hp": 65, "maxhp": 10, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 145426, "card": "Anger", "hand": ["Defend+", "Fiend Fire", "Feed+"], "floor": 36, "hp": 65, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 149198, "card": "Carnage", "hand": ["Defend+", "Strike+", "Defend+", "Fiend Fire"], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 149390, "card": "Fiend Fire", "hand": ["Defend+", "Strike+", "Defend+"], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 149848, "card": "Feel No Pain", "hand": ["Defend"], "floor": 37, "hp": 75, "maxhp": 104, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 150180, "card": "Feel No Pain", "hand": ["Disarm", "Defend+", "Anger", "Battle Trance"], "floor": 37, "hp": 75, "maxhp": 104, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 150412, "card": "Battle Trance", "hand": ["Defend+"], "floor": 37, "hp": 75, "maxhp": 104, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 150574, "card": "Inflame+", "hand": ["Defend", "Defend+", "Disarm"], "floor": 37, "hp": 75, "maxhp": 104, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 150748, "card": "Disarm", "hand": ["Defend+", "Defend+", "Anger", "Whirlwind", "Bash"], "floor": 37, "hp": 75, "maxhp": 104, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 150916, "card": "Defend+", "hand": ["Defend+", "Ghostly Armor", "Bash"], "floor": 37, "hp": 75, "maxhp": 104, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 151026, "card": "Anger", "hand": ["Ascender's Bane", "Defend+", "Ghostly Armor"], "floor": 37, "hp": 75, "maxhp": 104, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 151064, "card": "Whirlwind", "hand": ["Defend+", "Ghostly Armor", "Bash"], "floor": 37, "hp": 75, "maxhp": 104, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 151482, "card": "Feel No Pain", "hand": ["Thunderclap", "Feed+", "Offering", "True Grit"], "floor": 37, "hp": 73, "maxhp": 104, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 151536, "card": "Offering", "hand": ["Thunderclap", "True Grit", "Feed+", "Entrench"], "floor": 37, "hp": 73, "maxhp": 104, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 151756, "card": "Limit Break+", "hand": ["Thunderclap", "True Grit", "Feed+", "Flash of Steel"], "floor": 37, "hp": 67, "maxhp": 104, "block": 12, "energy": 6, "v2.0": false}
+{"frame": 151912, "card": "Disarm", "hand": ["Thunderclap", "True Grit", "Feed+", "Flash of Steel", "Bash"], "floor": 37, "hp": 67, "maxhp": 104, "block": 12, "energy": 5, "v2.0": false}
+{"frame": 152114, "card": "Thunderclap", "hand": ["True Grit", "Feed+", "Bash", "Flash of Steel"], "floor": 37, "hp": 67, "maxhp": 104, "block": 21, "energy": 4, "v2.0": false}
+{"frame": 152174, "card": "Flash of Steel", "hand": ["True Grit", "Feed+", "Bash"], "floor": 37, "hp": 67, "maxhp": 104, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 152288, "card": "Bash", "hand": ["True Grit", "Feed+", "Defend+"], "floor": 37, "hp": 67, "maxhp": 104, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 152334, "card": "Defend+", "hand": ["True Grit", "Feed+"], "floor": 37, "hp": 67, "maxhp": 104, "block": 21, "energy": 1, "v2.0": false}
+{"frame": 152884, "card": "Battle Trance", "hand": ["Defend", "Anger", "Whirlwind"], "floor": 37, "hp": 67, "maxhp": 104, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 152904, "card": "Battle Trance", "hand": ["Anger", "Defend+", "Anger", "Whirlwind"], "floor": 37, "hp": 67, "maxhp": 104, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 153236, "card": "Defend+", "hand": ["Anger", "True Grit", "Whirlwind", "Flash of Steel"], "floor": 37, "hp": 67, "maxhp": 104, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 153294, "card": "True Grit", "hand": ["Anger", "Anger", "Whirlwind", "Carnage", "Flash of Steel", "Entrench"], "floor": 37, "hp": 67, "maxhp": 104, "block": 11, "energy": 4, "v2.0": false}
+{"frame": 153488, "card": "Flash of Steel+", "hand": ["Anger", "Whirlwind", "Carnage"], "floor": 37, "hp": 67, "maxhp": 104, "block": 27, "energy": 3, "v2.0": false}
+{"frame": 153548, "card": "Anger", "hand": ["Whirlwind", "Carnage"], "floor": 37, "hp": 67, "maxhp": 104, "block": 27, "energy": 3, "v2.0": false}
+{"frame": 153620, "card": "Whirlwind", "hand": [], "floor": 37, "hp": 67, "maxhp": 104, "block": 27, "energy": 3, "v2.0": false}
+{"frame": 153652, "card": "Whirlwind", "hand": [], "floor": 37, "hp": 67, "maxhp": 104, "block": 27, "energy": 3, "v2.0": false}
+{"frame": 154416, "card": "Limit Break+", "hand": ["Bash", "Feed+"], "floor": 37, "hp": 67, "maxhp": 104, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 154486, "card": "Thunderclap", "hand": ["Bash", "Defend+"], "floor": 37, "hp": 67, "maxhp": 104, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 154522, "card": "Thunderclap", "hand": ["Bash", "Feed+", "Defend+"], "floor": 37, "hp": 67, "maxhp": 104, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 154570, "card": "Feed", "hand": ["Bash", "Defend+"], "floor": 37, "hp": 67, "maxhp": 104, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 158358, "card": "Battle Trance", "hand": ["Defend+", "Limit Break+"], "floor": 39, "hp": 77, "maxhp": 108, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 158556, "card": "Feel No Pain", "hand": ["Defend+", "Fiend Fire"], "floor": 39, "hp": 77, "maxhp": 108, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 158666, "card": "Disarm", "hand": ["Defend+", "Limit Break+", "Fiend Fire", "Carnage", "Defend+"], "floor": 39, "hp": 77, "maxhp": 108, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 159430, "card": "Defend+", "hand": ["Defend+", "Limit Break+", "Fiend Fire", "Carnage"], "floor": 39, "hp": 77, "maxhp": 108, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 159494, "card": "Defend+", "hand": ["Limit Break+", "Carnage", "Fiend Fire"], "floor": 39, "hp": 77, "maxhp": 108, "block": 11, "energy": 2, "v2.0": false}
+{"frame": 159530, "card": "Limit Break+", "hand": ["Carnage", "Fiend Fire"], "floor": 39, "hp": 77, "maxhp": 108, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 159914, "card": "Feel No Pain", "hand": ["Feed+", "Defend+", "Feel No Pain"], "floor": 39, "hp": 77, "maxhp": 108, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 160062, "card": "Feel No Pain", "hand": ["Defend+", "Flex"], "floor": 39, "hp": 77, "maxhp": 108, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 160252, "card": "Defend+", "hand": ["Feed+", "Ascender's Bane", "Ghostly Armor"], "floor": 39, "hp": 77, "maxhp": 108, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 161168, "card": "Inflame+", "hand": ["Anger", "Thunderclap", "True Grit", "Offering"], "floor": 39, "hp": 73, "maxhp": 108, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 161272, "card": "Flash of Steel", "hand": ["True Grit", "Anger", "Thunderclap", "Disarm"], "floor": 39, "hp": 73, "maxhp": 108, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 161434, "card": "Disarm", "hand": ["True Grit", "Anger", "Offering", "Thunderclap", "Defend+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 161730, "card": "True Grit", "hand": ["Anger", "Offering", "Thunderclap", "Defend+", "Whirlwind"], "floor": 39, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 162042, "card": "Defend+", "hand": ["Anger", "Offering", "Thunderclap"], "floor": 39, "hp": -1, "maxhp": -1, "block": 28, "energy": 3, "v2.0": false}
+{"frame": 162620, "card": "Bash", "hand": ["Anger", "Defend", "Dark Embrace+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 162650, "card": "Flash of Steel", "hand": ["Anger", "Defend+", "Dark Embrace+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 162886, "card": "Dark Embrace+", "hand": ["Anger", "Defend+", "Thunderclap"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 162988, "card": "Defend+", "hand": ["Anger", "Thunderclap", "Defend+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 163046, "card": "Defend+", "hand": ["Anger", "Thunderclap"], "floor": 39, "hp": 73, "maxhp": 108, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 163656, "card": "True Grit", "hand": ["Defend+", "Offering", "Fiend Fire", "Defend+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 163818, "card": "Battle Trance", "hand": ["Offering", "Fiend Fire", "Defend+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 163962, "card": "Limit Break+", "hand": ["Offering", "Fiend Fire"], "floor": 39, "hp": 73, "maxhp": 108, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 164000, "card": "Limit Break+", "hand": ["Offering", "Fiend Fire", "Defend+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 164816, "card": "Flash of Steel", "hand": ["Defend+", "Anger", "Bash", "Thunderclap", "Offering", "True Grit", "Defend+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 166466, "card": "Limit Break+", "hand": ["Feed", "Wound+", "Offering", "Anger", "Fiend Fire"], "floor": 39, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 166920, "card": "Flash of Steel", "hand": ["Feed+", "Defend+", "Offering", "Anger", "Fiend Fire", "Battle Trance"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 168302, "card": "True Grit", "hand": ["Feed+", "Defend+", "Offering", "Fiend Fire", "Bash", "Battle Trance", "Entrench"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 168720, "card": "Battle Trance", "hand": ["Feed+", "Fiend Fire", "Bash", "Defend+", "Offering"], "floor": 39, "hp": -1, "maxhp": -1, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 168874, "card": "Limit Break+", "hand": ["Fiend Fire", "Bash", "Thunderclap", "Anger", "Feed", "Offering"], "floor": 39, "hp": 73, "maxhp": 108, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 168992, "card": "Defend+", "hand": ["Feed+", "Fiend Fire", "Bash", "Anger", "Offering"], "floor": 39, "hp": 73, "maxhp": 108, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 169600, "card": "Thunderclap", "hand": ["True Grit", "Anger", "Battle Trance", "Flash of Steel"], "floor": 39, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 169976, "card": "Battle Trance", "hand": ["True Grit", "Anger", "Flash of Steel"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 170166, "card": "Limit Break+", "hand": ["True Grit", "Anger", "Defend+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 170188, "card": "Limit Break+", "hand": ["True Grit", "Anger", "Offering", "Defend+"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 170428, "card": "True Grit", "hand": ["Anger", "Flash of Steel", "Offering"], "floor": 39, "hp": 73, "maxhp": 108, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 170896, "card": "Bash", "hand": ["Fiend Fire", "Feed+", "Anger", "Flash of Steel"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 171004, "card": "Flash of Steel", "hand": ["Fiend Fire", "Feed+", "Anger", "Battle Trance"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 171094, "card": "Feed+", "hand": ["Fiend Fire", "Anger", "Defend+", "Battle Trance"], "floor": 39, "hp": 73, "maxhp": 108, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 173054, "card": "Feel No Pain", "hand": ["Defend+", "Defend+", "Fiend Fire", "Feel No Pain"], "floor": 40, "hp": 83, "maxhp": 112, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 173100, "card": "Feel No Pain", "hand": ["Defend+", "Defend+", "Fiend Fire"], "floor": 40, "hp": 83, "maxhp": 112, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 173150, "card": "Fiend Fire", "hand": ["Defend+", "Defend+"], "floor": 40, "hp": 83, "maxhp": 112, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 173596, "card": "Dark Embrace+", "hand": ["Bash", "Offering", "Whirlwind", "True Grit", "Disarm"], "floor": 40, "hp": 83, "maxhp": 112, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 173862, "card": "Offering", "hand": ["Bash", "Flame Barrier", "Entrench"], "floor": 40, "hp": 83, "maxhp": 112, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 174258, "card": "Feel No Pain", "hand": ["Bash", "Thunderclap", "Limit Break+"], "floor": 40, "hp": 77, "maxhp": 112, "block": 6, "energy": 6, "v2.0": false}
+{"frame": 174762, "card": "Disarm", "hand": ["Bash", "Thunderclap", "Limit Break+", "Flame Barrier"], "floor": 40, "hp": 77, "maxhp": 112, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 174910, "card": "Disarm", "hand": ["Bash", "Thunderclap", "Defend+", "Limit Break+", "Whirlwind"], "floor": 40, "hp": 77, "maxhp": 112, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 175070, "card": "Flash of Steel", "hand": [], "floor": 40, "hp": 77, "maxhp": 112, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 175262, "card": "Bash", "hand": ["Thunderclap", "Defend+", "Limit Break+", "Strike", "Whirlwind", "Carnage", "Flame Barrier"], "floor": 40, "hp": 77, "maxhp": 112, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 175438, "card": "Battle Trance", "hand": ["Limit Break+"], "floor": 40, "hp": 77, "maxhp": 112, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 175654, "card": "Inflame+", "hand": ["Limit Break+", "Burn", "Anger"], "floor": 40, "hp": 77, "maxhp": 112, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 176346, "card": "Limit Break+", "hand": ["Feed+", "Defend+", "Defend+"], "floor": 40, "hp": 77, "maxhp": 112, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 176412, "card": "Flash of Steel", "hand": ["Feed+", "Defend+", "Anger", "Defend+", "Ghostly Armor"], "floor": 40, "hp": 77, "maxhp": 112, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 176720, "card": "Ghostly Armor", "hand": ["Anger", "Defend+", "Bash", "Defend+"], "floor": 40, "hp": 77, "maxhp": 112, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 177322, "card": "True Grit", "hand": ["Bash", "Defend", "Flame Barrier", "Thunderclap", "Whirlwind"], "floor": 40, "hp": 77, "maxhp": 112, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 178296, "card": "Defend+", "hand": ["Battle Trance", "Anger", "Feed+", "Flame Barrier", "Whirlwind", "Entrench"], "floor": 40, "hp": 77, "maxhp": 112, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 178504, "card": "Anger", "hand": ["Feed+", "Flame Barrier", "Battle Trance", "Whirlwind"], "floor": 40, "hp": 77, "maxhp": 112, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 178832, "card": "Battle Trance", "hand": ["Flame Barrier", "Whirlwind", "Feed+", "Flash of Steel"], "floor": 40, "hp": 77, "maxhp": 112, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 178946, "card": "Limit Break+", "hand": ["Ghostly Armor", "Defend+"], "floor": 40, "hp": 77, "maxhp": 112, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 179250, "card": "Flash of Steel+", "hand": ["Feed+", "Defend+", "Flame Barrier", "Whirlwind", "Ghostly Armor"], "floor": 40, "hp": 77, "maxhp": 112, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 179320, "card": "Whirlwind", "hand": ["Defend+", "Flame Barrier"], "floor": 40, "hp": 77, "maxhp": 112, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 180028, "card": "Limit Break+", "hand": ["Anger", "Defend+", "Battle Trance", "Feed+", "Clash"], "floor": 40, "hp": 74, "maxhp": 112, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 180134, "card": "Flash of Steel+", "hand": ["Anger", "Feed+", "Defend+", "Battle Trance"], "floor": 40, "hp": 74, "maxhp": 112, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 180344, "card": "Battle Trance", "hand": ["Anger", "Defend+", "True Grit", "Feed+"], "floor": 40, "hp": 74, "maxhp": 112, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 180442, "card": "True Grit", "hand": ["Anger", "Defend+", "Flame Barrier"], "floor": 40, "hp": 74, "maxhp": 112, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 180720, "card": "Defend+", "hand": ["Anger", "Whirlwind"], "floor": 40, "hp": 74, "maxhp": 112, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 180922, "card": "Whirlwind", "hand": ["Anger", "Feed+", "Defend+", "Flame Barrier"], "floor": 40, "hp": 74, "maxhp": 112, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 181578, "card": "Flame Barrier", "hand": ["Anger", "Feed+"], "floor": 40, "hp": 74, "maxhp": 112, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 181748, "card": "Defend+", "hand": ["Anger", "Feed+", "Whirlwind"], "floor": 40, "hp": 74, "maxhp": 112, "block": 31, "energy": 1, "v2.0": false}
+{"frame": 181940, "card": "Whirlwind", "hand": ["Anger", "Feed+"], "floor": 40, "hp": 74, "maxhp": 112, "block": 39, "energy": 0, "v2.0": false}
+{"frame": 181990, "card": "Anger", "hand": ["Feed+"], "floor": 40, "hp": 74, "maxhp": 112, "block": 39, "energy": 0, "v2.0": false}
+{"frame": 182652, "card": "Limit Break+", "hand": ["Thunderclap", "Inflame"], "floor": 40, "hp": 72, "maxhp": 112, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 182678, "card": "Limit Break+", "hand": ["Thunderclap", "Anger"], "floor": 40, "hp": 72, "maxhp": 112, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 182896, "card": "Flame Barrier+", "hand": ["Thunderclap", "Anger", "Defend+"], "floor": 40, "hp": 72, "maxhp": 112, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 182964, "card": "Defend+", "hand": ["Thunderclap"], "floor": 40, "hp": 72, "maxhp": 112, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 183068, "card": "Thunderclap", "hand": ["Anger"], "floor": 40, "hp": 72, "maxhp": 112, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 183260, "card": "Anger", "hand": [], "floor": 40, "hp": 72, "maxhp": 112, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 183906, "card": "Flash of Steel", "hand": ["Anger", "Feed+", "True Grit", "Whirlwind"], "floor": 40, "hp": 49, "maxhp": 112, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 184114, "card": "Battle Trance", "hand": ["Anger", "Feed+", "True Grit", "Whirlwind"], "floor": 40, "hp": 49, "maxhp": 112, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 184278, "card": "Thunderclap", "hand": ["Anger", "True Grit", "Anger", "Defend+", "Feed+", "Whirlwind", "Entrench"], "floor": 40, "hp": 49, "maxhp": 112, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 184350, "card": "Feed+", "hand": ["Anger", "True Grit", "Anger", "Defend+"], "floor": 40, "hp": 49, "maxhp": 112, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 186238, "card": "Battle Trance", "hand": ["Fiend Fire", "Defend+", "Flame Barrier"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 186258, "card": "Battle Trance", "hand": ["Fiend Fire", "Defend+", "Limit Break+", "Flame Barrier"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 186396, "card": "Inflame+", "hand": ["Fiend Fire", "Defend+", "Limit Break"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 186580, "card": "Feel No Pain", "hand": ["Fiend Fire", "Defend+", "Thunderclap", "Flame Barrier"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 186690, "card": "Fiend Fire", "hand": ["Flame Barrier", "Defend+", "Thunderclap"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 187118, "card": "Evolve", "hand": ["Bash", "Defend+", "Ghostly Armor"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 187178, "card": "Feel No Pain", "hand": ["Bash", "Defend+", "Ghostly Armor"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 187302, "card": "Bash", "hand": ["Defend+", "Ghostly Armor"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 187678, "card": "Carnage", "hand": ["Defend"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 187820, "card": "Dark Embrace+", "hand": ["Defend+", "Defend+", "Feed", "Anger", "Flash of Steel"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 187900, "card": "Disarm", "hand": ["Defend+", "Defend+", "Feed+", "Flash of Steel"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 188028, "card": "Disarm", "hand": ["Defend+", "Defend+", "Anger", "True Grit"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 188228, "card": "Feel No Pain", "hand": ["Defend+", "Defend+", "Feed", "Whirlwind", "True Grit"], "floor": 41, "hp": 66, "maxhp": 12, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 188598, "card": "Anger", "hand": ["Defend+", "Defend+", "Feed+", "True Grit"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 188634, "card": "Flash of Steel", "hand": ["Defend+", "Defend+", "Feed+", "Whirlwind"], "floor": 41, "hp": 66, "maxhp": 12, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 188782, "card": "Whirlwind", "hand": ["Defend+", "Defend+", "Feed+", "True Grit", "Offering"], "floor": 41, "hp": 66, "maxhp": 12, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 188884, "card": "Whirlwind", "hand": ["Offering", "Defend+", "Defend+", "Feed"], "floor": 41, "hp": 66, "maxhp": 12, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 189388, "card": "Limit Break+", "hand": ["Defend+", "Carnage", "Anger"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 189692, "card": "Anger", "hand": ["Defend+", "Carnage", "Ascender's Bane"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 189770, "card": "Defend+", "hand": ["Carnage"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 190688, "card": "Bash", "hand": ["Defend+", "Offering", "Anger", "Defend+", "Feed"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 190890, "card": "Flash of Steel+", "hand": ["Defend+", "Offering", "Anger", "Defend+", "Feed"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 191472, "card": "Whirlwind", "hand": ["Offering", "Anger", "Defend+", "Feed", "Battle Trance"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 192070, "card": "Limit Break+", "hand": ["Defend", "Defend+", "True Grit", "Bash", "Anger"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 192144, "card": "Flash of Steel", "hand": ["Defend+", "Defend+", "True Grit", "Bash", "Anger"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 192410, "card": "True Grit", "hand": ["Dazed", "Defend+", "Anger"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 192572, "card": "Battle Trance", "hand": ["Defend+", "Bash", "Whirlwind", "Anger"], "floor": 41, "hp": 66, "maxhp": 12, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 192692, "card": "Anger", "hand": ["Bash", "Anger", "Anger", "Defend+", "Feed+", "Whirlwind"], "floor": 41, "hp": 66, "maxhp": 12, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 192776, "card": "Anger", "hand": ["Defend+", "Bash", "Anger", "Defend+", "Feed"], "floor": 41, "hp": 66, "maxhp": 12, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 196248, "card": "Flash of Steel", "hand": ["Limit Break+", "Fiend Fire", "Disarm", "Dark Embrace+"], "floor": 44, "hp": 91, "maxhp": 127, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 197130, "card": "Dark Embrace+", "hand": ["Limit Break+", "Disarm"], "floor": 44, "hp": 91, "maxhp": 127, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 197394, "card": "Fiend Fire", "hand": ["Limit Break+", "Disarm", "Disarm", "Normality"], "floor": 44, "hp": 91, "maxhp": 127, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 197698, "card": "Feel No Pain", "hand": ["Bash", "Offering", "Feel No Pain", "Carnage"], "floor": 44, "hp": 91, "maxhp": 127, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 197748, "card": "Feel No Pain", "hand": ["Bash", "Offering", "Carnage"], "floor": 44, "hp": 91, "maxhp": 127, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 197790, "card": "Offering", "hand": ["Bash", "Carnage"], "floor": 44, "hp": 91, "maxhp": 127, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 198508, "card": "Uppercut+", "hand": ["Bash", "True Grit", "Anger", "Carnage", "Second Wind"], "floor": 44, "hp": 85, "maxhp": 127, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 198780, "card": "Carnage", "hand": ["Bash", "True Grit", "Anger"], "floor": 44, "hp": 85, "maxhp": 127, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 199034, "card": "Anger", "hand": ["True Grit", "Bash", "Ascender's Bane"], "floor": 44, "hp": 85, "maxhp": 127, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 199084, "card": "True Grit", "hand": ["Bash", "Ascender's Bane"], "floor": 44, "hp": 85, "maxhp": 127, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 202166, "card": "Inflame+", "hand": ["Feed+", "Defend+", "Thunderclap"], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 203198, "card": "Defend+", "hand": ["Defend", "True Grit", "Battle Trance", "Whirlwind", "Wound"], "floor": 44, "hp": 46, "maxhp": 127, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 203294, "card": "Whirlwind", "hand": ["Battle Trance", "Wound", "True Grit", "Wound"], "floor": 44, "hp": 46, "maxhp": 127, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 203794, "card": "Anger", "hand": ["Defend+", "Thunderclap", "Flash of Steel", "Uppercut+"], "floor": 44, "hp": 46, "maxhp": 127, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 203980, "card": "Flash of Steel+", "hand": ["Feed+", "Defend+", "Thunderclap", "Evolve"], "floor": 44, "hp": 46, "maxhp": 127, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 204132, "card": "Carnage", "hand": ["Feed+", "Defend+", "Thunderclap", "Evolve", "Uppercut+"], "floor": 44, "hp": 46, "maxhp": 127, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 204228, "card": "Feed+", "hand": ["Defend+", "Thunderclap", "Evolve", "Uppercut+"], "floor": 44, "hp": 46, "maxhp": 127, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 205474, "card": "Dark Embrace+", "hand": ["Defend+", "Limit Break+", "Disarm", "Whirlwind"], "floor": 45, "hp": 56, "maxhp": 131, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 205850, "card": "Disarm", "hand": ["Defend+", "Limit Break+", "Whirlwind", "Normality"], "floor": 45, "hp": 56, "maxhp": 131, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 206350, "card": "Limit Break+", "hand": ["Defend+", "Offering", "Whirlwind"], "floor": 45, "hp": 56, "maxhp": 131, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 206960, "card": "Flash of Steel", "hand": ["Feed+", "Defend+", "Defend+", "Feel No Pain", "Battle Trance", "Flame Barrier", "Ascender's Bane"], "floor": 45, "hp": 56, "maxhp": 131, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 207124, "card": "Feel No Pain", "hand": [], "floor": 45, "hp": 56, "maxhp": 131, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 207360, "card": "Uppercut+", "hand": ["Defend+", "Feed+", "Defend+", "Flame Barrier", "Ascender's Bane"], "floor": 45, "hp": 56, "maxhp": 131, "block": 3, "energy": 7, "v2.0": false}
+{"frame": 207492, "card": "Battle Trance", "hand": ["Defend+", "Feed+", "Defend"], "floor": 45, "hp": 56, "maxhp": 131, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 207642, "card": "Feel No Pain", "hand": ["Feed+", "Fiend Fire", "Defend+"], "floor": 45, "hp": 56, "maxhp": 131, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 207814, "card": "Flame Barrier", "hand": ["Feed", "Defend+", "Defend+"], "floor": 45, "hp": 56, "maxhp": 131, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 207838, "card": "Flame Barrier", "hand": ["Feed", "Defend+", "Defend+", "Slimed"], "floor": 45, "hp": 56, "maxhp": 131, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 208788, "card": "Evolve", "hand": ["Thunderclap"], "floor": 45, "hp": 53, "maxhp": 131, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 208880, "card": "Inflame+", "hand": ["True Grit", "Thunderclap", "Bash", "Ghostly Armor", "Carnage"], "floor": 45, "hp": 53, "maxhp": 131, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 209120, "card": "Feel No Pain", "hand": ["True Grit", "Thunderclap", "Bash", "Ghostly Armor", "Carnage"], "floor": 45, "hp": 53, "maxhp": 131, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 209218, "card": "Thunderclap", "hand": ["Ghostly Armor"], "floor": 45, "hp": 53, "maxhp": 131, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 210164, "card": "Carnage", "hand": ["True Grit", "Bash", "Ghostly Armor"], "floor": 45, "hp": 53, "maxhp": 131, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 210684, "card": "Disarm", "hand": ["Anger", "Fiend Fire", "Evolve", "Flame Barrier", "Flash of Steel"], "floor": 45, "hp": 53, "maxhp": 131, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 210886, "card": "Uppercut+", "hand": ["Anger", "Fiend Fire", "Evolve", "Flame Barrier", "Flash of Steel"], "floor": 45, "hp": 53, "maxhp": 131, "block": 9, "energy": 4, "v2.0": false}
+{"frame": 210952, "card": "Fiend Fire", "hand": ["Evolve", "Anger", "Flame Barrier", "Flash of Steel"], "floor": 45, "hp": 53, "maxhp": 131, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 211674, "card": "Carnage", "hand": ["Thunderclap", "Defend+", "Defend+", "Battle Trance", "Whirlwind", "Offering"], "floor": 45, "hp": 53, "maxhp": 131, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 211798, "card": "Whirlwind", "hand": ["Thunderclap", "Defend+", "Defend+", "Offering", "Battle Trance"], "floor": 45, "hp": 53, "maxhp": 131, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 212538, "card": "Uppercut+", "hand": ["Defend+", "Feed+", "Defend+", "Defend+", "Bash", "Battle Trance"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 213252, "card": "Whirlwind", "hand": ["Defend+", "Defend+", "True Grit"], "floor": 45, "hp": 53, "maxhp": 131, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 215750, "card": "Offering", "hand": ["Disarm", "Defend+"], "floor": 46, "hp": 59, "maxhp": 131, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 215946, "card": "Disarm", "hand": ["Defend+", "Bash", "Anger"], "floor": 46, "hp": 59, "maxhp": 131, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 216556, "card": "Feel No Pain", "hand": ["Carnage", "Battle Trance"], "floor": 46, "hp": 59, "maxhp": 131, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 216854, "card": "Battle Trance", "hand": ["Blind"], "floor": 46, "hp": 59, "maxhp": 131, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 217006, "card": "Dark Embrace+", "hand": ["True Grit", "Thunderclap"], "floor": 46, "hp": 59, "maxhp": 131, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 217090, "card": "Feel No Pain", "hand": ["Trip", "Thunderclap"], "floor": 46, "hp": 59, "maxhp": 131, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 217110, "card": "Feel No Pain", "hand": ["Trip", "Thunderclap", "Carnage"], "floor": 46, "hp": 59, "maxhp": 131, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 217242, "card": "Inflame+", "hand": ["True Grit", "Thunderclap", "Uppercut+"], "floor": 46, "hp": 59, "maxhp": 131, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 217380, "card": "True Grit", "hand": ["Thunderclap", "Carnage", "Carnage", "Entrench"], "floor": 46, "hp": 59, "maxhp": 131, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 218508, "card": "Flash of Steel", "hand": ["Bite"], "floor": 46, "hp": 58, "maxhp": 131, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 219792, "card": "Feel No Pain", "hand": ["Feed", "Ghostly Armor", "Limit Break+", "Fiend Fire", "Whirlwind"], "floor": 46, "hp": 58, "maxhp": 131, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 219852, "card": "Limit Break+", "hand": ["Feed+", "Defend", "Fiend Fire", "Whirlwind"], "floor": 46, "hp": 58, "maxhp": 131, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 219940, "card": "Fiend Fire", "hand": ["Ghostly Armor", "Whirlwind", "Defend+"], "floor": 46, "hp": 58, "maxhp": 131, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 220484, "card": "Limit Break+", "hand": ["Defend+"], "floor": 46, "hp": 58, "maxhp": 131, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 220514, "card": "Limit Break+", "hand": ["Defend+", "Defend+", "Flash of Steel"], "floor": 46, "hp": 58, "maxhp": 131, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 220646, "card": "Flash of Steel", "hand": ["Defend+", "Defend+"], "floor": 46, "hp": 58, "maxhp": 131, "block": 48, "energy": 0, "v2.0": false}
+{"frame": 220926, "card": "Seeing Red+", "hand": ["Defend+", "Defend+"], "floor": 46, "hp": 58, "maxhp": 131, "block": 48, "energy": 0, "v2.0": false}
+{"frame": 221056, "card": "Battle Trance", "hand": ["Defend+", "Defend+", "Defend+"], "floor": 46, "hp": 58, "maxhp": 131, "block": 57, "energy": 2, "v2.0": false}
+{"frame": 221436, "card": "Evolve", "hand": ["Defend+", "Defend+", "Defend+", "True Grit", "Flame Barrier"], "floor": 46, "hp": 58, "maxhp": 131, "block": 57, "energy": 2, "v2.0": false}
+{"frame": 221640, "card": "True Grit", "hand": ["Defend+", "Defend+", "Defend+", "Flame Barrier"], "floor": 46, "hp": 58, "maxhp": 131, "block": 57, "energy": 1, "v2.0": false}
+{"frame": 222220, "card": "Battle Trance", "hand": ["Anger"], "floor": 46, "hp": 58, "maxhp": 131, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 222416, "card": "Uppercut+", "hand": ["Anger", "Bash", "Defend+", "True Grit", "Flash of Steel"], "floor": 46, "hp": 58, "maxhp": 131, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 222552, "card": "Defend+", "hand": ["Anger", "Bash", "True Grit"], "floor": 46, "hp": 58, "maxhp": 131, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 223320, "card": "Limit Break+", "hand": ["Defend+", "Anger"], "floor": 46, "hp": 39, "maxhp": 131, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 224130, "card": "Flame Barrier", "hand": ["Anger"], "floor": 46, "hp": 39, "maxhp": 131, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 224218, "card": "Defend+", "hand": ["Limit Break", "Flash of Steel", "Defend+", "Anger"], "floor": 46, "hp": 35, "maxhp": 131, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 224284, "card": "Uppercut+", "hand": ["Limit Break+", "Flash of Steel", "Defend+", "Anger", "Normality"], "floor": 46, "hp": 35, "maxhp": 131, "block": 26, "energy": 2, "v2.0": false}
+{"frame": 224724, "card": "Uppercut+", "hand": ["True Grit", "Defend+", "Defend+", "Limit Break+"], "floor": 46, "hp": 38, "maxhp": 131, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 224812, "card": "Bash", "hand": [], "floor": 46, "hp": 38, "maxhp": 131, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 229476, "card": "Flash of Steel+", "hand": ["Fiend Fire", "Thunderclap", "Evolve", "Disarm"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 229676, "card": "Uppercut+", "hand": [], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 229772, "card": "Disarm", "hand": ["Fiend Fire", "Thunderclap", "Defend+", "Evolve"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 230694, "card": "Thunderclap", "hand": ["Evolve", "Defend"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 230898, "card": "Defend+", "hand": ["Fiend Fire", "Evolve", "Ghostly Armor"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 230934, "card": "Ghostly Armor", "hand": ["Fiend Fire", "Evolve"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 230964, "card": "Evolve", "hand": ["Fiend Fire"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 231458, "card": "Dark Embrace+", "hand": ["Feed+", "Bash"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 231494, "card": "Disarm", "hand": ["Feed", "Bash", "Uppercut+"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 231704, "card": "Uppercut+", "hand": ["Feed+", "Bash", "Inflame+"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 232004, "card": "Inflame+", "hand": ["Feed+", "Bash"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 232342, "card": "Battle Trance", "hand": [], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 232456, "card": "Feel No Pain", "hand": ["Defend+", "Limit Break+", "Double Tap", "Seeing Red+"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 232502, "card": "Seeing Red+", "hand": ["Defend+", "Limit Break+", "Double Tap"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 233438, "card": "Feel No Pain", "hand": ["Offering", "Trip", "Defend+", "Iron Wave", "Flame Barrier", "Whirlwind"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 233500, "card": "Feel No Pain", "hand": ["Anger", "Offering", "True Grit", "Defend+", "Flame Barrier", "Warcry"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 233574, "card": "True Grit", "hand": ["Offering", "Defend+", "Flame Barrier", "Battle Trance", "Whirlwind"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 234474, "card": "Bash", "hand": ["True Grit", "Feed", "Fiend Fire", "Double Tap", "Thunderclap", "Defend+"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 235074, "card": "Thunderclap", "hand": ["Defend+", "True Grit", "Feed+", "Fiend Fire", "Doubt"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 235360, "card": "Defend+", "hand": ["Double Tap"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 235824, "card": "Limit Break+", "hand": ["Whirlwind", "Uppercut+", "Defend+", "Bash", "Anger"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 236964, "card": "Uppercut+", "hand": ["Defend+", "Bash", "Anger", "Flex", "Defend+", "Flash of Steel"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 237422, "card": "Defend+", "hand": ["Defend+", "Anger", "Whirlwind", "Fiend Fire"], "floor": 48, "hp": 87, "maxhp": 145, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 238344, "card": "Flash of Steel+", "hand": ["Offering", "Thunderclap", "Double Tap", "True Grit", "Flame Barrier", "Defend+"], "floor": 48, "hp": 86, "maxhp": 14, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 238474, "card": "True Grit", "hand": ["Offering", "Thunderclap", "Anger", "Flame Barrier", "Defend+"], "floor": 48, "hp": 86, "maxhp": 14, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 238698, "card": "Limit Break+", "hand": ["Thunderclap"], "floor": 48, "hp": 86, "maxhp": 145, "block": 19, "energy": 4, "v2.0": false}
+{"frame": 238734, "card": "Limit Break+", "hand": ["Thunderclap"], "floor": 48, "hp": 86, "maxhp": 145, "block": 19, "energy": 4, "v2.0": false}
+{"frame": 238848, "card": "Anger", "hand": ["Thunderclap", "Double Tap", "Flame Barrier", "Offering", "Battle Trance"], "floor": 48, "hp": 86, "maxhp": 14, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 239594, "card": "Uppercut+", "hand": ["Defend+", "Defend+", "Feed+", "Whirlwind"], "floor": 48, "hp": 86, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 239674, "card": "Feed+", "hand": ["Defend+", "Defend+", "Whirlwind"], "floor": 48, "hp": 86, "maxhp": 14, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 246144, "card": "Feel No Pain", "hand": ["Defend+", "Defend+", "Disarm", "Flash of Steel"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 249824, "card": "Flash of Steel+", "hand": ["Defend+", "Defend+", "Disarm"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 249894, "card": "Feel No Pain", "hand": ["Defend+", "Defend+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 250434, "card": "Disarm", "hand": ["Defend+", "Defend+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 250560, "card": "Evolve", "hand": ["Defend+", "Defend+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 250606, "card": "Defend+", "hand": ["Defend+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 250674, "card": "Defend+", "hand": [], "floor": 50, "hp": 114, "maxhp": 14, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 251150, "card": "Feel No Pain", "hand": ["Thunderclap", "Fiend Fire", "Whirlwind"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 251346, "card": "Fiend Fire", "hand": ["Thunderclap", "Ascender's Bane", "Whirlwind"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 252514, "card": "True Grit+", "hand": ["Feed", "Clash", "Defend"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 252922, "card": "Flame Barrier", "hand": ["Limit Break+", "Feed+", "Uppercut+", "Decay", "Entrench"], "floor": 50, "hp": 114, "maxhp": 14, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 252944, "card": "Flame Barrier", "hand": ["Feed+", "Uppercut+", "Decay"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 253056, "card": "Uppercut+", "hand": ["Limit Break+", "Feed+", "Defend+", "Carnage"], "floor": 50, "hp": 114, "maxhp": 14, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 253704, "card": "Dark Embrace+", "hand": ["Limit Break", "Offering", "Disarm", "Seeing Red+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 253998, "card": "Seeing Red+", "hand": ["Offering", "Defend+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 255202, "card": "Battle Trance", "hand": ["Limit Break", "Double Tap", "Anger", "Offering", "Disarm"], "floor": 50, "hp": 114, "maxhp": 14, "block": 9, "energy": 6, "v2.0": false}
+{"frame": 255382, "card": "Inflame+", "hand": ["Defend+", "Limit Break"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 255580, "card": "Limit Break", "hand": ["Defend+", "Double Tap", "Anger", "Flame Barrier"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 255976, "card": "Defend", "hand": [], "floor": 50, "hp": 114, "maxhp": 14, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 256462, "card": "Disarm", "hand": ["Defend+", "Double Tap", "Anger", "Flame Barrier"], "floor": 50, "hp": 114, "maxhp": 14, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 257246, "card": "Limit Break+", "hand": ["Defend+", "Defend+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 257328, "card": "True Grit+", "hand": ["Defend", "Defend+", "Defend+", "Flash of Steel", "Uppercut+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 258120, "card": "Flash of Steel+", "hand": ["Defend+", "Defend+", "Feed", "Defend+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 259120, "card": "Limit Break+", "hand": ["Defend", "Anger", "Defend"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 259222, "card": "True Grit+", "hand": ["Defend", "Anger", "Feed", "Double Tap", "Battle Trance"], "floor": 50, "hp": 114, "maxhp": 14, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 260228, "card": "Flame Barrier", "hand": ["Defend", "Anger", "Feed+"], "floor": 50, "hp": 114, "maxhp": 14, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 261264, "card": "Limit Break+", "hand": [], "floor": 50, "hp": 110, "maxhp": 14, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 261286, "card": "Limit Break+", "hand": ["Feed+"], "floor": 50, "hp": 110, "maxhp": 14, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 261304, "card": "Limit Break+", "hand": ["Offering"], "floor": 50, "hp": 110, "maxhp": 14, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 261564, "card": "Flash of Steel", "hand": ["Offering", "Feed+", "Dazed", "Dazed", "Flame Barrier"], "floor": 50, "hp": 110, "maxhp": 14, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 261756, "card": "Battle Trance", "hand": ["Offering", "Feed+", "Dazed", "Dazed", "Flame Barrier"], "floor": 50, "hp": 110, "maxhp": 14, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 261978, "card": "True Grit+", "hand": ["Offering", "Dazed", "Dazed", "Flame Barrier"], "floor": 50, "hp": 110, "maxhp": 14, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 262884, "card": "Flame Barrier", "hand": ["Dazed", "Offering", "Feed+"], "floor": 50, "hp": 110, "maxhp": 14, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 263896, "card": "Battle Trance", "hand": ["Defend", "Offering", "Feed+"], "floor": 50, "hp": 110, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 263916, "card": "Battle Trance", "hand": ["Defend", "Defend+", "Defend+", "Offering", "Feed+", "Flame Barrier"], "floor": 50, "hp": 110, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 264084, "card": "Limit Break+", "hand": ["Defend", "Defend", "Feed+", "Offering"], "floor": 50, "hp": 110, "maxhp": 14, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 264178, "card": "Anger", "hand": ["Defend+", "Defend+", "Offering", "Feed+", "Double Tap", "Flame Barrier"], "floor": 50, "hp": 110, "maxhp": 14, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 264256, "card": "Double Tap", "hand": ["Dazed", "Defend+", "Feed+", "Offering", "Dazed"], "floor": 50, "hp": 110, "maxhp": 14, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 264318, "card": "Feed+", "hand": ["Defend+", "Defend+", "Offering", "Dazed", "Dazed"], "floor": 50, "hp": 110, "maxhp": 14, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 265284, "card": "True Grit+", "hand": ["Battle Trance", "Offering", "Double Tap", "Defend+"], "floor": 50, "hp": 114, "maxhp": 15, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 265532, "card": "Double Tap", "hand": ["Flash of Steel", "Flex"], "floor": 50, "hp": 114, "maxhp": 15, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 265638, "card": "Flash of Steel", "hand": ["Offering", "Defend+", "Battle Trance", "Flame Barrier"], "floor": 50, "hp": 114, "maxhp": 15, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 265832, "card": "Limit Break+", "hand": ["Offering", "Anger", "Battle Trance", "Flame Barrier", "Defend+"], "floor": 50, "hp": 114, "maxhp": 15, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 265908, "card": "Defend+", "hand": ["Offering", "Anger", "Battle Trance", "Flame Barrier"], "floor": 50, "hp": 114, "maxhp": 15, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 265978, "card": "Anger", "hand": [], "floor": 50, "hp": 114, "maxhp": 15, "block": 26, "energy": 1, "v2.0": false}
+{"frame": 267048, "card": "Feel No Pain", "hand": ["Thunderclap", "Anger", "True Grit+", "Flame Barrier"], "floor": 51, "hp": 120, "maxhp": 15, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 267146, "card": "Feel No Pain", "hand": ["Thunderclap", "True Grit+", "Anger", "Flame Barrier"], "floor": 51, "hp": 120, "maxhp": 15, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 267270, "card": "True Grit+", "hand": ["Thunderclap", "Anger", "Flame Barrier"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 268490, "card": "Inflame+", "hand": ["Offering", "Fiend Fire", "Limit Break+", "Defend+"], "floor": 51, "hp": 120, "maxhp": 15, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 268618, "card": "Dark Embrace+", "hand": ["Defend+", "Offering", "Fiend Fire", "Limit Break"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 268752, "card": "Limit Break+", "hand": ["Defend+", "Offering", "Fiend Fire", "Defend+"], "floor": 51, "hp": 120, "maxhp": 15, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 270722, "card": "Seeing Red+", "hand": ["Limit Break", "Feed+", "Battle Trance"], "floor": 51, "hp": 120, "maxhp": 15, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 271214, "card": "Uppercut+", "hand": ["Bash", "Feed+", "Battle Trance", "Ascender's Bane", "Whirlwind"], "floor": 51, "hp": 120, "maxhp": 15, "block": 12, "energy": 6, "v2.0": false}
+{"frame": 271322, "card": "Battle Trance", "hand": ["Ascender's Bane", "Bash", "Ghostly Armor", "Whirlwind"], "floor": 51, "hp": 120, "maxhp": 15, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 271444, "card": "Feel No Pain", "hand": ["Feed+", "Defend"], "floor": 51, "hp": 120, "maxhp": 15, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 271620, "card": "Disarm", "hand": ["Feed", "Defend"], "floor": 51, "hp": 120, "maxhp": 15, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 272586, "card": "Disarm+", "hand": ["Double Tap", "Defend+", "Carnage", "Flash of Steel", "Disarm"], "floor": 51, "hp": 118, "maxhp": 15, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 272796, "card": "Disarm+", "hand": ["Double Tap", "Defend+", "Bash", "Carnage", "Flash of Steel"], "floor": 51, "hp": 118, "maxhp": 15, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 272878, "card": "Evolve", "hand": ["Flash of Steel", "Double Tap", "Defend", "Bash"], "floor": 51, "hp": 118, "maxhp": 15, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 273828, "card": "Uppercut+", "hand": ["Offering", "Defend+", "Defend+", "Feed+", "Flame Barrier", "Battle Trance", "True Grit+"], "floor": 51, "hp": 118, "maxhp": 15, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 274318, "card": "Slimed", "hand": ["Offering", "Defend+", "Feed+", "Slimed", "Anger"], "floor": 51, "hp": 118, "maxhp": 15, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 275074, "card": "Limit Break+", "hand": ["Slimed", "Bash", "Fiend Fire", "True Grit", "Anger"], "floor": 51, "hp": 118, "maxhp": 15, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 275246, "card": "Fiend Fire+", "hand": ["Slimed", "True Grit+", "Defend+", "Shame", "Double Tap", "Anger"], "floor": 51, "hp": 118, "maxhp": 15, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 275896, "card": "Uppercut+", "hand": ["Offering", "Feed+", "Shame", "Infernal Blade+", "Whirlwind", "Flash of Steel+"], "floor": 51, "hp": 118, "maxhp": 15, "block": 72, "energy": 3, "v2.0": false}
+{"frame": 276100, "card": "Flash of Steel+", "hand": ["Feed+", "Shame", "Defend+", "Defend", "Whirlwind"], "floor": 51, "hp": 118, "maxhp": 15, "block": 72, "energy": 1, "v2.0": false}
+{"frame": 276152, "card": "Feed+", "hand": ["Offering", "Slimed", "Defend", "Defend+", "Bash", "Whirlwind", "Battle Trance"], "floor": 51, "hp": 118, "maxhp": 15, "block": 72, "energy": 1, "v2.0": false}
+done

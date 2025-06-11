@@ -1,0 +1,358 @@
+{"frame": 17278, "card": "Strike", "hand": ["Strike", "Bash", "Strike", "Defend", "Strike", "Ascender's Bane"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 17338, "card": "Strike", "hand": ["Strike", "Bash", "Strike", "Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 17392, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 18054, "card": "Defend", "hand": ["Defend", "Defend", "Strike", "Strike", "Strike", "Bash"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18112, "card": "Strike", "hand": ["Defend", "Defend", "Bash"], "floor": 1, "hp": 61, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 18488, "card": "Strike", "hand": ["Strike", "Defend", "Strike", "Defend", "Strike", "Defend"], "floor": 1, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18534, "card": "Strike", "hand": ["Defend", "Strike", "Defend", "Strike", "Defend"], "floor": 1, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 19186, "card": "Bash", "hand": ["Defend", "Strike", "Defend", "Strike", "Defend", "Strike"], "floor": 1, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 19600, "card": "Defend", "hand": ["Defend", "Strike", "Strike", "Defend"], "floor": 1, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 19694, "card": "Strike", "hand": ["Defend", "Defend", "Strike", "Strike"], "floor": 1, "hp": 59, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 19766, "card": "Defend", "hand": ["Defend", "Strike", "Strike"], "floor": 1, "hp": 59, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 20160, "card": "Bash", "hand": ["Strike", "Defend", "Strike", "Strike", "Defend", "Defend"], "floor": 1, "hp": 57, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20218, "card": "Strike", "hand": [], "floor": 1, "hp": 57, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 21156, "card": "Defend", "hand": ["Strike", "Strike", "Strike", "Bash"], "floor": 2, "hp": 57, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21190, "card": "Defend", "hand": ["Strike", "Strike", "Strike", "Ascender's Bane", "Bash"], "floor": 2, "hp": 57, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21286, "card": "Strike", "hand": ["Strike", "Strike", "Ascender's Bane", "Bash"], "floor": 2, "hp": 57, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 21858, "card": "Wild Strike", "hand": ["Defend", "Defend", "Strike", "Strike", "Strike", "Bash"], "floor": 2, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21914, "card": "Bash", "hand": [], "floor": 2, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22890, "card": "Wild Strike", "hand": ["Defend", "Strike", "Bash", "Ascender's Bane", "Strike"], "floor": 3, "hp": 53, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 23168, "card": "Defend", "hand": ["Strike", "Defend", "Strike", "Wound"], "floor": 3, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23296, "card": "Defend", "hand": ["Strike", "Strike", "Defend", "Strike", "Entrench"], "floor": 3, "hp": 53, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 23342, "card": "Strike", "hand": ["Strike", "Strike", "Defend"], "floor": 3, "hp": 53, "maxhp": 75, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 23376, "card": "Strike", "hand": ["Strike", "Wound", "Defend"], "floor": 3, "hp": 53, "maxhp": 75, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 23712, "card": "Strike", "hand": ["Strike", "Defend", "Wild Strike", "Defend", "Defend", "Wound"], "floor": 3, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23770, "card": "Wild Strike", "hand": [], "floor": 3, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26408, "card": "Flame Barrier", "hand": ["Demon Form", "Defend", "Defend"], "floor": 5, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26428, "card": "Flame Barrier", "hand": ["Demon Form", "Defend", "Defend"], "floor": 5, "hp": 53, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 26490, "card": "Bash", "hand": ["Defend", "Strike", "Demon Form", "Defend", "Entrench"], "floor": 5, "hp": 53, "maxhp": 75, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 27736, "card": "Strike", "hand": ["Demon Form", "Defend", "Defend", "Ascender's Bane"], "floor": 5, "hp": 53, "maxhp": 75, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 28076, "card": "Wild Strike", "hand": ["Strike", "Defend", "Strike", "Defend", "Strike"], "floor": 5, "hp": 51, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 28108, "card": "Strike", "hand": [], "floor": 5, "hp": 51, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 36272, "card": "Dual Wield", "hand": ["Defend", "Defend", "Bash", "Strike"], "floor": 6, "hp": 51, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 36534, "card": "Bash", "hand": ["Strike", "Strike", "Defend", "Defend", "Bash"], "floor": 6, "hp": 51, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 36586, "card": "Bash", "hand": ["Strike", "Strike", "Defend", "Defend"], "floor": 6, "hp": 51, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 36670, "card": "Strike", "hand": ["Defend", "Strike", "Strike"], "floor": 6, "hp": 51, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 38462, "card": "Demon Form", "hand": ["Strike", "Defend", "Strike", "Strike", "Strike", "Bash"], "floor": 6, "hp": 51, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38674, "card": "Bash", "hand": ["Strike", "Defend", "Strike", "Strike", "Strike"], "floor": 6, "hp": 51, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38714, "card": "Strike", "hand": ["Strike", "Defend", "Strike", "Strike", "Strike"], "floor": 6, "hp": 51, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 39424, "card": "Dual Wield", "hand": ["Strike", "Defend", "Defend", "Bash", "Wild Strike"], "floor": 6, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 39556, "card": "Bash", "hand": ["Strike", "Wild Strike", "Bash", "Defend", "Ascender's Bane"], "floor": 6, "hp": 43, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 39598, "card": "Bash", "hand": ["Strike", "Wild Strike", "Defend", "Ascender's Bane"], "floor": 6, "hp": 43, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 39638, "card": "Wild Strike", "hand": [], "floor": 6, "hp": 43, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 47806, "card": "Bash", "hand": ["Defend", "Defend+", "Strike", "Defend", "Defend+"], "floor": 11, "hp": 20, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47930, "card": "Strike", "hand": ["Defend", "Defend+", "Flame Barrier", "Defend", "Defend"], "floor": 11, "hp": 20, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47972, "card": "Defend+", "hand": ["Defend", "Flame Barrier", "Defend", "Defend"], "floor": 11, "hp": 20, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 48852, "card": "Uppercut", "hand": ["Strike", "Strike", "Strike", "Ascender's Bane", "Strike"], "floor": 11, "hp": 20, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 48980, "card": "Strike", "hand": ["Strike", "Dual Wield", "Ascender's Bane", "Strike"], "floor": 11, "hp": 20, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 49552, "card": "Defend", "hand": ["Wild Strike", "Demon Form", "Strike"], "floor": 11, "hp": 16, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 49814, "card": "Demon Form", "hand": ["Wild Strike", "Strike", "Uppercut", "Dual Wield", "Strike"], "floor": 11, "hp": 16, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 50260, "card": "Wild Strike", "hand": ["Strike", "Uppercut", "Dual Wield", "Strike"], "floor": 11, "hp": 16, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 50316, "card": "Strike", "hand": ["Uppercut", "Dual Wield", "Strike"], "floor": 11, "hp": 16, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 50788, "card": "Strike", "hand": [], "floor": 11, "hp": 15, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58044, "card": "Uppercut", "hand": ["Strike", "Bash", "Strike", "Defend", "Strike", "Mind Blast"], "floor": 14, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58108, "card": "Defend", "hand": ["Strike", "Bash", "Strike", "Wild Strike"], "floor": 14, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58130, "card": "Defend", "hand": ["Strike", "Bash", "Strike", "Wild Strike"], "floor": 14, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58148, "card": "Defend", "hand": ["Strike", "Bash", "Strike", "Wild Strike"], "floor": 14, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58302, "card": "Strike", "hand": ["Strike", "Bash", "Strike", "Wild Strike"], "floor": 14, "hp": 37, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 58990, "card": "Flame Barrier", "hand": ["Demon Form", "Defend", "Juggernaut"], "floor": 14, "hp": 32, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 59268, "card": "Flame Barrier", "hand": ["Demon Form", "Defend", "Juggernaut"], "floor": 14, "hp": 32, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 59306, "card": "Flame Barrier", "hand": ["Demon Form", "Defend"], "floor": 14, "hp": 32, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 59330, "card": "Defend", "hand": ["Defend+", "Juggernaut", "Burn"], "floor": 14, "hp": 32, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 59360, "card": "Demon Form", "hand": ["Defend+", "Juggernaut"], "floor": 14, "hp": 32, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 59972, "card": "Flame Barrier", "hand": [], "floor": 14, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 60022, "card": "Flame Barrier", "hand": ["Defend+", "Shockwave", "Entrench"], "floor": 14, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 60044, "card": "Flame Barrier", "hand": ["Defend+", "Shockwave"], "floor": 14, "hp": 29, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 60164, "card": "Heavy Blade", "hand": ["Defend+", "Strike", "Wild Strike", "Ascender's Bane", "Shockwave"], "floor": 14, "hp": 29, "maxhp": 75, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 60370, "card": "Wild Strike", "hand": ["Defend+", "Strike", "Ascender's Bane", "Shockwave"], "floor": 14, "hp": 29, "maxhp": 75, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 60418, "card": "Strike", "hand": ["Ascender's Bane", "Shockwave", "Defend"], "floor": 14, "hp": 29, "maxhp": 75, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 61108, "card": "Uppercut", "hand": ["Defend", "Dazed", "Dual Wield"], "floor": 14, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 61808, "card": "Bash", "hand": ["Strike", "Defend+", "Strike", "Dazed", "Dazed", "Dazed"], "floor": 14, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 61868, "card": "Strike", "hand": [], "floor": 14, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 65818, "card": "Juggernaut", "hand": ["Strike", "Bash", "Dual Wield", "Wild Strike", "Defend+"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 65886, "card": "Defend+", "hand": ["Strike", "Bash", "Sever Soul", "Dual Wield", "Wild Strike"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 66312, "card": "Flame Barrier", "hand": ["Strike", "Defend"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 66400, "card": "Flame Barrier", "hand": ["Defend", "Defend", "Strike", "Shockwave"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 66446, "card": "Shockwave", "hand": ["Strike", "Defend", "Defend"], "floor": 16, "hp": 54, "maxhp": 75, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 66522, "card": "Strike", "hand": ["Strike", "Ascender's Bane", "Defend", "Defend"], "floor": 16, "hp": 54, "maxhp": 75, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 66550, "card": "Strike", "hand": ["Ascender's Bane", "Defend", "Defend"], "floor": 16, "hp": 54, "maxhp": 75, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 67330, "card": "Uppercut", "hand": ["Demon Form+", "Strike", "Defend+", "Heavy Blade", "Defend+", "Slimed"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 67630, "card": "Demon Form+", "hand": ["Strike", "Heavy Blade", "Defend", "Slimed", "Defend+"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 67666, "card": "Defend+", "hand": ["Strike", "Heavy Blade", "Slimed"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 68126, "card": "Bash", "hand": ["Wild Strike", "Shame", "Strike", "Defend", "Sever Soul", "Strike"], "floor": 16, "hp": 34, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 68180, "card": "Wild Strike", "hand": ["Slimed", "Strike", "Defend", "Strike", "Sever Soul"], "floor": 16, "hp": 34, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 68394, "card": "Defend", "hand": ["Bash", "Strike", "Cleave"], "floor": 16, "hp": 34, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 68516, "card": "Sever Soul", "hand": ["Strike", "Strike", "Slimed"], "floor": 16, "hp": 34, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 68600, "card": "Strike", "hand": ["Strike"], "floor": 16, "hp": 34, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 69206, "card": "Defend", "hand": ["Shame", "Strike", "Flame Barrier", "Dual Wield"], "floor": 16, "hp": 34, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 69272, "card": "Strike", "hand": [], "floor": 16, "hp": 34, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 101806, "card": "Barricade", "hand": ["Defend"], "floor": 18, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 101832, "card": "Barricade", "hand": ["Rage", "Defend", "Ascender's Bane"], "floor": 18, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 102164, "card": "Barricade", "hand": ["Defend", "Ascender's Bane", "Sever Soul"], "floor": 18, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 102216, "card": "Defend", "hand": ["Defend", "Sever Soul"], "floor": 18, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 102744, "card": "Defend+", "hand": ["Strike", "Bash", "Strike", "Demon Form+", "Heavy Blade", "Wild Strike"], "floor": 18, "hp": 65, "maxhp": 75, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 102834, "card": "Bash", "hand": ["Strike", "Wild Strike", "Strike", "Demon Form+", "Heavy Blade"], "floor": 18, "hp": 65, "maxhp": 75, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 102880, "card": "Strike", "hand": ["Strike", "Wild Strike", "Demon Form+", "Heavy Blade"], "floor": 18, "hp": 65, "maxhp": 75, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 102932, "card": "Strike", "hand": ["Wild Strike", "Demon Form+", "Heavy Blade"], "floor": 18, "hp": 65, "maxhp": 75, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 103558, "card": "Uppercut", "hand": ["Strike", "Strike", "Dual Wield"], "floor": 18, "hp": 65, "maxhp": 75, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 103784, "card": "Defend+", "hand": ["Strike", "Strike"], "floor": 18, "hp": 65, "maxhp": 75, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 104682, "card": "Bash", "hand": ["Strike", "Juggernaut", "Strike", "Dazed", "Sever Soul"], "floor": 18, "hp": 65, "maxhp": 75, "block": 9, "energy": 4, "v2.0": false}
+{"frame": 104852, "card": "Demon Form+", "hand": ["Sever Soul"], "floor": 18, "hp": 65, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 104916, "card": "Sever Soul", "hand": ["Dazed", "Juggernaut", "Strike"], "floor": 18, "hp": 65, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 104994, "card": "Sever Soul", "hand": ["Strike", "Strike"], "floor": 18, "hp": 65, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 106466, "card": "Uppercut", "hand": ["Wild Strike", "Defend", "Defend", "Defend+", "Strike", "Heavy Blade"], "floor": 19, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 106610, "card": "Heavy Blade", "hand": ["Defend", "Defend", "Wild Strike", "Defend", "Strike"], "floor": 19, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 107508, "card": "Shockwave", "hand": ["Defend+", "Demon Form", "Strike", "Flame Barrier"], "floor": 19, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 107876, "card": "Flame Barrier+", "hand": ["Defend", "Strike", "Demon Form", "Barricade", "Strike"], "floor": 19, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 107910, "card": "Flame Barrier", "hand": ["Defend", "Anger", "Barricade", "Strike"], "floor": 19, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 108332, "card": "Dual Wield", "hand": ["Juggernaut", "Demon Form+"], "floor": 19, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 108624, "card": "Bash", "hand": ["Juggernaut", "Strike", "Demon Form+", "Sever Soul", "Sever Soul"], "floor": 19, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 108694, "card": "Sever Soul", "hand": ["Strike", "Juggernaut", "Ascender's Bane", "Sever Soul"], "floor": 19, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 108838, "card": "Sever Soul", "hand": [], "floor": 19, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 116630, "card": "Flame Barrier", "hand": [], "floor": 21, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 116816, "card": "Demon Form+", "hand": ["Heavy Blade", "Strike"], "floor": 21, "hp": 65, "maxhp": 75, "block": 20, "energy": 2, "v2.0": false}
+{"frame": 117656, "card": "Sever Soul", "hand": ["Defend", "Uppercut", "Juggernaut", "Defend", "Ascender's Bane"], "floor": 21, "hp": 65, "maxhp": 75, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 118314, "card": "True Grit+", "hand": ["Wild Strike", "Bash", "Strike", "Strike", "Shockwave"], "floor": 21, "hp": 65, "maxhp": 75, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 119178, "card": "Uppercut", "hand": ["True Grit+", "Strike", "Wound", "Dual Wield", "Wild Strike"], "floor": 21, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119292, "card": "Wild Strike", "hand": [], "floor": 21, "hp": 65, "maxhp": 75, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 120862, "card": "Bash", "hand": ["Strike", "Wild Strike", "Demon Form+", "Heavy Blade", "Barricade"], "floor": 22, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 121132, "card": "Demon Form+", "hand": ["Strike", "Barricade"], "floor": 22, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 121154, "card": "Demon Form+", "hand": ["Strike", "Barricade"], "floor": 22, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 121264, "card": "Sever Soul", "hand": ["Strike", "Wild Strike", "Barricade"], "floor": 22, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 121928, "card": "Uppercut", "hand": [], "floor": 22, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 128268, "card": "Juggernaut", "hand": ["Defend+", "Defend"], "floor": 24, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 128288, "card": "Juggernaut", "hand": ["Defend+", "Inflame"], "floor": 24, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 128450, "card": "Shockwave", "hand": ["Defend", "Strike", "Defend", "Flame Barrier", "Strike"], "floor": 24, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 128524, "card": "Defend", "hand": ["Strike"], "floor": 24, "hp": 65, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 128560, "card": "Flame Barrier", "hand": ["Strike"], "floor": 24, "hp": 65, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 129412, "card": "Defend+", "hand": ["True Grit+", "Demon Form+", "Wild Strike", "Sever Soul"], "floor": 24, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 130352, "card": "Demon Form+", "hand": ["Wild Strike", "Uppercut", "Blood for Blood"], "floor": 24, "hp": 65, "maxhp": 75, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 130634, "card": "Blood for Blood", "hand": ["Wild Strike", "Demon Form+", "Uppercut"], "floor": 24, "hp": 65, "maxhp": 75, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 134652, "card": "Bash", "hand": ["Strike", "Strike", "Barricade", "Wound", "Dual Wield+"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 134792, "card": "Dual Wield+", "hand": ["Strike", "Strike", "Strike", "Barricade", "Strike"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 134830, "card": "Smite", "hand": ["Strike", "Strike", "Barricade", "Strike", "Wound"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 134872, "card": "Strike", "hand": ["Strike", "Barricade", "Strike", "Wound"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 134910, "card": "Strike", "hand": ["Barricade", "Strike", "Wound"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 135486, "card": "Heavy Blade", "hand": ["Defend", "Wild Strike", "Bash", "Defend+", "Strike", "Dual Wield+"], "floor": 24, "hp": 50, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 135556, "card": "Bash", "hand": [], "floor": 24, "hp": 50, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 140432, "card": "Uppercut", "hand": ["Strike", "Heavy Blade", "Bash", "Defend"], "floor": 28, "hp": 50, "maxhp": 75, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 140494, "card": "Heavy Blade", "hand": ["Bash", "Defend", "Strike"], "floor": 28, "hp": 50, "maxhp": 75, "block": 8, "energy": 0, "v2.0": false}
+{"frame": 141184, "card": "Shockwave", "hand": ["Defend", "Strike", "Strike"], "floor": 28, "hp": 40, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 141720, "card": "Strike", "hand": ["Defend", "Barricade", "Strike", "Sever Soul+", "Blood for Blood"], "floor": 28, "hp": 40, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 142402, "card": "Sever Soul+", "hand": ["Defend", "Barricade", "Blood for Blood", "Strike"], "floor": 28, "hp": 40, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 143688, "card": "Dual Wield+", "hand": ["Juggernaut", "True Grit", "Strike"], "floor": 28, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144034, "card": "Dual Wield+", "hand": ["Juggernaut", "True Grit+", "Strike"], "floor": 28, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144210, "card": "Strike", "hand": ["True Grit+", "Defend", "Strike", "Strike", "Juggernaut", "Flame Barrier+"], "floor": 28, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144248, "card": "Strike", "hand": ["Juggernaut", "True Grit", "Defend", "Strike", "Flame Barrier+"], "floor": 28, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144290, "card": "Strike", "hand": ["Juggernaut", "True Grit+", "Defend+", "Flame Barrier+"], "floor": 28, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144326, "card": "Flame Barrier+", "hand": ["True Grit+", "Defend+"], "floor": 28, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144388, "card": "Defend+", "hand": ["Juggernaut", "True Grit+"], "floor": 28, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 144442, "card": "True Grit+", "hand": ["Juggernaut", "Ascender's Bane"], "floor": 28, "hp": 37, "maxhp": 75, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 147292, "card": "Shockwave", "hand": ["True Grit+", "Blood for Blood", "Sever Soul+"], "floor": 29, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 147698, "card": "Blood for Blood", "hand": ["True Grit+", "Defend+", "Flame Barrier+", "Strike", "Sever Soul+", "Sever Soul+"], "floor": 29, "hp": 37, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 147764, "card": "Strike", "hand": ["True Grit+", "Defend+", "Flame Barrier+", "Sever Soul+"], "floor": 29, "hp": 37, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 147914, "card": "True Grit+", "hand": ["Flame Barrier+", "Sever Soul+"], "floor": 29, "hp": 37, "maxhp": 75, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 148888, "card": "Bash", "hand": ["Barricade", "Strike", "Defend", "Heavy Blade", "Demon Form+"], "floor": 29, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 149012, "card": "Demon Form+", "hand": ["Barricade", "Strike", "Defend", "Heavy Blade"], "floor": 29, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 149126, "card": "Strike", "hand": ["Barricade", "Defend", "Heavy Blade", "Dual Wield+"], "floor": 29, "hp": 37, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 149740, "card": "Defend+", "hand": ["Spot Weakness+", "Juggernaut", "Strike", "Dazed", "Defend", "Uppercut"], "floor": 29, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 150110, "card": "Spot Weakness+", "hand": ["Juggernaut", "Strike", "Defend", "Uppercut"], "floor": 29, "hp": 37, "maxhp": 75, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 150926, "card": "Wild Strike", "hand": ["Strike", "Defend+", "Defend", "Ascender's Bane"], "floor": 29, "hp": 27, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 151560, "card": "Dual Wield+", "hand": ["Barricade", "Strike", "Strike"], "floor": 29, "hp": 27, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 151630, "card": "Dual Wield+", "hand": ["Strike", "Defend+", "Strike", "Strike", "Strike", "Barricade"], "floor": 29, "hp": 27, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 151696, "card": "Strike", "hand": ["Barricade", "Strike", "Defend+", "Strike", "Spot Weakness+", "Wound"], "floor": 29, "hp": 27, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 151728, "card": "Strike", "hand": [], "floor": 29, "hp": 27, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 155666, "card": "Shockwave", "hand": ["Defend", "Strike"], "floor": 31, "hp": 27, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 155700, "card": "Shockwave", "hand": ["Defend", "Strike", "Spot Weakness+", "Strike"], "floor": 31, "hp": 27, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 155932, "card": "Strike", "hand": ["Defend", "Strike", "Flame Barrier+", "Sever Soul+", "Spot Weakness+"], "floor": 31, "hp": 27, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 156014, "card": "Sever Soul+", "hand": ["Defend", "Strike", "Flame Barrier+", "Spot Weakness+"], "floor": 31, "hp": 27, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 156090, "card": "Sever Soul+", "hand": ["Strike"], "floor": 31, "hp": 27, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 156800, "card": "True Grit+", "hand": ["Strike", "Heavy Blade"], "floor": 31, "hp": 27, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 157054, "card": "Defend", "hand": ["Strike", "Heavy Blade", "Uppercut+"], "floor": 31, "hp": 27, "maxhp": 75, "block": 9, "energy": 4, "v2.0": true}
+{"frame": 157338, "card": "Heavy Blade", "hand": ["Strike", "Ascender's Bane", "Uppercut+"], "floor": 31, "hp": 27, "maxhp": 75, "block": 14, "energy": 4, "v2.0": true}
+{"frame": 159940, "card": "Demon Form+", "hand": ["Defend", "Mind Blast", "Bash", "True Grit+"], "floor": 33, "hp": 52, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 160040, "card": "Demon Form+", "hand": ["Defend", "Void", "Bash", "True Grit+", "Blood for Blood"], "floor": 33, "hp": 52, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 160418, "card": "Bash", "hand": ["Defend", "Wild Strike", "True Grit+"], "floor": 33, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 160464, "card": "True Grit+", "hand": ["Defend", "Blood for Blood", "Wild Strike"], "floor": 33, "hp": 52, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 161206, "card": "Defend", "hand": ["Strike", "Heavy Blade"], "floor": 33, "hp": 52, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 161362, "card": "Sever Soul+", "hand": ["Strike", "Strike", "Heavy Blade+", "Strike"], "floor": 33, "hp": 52, "maxhp": 75, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 161398, "card": "Strike", "hand": ["Heavy Blade+", "Strike"], "floor": 33, "hp": 52, "maxhp": 75, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 161426, "card": "Strike", "hand": ["Heavy Blade+"], "floor": 33, "hp": 52, "maxhp": 75, "block": 5, "energy": 1, "v2.0": true}
+{"frame": 162030, "card": "Barricade", "hand": ["Defend+", "Strike"], "floor": 33, "hp": 44, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 162120, "card": "Strike", "hand": ["Defend+", "Uppercut+"], "floor": 33, "hp": 44, "maxhp": 75, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 163286, "card": "Defend+", "hand": ["Blood for Blood+", "Flame Barrier+", "Dual Wield+", "Sever Soul+", "Blood for Blood"], "floor": 33, "hp": 34, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 163554, "card": "Blood for Blood", "hand": ["Dual Wield+", "Sever Soul+"], "floor": 33, "hp": 34, "maxhp": 75, "block": 24, "energy": 1, "v2.0": true}
+{"frame": 163958, "card": "True Grit+", "hand": ["Strike", "Strike", "Spot Weakness+"], "floor": 33, "hp": 34, "maxhp": 75, "block": 24, "energy": 4, "v2.0": true}
+{"frame": 164140, "card": "Bash", "hand": ["Strike", "Strike", "Defend+", "Spot Weakness+"], "floor": 33, "hp": 34, "maxhp": 75, "block": 33, "energy": 2, "v2.0": true}
+{"frame": 164808, "card": "Heavy Blade+", "hand": ["Defend", "Strike", "Defend", "Strike", "Headbutt", "Blood for Blood"], "floor": 33, "hp": 34, "maxhp": 75, "block": 6, "energy": 4, "v2.0": true}
+{"frame": 164860, "card": "Strike", "hand": ["Defend", "Strike", "Defend", "Uppercut+", "Blood for Blood"], "floor": 33, "hp": 34, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 164908, "card": "Strike", "hand": ["Defend", "Defend", "Uppercut+", "Blood for Blood"], "floor": 33, "hp": 34, "maxhp": 75, "block": 6, "energy": 4, "v2.0": true}
+{"frame": 164968, "card": "Uppercut+", "hand": ["Defend", "Defend", "Blood for Blood"], "floor": 33, "hp": 34, "maxhp": 75, "block": 6, "energy": 4, "v2.0": true}
+{"frame": 165008, "card": "Defend", "hand": ["Defend", "Bloodletting"], "floor": 33, "hp": 34, "maxhp": 75, "block": 6, "energy": 3, "v2.0": true}
+{"frame": 166190, "card": "Defend", "hand": ["Bash"], "floor": 33, "hp": 34, "maxhp": 75, "block": 10, "energy": 4, "v2.0": true}
+{"frame": 166222, "card": "Defend+", "hand": ["Bash"], "floor": 33, "hp": 34, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 166316, "card": "Bash", "hand": ["Strike", "Dual Wield+"], "floor": 33, "hp": 34, "maxhp": 75, "block": 26, "energy": 4, "v2.0": true}
+{"frame": 166896, "card": "Sever Soul+", "hand": ["Flame Barrier+", "Bash", "Defend", "Blood for Blood+", "Defend"], "floor": 33, "hp": 34, "maxhp": 75, "block": 26, "energy": 4, "v2.0": true}
+{"frame": 184112, "card": "True Grit+", "hand": ["Heavy Blade+", "Strike", "Defend+", "Barricade", "Blood for Blood+"], "floor": 35, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 184466, "card": "Defend+", "hand": ["Heavy Blade", "Strike"], "floor": 35, "hp": 65, "maxhp": 75, "block": 9, "energy": 3, "v2.0": true}
+{"frame": 184664, "card": "Heavy Blade+", "hand": ["Blood for Blood+", "Strike"], "floor": 35, "hp": 65, "maxhp": 75, "block": 17, "energy": 1, "v2.0": true}
+{"frame": 187302, "card": "Bash", "hand": ["Wild Strike", "Strike", "Strike", "Ascender's Bane"], "floor": 35, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 187410, "card": "Strike", "hand": ["Strike", "Ascender's Bane"], "floor": 35, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 188946, "card": "Flame Barrier+", "hand": ["Defend", "Strike", "Juggernaut"], "floor": 35, "hp": 58, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 189006, "card": "Uppercut+", "hand": ["Strike", "Juggernaut"], "floor": 35, "hp": 58, "maxhp": 75, "block": 16, "energy": 3, "v2.0": true}
+{"frame": 189044, "card": "Defend", "hand": ["Shockwave", "Strike", "Spot Weakness+"], "floor": 35, "hp": 58, "maxhp": 75, "block": 16, "energy": 0, "v2.0": true}
+{"frame": 189738, "card": "Dual Wield+", "hand": ["Defend+", "Defend", "Sever Soul+", "Wound", "Entrench"], "floor": 35, "hp": 58, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 189756, "card": "Dual Wield+", "hand": ["True Grit+", "Defend+", "Sever Soul+", "Sever Soul+"], "floor": 35, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 189850, "card": "Sever Soul+", "hand": ["Defend+", "Defend", "Defend+", "Sever Soul+", "Sever Soul+"], "floor": 35, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 190248, "card": "Sever Soul+", "hand": ["Sever Soul+"], "floor": 35, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 190308, "card": "Sever Soul+", "hand": [], "floor": 35, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 199308, "card": "Defend+", "hand": ["Defend+", "Defend", "True Grit+", "Strike"], "floor": 37, "hp": 58, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 199380, "card": "Defend", "hand": ["Defend+", "Wild Strike", "Strike", "Bash"], "floor": 37, "hp": 58, "maxhp": 75, "block": 8, "energy": 4, "v2.0": true}
+{"frame": 199978, "card": "Shockwave", "hand": ["True Grit+", "Wild Strike", "Strike", "Bash", "Strike", "Sever Soul+"], "floor": 37, "hp": 58, "maxhp": 75, "block": 13, "energy": 4, "v2.0": true}
+{"frame": 203986, "card": "Dual Wield+", "hand": ["True Grit+", "Wild Strike", "Strike", "Pain", "Limit Break+"], "floor": 37, "hp": 58, "maxhp": 75, "block": 13, "energy": 4, "v2.0": true}
+{"frame": 204230, "card": "Dual Wield+", "hand": ["Strike", "Anger", "True Grit", "Limit Break", "Berserk"], "floor": 37, "hp": 58, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 206404, "card": "Sever Soul+", "hand": ["Strike", "Mind Blast", "Bash", "Defend"], "floor": 37, "hp": 58, "maxhp": 75, "block": 13, "energy": 4, "v2.0": true}
+{"frame": 206682, "card": "Wild Strike", "hand": ["Bash", "Strike", "Wild Strike", "Wild Strike", "Strike"], "floor": 37, "hp": 58, "maxhp": 75, "block": 13, "energy": 1, "v2.0": true}
+{"frame": 206872, "card": "Wild Strike", "hand": ["Bash", "Strike", "Wild Strike", "Strike"], "floor": 37, "hp": 58, "maxhp": 75, "block": 13, "energy": 1, "v2.0": true}
+{"frame": 207102, "card": "Wild Strike", "hand": ["Bash", "Strike", "Strike"], "floor": 37, "hp": 58, "maxhp": 75, "block": 13, "energy": 1, "v2.0": true}
+{"frame": 207164, "card": "Bash", "hand": ["Strike", "Strike"], "floor": 37, "hp": 58, "maxhp": 75, "block": 13, "energy": 1, "v2.0": true}
+{"frame": 207558, "card": "Demon Form+", "hand": ["Defend", "Heavy Blade+"], "floor": 37, "hp": 58, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 207714, "card": "Flame Barrier+", "hand": ["Defend", "Heavy Blade+", "Wound"], "floor": 37, "hp": 58, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 207822, "card": "Defend", "hand": ["Heavy Blade+", "Ascender's Bane"], "floor": 37, "hp": 58, "maxhp": 75, "block": 16, "energy": 2, "v2.0": true}
+{"frame": 208352, "card": "Barricade", "hand": ["Strike", "Strike"], "floor": 37, "hp": 58, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 208662, "card": "Uppercut+", "hand": ["Strike", "Strike", "Blood for Blood"], "floor": 37, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 208718, "card": "Blood for Blood", "hand": ["Strike", "Strike"], "floor": 37, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 209088, "card": "Blood for Blood+", "hand": [], "floor": 37, "hp": 43, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 219550, "card": "Dual Wield+", "hand": ["Strike", "Defend+", "Bash", "Juggernaut"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 219746, "card": "Dual Wield+", "hand": ["Juggernaut", "Defend", "Bash", "Feel No Pain"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 219788, "card": "Feel No Pain", "hand": ["Bash", "Juggernaut", "Defend+", "Strike", "Disarm+", "Feel No Pain", "Feel No Pain"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 219830, "card": "Feel No Pain", "hand": ["Bash", "Juggernaut", "Strike", "Disarm+"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 219946, "card": "Juggernaut", "hand": ["Strike", "Bash", "Defend+"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 220050, "card": "Disarm+", "hand": ["Bash", "Defend+", "Strike"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 220134, "card": "Defend+", "hand": ["Strike"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 220156, "card": "Defend+", "hand": ["Bash", "Strike"], "floor": 40, "hp": 43, "maxhp": 75, "block": 9, "energy": 2, "v2.0": true}
+{"frame": 220242, "card": "Bash", "hand": ["Strike"], "floor": 40, "hp": 43, "maxhp": 75, "block": 17, "energy": 0, "v2.0": true}
+{"frame": 220944, "card": "Corruption", "hand": ["Defend", "Blood for Blood", "Defend", "Sever Soul+", "Feel No Pain"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 221210, "card": "Feel No Pain", "hand": ["Defend", "Blood for Blood+", "Sever Soul+", "Disarm+", "Entrench"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 221814, "card": "Defend", "hand": ["Infernal Blade", "Sever Soul+"], "floor": 40, "hp": 43, "maxhp": 75, "block": 29, "energy": 4, "v2.0": true}
+{"frame": 222080, "card": "Sever Soul+", "hand": ["Blood for Blood+"], "floor": 40, "hp": 43, "maxhp": 75, "block": 46, "energy": 4, "v2.0": true}
+{"frame": 222174, "card": "Blood for Blood+", "hand": [], "floor": 40, "hp": 43, "maxhp": 75, "block": 46, "energy": 4, "v2.0": true}
+{"frame": 222706, "card": "Demon Form+", "hand": ["Wild Strike", "Heavy Blade+", "Seeing Red+", "Flame Barrier+"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 222902, "card": "Defend+", "hand": ["Wild Strike"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 222924, "card": "Defend+", "hand": ["Wild Strike"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 223194, "card": "Heavy Blade+", "hand": ["Wild Strike", "Strike", "Flame Barrier+", "Blood for Blood"], "floor": 40, "hp": 43, "maxhp": 75, "block": 20, "energy": 5, "v2.0": true}
+{"frame": 223242, "card": "Blood for Blood", "hand": ["Wild Strike", "Flame Barrier+", "Strike"], "floor": 40, "hp": 43, "maxhp": 75, "block": 20, "energy": 3, "v2.0": true}
+{"frame": 223702, "card": "Barricade", "hand": ["Strike", "True Grit+"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 223804, "card": "True Grit+", "hand": ["Strike", "Limit Break", "Uppercut+", "Spot Weakness+"], "floor": 40, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 224500, "card": "Limit Break+", "hand": ["Uppercut+", "Ascender's Bane"], "floor": 40, "hp": 43, "maxhp": 75, "block": 33, "energy": 3, "v2.0": true}
+{"frame": 224650, "card": "Uppercut+", "hand": ["Ascender's Bane"], "floor": 40, "hp": 43, "maxhp": 75, "block": 57, "energy": 3, "v2.0": true}
+{"frame": 225184, "card": "Feel No Pain", "hand": ["Apparition", "Strike", "Heavy Blade+", "Flame Barrier+"], "floor": 40, "hp": 43, "maxhp": 75, "block": 44, "energy": 5, "v2.0": true}
+{"frame": 225254, "card": "Shockwave", "hand": ["Bash", "Strike", "Heavy Blade+", "Blood for Blood", "Flame Barrier+"], "floor": 40, "hp": 43, "maxhp": 75, "block": 44, "energy": 4, "v2.0": true}
+{"frame": 225534, "card": "Bash", "hand": ["Strike", "Heavy Blade+", "Blood for Blood"], "floor": 40, "hp": 43, "maxhp": 75, "block": 90, "energy": 4, "v2.0": true}
+{"frame": 225644, "card": "Strike", "hand": ["Heavy Blade+", "Blood for Blood"], "floor": 40, "hp": 43, "maxhp": 75, "block": 90, "energy": 4, "v2.0": true}
+{"frame": 225748, "card": "Heavy Blade+", "hand": [], "floor": 40, "hp": 43, "maxhp": 75, "block": 90, "energy": 3, "v2.0": true}
+{"frame": 229982, "card": "Feel No Pain", "hand": ["Sever Soul+", "Spot Weakness+", "Disarm+", "Flame Barrier+"], "floor": 42, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 230258, "card": "Feel No Pain", "hand": ["Sever Soul+", "Demon Form+", "Blood for Blood+"], "floor": 42, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 230302, "card": "Shockwave", "hand": ["Sever Soul+", "Disarm+", "Blood for Blood+", "Flame Barrier+"], "floor": 42, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 230386, "card": "Demon Form+", "hand": ["Sever Soul+", "Spot Weakness+", "Blood for Blood+", "Flame Barrier+"], "floor": 42, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 230632, "card": "Blood for Blood+", "hand": ["Reaper", "Sever Soul+", "Spot Weakness+", "Flame Barrier+"], "floor": 42, "hp": 65, "maxhp": 75, "block": 6, "energy": 1, "v2.0": true}
+{"frame": 230700, "card": "Sever Soul+", "hand": ["Spot Weakness+", "Disarm+", "Flame Barrier+"], "floor": 42, "hp": 65, "maxhp": 75, "block": 6, "energy": 1, "v2.0": true}
+{"frame": 231276, "card": "Heavy Blade+", "hand": ["Defend", "Defend", "Limit Break+", "Disarm+", "Ascender's Bane", "Strike"], "floor": 42, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 240810, "card": "Juggernaut", "hand": ["Defend+", "Wild Strike", "Shockwave", "Uppercut+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 241376, "card": "Disarm+", "hand": ["Defend+", "Flame Barrier+", "Shockwave", "Dual Wield+", "Uppercut+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 241468, "card": "Dual Wield+", "hand": ["Defend+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 241556, "card": "Dual Wield+", "hand": ["Defend", "Wild Strike", "Juggernaut", "Limit Break+", "Uppercut+", "Uppercut+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 241596, "card": "Uppercut+", "hand": ["Defend", "Wild Strike", "Juggernaut", "Flame Barrier", "Uppercut+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 241674, "card": "Uppercut", "hand": ["Defend+", "Wild Strike", "Juggernaut", "Flame Barrier+", "Limit Break+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 242316, "card": "Corruption", "hand": ["Defend+", "Bite", "Strike"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 242338, "card": "Corruption", "hand": ["Defend+", "Bite", "Strike", "Spot Weakness+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 242418, "card": "Defend+", "hand": [], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 242874, "card": "Barricade", "hand": ["Heavy Blade+", "Strike", "True Grit+", "Feel No Pain"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 242914, "card": "Feel No Pain", "hand": ["Heavy Blade+", "Strike", "True Grit", "Disarm+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 242966, "card": "Disarm+", "hand": ["Heavy Blade+", "Strike", "True Grit+", "Strike"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 243050, "card": "True Grit+", "hand": ["Heavy Blade+", "Strike"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 243196, "card": "Heavy Blade+", "hand": ["Strike"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 243524, "card": "Feel No Pain", "hand": ["Demon Form+", "Defend", "Defend", "Clumsy", "Blood for Blood+", "Sever Soul"], "floor": 44, "hp": 65, "maxhp": 75, "block": 18, "energy": 4, "v2.0": true}
+{"frame": 243584, "card": "Demon Form+", "hand": ["Blood for Blood+", "Defend", "Defend", "Clumsy", "Sever Soul+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 18, "energy": 4, "v2.0": true}
+{"frame": 243626, "card": "Defend", "hand": ["Blood for Blood+", "Defend", "Sever Soul+", "Clumsy"], "floor": 44, "hp": 65, "maxhp": 75, "block": 18, "energy": 2, "v2.0": true}
+{"frame": 243666, "card": "Defend", "hand": ["Blood for Blood+", "Sever Soul+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 23, "energy": 2, "v2.0": true}
+{"frame": 243688, "card": "Defend", "hand": ["Blood for Blood+", "Sever Soul+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 23, "energy": 2, "v2.0": true}
+{"frame": 243810, "card": "Sever Soul+", "hand": ["Blood for Blood+", "Clumsy"], "floor": 44, "hp": 65, "maxhp": 75, "block": 40, "energy": 2, "v2.0": true}
+{"frame": 243884, "card": "Blood for Blood+", "hand": [], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 244462, "card": "Dual Wield+", "hand": ["Limit Break+", "Strike", "Feel No Pain", "Defend+", "Blood for Blood", "Blood for Blood"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 244562, "card": "Feel No Pain", "hand": ["Limit Break+", "Shockwave", "Blood for Blood", "Blood for Blood"], "floor": 44, "hp": 65, "maxhp": 75, "block": 46, "energy": 4, "v2.0": true}
+{"frame": 244648, "card": "Shockwave", "hand": ["Defend+", "Limit Break+", "Blood for Blood"], "floor": 44, "hp": 65, "maxhp": 75, "block": 46, "energy": 3, "v2.0": true}
+{"frame": 244716, "card": "Limit Break+", "hand": ["Strike", "Defend+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 244870, "card": "Blood for Blood", "hand": ["Strike", "Defend+", "The Bomb"], "floor": 44, "hp": 65, "maxhp": 75, "block": 64, "energy": 3, "v2.0": true}
+{"frame": 244898, "card": "Blood for Blood", "hand": ["Strike", "Defend+"], "floor": 44, "hp": 65, "maxhp": 75, "block": 64, "energy": 3, "v2.0": true}
+{"frame": 244922, "card": "Blood for Blood", "hand": ["Strike", "Defend"], "floor": 44, "hp": 65, "maxhp": 75, "block": 64, "energy": 3, "v2.0": true}
+{"frame": 244990, "card": "Strike", "hand": [], "floor": 44, "hp": 65, "maxhp": 75, "block": 64, "energy": 3, "v2.0": true}
+{"frame": 248230, "card": "Barricade", "hand": ["Wild Strike", "Pride", "Defend+"], "floor": 46, "hp": 65, "maxhp": 71, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 248536, "card": "Sever Soul+", "hand": ["Strike", "True Grit+", "Feel No Pain", "Blood for Blood"], "floor": 46, "hp": 65, "maxhp": 71, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 248728, "card": "Blood for Blood", "hand": ["Strike"], "floor": 46, "hp": 65, "maxhp": 71, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 249286, "card": "Shockwave", "hand": ["Limit Break+", "Heavy Blade+", "Defend+", "Defend", "Disarm+"], "floor": 46, "hp": 65, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 249526, "card": "Defend+", "hand": ["Limit Break+", "Heavy Blade+", "Defend"], "floor": 46, "hp": 65, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 250220, "card": "Heavy Blade+", "hand": ["Defend", "Limit Break+", "Disarm+"], "floor": 46, "hp": 65, "maxhp": 71, "block": 8, "energy": 4, "v2.0": true}
+{"frame": 250284, "card": "Defend", "hand": ["Limit Break+", "Disarm+"], "floor": 46, "hp": 65, "maxhp": 71, "block": 8, "energy": 2, "v2.0": true}
+{"frame": 250990, "card": "Bash", "hand": ["Juggernaut", "Demon Form+", "Feel No Pain", "Uppercut+", "Feel No Pain"], "floor": 46, "hp": 49, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 251040, "card": "Demon Form+", "hand": ["Juggernaut", "Uppercut+"], "floor": 46, "hp": 49, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 251294, "card": "Feel No Pain", "hand": ["Feel No Pain", "Uppercut+"], "floor": 46, "hp": 49, "maxhp": 71, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 251894, "card": "Corruption", "hand": ["Blood for Blood+", "Defend", "Strike", "Strike", "Dual Wield+", "Ascender's Bane"], "floor": 46, "hp": 49, "maxhp": 71, "block": 3, "energy": 5, "v2.0": true}
+{"frame": 251986, "card": "Defend", "hand": [], "floor": 46, "hp": -1, "maxhp": -1, "block": 3, "energy": 5, "v2.0": true}
+{"frame": 252122, "card": "Dual Wield+", "hand": ["Strike", "Ascender's Bane"], "floor": 46, "hp": 49, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 252802, "card": "Blood for Blood+", "hand": ["Strike", "Strike", "Ascender's Bane", "Blood for Blood+", "Blood for Blood+"], "floor": 46, "hp": 49, "maxhp": 71, "block": 14, "energy": 5, "v2.0": true}
+{"frame": 252892, "card": "Blood for Blood+", "hand": ["Strike", "Strike", "Ascender's Bane", "Blood for Blood+"], "floor": 46, "hp": 49, "maxhp": 71, "block": 14, "energy": 3, "v2.0": true}
+{"frame": 253586, "card": "Blood for Blood+", "hand": ["Defend", "Bash", "Flame Barrier+", "Feel No Pain", "Wound"], "floor": 46, "hp": 48, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 255154, "card": "Feel No Pain", "hand": ["Strike", "Heavy Blade+", "Limit Break+", "Corruption", "Blood for Blood+", "Defend+", "True Grit"], "floor": 48, "hp": 48, "maxhp": 71, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 255692, "card": "Limit Break+", "hand": ["Defend+", "Strike", "True Grit+", "Blood for Blood+", "Heavy Blade+", "Entrench"], "floor": 48, "hp": 48, "maxhp": 71, "block": 3, "energy": 3, "v2.0": true}
+{"frame": 255988, "card": "Defend+", "hand": ["True Grit+", "Blood for Blood+", "Heavy Blade+"], "floor": 48, "hp": 48, "maxhp": 71, "block": 6, "energy": 3, "v2.0": true}
+{"frame": 256306, "card": "Heavy Blade+", "hand": ["Strike", "True Grit+", "Blood for Blood+"], "floor": 48, "hp": 48, "maxhp": 71, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 256466, "card": "Blood for Blood+", "hand": ["True Grit+", "Strike"], "floor": 48, "hp": 48, "maxhp": 71, "block": 10, "energy": 3, "v2.0": true}
+{"frame": 256954, "card": "Juggernaut", "hand": ["Limit Break+", "Sever Soul+", "Disarm+"], "floor": 48, "hp": 48, "maxhp": 71, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 257044, "card": "Disarm+", "hand": ["Limit Break+", "Feel No Pain"], "floor": 48, "hp": 48, "maxhp": 71, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 257096, "card": "Shockwave", "hand": ["Sever Soul+"], "floor": 48, "hp": 48, "maxhp": 71, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 257188, "card": "Limit Break+", "hand": ["Sever Soul+", "Feel No Pain"], "floor": 48, "hp": 48, "maxhp": 71, "block": 3, "energy": 1, "v2.0": true}
+{"frame": 257208, "card": "Limit Break+", "hand": ["Sever Soul+", "Feel No Pain"], "floor": 48, "hp": 48, "maxhp": 71, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 257412, "card": "Sever Soul+", "hand": ["Dazed", "Feel No Pain"], "floor": 48, "hp": 48, "maxhp": 71, "block": 9, "energy": 1, "v2.0": true}
+{"frame": 259712, "card": "Feel No Pain", "hand": ["Defend+", "Sever Soul+", "Feed"], "floor": 50, "hp": 63, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 259950, "card": "Feel No Pain", "hand": ["Defend+", "Sever Soul+", "Limit Break+", "Heavy Blade+", "Bash"], "floor": 50, "hp": 63, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 260258, "card": "Bash", "hand": ["Defend+", "Sever Soul+", "Limit Break+", "Heavy Blade+"], "floor": 50, "hp": 63, "maxhp": 71, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 260366, "card": "Defend+", "hand": ["Sever Soul+"], "floor": 50, "hp": 63, "maxhp": 71, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 260396, "card": "Defend+", "hand": ["Sever Soul+"], "floor": 50, "hp": 63, "maxhp": 71, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 260616, "card": "Sever Soul+", "hand": ["Limit Break+", "Heavy Blade+"], "floor": 50, "hp": 63, "maxhp": 71, "block": 8, "energy": 1, "v2.0": true}
+{"frame": 261272, "card": "Flame Barrier+", "hand": ["Defend", "Wild Strike", "Strike"], "floor": 50, "hp": 47, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 261814, "card": "Limit Break+", "hand": ["Wild Strike", "Strike", "Blood for Blood+", "Dual Wield+"], "floor": 50, "hp": 47, "maxhp": 71, "block": 21, "energy": 3, "v2.0": true}
+{"frame": 262566, "card": "Shockwave", "hand": ["Defend", "Defend+", "Strike", "Strike"], "floor": 50, "hp": 38, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 263794, "card": "Feel No Pain", "hand": ["Juggernaut", "Bash", "Strike", "Dazed", "Dazed", "Disarm+"], "floor": 50, "hp": 38, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 264576, "card": "Disarm+", "hand": ["Bash", "Strike", "Dazed", "Dazed"], "floor": 50, "hp": 38, "maxhp": 71, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 265414, "card": "Limit Break+", "hand": ["Defend"], "floor": 50, "hp": 29, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 265440, "card": "Limit Break+", "hand": ["Defend", "True Grit+", "Sever Soul+", "Uppercut+"], "floor": 50, "hp": 29, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 265816, "card": "Heavy Blade+", "hand": ["Defend", "True Grit+", "Sever Soul+"], "floor": 50, "hp": 29, "maxhp": 71, "block": 9, "energy": 5, "v2.0": true}
+{"frame": 266010, "card": "Sever Soul+", "hand": ["Defend", "Uppercut+", "Blood for Blood"], "floor": 50, "hp": 29, "maxhp": 71, "block": 9, "energy": 2, "v2.0": true}
+{"frame": 266934, "card": "Feel No Pain", "hand": ["Dual Wield+", "Strike", "Cleave+", "Flame Barrier+"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 267018, "card": "Disarm+", "hand": ["Strike", "Dual Wield+", "Sever Soul+", "Disarm+", "Flame Barrier+"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 267106, "card": "Disarm+", "hand": ["Dual Wield+", "Strike", "Sever Soul+", "Strike", "Flame Barrier+"], "floor": 51, "hp": 67, "maxhp": 71, "block": 3, "energy": 0, "v2.0": true}
+{"frame": 267764, "card": "Juggernaut", "hand": ["Defend", "Limit Break+", "Wild Strike"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 267812, "card": "Feel No Pain", "hand": ["Defend", "Limit Break+", "Strike", "Strike"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 267850, "card": "Feel No Pain", "hand": ["Defend+", "Limit Break+", "Wild Strike"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 268258, "card": "Demon Form+", "hand": ["Bash"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 268360, "card": "Shockwave", "hand": ["Heavy Blade", "Defend", "True Grit+", "Bash"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 269538, "card": "Barricade", "hand": ["Defend", "Limit Break+", "Corruption"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 270094, "card": "Corruption", "hand": ["Defend+", "Defend"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 270116, "card": "Corruption", "hand": ["Defend+", "Defend"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 270238, "card": "Limit Break+", "hand": ["Defend", "Defend", "Corruption"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 271186, "card": "Corruption", "hand": ["Defend+", "Defend", "Limit Break", "Uppercut+", "Blood for Blood+"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 271304, "card": "Defend+", "hand": ["Defend", "Limit Break+", "Blood for Blood+", "Uppercut+", "Entrench"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 271552, "card": "Limit Break+", "hand": ["Blood for Blood+"], "floor": 51, "hp": 67, "maxhp": 71, "block": 17, "energy": 4, "v2.0": true}
+{"frame": 271582, "card": "Limit Break+", "hand": ["Defend", "Uppercut+", "Blood for Blood+"], "floor": 51, "hp": 67, "maxhp": 71, "block": 17, "energy": 4, "v2.0": true}
+{"frame": 271668, "card": "Defend", "hand": ["Limit Break+", "Uppercut+", "Blood for Blood+"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 272552, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 51, "hp": 67, "maxhp": 71, "block": 19, "energy": 6, "v2.0": true}
+{"frame": 272642, "card": "Flame Barrier+", "hand": ["Strike", "Ascender's Bane", "Uppercut+"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 6, "v2.0": true}
+{"frame": 272818, "card": "Uppercut+", "hand": ["Strike", "Ascender's Bane"], "floor": 51, "hp": 67, "maxhp": 71, "block": 58, "energy": 6, "v2.0": true}
+{"frame": 272864, "card": "Strike", "hand": ["Ascender's Bane"], "floor": 51, "hp": 67, "maxhp": 71, "block": 58, "energy": 5, "v2.0": true}
+{"frame": 273522, "card": "Heavy Blade+", "hand": ["Shame", "Strike", "Wild Strike", "Slimed"], "floor": 51, "hp": 67, "maxhp": 71, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 273738, "card": "Slimed", "hand": ["Reckless Charge", "Slimed"], "floor": 51, "hp": 67, "maxhp": 71, "block": 58, "energy": 0, "v2.0": true}
+{"frame": 274362, "card": "Dual Wield+", "hand": ["Defend", "Bash", "Sever Soul+", "Blood for Blood"], "floor": 51, "hp": 67, "maxhp": 71, "block": 46, "energy": 5, "v2.0": true}
+{"frame": 274438, "card": "Blood for Blood", "hand": ["Bash", "Defend+", "Blood for Blood", "Blood for Blood"], "floor": 51, "hp": 67, "maxhp": 71, "block": 35, "energy": 5, "v2.0": true}
+{"frame": 274564, "card": "Blood for Blood", "hand": [], "floor": 51, "hp": 67, "maxhp": 71, "block": 55, "energy": 3, "v2.0": true}
+done

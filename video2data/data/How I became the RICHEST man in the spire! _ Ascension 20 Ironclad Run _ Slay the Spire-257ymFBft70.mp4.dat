@@ -1,0 +1,571 @@
+{"frame": 1200, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 1228, "card": "Strike", "hand": ["Defend", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 1646, "card": "Strike", "hand": ["Strike", "Defend", "Bash"], "floor": 1, "hp": 65, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 1736, "card": "Defend", "hand": ["Strike", "Bash"], "floor": 1, "hp": 65, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 2146, "card": "Strike", "hand": ["Hand of Greed", "Strike", "Defend", "Ascender's Bane"], "floor": 1, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2194, "card": "Hand of Greed", "hand": [], "floor": 1, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3364, "card": "Strike", "hand": ["Strike", "Hand of Greed"], "floor": 3, "hp": 45, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 3604, "card": "Strike", "hand": ["Strike", "Defend", "Ascender's Bane"], "floor": 3, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3628, "card": "Strike", "hand": ["Strike", "Defend", "Ascender's Bane"], "floor": 3, "hp": 43, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3656, "card": "Strike", "hand": ["Ascender's Bane", "Defend"], "floor": 3, "hp": 43, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 4062, "card": "Defend", "hand": ["Bash", "Strike", "Strike"], "floor": 3, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 4120, "card": "Bash", "hand": ["Strike", "Strike", "Strike"], "floor": 3, "hp": 43, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 4378, "card": "Hand of Greed", "hand": [], "floor": 3, "hp": 31, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5196, "card": "Strike", "hand": ["Defend"], "floor": 4, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5254, "card": "Defend", "hand": ["Defend"], "floor": 4, "hp": 37, "maxhp": 75, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 5284, "card": "Defend", "hand": ["Defend"], "floor": 4, "hp": 37, "maxhp": 75, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 5746, "card": "Hand of Greed", "hand": ["Strike", "Strike", "Defend", "Bash"], "floor": 4, "hp": 35, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5978, "card": "Defend", "hand": ["Strike", "Strike", "Bash"], "floor": 4, "hp": 35, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 6532, "card": "Defend", "hand": ["Defend", "Strike"], "floor": 4, "hp": 32, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6592, "card": "Defend", "hand": ["Strike"], "floor": 4, "hp": 32, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 6820, "card": "Hand of Greed", "hand": [], "floor": 4, "hp": 32, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13246, "card": "Bash", "hand": ["Defend", "Strike", "Defend", "Strike"], "floor": 7, "hp": 3, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13288, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 7, "hp": 38, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 13542, "card": "Rage", "hand": ["Defend", "Hand of Greed+", "Defend", "Strike"], "floor": 7, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13632, "card": "Headbutt", "hand": ["Defend", "Defend", "Strike"], "floor": 7, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13672, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 14028, "card": "Rage", "hand": ["Strike", "Defend", "Strike", "Strike"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14118, "card": "Strike", "hand": ["Strike", "Dazed"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14156, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 14408, "card": "Strike", "hand": ["Defend"], "floor": 7, "hp": 24, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 14688, "card": "Hand of Greed+", "hand": ["Strike", "Defend", "Defend", "Defend"], "floor": 7, "hp": 13, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14738, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 7, "hp": 13, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 15034, "card": "Hand of Greed+", "hand": [], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 17216, "card": "Fire Breathing", "hand": ["Strike", "Shrug It Off", "Defend", "Defend"], "floor": 10, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 18494, "card": "Rage+", "hand": ["Strike", "Bash", "Hand of Greed+", "Strike"], "floor": 10, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18772, "card": "Hand of Greed+", "hand": ["Strike", "Bash", "Strike"], "floor": 10, "hp": 13, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18998, "card": "Strike", "hand": ["Strike", "Bash"], "floor": 10, "hp": 19, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 20084, "card": "Strike", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 10, "hp": 9, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20544, "card": "Hand of Greed+", "hand": ["Defend", "Strike", "Strike", "Bash"], "floor": 10, "hp": 9, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20942, "card": "Shrug It Off", "hand": ["Defend", "Bash", "Strike"], "floor": 10, "hp": 9, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27972, "card": "Fire Breathing", "hand": ["Strike", "Ascender's Bane"], "floor": 13, "hp": 30, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 28018, "card": "Strike", "hand": ["Ascender's Bane"], "floor": 13, "hp": 30, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 29080, "card": "Strike", "hand": ["Defend", "Hand of Greed+", "Shrug It Off", "Strike", "Bash"], "floor": 13, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29140, "card": "Hand of Greed+", "hand": ["Defend", "Shrug It Off", "Strike", "Bash"], "floor": 13, "hp": 25, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 29638, "card": "Armaments", "hand": ["Defend", "Pummel", "Defend"], "floor": 13, "hp": 15, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29756, "card": "Pommel Strike+", "hand": ["Defend", "Defend", "Hemokinesis"], "floor": 13, "hp": 15, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 29910, "card": "Defend", "hand": ["Defend", "Strike", "Hemokinesis", "Metallicize"], "floor": 13, "hp": 15, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 30540, "card": "Strike", "hand": ["Strike", "Dazed", "Dazed"], "floor": 13, "hp": 15, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 30584, "card": "Strike", "hand": ["Dazed", "Dazed"], "floor": 13, "hp": -1, "maxhp": -1, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 31048, "card": "Strike", "hand": [], "floor": 13, "hp": 10, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31676, "card": "Defend", "hand": ["Bash", "Strike", "Ascender's Bane"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 31714, "card": "Dark Embrace", "hand": ["Bash", "Strike", "Ascender's Bane"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32072, "card": "Reaper", "hand": ["Smite", "Defend"], "floor": 14, "hp": 9, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32378, "card": "Metallicize", "hand": ["The Bomb", "Defend", "Defend"], "floor": 14, "hp": 35, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 32728, "card": "Rage+", "hand": ["Strike", "Hand of Greed", "Defend", "Shrug It Off"], "floor": 14, "hp": 35, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32858, "card": "Hand of Greed+", "hand": ["Strike", "Shrug It Off", "Defend"], "floor": 14, "hp": 35, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32900, "card": "Shrug It Off", "hand": ["Strike", "Defend"], "floor": 14, "hp": 35, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 33506, "card": "Pommel Strike", "hand": ["Armaments", "Defend", "Hemokinesis"], "floor": 14, "hp": 35, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33592, "card": "Armaments", "hand": ["Defend", "Defend", "Hemokinesis"], "floor": 14, "hp": 35, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 33686, "card": "Defend+", "hand": ["Defend", "Hemokinesis"], "floor": 14, "hp": -1, "maxhp": -1, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 34168, "card": "Hand of Greed+", "hand": [], "floor": 14, "hp": 35, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38126, "card": "Fire Breathing", "hand": ["Strike", "Defend", "Rage+"], "floor": 16, "hp": 41, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 38568, "card": "Shockwave", "hand": ["Hand of Greed+", "Strike", "Strike"], "floor": 16, "hp": 41, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38624, "card": "Violence", "hand": ["Hand of Greed+", "Strike", "Strike"], "floor": 16, "hp": 41, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 39076, "card": "Armaments+", "hand": ["Defend", "Bash", "Shrug It Off", "Pommel Strike"], "floor": 16, "hp": 41, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 39118, "card": "Shrug It Off+", "hand": ["Defend+", "Bash+", "Pommel Strike+"], "floor": 16, "hp": 41, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 39644, "card": "Dark Embrace", "hand": ["Defend", "Reaper"], "floor": 16, "hp": 40, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 39940, "card": "Strike", "hand": ["Defend", "Defend", "Reaper"], "floor": 16, "hp": 40, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 40456, "card": "Headbutt", "hand": ["Strike", "Shame", "Slimed"], "floor": 16, "hp": 40, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 40528, "card": "Strike", "hand": ["Slimed", "Shame"], "floor": 16, "hp": 30, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 40886, "card": "Bash+", "hand": ["Slimed", "Shame", "Slimed", "Hemokinesis"], "floor": 16, "hp": 40, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 40926, "card": "Hemokinesis", "hand": ["Slimed", "Slimed", "Slimed"], "floor": 16, "hp": 40, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 40980, "card": "Hemokinesis", "hand": ["Slimed", "Slimed", "Shame"], "floor": 16, "hp": 40, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 42734, "card": "Armaments+", "hand": ["Reaper", "Pommel Strike+", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 42844, "card": "Reaper+", "hand": ["Pommel Strike+", "Strike+", "Defend+"], "floor": 16, "hp": 38, "maxhp": 75, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 45728, "card": "Corruption", "hand": ["Shrug It Off", "Pommel Strike", "Defend", "Hand of Greed+", "Metallicize"], "floor": 18, "hp": 71, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 46038, "card": "Pommel Strike", "hand": ["Defend", "Hand of Greed+", "Metallicize", "Hemokinesis+", "Fire Breathing"], "floor": 18, "hp": 71, "maxhp": 75, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 46160, "card": "Strike", "hand": ["Defend", "Hand of Greed+", "Metallicize+", "Hemokinesis", "Fire Breathing"], "floor": 18, "hp": 71, "maxhp": 75, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 46208, "card": "Hand of Greed+", "hand": ["Defend", "Disarm", "Metallicize", "Hemokinesis+"], "floor": 18, "hp": 71, "maxhp": 75, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 46254, "card": "Fire Breathing", "hand": ["Defend", "Metallicize", "Hemokinesis"], "floor": 18, "hp": 71, "maxhp": 75, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 46288, "card": "Defend", "hand": ["Metallicize", "Hemokinesis"], "floor": 18, "hp": 71, "maxhp": 75, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 46322, "card": "Metallicize", "hand": [], "floor": 18, "hp": 71, "maxhp": 75, "block": 1, "energy": 3, "v2.0": false}
+{"frame": 46608, "card": "Shockwave", "hand": ["Defend", "Strike", "Strike", "Reaper"], "floor": 18, "hp": 71, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 46694, "card": "Defend", "hand": ["Strike", "Defend", "Strike"], "floor": 18, "hp": 71, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 46736, "card": "Defend", "hand": ["Ascender's Bane", "Strike", "Entrench"], "floor": 18, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 46798, "card": "Strike", "hand": ["Ascender's Bane"], "floor": 18, "hp": 75, "maxhp": 75, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 46824, "card": "Strike", "hand": ["Ascender's Bane"], "floor": 18, "hp": 75, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 47142, "card": "Dark Embrace", "hand": ["Defend", "Armaments+", "Strike"], "floor": 18, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47178, "card": "Armaments+", "hand": ["Defend", "Strike", "Bash", "Pommel Strike", "Rage+"], "floor": 18, "hp": 75, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 47328, "card": "Pommel Strike+", "hand": ["Defend+", "Anger", "Strike+", "Bash+", "Strike"], "floor": 18, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 48148, "card": "Hand of Greed+", "hand": [], "floor": 18, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 49498, "card": "Dark Embrace", "hand": ["Bite", "Fire Breathing", "Entrench", "Entrench"], "floor": 19, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 49660, "card": "Shockwave", "hand": ["Armaments+"], "floor": 19, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 49680, "card": "Shockwave", "hand": ["Armaments+"], "floor": 19, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 50444, "card": "Armaments+", "hand": ["Defend", "Fire Breathing", "Hemokinesis"], "floor": 19, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 50532, "card": "Hemokinesis+", "hand": ["Fire Breathing+", "Entrench+", "Rage+", "Defend+", "Defend+"], "floor": 19, "hp": 75, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 50882, "card": "Shrug It Off", "hand": ["Strike", "Strike", "Pommel Strike", "Hand of Greed+", "Strike", "Bash"], "floor": 19, "hp": 73, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 51142, "card": "Bash", "hand": ["Strike", "Pommel Strike", "Hand of Greed+", "Strike", "Reaper", "Uppercut"], "floor": 19, "hp": 73, "maxhp": 75, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 51244, "card": "Strike", "hand": ["Strike", "Pommel Strike", "Hand of Greed+", "Reaper"], "floor": 19, "hp": -1, "maxhp": -1, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 51528, "card": "Corruption", "hand": ["Defend", "Defend", "Strike"], "floor": 19, "hp": 70, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 51622, "card": "Defend", "hand": ["Defend", "Strike"], "floor": 19, "hp": 70, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 51816, "card": "Defend", "hand": ["Shrug It Off", "Strike"], "floor": 19, "hp": 70, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 51892, "card": "Shrug It Off", "hand": ["Strike", "Ascender's Bane", "Hand of Greed+", "Fire Breathing+", "Entrench"], "floor": 19, "hp": 70, "maxhp": 75, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 51984, "card": "Defend+", "hand": ["Ascender's Bane", "Strike", "Havoc+", "Fire Breathing+", "Strike"], "floor": 19, "hp": 70, "maxhp": 75, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 52272, "card": "Fire Breathing+", "hand": ["Ascender's Bane", "Strike+", "Hand of Greed+"], "floor": 19, "hp": 70, "maxhp": 75, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 52704, "card": "Armaments+", "hand": ["Pommel Strike", "Rage", "Bash", "Entrench+"], "floor": 19, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 52864, "card": "Rage+", "hand": ["Pommel Strike+", "Reaper+", "Strike+", "Strike", "Hemokinesis+"], "floor": 19, "hp": 69, "maxhp": 75, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 53076, "card": "Hemokinesis+", "hand": ["Pommel Strike+", "Reaper+", "Bash+", "Strike", "Strike", "Strike"], "floor": 19, "hp": 69, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 53342, "card": "Bash+", "hand": ["Reaper+", "Strike+", "Strike", "Entrench+", "Strike"], "floor": 19, "hp": 67, "maxhp": 75, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 53942, "card": "Pommel Strike+", "hand": ["Strike", "Hand of Greed+", "Strike", "Strike+", "Metallicize", "Hemokinesis+"], "floor": 19, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 54038, "card": "Hand of Greed+", "hand": [], "floor": 19, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 55694, "card": "Armaments+", "hand": ["Pommel Strike", "Defend", "Metallicize", "Hemokinesis"], "floor": 20, "hp": 73, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 55770, "card": "Metallicize+", "hand": ["Bash+", "Pommel Strike+", "Defend+"], "floor": 20, "hp": 73, "maxhp": 75, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 56088, "card": "Bash+", "hand": ["Pommel Strike+", "Defend+"], "floor": 20, "hp": 73, "maxhp": 75, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 56140, "card": "Pummel", "hand": ["Defend+", "Hemokinesis+"], "floor": 20, "hp": 73, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 56740, "card": "Dark Embrace", "hand": ["Defend", "Defend", "Strike", "Hand of Greed+"], "floor": 20, "hp": 73, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 56854, "card": "Dark Embrace", "hand": ["Defend", "Defend", "Strike", "Hand of Greed+"], "floor": 20, "hp": 73, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 57070, "card": "Hand of Greed+", "hand": ["Defend", "Strike", "Defend", "Dark Embrace"], "floor": 20, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 57176, "card": "Defend", "hand": ["Defend"], "floor": 20, "hp": 73, "maxhp": 7, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 57234, "card": "Smite", "hand": ["Defend", "Strike", "Rage+", "Dark Embrace"], "floor": 20, "hp": 73, "maxhp": 75, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 57670, "card": "Shrug It Off", "hand": ["Reaper", "Defend", "Strike", "Wound", "Fire Breathing", "Shrug It Off"], "floor": 20, "hp": 70, "maxhp": 7, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 57978, "card": "Fire Breathing", "hand": ["Defend", "Strike", "Corruption", "Shrug It Off"], "floor": 20, "hp": 70, "maxhp": 75, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 58012, "card": "Defend", "hand": ["Strike", "Shrug It Off", "Corruption"], "floor": 20, "hp": 70, "maxhp": 75, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 58504, "card": "Dark Embrace", "hand": ["Mayhem", "Pommel Strike+", "Entrench"], "floor": 20, "hp": 63, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58546, "card": "Shockwave", "hand": ["Pommel Strike+", "Dazed", "Entrench"], "floor": 20, "hp": 63, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 58722, "card": "Reaper", "hand": ["Pummel+", "Dazed", "Dazed", "Dazed", "Entrench"], "floor": 20, "hp": 68, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 58904, "card": "Pommel Strike+", "hand": ["Dazed", "Dazed", "Dazed", "Entrench", "Defend"], "floor": 20, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 59394, "card": "Strike", "hand": ["Defend", "Armaments+", "Defend+", "Shrug It Off"], "floor": 20, "hp": 66, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 59462, "card": "Hand of Greed+", "hand": [], "floor": 20, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 61466, "card": "Armaments+", "hand": ["Defend", "Shrug It Off", "Entrench", "Ascender's Bane"], "floor": 21, "hp": 72, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 61506, "card": "Defend+", "hand": ["Strike+", "Entrench+", "Shrug It Off+", "Dark Embrace+"], "floor": 21, "hp": 72, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 61988, "card": "Shockwave", "hand": ["Pommel Strike", "Defend", "Reaper", "Shrug It Off", "Entrench"], "floor": 21, "hp": 72, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62126, "card": "Pommel Strike", "hand": ["Strike", "Defend", "Reaper", "Shrug It Off", "Rage+"], "floor": 21, "hp": 72, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62222, "card": "Shrug It Off", "hand": ["Strike", "Defend", "Reaper", "Defend", "Strike", "Entrench"], "floor": 21, "hp": 72, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62370, "card": "Strike", "hand": ["Defend", "Reaper", "Defend", "Defend", "Rage+"], "floor": 21, "hp": -1, "maxhp": -1, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 62540, "card": "Reaper", "hand": ["Defend", "Defend", "Defend"], "floor": 21, "hp": -1, "maxhp": -1, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 63514, "card": "Metallicize", "hand": ["Hand of Greed+", "Corruption", "Strike", "Entrench"], "floor": 21, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 63552, "card": "Corruption", "hand": ["Hand of Greed+", "Strike"], "floor": 21, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 63634, "card": "Fire Breathing", "hand": [], "floor": 21, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 64040, "card": "Shrug It Off+", "hand": ["Bash", "Strike", "Defend+", "Strike", "Rage+"], "floor": 21, "hp": 63, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 64322, "card": "Defend+", "hand": ["Strike", "Rage+", "Dark Embrace+"], "floor": 21, "hp": 60, "maxhp": 75, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 64372, "card": "Rage+", "hand": ["Bash", "Strike", "Strike", "Hemokinesis", "Dark Embrace+"], "floor": 21, "hp": 60, "maxhp": 75, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 64478, "card": "Bash", "hand": ["Strike", "Strike", "Hemokinesis", "Dark Embrace+"], "floor": 21, "hp": 60, "maxhp": 75, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 64550, "card": "Strike", "hand": ["Strike", "Hemokinesis", "Dark Embrace+"], "floor": 21, "hp": 60, "maxhp": 75, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 64608, "card": "Strike", "hand": ["Hemokinesis", "Dark Embrace+"], "floor": 21, "hp": 60, "maxhp": 75, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 65102, "card": "Hand of Greed+", "hand": [], "floor": 21, "hp": 60, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 66538, "card": "Metallicize", "hand": ["Defend", "Defend", "Strike", "Corruption", "Strike", "Rage+"], "floor": 23, "hp": 66, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 66634, "card": "Corruption", "hand": ["Defend", "Defend", "Strike"], "floor": 23, "hp": 66, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 66676, "card": "Corruption", "hand": ["Defend", "Defend", "Strike", "Strike"], "floor": 23, "hp": 66, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 66694, "card": "Corruption", "hand": ["Defend", "Defend", "Strike"], "floor": 23, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 66714, "card": "Corruption", "hand": ["Defend", "Defend", "Strike", "Strike"], "floor": 23, "hp": 66, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 66842, "card": "Rage+", "hand": ["Defend", "Anger"], "floor": 23, "hp": 66, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 66966, "card": "Defend", "hand": ["Strike"], "floor": 23, "hp": 66, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 67008, "card": "Strike", "hand": ["Strike"], "floor": 23, "hp": 66, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 67060, "card": "Strike", "hand": [], "floor": 23, "hp": 66, "maxhp": 75, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 67796, "card": "Dark Embrace+", "hand": ["Shrug It Off+", "Hand of Greed+", "Defend+", "Entrench+"], "floor": 23, "hp": 55, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 67834, "card": "Shrug It Off+", "hand": ["Hand of Greed+", "Defend+", "Entrench+"], "floor": 23, "hp": -1, "maxhp": -1, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 67982, "card": "Defend+", "hand": ["Hand of Greed+", "Entrench+", "Bash"], "floor": 23, "hp": 55, "maxhp": 75, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 68280, "card": "Defend", "hand": ["Hand of Greed+", "Entrench+", "Bash"], "floor": 23, "hp": -1, "maxhp": -1, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 68548, "card": "Reaper", "hand": ["Hand of Greed+", "Entrench+", "Bash"], "floor": 23, "hp": 55, "maxhp": 75, "block": 29, "energy": 2, "v2.0": false}
+{"frame": 68714, "card": "Hand of Greed+", "hand": ["Entrench+", "Ascender's Bane", "Strike", "Bash", "Pommel Strike"], "floor": 23, "hp": 70, "maxhp": 75, "block": 29, "energy": 1, "v2.0": false}
+{"frame": 69264, "card": "Fire Breathing", "hand": ["Strike", "Hemokinesis", "Shockwave", "Entrench"], "floor": 23, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 69308, "card": "Shockwave", "hand": ["Shrug It Off", "Shrug It Off", "Strike", "Strike"], "floor": 23, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 69424, "card": "Shrug It Off", "hand": ["Shrug It Off", "Strike", "Strike", "Wound"], "floor": 23, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 69592, "card": "Shrug It Off", "hand": ["Strike", "Entrench+", "Wound", "Wound"], "floor": 23, "hp": 75, "maxhp": 75, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 70132, "card": "Strike", "hand": ["Bash", "Pummel", "Hemokinesis", "Strike", "Entrench+", "Wound"], "floor": 23, "hp": -1, "maxhp": -1, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 70228, "card": "Bash", "hand": ["Pommel Strike", "Hemokinesis", "Strike+", "Wound"], "floor": 23, "hp": 75, "maxhp": 75, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 70358, "card": "Strike", "hand": ["Hemokinesis", "Entrench+"], "floor": 23, "hp": -1, "maxhp": -1, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 70910, "card": "Hand of Greed+", "hand": [], "floor": 23, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 74036, "card": "Dark Embrace", "hand": ["Armaments+", "Limit Break", "Shrug It Off+", "Strike"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 74180, "card": "Shrug It Off+", "hand": ["Armaments+", "Limit Break", "Strike", "Defend+", "Metallicize", "Entrench"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 74348, "card": "Armaments+", "hand": ["Limit Break", "Strike", "Shrug It Off", "Defend"], "floor": 25, "hp": 75, "maxhp": 75, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 74404, "card": "Metallicize+", "hand": ["Strike+", "Defend+"], "floor": 25, "hp": 75, "maxhp": 75, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 74446, "card": "Strike+", "hand": ["Shrug It Off+", "Limit Break+", "Defend+"], "floor": 25, "hp": 75, "maxhp": 75, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 75394, "card": "Shrug It Off", "hand": ["Hand of Greed+", "Defend+", "Pommel Strike", "Safety", "Defend"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 75780, "card": "Strike", "hand": ["Hand of Greed+", "Defend+", "Pommel Strike", "Fire Breathing", "Defend", "Ascender's Bane"], "floor": 25, "hp": 75, "maxhp": 75, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 75840, "card": "Hand of Greed+", "hand": ["Defend+", "Pommel Strike", "Purity", "Defend"], "floor": 25, "hp": 75, "maxhp": 75, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 77022, "card": "Rage+", "hand": ["Corruption", "Bash", "Wound"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 77376, "card": "Corruption", "hand": ["Defend", "Strike", "Hemokinesis", "Rage+"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 77450, "card": "Shockwave+", "hand": [], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 77492, "card": "Shockwave+", "hand": ["Defend", "Strike", "Burn"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 77636, "card": "Defend", "hand": ["Reaper", "Bash", "Rage+", "Entrench"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 77762, "card": "Entrench", "hand": ["Reaper", "Hemokinesis", "Bash", "Strike"], "floor": 25, "hp": 75, "maxhp": 75, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 77940, "card": "Shrug It Off", "hand": ["Reaper", "Hemokinesis", "Bash", "Strike"], "floor": 25, "hp": 75, "maxhp": 75, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 78994, "card": "Fire Breathing", "hand": ["Defend", "Strike+", "Defend+", "Pommel Strike", "Limit Break+"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79024, "card": "Limit Break+", "hand": ["Defend", "Strike+", "Defend+", "Pummel", "Defend+"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79200, "card": "Defend+", "hand": ["Defend", "Strike", "Pummel", "Strike", "Hand of Greed+"], "floor": 25, "hp": 75, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 79382, "card": "Armaments+", "hand": ["Defend", "Strike+", "Pommel Strike", "Hand of Greed+"], "floor": 25, "hp": 75, "maxhp": 75, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 79512, "card": "Defend+", "hand": ["Strike+", "Strike+", "Hand of Greed+", "Bash", "Pommel Strike+"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79616, "card": "Shrug It Off+", "hand": ["Strike+", "Pommel Strike+", "Strike+", "Hand of Greed+", "Bash"], "floor": 25, "hp": 75, "maxhp": 75, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 80326, "card": "Pommel Strike+", "hand": ["Strike+", "Strike+", "Hand of Greed+", "Strike", "Strike"], "floor": 25, "hp": 75, "maxhp": 75, "block": 29, "energy": 3, "v2.0": false}
+{"frame": 80790, "card": "Strike", "hand": ["Sentinel", "Strike", "Strike", "Hand of Greed+", "Bash", "Strike", "Hemokinesis"], "floor": 25, "hp": -1, "maxhp": -1, "block": 29, "energy": 0, "v2.0": false}
+{"frame": 82184, "card": "Strike", "hand": ["Shrug It Off+", "Bash", "Strike+", "Hand of Greed+", "Hemokinesis"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 82278, "card": "Strike+", "hand": ["Shrug It Off+", "Hand of Greed+"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 82328, "card": "Hand of Greed+", "hand": ["Shrug It Off+", "Bash", "Hemokinesis"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 82746, "card": "Strike+", "hand": ["Pommel Strike+", "Hemokinesis", "Shrug It Off+", "Strike", "Strike+", "Strike"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82784, "card": "Strike+", "hand": ["Pommel Strike+", "Hemokinesis", "Shrug It Off+", "Strike", "Strike"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82854, "card": "Hemokinesis", "hand": ["Pommel Strike+", "Shrug It Off+", "Strike", "Strike"], "floor": 25, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82952, "card": "Pommel Strike+", "hand": ["Shrug It Off+", "Strike", "Strike"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 83054, "card": "Hand of Greed+", "hand": [], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 84786, "card": "Bash", "hand": ["Strike", "Strike", "Defend", "Pommel Strike", "Metallicize", "Fire Breathing"], "floor": 27, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 84828, "card": "Pummel", "hand": ["Strike", "Strike", "Defend", "Metallicize", "Fire Breathing"], "floor": 27, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 84982, "card": "Metallicize", "hand": ["Defend", "Shrug It Off", "Strike", "Entrench"], "floor": 27, "hp": 75, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 85034, "card": "Defend", "hand": ["Strike", "Strike", "Shrug It Off"], "floor": 27, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 85792, "card": "Shrug It Off", "hand": ["Defend", "Hand of Greed+", "Armaments+", "Feel No Pain", "Dark Embrace"], "floor": 27, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 85916, "card": "Feel No Pain", "hand": ["Strike", "Hand of Greed+", "Armaments+", "Hemokinesis"], "floor": 27, "hp": 75, "maxhp": 75, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 85962, "card": "Hand of Greed", "hand": ["Strike", "Defend", "Armaments+"], "floor": 27, "hp": 75, "maxhp": 75, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 86098, "card": "Hemokinesis", "hand": ["Strike", "Defend", "Armaments+", "Dark Embrace"], "floor": 27, "hp": 75, "maxhp": 75, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 86626, "card": "Corruption", "hand": ["Limit Break", "Limit Break", "Entrench", "Rage+", "Shockwave+"], "floor": 27, "hp": 72, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 86786, "card": "Shockwave+", "hand": ["Limit Break"], "floor": 27, "hp": 72, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 86854, "card": "Limit Break", "hand": ["Strike", "Entrench"], "floor": 27, "hp": -1, "maxhp": 752, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 86996, "card": "Entrench", "hand": ["Strike", "Rage+"], "floor": 27, "hp": 72, "maxhp": 75, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 87516, "card": "Reaper", "hand": ["Defend+", "Shrug It Off+", "Defend", "Pommel Strike", "Hand of Greed+"], "floor": 27, "hp": 72, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 87726, "card": "Pommel Strike", "hand": ["Defend+", "Shrug It Off+", "Defend"], "floor": 27, "hp": -1, "maxhp": -1, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 87800, "card": "Shrug It Off+", "hand": ["Defend+", "Defend", "Defend"], "floor": 27, "hp": -1, "maxhp": -1, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 87890, "card": "Dark Embrace", "hand": ["Defend+", "Defend", "Defend"], "floor": 27, "hp": 75, "maxhp": 75, "block": 17, "energy": 1, "v2.0": false}
+{"frame": 88218, "card": "Shrug It Off", "hand": ["Armaments+", "Strike", "Bash", "Strike"], "floor": 27, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 88326, "card": "Shrug It Off", "hand": ["Armaments+", "Strike", "Strike", "Strike", "Strike", "Rage+"], "floor": 27, "hp": 75, "maxhp": 75, "block": 11, "energy": 3, "v2.0": false}
+{"frame": 88530, "card": "Defend", "hand": ["Armaments+", "Strike", "Bash", "Strike"], "floor": 27, "hp": -1, "maxhp": -1, "block": 22, "energy": 3, "v2.0": false}
+{"frame": 88616, "card": "Defend+", "hand": ["Armaments+", "Strike", "Bash", "Smite", "Strike", "Decay"], "floor": 27, "hp": -1, "maxhp": -1, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 88706, "card": "Defend", "hand": ["Armaments+", "Strike", "Bash", "Strike", "Pain"], "floor": 27, "hp": -1, "maxhp": -1, "block": 41, "energy": 3, "v2.0": false}
+{"frame": 88828, "card": "Hand of Greed+", "hand": [], "floor": 27, "hp": 75, "maxhp": 75, "block": 49, "energy": 3, "v2.0": false}
+{"frame": 90584, "card": "Dark Embrace", "hand": ["Defend+", "Strike", "Defend", "Rage+", "Limit Break"], "floor": 29, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 90728, "card": "Rage+", "hand": ["Strike", "Defend+", "Strike", "Limit Break"], "floor": 29, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 90932, "card": "Limit Break", "hand": ["Strike", "Defend+", "Strike", "Defend"], "floor": 29, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 91030, "card": "Strike", "hand": ["Strike", "Defend+", "Defend", "Shrug It Off"], "floor": 29, "hp": 75, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 91084, "card": "Strike", "hand": ["Defend+", "Defend", "Shrug It Off"], "floor": 29, "hp": 75, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 91864, "card": "Bash+", "hand": ["Strike+", "Shrug It Off+", "Hand of Greed+", "Shrug It Off+"], "floor": 29, "hp": -1, "maxhp": -1, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 91902, "card": "Hand of Greed+", "hand": ["Shrug It Off+", "Shockwave+", "Shrug It Off+"], "floor": 29, "hp": 75, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 92210, "card": "Corruption", "hand": ["Defend", "Defend"], "floor": 29, "hp": 70, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92334, "card": "Metallicize", "hand": ["Defend"], "floor": 29, "hp": 70, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 92394, "card": "Defend", "hand": ["Entrench", "Hemokinesis", "Ascender's Bane", "Fire Breathing"], "floor": 29, "hp": -1, "maxhp": -1, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 92472, "card": "Entrench", "hand": ["Hemokinesis", "Ascender's Bane", "Pommel Strike"], "floor": 29, "hp": 70, "maxhp": 75, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 93020, "card": "Feel No Pain+", "hand": ["Hand of Greed", "Defend+"], "floor": 29, "hp": 70, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 93146, "card": "Strike", "hand": ["Shrug It Off+", "Strike", "Hand of Greed+", "Defend+", "Fire Breathing"], "floor": 29, "hp": 70, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 93238, "card": "Reaper", "hand": ["Strike", "Hand of Greed+", "Defend+", "Feel No Pain+"], "floor": 29, "hp": 70, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 93398, "card": "Hand of Greed+", "hand": [], "floor": 29, "hp": 75, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 98410, "card": "Shrug It Off+", "hand": ["Hand of Greed+", "Blind", "Flex", "Entrench"], "floor": 31, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 98498, "card": "Slimed", "hand": ["Shrug It Off", "Hand of Greed+", "Fiend Fire", "Entrench", "Strike"], "floor": 31, "hp": -1, "maxhp": -1, "block": 11, "energy": 1, "v2.0": false}
+{"frame": 98550, "card": "Hand of Greed+", "hand": ["Shrug It Off", "Fiend Fire", "Entrench", "Strike"], "floor": 31, "hp": 75, "maxhp": 75, "block": 11, "energy": 1, "v2.0": false}
+{"frame": 98988, "card": "Shockwave+", "hand": ["Shrug It Off", "Metallicize", "Fire Breathing", "Strike", "Hemokinesis"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 99070, "card": "Shrug It Off", "hand": ["Fire Breathing"], "floor": 31, "hp": 75, "maxhp": 75, "block": 4, "energy": 0, "v2.0": false}
+{"frame": 99666, "card": "Pommel Strike", "hand": ["Defend", "Defend+", "Defend", "Armaments+", "Strike", "Ascender's Bane"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 99744, "card": "Armaments+", "hand": ["Defend", "Defend+", "Defend"], "floor": 31, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 99852, "card": "Defend+", "hand": ["Defend+", "Defend+", "Strike", "Strike"], "floor": 31, "hp": 75, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 100272, "card": "Rage+", "hand": ["Defend", "Limit Break", "Reaper", "Hand of Greed+"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 100420, "card": "Disarm", "hand": ["Defend", "Limit Break", "Reaper", "Hand of Greed+"], "floor": 31, "hp": 75, "maxhp": 75, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 100530, "card": "Limit Break", "hand": ["Defend", "Reaper", "Hand of Greed+"], "floor": 31, "hp": 75, "maxhp": 75, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 100650, "card": "Defend", "hand": ["Bash", "Reaper", "Hand of Greed+"], "floor": 31, "hp": -1, "maxhp": -1, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 100774, "card": "Hand of Greed+", "hand": ["Bash", "Reaper"], "floor": 31, "hp": 75, "maxhp": 75, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 101162, "card": "Pommel Strike", "hand": ["Defend+", "Shrug It Off", "Fiend Fire", "Strike", "Strike+"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 101292, "card": "Shrug It Off", "hand": ["Defend+", "Fiend Fire", "Strike", "Strike+", "Entrench"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 101526, "card": "Metallicize", "hand": [], "floor": 31, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 101654, "card": "Fiend Fire", "hand": ["Strike", "Strike+", "Defend+", "Entrench", "Defend+", "Hemokinesis"], "floor": 31, "hp": -1, "maxhp": -1, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 101978, "card": "Hand of Greed+", "hand": [], "floor": 31, "hp": 75, "maxhp": 75, "block": 40, "energy": 2, "v2.0": false}
+{"frame": 103770, "card": "Hemokinesis", "hand": ["Fiend Fire", "Strike", "Mayhem", "Rage+", "Hand of Greed+"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 104250, "card": "Corruption", "hand": ["Defend+", "Limit Break", "Defend", "Reaper", "Reaper"], "floor": 33, "hp": 73, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 104324, "card": "Shockwave+", "hand": ["Defend"], "floor": 33, "hp": 73, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 104430, "card": "Limit Break", "hand": ["Shrug It Off+", "Defend+", "Defend", "Reaper"], "floor": 33, "hp": 3, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 104504, "card": "Defend+", "hand": ["Shrug It Off+", "Defend", "Reaper"], "floor": 33, "hp": -1, "maxhp": -1, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 104552, "card": "Defend", "hand": ["Shrug It Off+", "Reaper"], "floor": 33, "hp": 73, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 104978, "card": "Dark Embrace", "hand": ["Defend", "Defend", "Shrug It Off", "Pummel", "Strike"], "floor": 33, "hp": 73, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 105104, "card": "Defend", "hand": ["Defend", "Shrug It Off", "Strike", "Pummel", "Strike"], "floor": 33, "hp": 73, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 105284, "card": "Shrug It Off", "hand": ["Defend", "Strike", "Strike", "Uppercut"], "floor": 33, "hp": 73, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 106260, "card": "Disarm+", "hand": ["Shrug It Off", "Armaments+", "Bash", "Havoc", "Hand of Greed+", "Metallicize+"], "floor": 33, "hp": 63, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 106440, "card": "Armaments+", "hand": ["Bash", "Reaper", "Hand of Greed+", "Shrug It Off", "Rage+"], "floor": 33, "hp": 65, "maxhp": 75, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 106956, "card": "Hand of Greed+", "hand": ["Shrug It Off+", "Bash+", "Strike"], "floor": 33, "hp": -1, "maxhp": -1, "block": 17, "energy": 1, "v2.0": false}
+{"frame": 107040, "card": "Strike", "hand": ["Shrug It Off+", "Bash+", "Bite", "Mayhem"], "floor": 33, "hp": 75, "maxhp": 75, "block": 17, "energy": 0, "v2.0": false}
+{"frame": 107080, "card": "Bash", "hand": ["Shrug It Off+", "Doubt", "Mayhem"], "floor": 33, "hp": 75, "maxhp": 75, "block": 17, "energy": 0, "v2.0": false}
+{"frame": 107738, "card": "Shrug It Off+", "hand": ["Strike", "Defend+", "Hemokinesis", "Strike"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 108114, "card": "Uppercut", "hand": ["Pommel Strike", "Strike", "Strike", "Fiend Fire", "Defend", "Entrench"], "floor": 33, "hp": -1, "maxhp": -1, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 108164, "card": "Fiend Fire", "hand": ["Defend", "Pommel Strike", "Strike", "Strike"], "floor": 33, "hp": -1, "maxhp": -1, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 108978, "card": "Fire Breathing", "hand": ["Hand of Greed+", "Shrug It Off+", "Strike"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 109064, "card": "Hand of Greed+", "hand": ["Shrug It Off+", "Strike", "Bash", "Rage+", "Uppercut"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 109104, "card": "Bash+", "hand": ["Shrug It Off+", "Strike", "Uppercut"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 109142, "card": "Uppercut", "hand": ["Shrug It Off+", "Strike", "Rage+"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 109184, "card": "Smite", "hand": ["Shrug It Off+"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 109892, "card": "Bash", "hand": ["Hand of Greed+", "Shrug It Off+", "Strike", "Uppercut"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 110012, "card": "Hand of Greed+", "hand": ["Shrug It Off+", "Strike", "Uppercut"], "floor": 33, "hp": -1, "maxhp": -1, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 110066, "card": "Shrug It Off+", "hand": ["Uppercut", "Strike"], "floor": 33, "hp": 75, "maxhp": 75, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 110250, "card": "Hand of Greed+", "hand": ["Bash+", "Uppercut", "Strike"], "floor": 33, "hp": -1, "maxhp": -1, "block": 26, "energy": 1, "v2.0": false}
+{"frame": 110640, "card": "Bash+", "hand": ["Hand of Greed+", "Strike", "Uppercut"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 110720, "card": "Hand of Greed+", "hand": ["Uppercut", "Strike"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 111064, "card": "Hand of Greed+", "hand": ["Strike", "Bash+", "Uppercut"], "floor": 33, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 115258, "card": "Dark Embrace", "hand": ["Shrug It Off+", "Fire Breathing", "Metallicize"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 115310, "card": "Dark Shackles", "hand": ["Strike", "Shrug It Off+", "Exhume", "Metallicize"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 115468, "card": "Limit Break", "hand": ["Strike", "Shrug It Off+", "Flex"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 115564, "card": "Metallicize", "hand": ["Strike", "Shrug It Off+", "Shrug It Off"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 116280, "card": "Hand of Greed+", "hand": ["Pommel Strike", "Armaments+", "Entrench", "Feel No Pain+", "Dazed"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 116360, "card": "Armaments+", "hand": ["Pommel Strike", "Feel No Pain+", "Dazed"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 116400, "card": "Feel No Pain+", "hand": ["Entrench+", "Dazed", "Dazed"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 116884, "card": "Shockwave+", "hand": ["Bash", "Defend", "Fiend Fire", "Reaper", "Disarm+", "Uppercut"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 117170, "card": "Defend", "hand": ["Fiend Fire", "Defend", "Reaper", "Disarm+", "Uppercut", "Hemokinesis"], "floor": 35, "hp": 75, "maxhp": 75, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 117404, "card": "Uppercut", "hand": ["Bash", "Fiend Fire", "Disarm+"], "floor": 35, "hp": 75, "maxhp": 75, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 117852, "card": "Shrug It Off", "hand": ["Defend", "Strike", "Strike", "Dazed"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 117932, "card": "Corruption", "hand": ["Defend", "Strike", "Ascender's Bane", "Strike"], "floor": 35, "hp": 75, "maxhp": 75, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 118014, "card": "Strike", "hand": ["Defend"], "floor": 35, "hp": -1, "maxhp": -1, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 118496, "card": "Shrug It Off+", "hand": ["Bash", "Shrug It Off", "Strike", "Hemokinesis"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 118676, "card": "Hand of Greed+", "hand": ["Bash", "Strike", "Exhume"], "floor": 35, "hp": 75, "maxhp": 75, "block": 27, "energy": 4, "v2.0": false}
+{"frame": 119186, "card": "Shrug It Off", "hand": ["Defend", "Feed", "Fire Breathing"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119300, "card": "Armaments+", "hand": ["Defend", "Fiend Fire", "Defend", "Fire Breathing"], "floor": 35, "hp": 75, "maxhp": 75, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 119372, "card": "Defend+", "hand": ["Defend+", "Fiend Fire+", "Reaper+", "Dazed", "Fire Breathing+"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119436, "card": "Defend+", "hand": ["Fiend Fire+", "Reaper+", "Defend", "Strike"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119526, "card": "Defend", "hand": ["Feed+", "Reaper+", "Uppercut"], "floor": 35, "hp": 75, "maxhp": 75, "block": 45, "energy": 4, "v2.0": false}
+{"frame": 119982, "card": "Defend+", "hand": ["Bash", "Hand of Greed+", "Hemokinesis+", "Dazed"], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 120050, "card": "Hand of Greed+", "hand": [], "floor": 35, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 126580, "card": "Armaments+", "hand": ["Apotheosis", "Fiend Fire", "Exhume", "Disarm+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 126664, "card": "Evolve+", "hand": ["Apotheosis+", "Disarm+", "Reaper+", "Fiend Fire+", "Exhume+", "Rupture+", "Entrench"], "floor": 37, "hp": 75, "maxhp": 75, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 126720, "card": "Apotheosis+", "hand": ["Reaper+", "Fiend Fire+", "Exhume+", "Disarm+", "Rupture+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 126944, "card": "Exhume+", "hand": [], "floor": 37, "hp": 75, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 127134, "card": "Rupture+", "hand": ["Reaper+", "Fiend Fire+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 127630, "card": "Corruption+", "hand": ["Pommel Strike+", "Bash+", "Defend+", "Strike+", "Entrench+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 127712, "card": "Defend+", "hand": [], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 128008, "card": "Uppercut+", "hand": ["Bite", "Pommel Strike+", "Bash+", "Strike+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 128752, "card": "Shrug It Off+", "hand": ["Hand of Greed+", "Defend+", "Strike+", "Fire Breathing+"], "floor": 37, "hp": -1, "maxhp": -1, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 128872, "card": "Limit Break+", "hand": ["Hand of Greed+", "Defend+", "Strike", "Fire Breathing+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 19, "energy": 4, "v2.0": false}
+{"frame": 129172, "card": "Metallicize+", "hand": ["Hand of Greed+", "Strike", "Defend+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 19, "energy": 4, "v2.0": false}
+{"frame": 129216, "card": "Hand of Greed+", "hand": ["Defend+", "Defend+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 129676, "card": "Reaper+", "hand": ["Shrug It Off+", "Pommel Strike+", "Shrug It Off+"], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 129812, "card": "Shockwave+", "hand": ["Shrug It Off+", "Pommel Strike+", "Shrug It Off+", "Uppercut+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 129914, "card": "Shrug It Off+", "hand": ["Pommel Strike+", "Strike", "Hemokinesis+", "Rage+", "Defend+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 130002, "card": "Defend+", "hand": ["Hemokinesis+", "Pommel Strike+", "Entrench"], "floor": 37, "hp": 75, "maxhp": 75, "block": 11, "energy": 4, "v2.0": false}
+{"frame": 130072, "card": "Shrug It Off+", "hand": ["Hemokinesis+", "Bite", "Pommel Strike+", "Strike", "Fiend Fire+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 1, "energy": 4, "v2.0": false}
+{"frame": 130188, "card": "Defend+", "hand": ["Pommel Strike+", "Strike+", "Hemokinesis+", "Rage+", "True Grit+"], "floor": 37, "hp": -1, "maxhp": -1, "block": 30, "energy": 4, "v2.0": false}
+{"frame": 130320, "card": "Rage+", "hand": ["Pommel Strike", "Strike+", "Fiend Fire+", "Fire Breathing+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 38, "energy": 4, "v2.0": false}
+{"frame": 130874, "card": "Hand of Greed+", "hand": [], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 132572, "card": "Corruption", "hand": ["Void", "Shrug It Off", "Defend+", "Feel No Pain+", "Metallicize"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 132652, "card": "Metallicize", "hand": [], "floor": 38, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 132754, "card": "Violence", "hand": ["Shrug It Off", "Uppercut", "Defend+", "Smite"], "floor": 38, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 133164, "card": "Hand of Greed+", "hand": ["Shrug It Off", "Defend+", "Fiend Fire", "Strike"], "floor": 38, "hp": 75, "maxhp": 75, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 133206, "card": "Strike", "hand": ["Shrug It Off", "Defend+", "Uppercut", "Defend"], "floor": 38, "hp": 75, "maxhp": 75, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 133614, "card": "Shockwave+", "hand": ["Defend", "Defend"], "floor": 38, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 133684, "card": "Shockwave+", "hand": ["Defend", "Armaments+", "Defend", "Reaper"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 133722, "card": "Shockwave+", "hand": ["Defend", "Armaments+", "Defend", "Reaper", "Fire Breathing"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 133838, "card": "Armaments+", "hand": ["Defend", "Reaper", "Defend"], "floor": 38, "hp": -1, "maxhp": -1, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 133912, "card": "Defend+", "hand": ["Defend+", "Reaper+", "Fire Breathing+"], "floor": 38, "hp": -1, "maxhp": -1, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 134062, "card": "Defend+", "hand": ["Ascender's Bane", "Reaper+", "Fire Breathing+"], "floor": 38, "hp": 75, "maxhp": 75, "block": 25, "energy": 4, "v2.0": false}
+{"frame": 134146, "card": "Reaper+", "hand": ["Strike", "Ascender's Bane"], "floor": 38, "hp": -1, "maxhp": -1, "block": 37, "energy": 4, "v2.0": false}
+{"frame": 134600, "card": "Dark Embrace", "hand": ["Pommel Strike", "Limit Break", "Shrug It Off+", "Strike", "Hemokinesis+"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 134946, "card": "Evolve", "hand": ["Shrug It Off", "Shrug It Off+", "Strike", "Pommel Strike", "Hemokinesis"], "floor": 38, "hp": 75, "maxhp": 75, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 135004, "card": "Strike", "hand": ["Shrug It Off", "Shrug It Off+", "Pommel Strike", "Hemokinesis"], "floor": 38, "hp": 75, "maxhp": 75, "block": 4, "energy": 0, "v2.0": false}
+{"frame": 135504, "card": "Bash", "hand": ["Defend", "Exhume", "Disarm+", "Rage+"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 135546, "card": "Disarm+", "hand": ["Defend", "Exhume", "Entrench", "Rage+"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 135636, "card": "Exhume", "hand": [], "floor": 38, "hp": -1, "maxhp": -1, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 135814, "card": "Limit Break", "hand": ["Defend", "Pommel Strike", "Strike", "Entrench"], "floor": 38, "hp": -1, "maxhp": -1, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 135958, "card": "Pommel Strike", "hand": ["Defend", "Strike", "Defend+", "Entrench", "Rage+"], "floor": 38, "hp": 75, "maxhp": 75, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 136564, "card": "Fiend Fire", "hand": ["Shrug It Off", "Shrug It Off+", "Shrug It Off", "Hemokinesis"], "floor": 38, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 136960, "card": "Hand of Greed+", "hand": [], "floor": 38, "hp": -1, "maxhp": -1, "block": 32, "energy": 3, "v2.0": false}
+{"frame": 138854, "card": "Limit Break+", "hand": ["Defend+", "Corruption+", "Defend+", "Shrug It Off+", "Fire Breathing+"], "floor": 40, "hp": 65, "maxhp": 75, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 138956, "card": "Corruption+", "hand": ["Defend+", "Shrug It Off+"], "floor": 40, "hp": 65, "maxhp": 75, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 139096, "card": "Fire Breathing+", "hand": ["Defend+", "Shrug It Off+"], "floor": 40, "hp": 65, "maxhp": 75, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 139618, "card": "Shrug It Off", "hand": ["Hand of Greed+", "Exhume", "Hemokinesis", "Rage+", "Entrench"], "floor": 40, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 139800, "card": "Defend+", "hand": ["Hand of Greed+", "Exhume", "Writhe", "Entrench"], "floor": 40, "hp": 65, "maxhp": 75, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 139902, "card": "Entrench", "hand": ["Hand of Greed+", "Exhume", "Hemokinesis"], "floor": 40, "hp": -1, "maxhp": -1, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 140360, "card": "Feel No Pain+", "hand": ["Bash", "Strike", "Feed", "Shrug It Off"], "floor": 40, "hp": 65, "maxhp": 75, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 140458, "card": "Evolve", "hand": ["Bash", "Entrench", "Shrug It Off", "Strike"], "floor": 40, "hp": 65, "maxhp": 75, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 140908, "card": "Fiend Fire", "hand": ["Bash", "Uppercut", "Strike", "Shrug It Off"], "floor": 40, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 141762, "card": "Dark Embrace", "hand": ["Defend", "Pommel Strike", "Shockwave+"], "floor": 40, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 141802, "card": "Disarm+", "hand": ["Defend", "Reaper", "Rupture+", "Shockwave+"], "floor": 40, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 141878, "card": "Shockwave+", "hand": ["Defend", "Reaper", "Rupture+", "Pommel Strike", "Metallicize", "Entrench"], "floor": 40, "hp": 65, "maxhp": 75, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 142026, "card": "Defend", "hand": ["Reaper", "Pommel Strike", "Strike"], "floor": 40, "hp": 65, "maxhp": 75, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 142270, "card": "Reaper", "hand": ["Rupture+", "Pummel", "Strike", "Burn", "Hand of Greed+"], "floor": 40, "hp": 65, "maxhp": 75, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 142402, "card": "Armaments+", "hand": ["Rupture+", "Pommel Strike", "Strike", "Burn", "Hand of Greed+"], "floor": 40, "hp": 66, "maxhp": 75, "block": 21, "energy": 0, "v2.0": false}
+{"frame": 142558, "card": "Shrug It Off+", "hand": ["Rupture+", "Pommel Strike+", "Strike", "Burn"], "floor": 40, "hp": 66, "maxhp": 75, "block": 30, "energy": 0, "v2.0": false}
+{"frame": 143514, "card": "Limit Break+", "hand": ["Burn", "Defend", "Hemokinesis", "Void"], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 143890, "card": "Hemokinesis", "hand": ["Defend", "Regret", "Burn", "Defend+", "Good Instincts+"], "floor": 40, "hp": 65, "maxhp": 75, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 144098, "card": "Strike+", "hand": ["Burn", "Defend+", "Defend+", "Rupture+", "Burn"], "floor": 40, "hp": 64, "maxhp": 75, "block": 26, "energy": 4, "v2.0": false}
+{"frame": 144366, "card": "Hand of Greed+", "hand": [], "floor": 40, "hp": 64, "maxhp": 75, "block": 55, "energy": 4, "v2.0": false}
+{"frame": 145800, "card": "Armaments+", "hand": ["Apotheosis", "Shrug It Off", "Rage"], "floor": 42, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 145826, "card": "Armaments+", "hand": ["Apotheosis", "Shrug It Off", "Rage", "Doubt"], "floor": 42, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 145846, "card": "Armaments+", "hand": ["Apotheosis", "Shrug It Off", "Rage", "Shrug It Off+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 145864, "card": "Armaments+", "hand": ["Apotheosis", "Shrug It Off", "Rage", "Shrug It Off+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 146168, "card": "Shrug It Off+", "hand": ["Apotheosis+", "Shrug It Off+", "Reaper+", "Strike+", "Entrench"], "floor": 42, "hp": 75, "maxhp": 75, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 146402, "card": "Apotheosis+", "hand": ["Shrug It Off+", "Reaper+", "Strike+", "Rupture+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 18, "energy": 5, "v2.0": false}
+{"frame": 146498, "card": "Rupture+", "hand": ["Shrug It Off+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 146568, "card": "Reaper+", "hand": ["Shrug It Off+", "Strike+", "Rage+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 147116, "card": "Feel No Pain+", "hand": ["Shrug It Off+", "Pummel", "Defend+", "Bash+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 147190, "card": "Corruption+", "hand": ["Shrug It Off+", "Pommel Strike+", "Defend+", "Bash+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 147298, "card": "Shrug It Off+", "hand": ["Pommel Strike+", "Exhume+", "Defend+", "Bash"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 147396, "card": "Shockwave+", "hand": ["Pommel Strike+", "Exhume+", "Bash+", "Defend"], "floor": 42, "hp": -1, "maxhp": -1, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 147702, "card": "Pommel Strike+", "hand": ["Exhume+", "Defend+", "Bash+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 20, "energy": 2, "v2.0": false}
+{"frame": 147798, "card": "Disarm+", "hand": ["Exhume+", "Defend+", "Defend+", "Bash"], "floor": 42, "hp": 75, "maxhp": 75, "block": 20, "energy": 0, "v2.0": false}
+{"frame": 147864, "card": "Defend+", "hand": ["Exhume+", "Defend+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 24, "energy": 0, "v2.0": false}
+{"frame": 147938, "card": "Defend+", "hand": ["Exhume+", "Bash"], "floor": 42, "hp": 75, "maxhp": 75, "block": 37, "energy": 0, "v2.0": false}
+{"frame": 148600, "card": "Limit Break+", "hand": ["Hand of Greed+", "Defend+", "Metallicize+", "Hemokinesis+", "Fiend Fire+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 148970, "card": "Defend+", "hand": ["Strike+", "Hemokinesis+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 149176, "card": "Strike+", "hand": ["Hemokinesis+", "Fire Breathing+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 35, "energy": 1, "v2.0": false}
+{"frame": 149846, "card": "Fiend Fire+", "hand": ["Dark Embrace+", "Entrench+", "Defend+"], "floor": 42, "hp": 73, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 150112, "card": "Hand of Greed+", "hand": ["Shrug It Off+", "Shrug It Off+", "Strike+"], "floor": 42, "hp": 73, "maxhp": 75, "block": 20, "energy": 2, "v2.0": false}
+{"frame": 150548, "card": "Exhume+", "hand": ["Dazed"], "floor": 42, "hp": 73, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 150736, "card": "Strike+", "hand": ["Armaments+", "Fiend Fire+", "Hemokinesis+", "Bash+", "Uppercut+"], "floor": 42, "hp": 73, "maxhp": 75, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 150826, "card": "Fiend Fire+", "hand": ["Bash+", "Armaments+", "Hemokinesis+", "Fire Breathing+", "Uppercut+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 151118, "card": "Shrug It Off+", "hand": ["Shrug It Off+", "Rage+", "Evolve+", "Wound", "Entrench"], "floor": 42, "hp": 73, "maxhp": 75, "block": 32, "energy": 4, "v2.0": false}
+{"frame": 151214, "card": "Shrug It Off+", "hand": ["Pummel+", "Rage", "Evolve", "Entrench"], "floor": 42, "hp": 73, "maxhp": 75, "block": 48, "energy": 4, "v2.0": false}
+{"frame": 151322, "card": "Hand of Greed+", "hand": ["Pommel Strike+", "Strike", "Strike+", "Rage", "Evolve+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 64, "energy": 4, "v2.0": false}
+{"frame": 152566, "card": "Master of Strategy", "hand": ["Defend", "Pommel Strike", "Shrug It Off+", "Hemokinesis", "Fire Breathing+"], "floor": 44, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 152658, "card": "Shrug It Off+", "hand": ["Defend"], "floor": 44, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 152922, "card": "Dark Embrace", "hand": ["Defend", "Pommel Strike"], "floor": 44, "hp": -1, "maxhp": -1, "block": 12, "energy": 5, "v2.0": false}
+{"frame": 153098, "card": "Defend", "hand": ["Pommel Strike", "Entrench", "Strike"], "floor": 44, "hp": 85, "maxhp": 85, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 153206, "card": "Evolve", "hand": ["Pommel Strike", "Entrench", "Strike"], "floor": 44, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 153234, "card": "Metallicize", "hand": ["Pommel Strike", "Fire Breathing", "Rage+", "Strike"], "floor": 44, "hp": 85, "maxhp": 85, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 153752, "card": "Shrug It Off", "hand": ["Fiend Fire", "Defend", "Defend+", "Bash", "Shockwave+", "Entrench"], "floor": 44, "hp": 74, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 153862, "card": "Shockwave+", "hand": ["Fiend Fire", "Defend", "Defend+", "Exhume", "Reaper", "Reaper"], "floor": 44, "hp": 75, "maxhp": 85, "block": 9, "energy": 4, "v2.0": false}
+{"frame": 154044, "card": "Limit Break", "hand": ["Defend", "Defend+", "Exhume", "Bash", "Rage", "Fiend Fire"], "floor": 44, "hp": 79, "maxhp": 85, "block": 9, "energy": 4, "v2.0": false}
+{"frame": 154524, "card": "Fiend Fire", "hand": ["Defend", "Exhume", "Bash", "Uppercut"], "floor": 44, "hp": 2, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 154934, "card": "Shrug It Off", "hand": ["Armaments+", "Feel No Pain+", "Rupture+", "Dark Embrace"], "floor": 44, "hp": 79, "maxhp": 85, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 155048, "card": "Corruption", "hand": ["Armaments+", "Strike", "Feel No Pain+", "Rupture+", "Entrench"], "floor": 44, "hp": 75, "maxhp": 85, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 155746, "card": "Shrug It Off", "hand": ["Strike", "Power Through", "Defend", "Burn", "Armaments+", "Burn"], "floor": 44, "hp": 75, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 156032, "card": "Shrug It Off", "hand": ["Burn", "Armaments+", "Entrench"], "floor": 44, "hp": 79, "maxhp": 85, "block": 31, "energy": 4, "v2.0": false}
+{"frame": 156166, "card": "Strike", "hand": ["Defend", "Defend", "Armaments+", "Strike", "Hemokinesis"], "floor": 44, "hp": 79, "maxhp": 85, "block": 44, "energy": 4, "v2.0": false}
+{"frame": 156286, "card": "Hemokinesis", "hand": ["Defend", "Defend", "Armaments+", "Strike", "Shrug It Off+"], "floor": 44, "hp": 75, "maxhp": 85, "block": 44, "energy": 1, "v2.0": false}
+{"frame": 156788, "card": "Rage+", "hand": ["Pommel Strike", "Entrench", "Havoc+"], "floor": 44, "hp": 77, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 157096, "card": "Fire Breathing", "hand": ["Hand of Greed+", "Pommel Strike", "Shrug It Off+"], "floor": 44, "hp": 77, "maxhp": 85, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 157132, "card": "Shrug It Off+", "hand": ["Hand of Greed", "Pommel Strike", "Entrench", "Burn"], "floor": 44, "hp": 77, "maxhp": 85, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 157250, "card": "Defend", "hand": ["Hand of Greed+", "Pommel Strike", "Rupture+", "Burn"], "floor": 44, "hp": 77, "maxhp": 85, "block": 20, "energy": 4, "v2.0": false}
+{"frame": 157356, "card": "Armaments+", "hand": ["Hand of Greed+", "Pommel Strike", "Rupture+", "Burn", "Defend"], "floor": 44, "hp": -1, "maxhp": -1, "block": 30, "energy": 4, "v2.0": false}
+{"frame": 157624, "card": "Hemokinesis", "hand": ["Hand of Greed+", "Pommel Strike+", "Defend+", "Burn"], "floor": 44, "hp": 77, "maxhp": 85, "block": 40, "energy": 4, "v2.0": false}
+{"frame": 157714, "card": "Hand of Greed+", "hand": [], "floor": 44, "hp": 75, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 158448, "card": "Metallicize", "hand": ["Mayhem", "Defend+", "Limit Break", "Shrug It Off+", "Bash", "Hand of Greed+"], "floor": 45, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 158560, "card": "Limit Break", "hand": ["Mayhem", "Hand of Greed+", "Shrug It Off+", "Bash"], "floor": 45, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 158664, "card": "Hand of Greed+", "hand": ["Shrug It Off+", "Mayhem", "Defend+", "Bash"], "floor": 45, "hp": -1, "maxhp": -1, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 158998, "card": "Shrug It Off", "hand": ["Defend", "Strike", "Defend", "Shame+"], "floor": 45, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 159108, "card": "Armaments+", "hand": ["Defend", "Strike", "Defend", "Exhume", "Shrug It Off"], "floor": 45, "hp": 85, "maxhp": 85, "block": 9, "energy": 4, "v2.0": false}
+{"frame": 159160, "card": "Evolve+", "hand": ["Defend", "Strike+", "Defend+", "Exhume+", "Shrug It Off+"], "floor": 45, "hp": 85, "maxhp": 85, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 159496, "card": "Limit Break", "hand": ["Defend+", "Strike+", "Shrug It Off+"], "floor": 45, "hp": 85, "maxhp": 85, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 159844, "card": "Rupture+", "hand": ["Strike", "Reaper", "Rage+", "Dark Embrace", "Ascender's Bane"], "floor": 45, "hp": 85, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 159994, "card": "Dark Embrace+", "hand": ["Reaper", "Ascender's Bane"], "floor": 45, "hp": 85, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 160534, "card": "Corruption", "hand": ["Hemokinesis", "Shockwave+", "Fire Breathing"], "floor": 45, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 160626, "card": "Dark Embrace", "hand": [], "floor": 45, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 160666, "card": "Shockwave+", "hand": ["Entrench", "Entrench"], "floor": 45, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 160926, "card": "Shrug It Off+", "hand": ["Defend", "Fiend Fire"], "floor": 45, "hp": 85, "maxhp": 85, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 161164, "card": "Hemokinesis", "hand": ["Fiend Fire", "Pommel Strike", "Bash", "Strike", "Entrench+", "Strike"], "floor": 45, "hp": 85, "maxhp": 85, "block": 20, "energy": 4, "v2.0": false}
+{"frame": 161322, "card": "Fiend Fire", "hand": ["Bash", "Strike", "Strike"], "floor": 45, "hp": -1, "maxhp": -1, "block": 20, "energy": 4, "v2.0": false}
+{"frame": 161764, "card": "Uppercut", "hand": ["Shrug It Off", "Mayhem", "Shrug It Off+", "Reaper", "Defend+", "Hand of Greed+", "Feed"], "floor": 45, "hp": 83, "maxhp": 85, "block": 52, "energy": 3, "v2.0": false}
+{"frame": 162136, "card": "Hand of Greed+", "hand": ["Shrug It Off", "Shrug It Off+", "Defend+", "Defend+", "Armaments+"], "floor": 45, "hp": 85, "maxhp": 8, "block": 56, "energy": 1, "v2.0": false}
+{"frame": 162654, "card": "Rage+", "hand": ["Hand of Greed+", "Mayhem", "Defend+", "Armaments+"], "floor": 45, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 162836, "card": "Defend+", "hand": ["Shame+", "Defend+", "Defend+"], "floor": 45, "hp": 85, "maxhp": 8, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 162958, "card": "Defend+", "hand": ["Mayhem", "Armaments+", "Shame", "Shrug It Off", "Shrug It Off+", "Hemokinesis+"], "floor": 45, "hp": 85, "maxhp": 85, "block": 17, "energy": 4, "v2.0": false}
+{"frame": 163140, "card": "Hand of Greed+", "hand": ["Mayhem", "Armaments+", "Defend+", "Shrug It Off", "Shrug It Off+"], "floor": 45, "hp": 85, "maxhp": 85, "block": 30, "energy": 4, "v2.0": false}
+{"frame": 163208, "card": "Defend+", "hand": ["Mayhem", "Armaments+", "Shrug It Off", "Shrug It Off+", "Hemokinesis"], "floor": 45, "hp": 85, "maxhp": 85, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 163388, "card": "Hand of Greed+", "hand": [], "floor": 45, "hp": 85, "maxhp": 85, "block": 48, "energy": 2, "v2.0": false}
+{"frame": 165664, "card": "Dark Embrace", "hand": ["Defend", "Exhume", "Corruption"], "floor": 46, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 165762, "card": "Corruption", "hand": ["Fiend Fire"], "floor": 46, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 165784, "card": "Corruption", "hand": ["Dual Wield+", "Dazed", "Exhume"], "floor": 46, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 165976, "card": "Good Instincts", "hand": ["Fiend Fire", "Defend", "Exhume"], "floor": 46, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 166224, "card": "Defend", "hand": ["Fiend Fire", "Exhume", "Dual Wield+"], "floor": 46, "hp": 85, "maxhp": 85, "block": 7, "energy": 2, "v2.0": false}
+{"frame": 166524, "card": "Entrench", "hand": ["Fiend Fire", "Exhume", "Dual Wield+"], "floor": 46, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 167018, "card": "Shockwave+", "hand": ["Exhume", "Reaper", "Reaper"], "floor": 46, "hp": -1, "maxhp": -1, "block": 26, "energy": 2, "v2.0": false}
+{"frame": 167656, "card": "Defend", "hand": ["Exhume", "Reaper"], "floor": 46, "hp": 85, "maxhp": 85, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 168594, "card": "Hand of Greed+", "hand": ["Shrug It Off", "Limit Break", "Armaments+", "Shrug It Off+"], "floor": 46, "hp": 5, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 168808, "card": "Armaments+", "hand": ["Shrug It Off", "Limit Break", "Shrug It Off+"], "floor": 46, "hp": 35, "maxhp": 83, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 169074, "card": "Shrug It Off+", "hand": ["Uppercut+", "Limit Break+", "Shrug It Off+"], "floor": 46, "hp": 85, "maxhp": 85, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 169176, "card": "Limit Break+", "hand": ["Shrug It Off+", "Strike"], "floor": 46, "hp": 85, "maxhp": 85, "block": 2, "energy": 2, "v2.0": false}
+{"frame": 170128, "card": "Shrug It Off", "hand": ["Pommel Strike", "Bite", "Reaper", "Metallicize"], "floor": 46, "hp": 85, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 170288, "card": "Dark Embrace", "hand": ["Defend+", "Bash", "Exhume"], "floor": 46, "hp": 85, "maxhp": 8, "block": 31, "energy": 4, "v2.0": false}
+{"frame": 170462, "card": "Hand of Greed+", "hand": ["Bash", "Reaper", "Exhume"], "floor": 46, "hp": 85, "maxhp": 85, "block": 44, "energy": 2, "v2.0": false}
+{"frame": 170698, "card": "Pommel Strike", "hand": ["Bash", "Reaper", "Exhume"], "floor": 46, "hp": 85, "maxhp": 85, "block": 44, "energy": 2, "v2.0": false}
+{"frame": 170808, "card": "Metallicize", "hand": ["Reaper", "Exhume", "Shrug It Off+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 171380, "card": "Evolve", "hand": ["Reaper", "Hemokinesis", "Strike", "Fiend Fire"], "floor": 46, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 172156, "card": "Hand of Greed+", "hand": ["Fiend Fire", "Strike"], "floor": 46, "hp": 78, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 172222, "card": "Fire Breathing", "hand": ["Fiend Fire", "Uppercut+", "Strike"], "floor": 46, "hp": 70, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 172766, "card": "Shrug It Off+", "hand": ["Reaper", "Reaper", "Hemokinesis"], "floor": 46, "hp": 70, "maxhp": 85, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 173132, "card": "Exhume", "hand": ["Reaper", "Strike"], "floor": 46, "hp": 70, "maxhp": 85, "block": 20, "energy": 4, "v2.0": false}
+{"frame": 173454, "card": "Hand of Greed+", "hand": [], "floor": 46, "hp": 70, "maxhp": 85, "block": 37, "energy": 4, "v2.0": false}
+{"frame": 174556, "card": "Dark Embrace", "hand": ["Secret Weapon", "Defend", "Limit Break", "Hemokinesis", "Defend"], "floor": 47, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 174910, "card": "Limit Break", "hand": ["Dazed", "Strike", "Defend", "Hemokinesis", "Entrench"], "floor": 47, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 175022, "card": "Defend", "hand": ["Shrug It Off", "Defend", "Defend", "Reaper", "Strike", "Shrug It Off+"], "floor": 47, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 175444, "card": "Dark Embrace", "hand": ["Doubt", "Rupture+", "Metallicize"], "floor": 47, "hp": 2, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 175484, "card": "Metallicize", "hand": ["Fiend Fire", "Defend+", "Rupture+", "Ascender's Bane", "Rage+"], "floor": 47, "hp": 82, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 175644, "card": "Fiend Fire", "hand": ["Defend+", "Rupture+"], "floor": 47, "hp": 2, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 176140, "card": "Armaments+", "hand": ["Hand of Greed+", "Pommel Strike", "Dual Wield+", "Shockwave+"], "floor": 47, "hp": 82, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 176320, "card": "Bash+", "hand": ["Hand of Greed+", "Pommel Strike+", "Entrench+", "Shockwave+", "Uppercut+"], "floor": 47, "hp": 82, "maxhp": 85, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 176542, "card": "Dual Wield+", "hand": ["Hand of Greed+", "Hand of Greed"], "floor": 47, "hp": 32, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 176590, "card": "Hand of Greed+", "hand": ["Hand of Greed+", "Hand of Greed+", "Pommel Strike+", "Fire Breathing+", "Shockwave+"], "floor": 47, "hp": 82, "maxhp": 85, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 176730, "card": "Hand of Greed+", "hand": ["Hand of Greed+", "Pommel Strike+", "Entrench+", "Shockwave+"], "floor": 47, "hp": 82, "maxhp": 85, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 176770, "card": "Entrench+", "hand": ["Strike", "Hand of Greed+", "Pommel Strike+", "Uppercut+", "Shockwave+"], "floor": 47, "hp": 82, "maxhp": 85, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 177240, "card": "Feel No Pain+", "hand": ["Strike", "Exhume", "Shrug It Off", "Armaments+", "Corruption"], "floor": 47, "hp": 75, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 177288, "card": "Corruption", "hand": ["Strike", "Exhume", "Shrug It Off", "Armaments+", "Disarm+"], "floor": 47, "hp": 75, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 177414, "card": "Disarm+", "hand": ["Strike", "Exhume", "Shrug It Off", "Armaments+"], "floor": 47, "hp": 75, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 177490, "card": "Shrug It Off", "hand": ["Strike", "Armaments+", "Defend", "Reaper"], "floor": 47, "hp": 75, "maxhp": 85, "block": 22, "energy": 4, "v2.0": false}
+{"frame": 177616, "card": "Uppercut+", "hand": ["Armaments+", "Defend", "Reaper", "Pommel Strike+", "Strike", "Exhume", "Shockwave+"], "floor": 47, "hp": 75, "maxhp": 85, "block": 35, "energy": 4, "v2.0": false}
+{"frame": 179110, "card": "Hand of Greed+", "hand": ["Reaper", "Disarm+"], "floor": 47, "hp": 75, "maxhp": 85, "block": 47, "energy": 4, "v2.0": false}
+{"frame": 180498, "card": "Metallicize", "hand": ["Limit Break", "Shrug It Off", "Dark Shackles", "Hemokinesis", "Uppercut", "Entrench"], "floor": 48, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 180556, "card": "Limit Break", "hand": ["Strike", "Shrug It Off", "Dark Shackles", "Hemokinesis", "Uppercut", "Entrench"], "floor": 48, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 180642, "card": "Hemokinesis", "hand": ["Strike", "Shrug It Off", "Dark Shackles", "Uppercut", "Entrench"], "floor": 48, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 180734, "card": "Dark Shackles", "hand": ["Strike", "Shrug It Off", "Entrench"], "floor": 48, "hp": 83, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 181396, "card": "Dark Embrace", "hand": ["Bash", "Exhume", "Shockwave+"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 181638, "card": "Shockwave+", "hand": ["Bash", "Strike"], "floor": 48, "hp": 83, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 181898, "card": "Bash", "hand": ["Exhume", "Strike", "Dark Embrace", "Defend"], "floor": 48, "hp": 83, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182498, "card": "Corruption", "hand": ["Fiend Fire", "Armaments+", "Shrug It Off", "Shrug It Off+", "Evolve"], "floor": 48, "hp": 56, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 182586, "card": "Shrug It Off+", "hand": ["Armaments+"], "floor": 48, "hp": 56, "maxhp": 85, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 182708, "card": "Shrug It Off", "hand": ["Flex", "Armaments+", "Defend+", "Defend", "Ascender's Bane"], "floor": 48, "hp": 56, "maxhp": 85, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 183242, "card": "Armaments+", "hand": ["Defend+", "Defend", "Defend", "Rage+"], "floor": 48, "hp": 56, "maxhp": 85, "block": 39, "energy": 3, "v2.0": false}
+{"frame": 183356, "card": "Defend+", "hand": ["Defend+", "Fiend Fire+", "Rage+", "Dark Embrace"], "floor": 48, "hp": 56, "maxhp": 85, "block": 45, "energy": 3, "v2.0": false}
+{"frame": 183656, "card": "Fiend Fire+", "hand": ["Defend+", "Defend+", "Ascender's Bane", "Rage+", "Dark Embrace"], "floor": 48, "hp": 56, "maxhp": 85, "block": 54, "energy": 0, "v2.0": false}
+{"frame": 184248, "card": "Dual Wield+", "hand": ["Hand of Greed+", "Reaper", "Fire Breathing"], "floor": 48, "hp": 56, "maxhp": 85, "block": 86, "energy": 0, "v2.0": false}
+{"frame": 184334, "card": "Dual Wield+", "hand": ["Shrug It Off", "Hand of Greed+", "Pommel Strike", "Reaper", "Reaper"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 185050, "card": "Dark Embrace", "hand": ["Strike", "Strike"], "floor": 48, "hp": 56, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 185208, "card": "Uppercut+", "hand": [], "floor": 48, "hp": 56, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 185350, "card": "Exhume", "hand": [], "floor": 48, "hp": 56, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 185562, "card": "Bash", "hand": ["Strike", "Strike", "Fiend Fire+", "Entrench", "Rupture+", "Hemokinesis"], "floor": 48, "hp": 56, "maxhp": 85, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 185620, "card": "Strike", "hand": ["Strike", "Fiend Fire+", "Entrench", "Hemokinesis"], "floor": 48, "hp": 56, "maxhp": 85, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 185690, "card": "Fiend Fire+", "hand": ["Strike", "Entrench", "Wound", "Rupture+", "Hemokinesis"], "floor": 48, "hp": 56, "maxhp": 85, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 186028, "card": "Reaper", "hand": ["Bash", "Strike", "Reaper"], "floor": 48, "hp": -1, "maxhp": -1, "block": 28, "energy": 3, "v2.0": false}
+{"frame": 186052, "card": "Reaper", "hand": ["Bash", "Strike", "Reaper"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 186070, "card": "Reaper", "hand": ["Bash", "Pommel Strike", "Strike", "Reaper", "Uppercut", "Shrug It Off"], "floor": 48, "hp": -1, "maxhp": -1, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 186218, "card": "Defend", "hand": ["Bash", "Pommel Strike", "Strike", "Reaper", "Shrug It Off", "Uppercut"], "floor": 48, "hp": 70, "maxhp": 85, "block": 36, "energy": 3, "v2.0": false}
+{"frame": 186292, "card": "Strike", "hand": ["Bash", "Pommel Strike", "Reaper", "Uppercut"], "floor": 48, "hp": 70, "maxhp": 85, "block": 46, "energy": 3, "v2.0": false}
+{"frame": 186344, "card": "Shrug It Off", "hand": ["Bash", "Pommel Strike", "Uppercut"], "floor": 48, "hp": -1, "maxhp": -1, "block": 46, "energy": 3, "v2.0": false}
+{"frame": 186468, "card": "Hand of Greed+", "hand": [], "floor": 48, "hp": 70, "maxhp": 85, "block": 59, "energy": 3, "v2.0": false}
+{"frame": 187676, "card": "Dark Embrace", "hand": ["The Bomb", "Shrug It Off+", "Limit Break", "Bash", "Defend", "Disarm+"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 187898, "card": "Limit Break", "hand": ["Bash", "Defend"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 188074, "card": "The Bomb", "hand": ["Defend", "Shrug It Off", "Decay"], "floor": 50, "hp": 85, "maxhp": 85, "block": 1, "energy": 3, "v2.0": false}
+{"frame": 188382, "card": "Exhume", "hand": ["Dazed"], "floor": 50, "hp": 5, "maxhp": 85, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 188898, "card": "Rage+", "hand": ["Defend", "Shrug It Off", "Bash", "Shrug It Off", "Entrench"], "floor": 50, "hp": 85, "maxhp": 85, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 189076, "card": "Uppercut", "hand": ["Defend", "Shrug It Off", "Shrug It Off", "Armaments+", "Bash"], "floor": 50, "hp": 85, "maxhp": 85, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 189176, "card": "Fire Breathing", "hand": ["Shrug It Off", "Shame", "Armaments+", "Bash", "Disarm+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 189890, "card": "Dual Wield+", "hand": [], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 190088, "card": "Feel No Pain+", "hand": ["Strike", "Entrench", "Strike", "Pommel Strike"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 190170, "card": "Feel No Pain+", "hand": ["Strike", "Strike"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 191136, "card": "Armaments+", "hand": ["Reaper", "Rage", "Shrug It Off", "Shockwave+"], "floor": 50, "hp": 5, "maxhp": 85, "block": 18, "energy": 5, "v2.0": false}
+{"frame": 191240, "card": "Metallicize+", "hand": ["Reaper+", "Shrug It Off+", "Reaper+", "Hemokinesis+", "Entrench"], "floor": 50, "hp": 85, "maxhp": 85, "block": 32, "energy": 5, "v2.0": false}
+{"frame": 191638, "card": "Hemokinesis+", "hand": ["Reaper+", "Reaper+", "Shrug It Off+", "Defend"], "floor": 50, "hp": 45, "maxhp": 8, "block": 40, "energy": 5, "v2.0": false}
+{"frame": 191668, "card": "Hemokinesis+", "hand": ["Reaper+", "Reaper+", "Shrug It Off+", "Defend"], "floor": 50, "hp": 85, "maxhp": 85, "block": 40, "energy": 2, "v2.0": false}
+{"frame": 192372, "card": "Uppercut", "hand": ["Shrug It Off", "Hand of Greed+", "Defend", "Disarm+", "Dark Embrace+"], "floor": 50, "hp": 83, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 192576, "card": "Shrug It Off", "hand": ["Hand of Greed+", "Defend", "Disarm+", "Dark Embrace"], "floor": 50, "hp": 83, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 192838, "card": "Defend", "hand": ["Hand of Greed+", "Dazed", "Disarm+"], "floor": 50, "hp": 3, "maxhp": 85, "block": 17, "energy": 3, "v2.0": false}
+{"frame": 193032, "card": "Disarm+", "hand": ["Hand of Greed+", "Defend", "Reaper+", "Uppercut", "Dazed"], "floor": 50, "hp": 83, "maxhp": 85, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 193844, "card": "Evolve", "hand": ["Reaper+", "Defend", "Bash", "Defend", "Uppercut"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 193890, "card": "Defend", "hand": ["Reaper+", "Bash", "Defend", "Dazed", "Hemokinesis+", "Entrench"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 193996, "card": "Dark Embrace", "hand": ["Bash"], "floor": 50, "hp": 85, "maxhp": 85, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 194028, "card": "Defend", "hand": ["Reaper+", "Bash", "Dazed", "Uppercut", "Entrench"], "floor": 50, "hp": -1, "maxhp": -1, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 194166, "card": "Entrench", "hand": ["Reaper+", "Bash", "Headbutt+", "Shrug It Off+", "Dazed", "Uppercut", "Hemokinesis+", "Entrench"], "floor": 50, "hp": -1, "maxhp": -1, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 194304, "card": "Uppercut", "hand": ["Reaper+", "Bash", "Hand of Greed+", "Shrug It Off+", "Dazed"], "floor": 50, "hp": 85, "maxhp": 85, "block": 64, "energy": 2, "v2.0": false}
+{"frame": 194358, "card": "Hemokinesis+", "hand": ["Reaper+", "Shrug It Off+", "Dazed", "Bash"], "floor": 50, "hp": 85, "maxhp": 85, "block": 64, "energy": 1, "v2.0": false}
+{"frame": 194396, "card": "Hemokinesis+", "hand": ["Reaper+", "Shrug It Off+", "Dazed", "Bash"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 194504, "card": "Reaper+", "hand": ["Shrug It Off+", "Dazed", "Bash", "Bash"], "floor": 50, "hp": -1, "maxhp": -1, "block": 64, "energy": 1, "v2.0": false}
+{"frame": 195148, "card": "Bash", "hand": ["Hand of Greed+", "Shrug It Off+", "Dazed", "Hemokinesis+", "Uppercut"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 195288, "card": "Hand of Greed+", "hand": ["Shrug It Off+", "Hemokinesis+"], "floor": 50, "hp": 85, "maxhp": 8, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 195334, "card": "Hemokinesis+", "hand": ["Shrug It Off+", "Dazed", "Uppercut"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 195368, "card": "Hemokinesis+", "hand": ["Shrug It Off+", "Uppercut", "Dazed", "Dazed"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 195988, "card": "Uppercut", "hand": ["Hand of Greed+", "Bash", "Shrug It Off+", "Hemokinesis+"], "floor": 50, "hp": 83, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 196074, "card": "Hand of Greed+", "hand": [], "floor": 50, "hp": 83, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 196826, "card": "Corruption", "hand": ["Secret Technique", "Defend", "Entrench", "Disarm+"], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 197196, "card": "Secret Technique+", "hand": [], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 197846, "card": "Shockwave+", "hand": ["Defend", "Defend", "Strike", "Armaments+", "Entrench+", "Hemokinesis"], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 198478, "card": "Evolve", "hand": ["Defend", "Shrug It Off", "Hand of Greed+", "Pommel Strike"], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 198552, "card": "Shrug It Off", "hand": ["Defend", "Hand of Greed+", "Shrug It Off+", "Pommel Strike"], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 199140, "card": "Dual Wield+", "hand": ["Hand of Greed+", "Pommel Strike", "Defend", "Shrug It Off+"], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 199226, "card": "Rupture+", "hand": ["Pommel Strike", "Defend", "Shrug It Off+", "Ascender's Bane", "Feed"], "floor": 51, "hp": 85, "maxhp": 85, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 200094, "card": "Feel No Pain+", "hand": ["Defend+", "Limit Break", "Strike", "Uppercut"], "floor": 51, "hp": 79, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 200182, "card": "Metallicize", "hand": ["Bash", "Defend+", "Limit Break", "Strike"], "floor": 51, "hp": -1, "maxhp": -1, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 200266, "card": "Fire Breathing", "hand": ["Defend+", "Limit Break", "Finesse", "Finesse"], "floor": 51, "hp": -1, "maxhp": -1, "block": 18, "energy": 0, "v2.0": false}
+{"frame": 201010, "card": "Defend", "hand": ["Hand of Greed+", "Pommel Strike", "Limit Break", "Rage+"], "floor": 51, "hp": 4, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 201160, "card": "Shrug It Off+", "hand": ["Hand of Greed+", "Pommel Strike", "Limit Break", "Fiend Fire"], "floor": 51, "hp": 79, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 201292, "card": "Rupture+", "hand": ["Combust", "Limit Break", "Defend+", "Fiend Fire"], "floor": 51, "hp": 79, "maxhp": 85, "block": 26, "energy": 3, "v2.0": false}
+{"frame": 201382, "card": "Hemokinesis+", "hand": ["Limit Break", "Pummel", "Defend+", "Fiend Fire", "Hand of Greed+", "Uppercut"], "floor": 51, "hp": 79, "maxhp": 85, "block": 26, "energy": 3, "v2.0": false}
+{"frame": 201556, "card": "Limit Break", "hand": ["Headbutt", "Defend+", "Fiend Fire", "Pommel Strike", "Uppercut", "Entrench"], "floor": 51, "hp": 77, "maxhp": 85, "block": 26, "energy": 1, "v2.0": false}
+{"frame": 201764, "card": "Hand of Greed+", "hand": ["Defend+", "Fiend Fire", "Armaments+", "Pommel Strike", "Rage+", "Reaper"], "floor": 51, "hp": 77, "maxhp": 85, "block": 30, "energy": 1, "v2.0": false}
+{"frame": 201982, "card": "Reaper+", "hand": ["Doubt", "Fiend Fire", "Warcry+", "Shrug It Off"], "floor": 51, "hp": 77, "maxhp": 85, "block": 30, "energy": 0, "v2.0": false}
+{"frame": 202580, "card": "Hemokinesis+", "hand": ["Bash", "Defend", "Strike", "Defend", "Uppercut"], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 202702, "card": "Defend", "hand": ["Bash", "Defend", "Strike", "Uppercut"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 203070, "card": "Hand of Greed+", "hand": ["Defend", "Strike", "Slimed", "Strike", "Armaments+", "Bash", "Uppercut"], "floor": 51, "hp": -1, "maxhp": -1, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 203196, "card": "Bash", "hand": ["Defend", "Strike", "Slimed", "Strike", "Armaments+"], "floor": 51, "hp": 83, "maxhp": 85, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 203500, "card": "Uppercut", "hand": ["Defend", "Strike", "Slimed", "Strike", "Armaments+"], "floor": 51, "hp": 83, "maxhp": 85, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 203568, "card": "Slimed", "hand": ["Dazed", "Strike"], "floor": 51, "hp": -1, "maxhp": -1, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 203716, "card": "Slimed", "hand": ["Armaments+", "Defend", "Strike", "Rage+"], "floor": 51, "hp": 83, "maxhp": 85, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 204370, "card": "Shrug It Off", "hand": ["Strike", "Defend", "Bash", "Strike"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 204600, "card": "Strike", "hand": ["Defend", "Bash", "Strike", "Hand of Greed+", "Defend+", "Entrench"], "floor": 51, "hp": 83, "maxhp": 85, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 204666, "card": "Hand of Greed+", "hand": [], "floor": 51, "hp": 83, "maxhp": 85, "block": 13, "energy": 3, "v2.0": false}
+done

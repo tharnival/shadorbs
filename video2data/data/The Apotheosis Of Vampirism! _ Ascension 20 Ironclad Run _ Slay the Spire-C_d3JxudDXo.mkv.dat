@@ -1,0 +1,603 @@
+{"frame": 1558, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 1578, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 1770, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 1816, "card": "Bash", "hand": ["Strike", "Strike", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 1846, "card": "Strike", "hand": ["Strike", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 2118, "card": "Strike", "hand": ["Bash", "Strike", "Strike", "Ascender's Bane"], "floor": 1, "hp": 67, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 2138, "card": "Strike", "hand": ["Ascender's Bane"], "floor": 1, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2158, "card": "Strike", "hand": [], "floor": 1, "hp": 67, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2584, "card": "Twin Strike", "hand": ["Defend", "Strike", "Defend", "Bash"], "floor": 2, "hp": 67, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 2642, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 2, "hp": 67, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 2838, "card": "Strike", "hand": ["Defend", "Strike", "Defend", "Strike"], "floor": 2, "hp": 67, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 2860, "card": "Strike", "hand": [], "floor": 2, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3838, "card": "Defend", "hand": ["Bash", "Strike", "Twin Strike", "Defend"], "floor": 5, "hp": 61, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 3916, "card": "Bash", "hand": ["Strike", "Twin Strike"], "floor": 5, "hp": 61, "maxhp": 80, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 4158, "card": "Inflame", "hand": ["Defend", "Strike"], "floor": 5, "hp": 53, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 4278, "card": "Strike", "hand": ["Defend", "Strike"], "floor": 5, "hp": 59, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 4298, "card": "Strike", "hand": [], "floor": 5, "hp": 59, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 4930, "card": "Defend", "hand": ["Strike", "Inflame", "Ascender's Bane"], "floor": 6, "hp": 59, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 4974, "card": "Inflame", "hand": ["Strike", "Strike", "Ascender's Bane"], "floor": 6, "hp": 59, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5122, "card": "Strike", "hand": ["Ascender's Bane"], "floor": 6, "hp": 59, "maxhp": 80, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 5680, "card": "Strike", "hand": ["Defend", "Bash", "Defend"], "floor": 6, "hp": 54, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6162, "card": "Twin Strike", "hand": ["Shrug It Off", "Defend", "Strike", "Strike"], "floor": 6, "hp": 44, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 6204, "card": "Shrug It Off", "hand": ["Defend", "Strike", "Strike"], "floor": 6, "hp": 44, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6356, "card": "Strike", "hand": ["Defend"], "floor": 6, "hp": 44, "maxhp": 80, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 6380, "card": "Strike", "hand": ["Defend", "Dazed"], "floor": 6, "hp": 44, "maxhp": 80, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 6714, "card": "Defend", "hand": ["Strike", "Dazed"], "floor": 6, "hp": 42, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 6748, "card": "Strike", "hand": ["Strike", "Dazed", "Dazed"], "floor": 6, "hp": 42, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6770, "card": "Strike", "hand": ["Dazed", "Dazed"], "floor": 6, "hp": 42, "maxhp": 80, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 7154, "card": "Bash", "hand": ["Strike", "Defend", "Dazed"], "floor": 6, "hp": 37, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 7186, "card": "Strike", "hand": ["Defend", "Dazed", "Dazed"], "floor": 6, "hp": 37, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 7450, "card": "Defend", "hand": ["Dazed", "Dazed", "Dazed", "Dazed"], "floor": 6, "hp": 37, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 7800, "card": "Shrug It Off", "hand": ["Defend", "Dazed", "Dazed", "Dazed"], "floor": 6, "hp": 32, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 7874, "card": "Strike", "hand": ["Defend", "Dazed", "Dazed", "Dazed"], "floor": 6, "hp": 32, "maxhp": 80, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 8170, "card": "Bash", "hand": ["Strike", "Dazed", "Dazed"], "floor": 6, "hp": 32, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 8230, "card": "Strike", "hand": ["Dazed", "Dazed", "Dazed"], "floor": 6, "hp": 32, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 8474, "card": "Twin Strike", "hand": ["Defend", "Strike", "Strike", "Dazed"], "floor": 6, "hp": 22, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 10730, "card": "Strike", "hand": ["Defend"], "floor": 7, "hp": 22, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 10750, "card": "True Grit", "hand": ["Defend"], "floor": 7, "hp": 22, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 11126, "card": "Strike", "hand": ["Strike", "Defend", "Defend", "Twin Strike"], "floor": 7, "hp": 21, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 11154, "card": "Strike", "hand": ["Defend", "Defend", "Twin Strike"], "floor": 7, "hp": 21, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 11194, "card": "Twin Strike", "hand": ["Defend", "Defend"], "floor": 7, "hp": 21, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 11472, "card": "Shrug It Off", "hand": ["Strike", "Defend", "Bash"], "floor": 7, "hp": 20, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 11582, "card": "Bash", "hand": ["Strike", "Defend", "Strike", "Ascender's Bane"], "floor": 7, "hp": 20, "maxhp": 80, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 11610, "card": "Defend", "hand": ["Strike", "Strike", "Ascender's Bane"], "floor": 7, "hp": 20, "maxhp": 80, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 11972, "card": "Strike", "hand": ["Defend", "True Grit", "Defend", "Shame"], "floor": 7, "hp": 20, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 12006, "card": "Defend", "hand": ["Defend", "True Grit", "Slimed"], "floor": 7, "hp": 20, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12036, "card": "Defend", "hand": ["Slimed"], "floor": 7, "hp": 20, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 12494, "card": "Strike", "hand": ["Twin Strike", "Strike", "Defend", "True Grit"], "floor": 7, "hp": 20, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 12530, "card": "Twin Strike", "hand": ["Strike", "Defend", "True Grit"], "floor": 7, "hp": 20, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14410, "card": "Inflame", "hand": ["Defend", "Strike", "True Grit", "Shrug It Off"], "floor": 10, "hp": 60, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 15266, "card": "Bash", "hand": ["Strike", "Strike", "Sever Soul", "Defend"], "floor": 10, "hp": 60, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 15364, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 10, "hp": 60, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 15384, "card": "Strike", "hand": ["Sever Soul", "Defend"], "floor": 10, "hp": 60, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 15662, "card": "Defend", "hand": ["Normality"], "floor": 10, "hp": 60, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 15718, "card": "Defend", "hand": ["Bash", "Normality"], "floor": 10, "hp": 60, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15794, "card": "Bash", "hand": ["Normality", "Sever Soul"], "floor": 10, "hp": 60, "maxhp": 80, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 16010, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 10, "hp": 50, "maxhp": 80, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 16194, "card": "Defend", "hand": ["Strike", "Smite", "Strike"], "floor": 10, "hp": 50, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 16224, "card": "Defend", "hand": ["Strike", "Strike", "Strike", "Strike"], "floor": 10, "hp": 50, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 16266, "card": "Strike", "hand": ["Strike", "Strike", "Strike"], "floor": 10, "hp": 50, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16288, "card": "Strike", "hand": ["Strike", "Strike"], "floor": 10, "hp": 50, "maxhp": 80, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 16308, "card": "Strike", "hand": ["Strike"], "floor": 10, "hp": 50, "maxhp": 80, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 16682, "card": "Twin Strike", "hand": ["True Grit", "Strike", "Defend", "Shrug It Off"], "floor": 10, "hp": 35, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 16756, "card": "Strike", "hand": ["True Grit", "Defend", "Shrug It Off"], "floor": 10, "hp": 35, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 17098, "card": "Defend", "hand": ["Strike", "Strike", "Defend", "Strike"], "floor": 10, "hp": 35, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 17774, "card": "Defend", "hand": ["Twin Strike", "Strike", "True Grit", "Normality"], "floor": 10, "hp": 35, "maxhp": 80, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 17812, "card": "True Grit", "hand": ["Twin Strike", "Strike"], "floor": 10, "hp": 35, "maxhp": 80, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 18574, "card": "Strike", "hand": [], "floor": 10, "hp": 29, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 21242, "card": "Shrug It Off", "hand": ["Strike", "Strike", "Strike", "Defend"], "floor": 12, "hp": 29, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 21410, "card": "Strike", "hand": ["Strike", "Defend", "Strike"], "floor": 12, "hp": 29, "maxhp": 80, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 21436, "card": "Sever Soul", "hand": ["Strike", "Defend", "Strike"], "floor": 12, "hp": 29, "maxhp": 80, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 21772, "card": "Strike", "hand": ["Defend", "True Grit"], "floor": 12, "hp": 29, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 22112, "card": "Inflame", "hand": ["Defend", "Strike", "Twin Strike", "Normality"], "floor": 12, "hp": 25, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 22304, "card": "Twin Strike", "hand": ["Defend", "Strike", "Normality"], "floor": 12, "hp": 25, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22352, "card": "Strike", "hand": ["Defend", "Normality"], "floor": 12, "hp": 25, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 22760, "card": "Sever Soul", "hand": ["Defend", "Strike", "Evolve", "Normality"], "floor": 12, "hp": 24, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 24822, "card": "Defend", "hand": ["Defend", "Strike", "Smite"], "floor": 13, "hp": 24, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 24856, "card": "Defend", "hand": ["Strike", "Strike", "True Grit"], "floor": 13, "hp": 24, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 24888, "card": "Strike", "hand": ["True Grit"], "floor": 13, "hp": 24, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 24914, "card": "Strike", "hand": ["Trip"], "floor": 13, "hp": 24, "maxhp": 80, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 25506, "card": "Thunderclap", "hand": ["Defend", "Defend", "Bash"], "floor": 13, "hp": 24, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 25598, "card": "Bash", "hand": ["Defend", "Defend", "Normality"], "floor": 13, "hp": 24, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 25666, "card": "Defend", "hand": ["Strike", "Normality"], "floor": 13, "hp": 24, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 25690, "card": "Defend", "hand": ["Strike", "Normality"], "floor": 13, "hp": 24, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 25722, "card": "Defend", "hand": ["Defend", "Strike", "Normality"], "floor": 13, "hp": 24, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 26134, "card": "Twin Strike", "hand": ["Shrug It Off", "Inflame", "Sever Soul", "Strike"], "floor": 13, "hp": 20, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 26170, "card": "Sever Soul", "hand": ["Strike", "Inflame", "Shrug It Off"], "floor": 13, "hp": 20, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 27116, "card": "Defend", "hand": ["Twin Strike", "Strike", "Strike"], "floor": 14, "hp": 20, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 27138, "card": "Defend", "hand": ["Twin Strike", "Strike", "Strike"], "floor": 14, "hp": 20, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 27212, "card": "Inflame", "hand": ["Twin Strike", "Strike", "Strike"], "floor": 14, "hp": 20, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27360, "card": "Twin Strike", "hand": ["Strike", "Strike"], "floor": 14, "hp": 20, "maxhp": 80, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 27396, "card": "Strike", "hand": ["Strike"], "floor": 14, "hp": 20, "maxhp": 80, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 27432, "card": "Strike", "hand": [], "floor": 14, "hp": 20, "maxhp": 80, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 27880, "card": "Strike", "hand": ["Shrug It Off", "Evolve", "Sever Soul", "Strike"], "floor": 14, "hp": 7, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 27920, "card": "Strike", "hand": ["Shrug It Off", "Evolve", "Sever Soul"], "floor": 14, "hp": 7, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27956, "card": "Sever Soul", "hand": ["Shrug It Off", "Evolve"], "floor": 14, "hp": 7, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 28386, "card": "Headbutt", "hand": ["Defend"], "floor": 14, "hp": 7, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 28688, "card": "Defend", "hand": ["Defend", "True Grit", "Defend", "Normality"], "floor": 14, "hp": 7, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 28722, "card": "Defend", "hand": ["Defend", "True Grit", "Normality"], "floor": 14, "hp": 7, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 29104, "card": "Thunderclap", "hand": ["Strike", "Defend", "Bash", "Thunderclap"], "floor": 14, "hp": 7, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 29160, "card": "Bash", "hand": [], "floor": 14, "hp": 7, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31862, "card": "Evolve", "hand": ["Strike", "Sever Soul", "Defend"], "floor": 16, "hp": 31, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 32004, "card": "Strike", "hand": ["Defend", "Sever Soul", "Normality"], "floor": 16, "hp": 31, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32070, "card": "Sever Soul", "hand": ["Defend", "Normality"], "floor": 16, "hp": 31, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 32396, "card": "Defend", "hand": ["Strike", "Defend", "Headbutt"], "floor": 16, "hp": 31, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 32524, "card": "Headbutt", "hand": ["Strike", "Twin Strike"], "floor": 16, "hp": 31, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32740, "card": "Twin Strike", "hand": ["Strike"], "floor": 16, "hp": 31, "maxhp": 80, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 32774, "card": "Strike", "hand": [], "floor": 16, "hp": 31, "maxhp": 80, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 33320, "card": "Thunderclap", "hand": ["True Grit", "Defend", "Sever Soul", "Bash"], "floor": 16, "hp": 23, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 33388, "card": "Bash", "hand": ["True Grit", "Defend", "Sever Soul"], "floor": 16, "hp": 23, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33604, "card": "Defend", "hand": ["True Grit", "Sever Soul"], "floor": 16, "hp": 23, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 34424, "card": "Inflame", "hand": ["Shrug It Off", "Strike"], "floor": 16, "hp": 22, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 34608, "card": "Strike", "hand": ["Shrug It Off", "Strike"], "floor": 16, "hp": 22, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34632, "card": "Strike", "hand": ["Shrug It Off", "Strike"], "floor": 16, "hp": 22, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34664, "card": "Strike", "hand": ["Shrug It Off"], "floor": 16, "hp": 22, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 34692, "card": "Shrug It Off", "hand": [], "floor": 16, "hp": 22, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 35060, "card": "Thunderclap", "hand": ["Strike", "Bash", "Strike", "Strike"], "floor": 16, "hp": 22, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 35112, "card": "Bash", "hand": ["Strike", "Strike", "Strike"], "floor": 16, "hp": 22, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 35162, "card": "Strike", "hand": ["Strike", "Strike"], "floor": 16, "hp": 22, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 35208, "card": "Strike", "hand": ["Strike"], "floor": 16, "hp": 22, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 35808, "card": "Sever Soul", "hand": ["Headbutt", "Strike", "Burn", "Twin Strike", "Defend"], "floor": 16, "hp": 16, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 35896, "card": "Twin Strike", "hand": ["Headbutt", "Strike"], "floor": 16, "hp": 16, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 36000, "card": "Headbutt", "hand": [], "floor": 16, "hp": 16, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 36390, "card": "Shrug It Off", "hand": ["Twin Strike", "True Grit", "Defend"], "floor": 16, "hp": 16, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 36540, "card": "Twin Strike", "hand": ["Strike", "Defend", "True Grit", "Defend"], "floor": 16, "hp": 16, "maxhp": 80, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 36680, "card": "Strike", "hand": ["Defend", "True Grit", "Defend"], "floor": 16, "hp": 16, "maxhp": 80, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 36722, "card": "True Grit", "hand": ["Defend", "Defend"], "floor": 16, "hp": 16, "maxhp": 80, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 37086, "card": "Bash", "hand": ["Headbutt", "Shrug It Off", "Strike", "Defend", "Burn"], "floor": 16, "hp": 13, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 37124, "card": "Headbutt", "hand": ["Shrug It Off", "Strike", "Defend", "Burn"], "floor": 16, "hp": 13, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37158, "card": "Strike", "hand": [], "floor": 16, "hp": 13, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 40062, "card": "Inflame", "hand": ["Defend", "Headbutt", "Thunderclap", "Reaper"], "floor": 18, "hp": 63, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 40148, "card": "Thunderclap", "hand": ["Headbutt", "Reaper"], "floor": 18, "hp": 63, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 40242, "card": "Thunderclap", "hand": ["Defend", "Headbutt", "Reaper"], "floor": 18, "hp": 63, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 40340, "card": "Reaper", "hand": ["Defend"], "floor": 18, "hp": 63, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 40414, "card": "Reaper", "hand": ["Defend", "Headbutt"], "floor": 18, "hp": 63, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 40820, "card": "Headbutt", "hand": ["Defend"], "floor": 18, "hp": 75, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 40954, "card": "Defend", "hand": [], "floor": 18, "hp": 75, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 41658, "card": "Thunderclap", "hand": ["Twin Strike", "Defend", "Bash", "Ascender's Bane"], "floor": 18, "hp": 62, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 42086, "card": "Bash", "hand": ["Twin Strike", "Defend", "Ascender's Bane"], "floor": 18, "hp": 62, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 42132, "card": "Twin Strike", "hand": ["Defend", "Ascender's Bane"], "floor": 18, "hp": 62, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 42158, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 18, "hp": 62, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 42840, "card": "Strike", "hand": ["Strike", "Strike", "Evolve", "Normality"], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 42898, "card": "Strike", "hand": ["Strike", "Evolve", "Normality"], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 43050, "card": "Shrug It Off", "hand": ["Strike", "Evolve", "Normality"], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 43492, "card": "Strike", "hand": ["Strike", "True Grit", "Defend", "Defend"], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 43676, "card": "Strike", "hand": ["True Grit", "Defend", "Defend", "Strike"], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 43708, "card": "Strike", "hand": ["True Grit", "Defend", "Defend"], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 43762, "card": "Defend", "hand": [], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 43792, "card": "True Grit", "hand": [], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 44126, "card": "Strike", "hand": ["Shrug It Off", "Defend", "Strike", "Sever Soul"], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 44168, "card": "Strike", "hand": ["Shrug It Off", "Defend", "Sever Soul"], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 44236, "card": "Sever Soul", "hand": ["Shrug It Off", "Defend", "Defend"], "floor": 18, "hp": 61, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 50168, "card": "Reaper", "hand": ["Strike", "Defend", "Twin Strike", "Flame Barrier"], "floor": 21, "hp": 61, "maxhp": 80, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 50322, "card": "Flame Barrier", "hand": ["Strike", "Defend", "Twin Strike", "Entrench"], "floor": 21, "hp": 79, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 50564, "card": "Twin Strike", "hand": ["Strike", "Defend"], "floor": 21, "hp": 79, "maxhp": 80, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 50626, "card": "Strike", "hand": [], "floor": 21, "hp": 79, "maxhp": 80, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 51126, "card": "Bash", "hand": ["Shrug It Off", "Strike", "Strike", "Defend", "Strike"], "floor": 21, "hp": 79, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 51178, "card": "Strike", "hand": ["Shrug It Off", "Strike", "Defend", "Strike"], "floor": 21, "hp": 79, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 51224, "card": "Strike", "hand": ["Shrug It Off", "Defend", "Strike"], "floor": 21, "hp": 79, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 51524, "card": "Shrug It Off", "hand": ["Defend", "Strike", "Sever Soul"], "floor": 21, "hp": 79, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 51588, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 21, "hp": 79, "maxhp": 80, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 51870, "card": "Thunderclap", "hand": ["Defend", "True Grit"], "floor": 21, "hp": 74, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 51956, "card": "Headbutt", "hand": [], "floor": 21, "hp": 74, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 52116, "card": "Evolve", "hand": ["Defend", "True Grit"], "floor": 21, "hp": 74, "maxhp": 80, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 52226, "card": "True Grit", "hand": ["Defend"], "floor": 21, "hp": 74, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 52590, "card": "Inflame", "hand": ["Twin Strike", "Defend", "Headbutt", "Purity"], "floor": 21, "hp": 74, "maxhp": 80, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 52728, "card": "Twin Strike", "hand": ["Defend", "Headbutt", "Ascender's Bane"], "floor": 21, "hp": 74, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 52766, "card": "Headbutt", "hand": [], "floor": 21, "hp": 74, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 54616, "card": "Shrug It Off", "hand": ["Defend", "Flame Barrier", "Bite", "Thunderclap"], "floor": 24, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 54924, "card": "Thunderclap", "hand": ["Defend", "Bite", "Flame Barrier", "Evolve"], "floor": 24, "hp": 56, "maxhp": 56, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 55076, "card": "Bite", "hand": ["Defend", "Flame Barrier", "Evolve"], "floor": 24, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 55142, "card": "Defend", "hand": ["Flame Barrier", "Evolve"], "floor": 24, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 55176, "card": "Evolve", "hand": ["Flame Barrier"], "floor": 24, "hp": 56, "maxhp": 56, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 56252, "card": "Inflame", "hand": ["Headbutt", "Defend", "Defend"], "floor": 24, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 56344, "card": "Defend", "hand": ["Headbutt", "Bite", "Defend"], "floor": 24, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 56398, "card": "Defend", "hand": ["Headbutt", "Bite"], "floor": 24, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 56444, "card": "Bite", "hand": ["Headbutt"], "floor": 24, "hp": 56, "maxhp": 56, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 57244, "card": "Battle Trance+", "hand": ["Defend", "Bash", "Reaper", "Flame Barrier"], "floor": 24, "hp": 36, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 57268, "card": "Battle Trance+", "hand": ["Defend", "Bash", "Reaper", "Sever Soul", "Fiend Fire"], "floor": 24, "hp": 36, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 57458, "card": "Thunderclap", "hand": ["Bite"], "floor": 24, "hp": 36, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 57790, "card": "Bite", "hand": ["Defend", "Bash", "Bite", "Flame Barrier", "Sever Soul"], "floor": 24, "hp": 54, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58344, "card": "Flame Barrier", "hand": ["Defend", "Bash", "Bite", "Sever Soul"], "floor": 24, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58368, "card": "Flame Barrier", "hand": ["Bash", "Bite"], "floor": 24, "hp": 56, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 58394, "card": "Defend", "hand": ["Bite", "Bash"], "floor": 24, "hp": 56, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 58932, "card": "Twin Strike", "hand": ["Bite", "Bite", "Defend", "Ascender's Bane"], "floor": 24, "hp": 41, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 58976, "card": "Bite", "hand": ["Bite", "Defend"], "floor": 24, "hp": 41, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 59022, "card": "Bite", "hand": ["Defend", "Wound"], "floor": 24, "hp": 43, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 59142, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 24, "hp": 45, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 59170, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 24, "hp": 45, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 59550, "card": "Bite", "hand": ["Shrug It Off", "Defend", "True Grit", "Wound", "Wound"], "floor": 24, "hp": 40, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 59654, "card": "Headbutt", "hand": [], "floor": 24, "hp": 42, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 59904, "card": "Bite", "hand": ["Defend", "True Grit", "Wound", "Wound", "Wound"], "floor": 24, "hp": 42, "maxhp": 56, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 59942, "card": "True Grit", "hand": ["Defend", "Wound", "Wound", "Wound", "Wound"], "floor": 24, "hp": 44, "maxhp": 56, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 60396, "card": "Defend", "hand": ["Bite", "Twin Strike", "Bite", "Wound", "Battle Trance+"], "floor": 24, "hp": 44, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 60446, "card": "Battle Trance+", "hand": ["Bite", "Twin Strike", "Wound", "Bite"], "floor": 24, "hp": 44, "maxhp": 56, "block": 5, "energy": 5, "v2.0": false}
+{"frame": 60520, "card": "Defend", "hand": ["Bite", "Bite", "Defend", "Wound"], "floor": 24, "hp": 44, "maxhp": 56, "block": 5, "energy": 5, "v2.0": false}
+{"frame": 60586, "card": "Defend", "hand": ["Bite", "Bite", "Twin Strike"], "floor": 24, "hp": 44, "maxhp": 56, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 61082, "card": "Defend", "hand": ["Bite", "Bite", "Headbutt"], "floor": 24, "hp": 44, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 61128, "card": "Bite", "hand": [], "floor": 24, "hp": 44, "maxhp": 56, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 64882, "card": "Flame Barrier", "hand": ["Twin Strike", "Bite", "Headbutt", "Entrench"], "floor": 27, "hp": 46, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 64906, "card": "Flame Barrier", "hand": [], "floor": 27, "hp": 46, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 65064, "card": "Headbutt", "hand": ["Bite", "Twin Strike", "Bite"], "floor": 27, "hp": 46, "maxhp": 56, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 65142, "card": "Bite", "hand": ["Twin Strike", "Bite"], "floor": 27, "hp": 46, "maxhp": 56, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 65188, "card": "Bite", "hand": ["Twin Strike"], "floor": 27, "hp": 48, "maxhp": 56, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 65460, "card": "Flame Barrier", "hand": ["Defend", "True Grit", "Defend"], "floor": 27, "hp": 50, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 65504, "card": "Defend", "hand": ["True Grit", "Defend", "Entrench"], "floor": 27, "hp": 50, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 65546, "card": "Defend", "hand": ["True Grit", "Parasite"], "floor": 27, "hp": 50, "maxhp": 56, "block": 7, "energy": 3, "v2.0": false}
+{"frame": 65576, "card": "True Grit", "hand": ["Parasite"], "floor": 27, "hp": 50, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 65880, "card": "Evolve", "hand": ["Bite", "Defend", "Inflame+", "Dark Embrace"], "floor": 27, "hp": 50, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 65988, "card": "Inflame+", "hand": ["Bite", "Defend", "Dark Embrace"], "floor": 27, "hp": 50, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 66088, "card": "Dark Embrace", "hand": ["Bite"], "floor": 27, "hp": 50, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 66130, "card": "Defend", "hand": [], "floor": 27, "hp": 50, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 66160, "card": "Bite", "hand": [], "floor": 27, "hp": 50, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 66408, "card": "Defend", "hand": ["Shrug It Off", "Bite", "Bite"], "floor": 27, "hp": 33, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 66460, "card": "Shrug It Off", "hand": ["Bite", "Bite", "Sever Soul"], "floor": 27, "hp": 33, "maxhp": 56, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 66574, "card": "Bite", "hand": ["Bite", "Reaper", "Ascender's Bane"], "floor": 27, "hp": 33, "maxhp": 56, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 66622, "card": "Bite", "hand": ["Reaper", "Ascender's Bane"], "floor": 27, "hp": 35, "maxhp": 56, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 67034, "card": "Battle Trance+", "hand": ["Thunderclap", "Bash", "Defend", "Twin Strike"], "floor": 27, "hp": 37, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 67054, "card": "Battle Trance+", "hand": ["Defend", "Twin Strike", "Thunderclap", "Bash"], "floor": 27, "hp": 37, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 67324, "card": "Bite", "hand": ["Twin Strike", "Shrug It Off", "Bite", "Thunderclap", "Bite"], "floor": 27, "hp": 37, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 67380, "card": "Bite", "hand": ["Defend", "Twin Strike", "Shrug It Off", "Bite", "Thunderclap", "Bash"], "floor": 27, "hp": 39, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 67424, "card": "Bite", "hand": ["Thunderclap", "Defend", "Twin Strike", "Shrug It Off", "Bash"], "floor": 27, "hp": 41, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 67472, "card": "Strike", "hand": ["Thunderclap", "Bash", "Defend", "Shrug It Off", "Sever Soul"], "floor": 27, "hp": 43, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 67558, "card": "Thunderclap", "hand": ["Bash", "Defend", "Shrug It Off", "Sever Soul"], "floor": 27, "hp": 43, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 75152, "card": "Dark Embrace", "hand": ["Bash", "Apotheosis+", "Defend", "Bite"], "floor": 29, "hp": 43, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 75216, "card": "Apotheosis+", "hand": [], "floor": 29, "hp": 43, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 75308, "card": "Defend+", "hand": ["Bash+", "Bite", "Warcry+"], "floor": 29, "hp": 43, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 75356, "card": "Warcry+", "hand": ["Bash+", "Bite"], "floor": 29, "hp": 43, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 75616, "card": "Barricade+", "hand": ["Bash+", "Bite", "Parasite"], "floor": 29, "hp": 43, "maxhp": 56, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 75684, "card": "Bash+", "hand": ["Bite", "Parasite"], "floor": 29, "hp": 43, "maxhp": 56, "block": 8, "energy": 0, "v2.0": false}
+{"frame": 76014, "card": "Shrug It Off+", "hand": ["Thunderclap+", "Bite+", "Sever Soul+", "Inflame+"], "floor": 29, "hp": 43, "maxhp": 56, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 76132, "card": "Thunderclap+", "hand": ["Inflame+"], "floor": 29, "hp": 43, "maxhp": 56, "block": 19, "energy": 4, "v2.0": false}
+{"frame": 76216, "card": "Inflame+", "hand": ["Bite+", "Reaper+", "Sever Soul+"], "floor": 29, "hp": 43, "maxhp": 56, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 76316, "card": "Reaper+", "hand": ["Bite", "Sever Soul+"], "floor": 29, "hp": 43, "maxhp": 56, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 76334, "card": "Reaper+", "hand": ["Bite+", "Sever Soul+"], "floor": 29, "hp": 43, "maxhp": 56, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 76528, "card": "Sever Soul+", "hand": ["Bite", "Bite+"], "floor": 29, "hp": 56, "maxhp": 56, "block": 19, "energy": 0, "v2.0": false}
+{"frame": 76620, "card": "Bite", "hand": ["Bite", "Defend+"], "floor": 29, "hp": 56, "maxhp": 56, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 76964, "card": "Defend+", "hand": ["True Grit", "Ascender's Bane", "Battle Trance+"], "floor": 29, "hp": 56, "maxhp": 56, "block": 7, "energy": 6, "v2.0": false}
+{"frame": 77026, "card": "True Grit+", "hand": ["Headbutt+", "Ascender's Bane", "Battle Trance+"], "floor": 29, "hp": 56, "maxhp": 56, "block": 15, "energy": 5, "v2.0": false}
+{"frame": 77222, "card": "Evolve+", "hand": ["Headbutt+", "Battle Trance+"], "floor": 29, "hp": 56, "maxhp": 56, "block": 24, "energy": 4, "v2.0": false}
+{"frame": 77280, "card": "Headbutt+", "hand": [], "floor": 29, "hp": 56, "maxhp": 56, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 77534, "card": "Battle Trance+", "hand": [], "floor": 29, "hp": 56, "maxhp": 56, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 77558, "card": "Battle Trance+", "hand": ["Twin Strike", "True Grit"], "floor": 29, "hp": 56, "maxhp": 56, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 77636, "card": "Flame Barrier+", "hand": ["Twin Strike+", "Bite"], "floor": 29, "hp": 56, "maxhp": 56, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 77782, "card": "Twin Strike+", "hand": ["True Grit+", "Bite+"], "floor": 29, "hp": 56, "maxhp": 56, "block": 40, "energy": 1, "v2.0": false}
+{"frame": 78224, "card": "Bash+", "hand": ["Defend+", "Bite", "Dazed", "Dazed"], "floor": 29, "hp": 56, "maxhp": 56, "block": 9, "energy": 5, "v2.0": false}
+{"frame": 78262, "card": "Bite", "hand": ["Defend", "Dazed", "Dazed", "Dazed", "Dazed"], "floor": 29, "hp": 56, "maxhp": 56, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 79012, "card": "Shrug It Off", "hand": ["Bash", "Cleave"], "floor": 30, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 79218, "card": "Bash", "hand": ["Bite", "Flame Barrier", "Twin Strike"], "floor": 30, "hp": 56, "maxhp": 56, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 79346, "card": "Twin Strike", "hand": ["Bite", "Flame Barrier"], "floor": 30, "hp": 56, "maxhp": 56, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 79382, "card": "Bite", "hand": ["Parasite", "Flame Barrier", "Flame Barrier"], "floor": 30, "hp": 56, "maxhp": 56, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 79746, "card": "Apotheosis+", "hand": [], "floor": 30, "hp": 56, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 79808, "card": "Evolve+", "hand": ["Defend+", "Defend+", "Reaper+"], "floor": 30, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 79868, "card": "Defend+", "hand": ["Defend+", "Reaper+"], "floor": 30, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 79910, "card": "Defend+", "hand": ["Reaper+"], "floor": 30, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 80482, "card": "Battle Trance+", "hand": ["Bite", "Bite", "Barricade+", "Bite+"], "floor": 30, "hp": 51, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 80606, "card": "Barricade+", "hand": ["Bash", "Defend+", "Headbutt+", "Bite"], "floor": 30, "hp": 51, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 80668, "card": "Defend+", "hand": ["Bite+", "Bite", "Headbutt", "Thunderclap+"], "floor": 30, "hp": 51, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 80734, "card": "Thunderclap+", "hand": ["Bite", "Bite", "Headbutt+", "Bite"], "floor": 30, "hp": 51, "maxhp": 56, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 80798, "card": "Headbutt+", "hand": [], "floor": 30, "hp": 51, "maxhp": 56, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 80932, "card": "Bite", "hand": ["Bite", "Bite+", "Ascender's Bane"], "floor": 30, "hp": 51, "maxhp": 56, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 81478, "card": "Inflame+", "hand": ["Dazed", "Flame Barrier+", "Sever Soul+", "Bite"], "floor": 30, "hp": 38, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 81708, "card": "Bite", "hand": ["Flame Barrier+", "Sever Soul+"], "floor": 30, "hp": 38, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 81752, "card": "Flame Barrier+", "hand": ["Sever Soul+"], "floor": 30, "hp": 41, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 81806, "card": "Sever Soul+", "hand": [], "floor": 30, "hp": 41, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82392, "card": "Bite", "hand": ["Warcry+", "Defend+", "True Grit+", "Headbutt+", "Bite"], "floor": 30, "hp": 22, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 82482, "card": "Bite", "hand": ["Warcry+", "Defend+", "True Grit", "Headbutt+"], "floor": 30, "hp": 25, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 82570, "card": "Warcry+", "hand": ["Defend+", "True Grit+", "Headbutt+"], "floor": 30, "hp": 28, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 82746, "card": "Battle Trance+", "hand": ["Defend+", "Headbutt+", "Reaper+"], "floor": 30, "hp": 28, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 82872, "card": "Reaper+", "hand": ["True Grit+", "Defend+", "Battle Trance+", "Shame", "Flame Barrier+", "Bite"], "floor": 30, "hp": 28, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 83010, "card": "Bite+", "hand": ["True Grit", "Headbutt+", "Defend+", "Battle Trance+", "Flame Barrier+"], "floor": 30, "hp": 36, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 84842, "card": "Battle Trance+", "hand": ["Barricade", "Thunderclap", "Defend", "Sever Soul"], "floor": 31, "hp": 39, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 85076, "card": "Inflame+", "hand": ["Bash", "Shrug It Off"], "floor": 31, "hp": 39, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 85222, "card": "Evolve", "hand": ["Defend", "Bash", "Shrug It Off"], "floor": 31, "hp": 39, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 85306, "card": "Shrug It Off", "hand": [], "floor": 31, "hp": 39, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 85404, "card": "Defend", "hand": ["Bash"], "floor": 31, "hp": 39, "maxhp": 56, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 85422, "card": "Defend", "hand": ["Bash"], "floor": 31, "hp": 39, "maxhp": 56, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 85484, "card": "Thunderclap", "hand": ["Bash", "Sever Soul"], "floor": 31, "hp": 39, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 85914, "card": "Dark Embrace", "hand": ["True Grit", "Bite", "Havoc"], "floor": 31, "hp": 39, "maxhp": 56, "block": 13, "energy": 5, "v2.0": false}
+{"frame": 86008, "card": "Havoc+", "hand": ["True Grit", "Bite"], "floor": 31, "hp": 39, "maxhp": 56, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 86334, "card": "Bite", "hand": ["True Grit", "Twin Strike"], "floor": 31, "hp": 39, "maxhp": 56, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 86534, "card": "Twin Strike", "hand": ["True Grit", "Ascender's Bane"], "floor": 31, "hp": 41, "maxhp": 56, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 86608, "card": "True Grit", "hand": ["Ascender's Bane"], "floor": 31, "hp": 43, "maxhp": 56, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 86710, "card": "Defend", "hand": [], "floor": 31, "hp": 43, "maxhp": 56, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 87030, "card": "Bite", "hand": ["Reaper", "Defend", "Flame Barrier", "Bite"], "floor": 31, "hp": 43, "maxhp": 56, "block": 24, "energy": 6, "v2.0": false}
+{"frame": 87086, "card": "Flame Barrier", "hand": ["Reaper", "Defend", "Bite", "Entrench"], "floor": 31, "hp": 45, "maxhp": 56, "block": 24, "energy": 5, "v2.0": false}
+{"frame": 87110, "card": "Flame Barrier", "hand": ["Defend"], "floor": 31, "hp": 45, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 87184, "card": "Defend", "hand": ["Reaper"], "floor": 31, "hp": 47, "maxhp": 56, "block": 33, "energy": 2, "v2.0": false}
+{"frame": 87444, "card": "Apotheosis+", "hand": ["Warcry+"], "floor": 31, "hp": 47, "maxhp": 56, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 87556, "card": "Defend+", "hand": ["Bite", "Headbutt+", "Shrug It Off+", "Warcry+"], "floor": 31, "hp": 47, "maxhp": 56, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 87592, "card": "Shrug It Off+", "hand": ["Bite", "Warcry+", "Headbutt+"], "floor": 31, "hp": 47, "maxhp": 56, "block": 20, "energy": 3, "v2.0": false}
+{"frame": 87676, "card": "Flame Barrier+", "hand": ["Warcry+", "Headbutt+", "Bite", "Entrench"], "floor": 31, "hp": 47, "maxhp": 56, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 87766, "card": "Warcry+", "hand": ["Bite", "Headbutt+"], "floor": 31, "hp": 47, "maxhp": 56, "block": 40, "energy": 0, "v2.0": false}
+{"frame": 88236, "card": "Bite", "hand": ["Twin Strike+", "Bite", "Battle Trance+", "Havoc"], "floor": 31, "hp": 47, "maxhp": 56, "block": 29, "energy": 5, "v2.0": false}
+{"frame": 88362, "card": "Battle Trance+", "hand": ["Twin Strike+", "Bite+", "Havoc"], "floor": 31, "hp": 50, "maxhp": 56, "block": 29, "energy": 4, "v2.0": false}
+{"frame": 88386, "card": "Battle Trance+", "hand": ["Twin Strike+", "Bite+", "Havoc", "Thunderclap+", "Feed"], "floor": 31, "hp": 50, "maxhp": 56, "block": 29, "energy": 4, "v2.0": false}
+{"frame": 88460, "card": "Defend+", "hand": ["Twin Strike+", "Bite", "Thunderclap+", "Sever Soul+"], "floor": 31, "hp": 50, "maxhp": 56, "block": 29, "energy": 4, "v2.0": false}
+{"frame": 88566, "card": "Thunderclap+", "hand": ["Twin Strike+", "Bite", "Havoc", "Sever Soul+"], "floor": 31, "hp": 50, "maxhp": 56, "block": 35, "energy": 3, "v2.0": false}
+{"frame": 88712, "card": "Bite+", "hand": ["Twin Strike+", "Havoc+", "Sever Soul+"], "floor": 31, "hp": 50, "maxhp": 56, "block": 35, "energy": 2, "v2.0": false}
+{"frame": 89124, "card": "Defend+", "hand": ["Bash+", "True Grit+", "Defend", "Bite+", "Dazed"], "floor": 31, "hp": 53, "maxhp": 56, "block": 13, "energy": 6, "v2.0": false}
+{"frame": 89190, "card": "True Grit+", "hand": ["Bite", "Bash+", "Defend", "Bite", "Entrench"], "floor": 31, "hp": 53, "maxhp": 56, "block": 19, "energy": 5, "v2.0": false}
+{"frame": 89390, "card": "Defend+", "hand": ["Bite", "Bash+", "Headbutt+", "Dazed", "Dazed", "Entrench"], "floor": 31, "hp": 53, "maxhp": 56, "block": 25, "energy": 4, "v2.0": false}
+{"frame": 89872, "card": "Bite", "hand": ["Thunderclap+", "Reaper+", "Twin Strike+", "Defend", "Havoc", "Battle Trance+"], "floor": 31, "hp": 53, "maxhp": 56, "block": 20, "energy": 5, "v2.0": false}
+{"frame": 89966, "card": "Defend+", "hand": ["Havoc", "Thunderclap+", "Reaper+", "Twin Strike+", "Battle Trance+"], "floor": 31, "hp": 56, "maxhp": 56, "block": 20, "energy": 4, "v2.0": false}
+{"frame": 90000, "card": "Battle Trance+", "hand": ["Havoc+", "Thunderclap+", "Twin Strike+", "Reaper+"], "floor": 31, "hp": 56, "maxhp": 56, "block": 2, "energy": 3, "v2.0": false}
+{"frame": 90090, "card": "Shrug It Off+", "hand": ["Thunderclap+", "Twin Strike+", "Havoc", "Flame Barrier+"], "floor": 31, "hp": 56, "maxhp": 56, "block": 26, "energy": 3, "v2.0": false}
+{"frame": 90582, "card": "Bite", "hand": ["Defend+", "Shrug It Off+", "Bash+", "Battle Trance+"], "floor": 31, "hp": 56, "maxhp": 56, "block": 12, "energy": 5, "v2.0": false}
+{"frame": 92262, "card": "Flame Barrier", "hand": ["Defend", "Twin Strike", "Parasite"], "floor": 33, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 92314, "card": "Twin Strike", "hand": [], "floor": 33, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92612, "card": "Apotheosis+", "hand": ["Bite", "Bash", "Inflame+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 92678, "card": "Inflame+", "hand": ["Bite", "Bash+", "Defend+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 92826, "card": "Bash+", "hand": ["Bite+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92856, "card": "Bite", "hand": [], "floor": 33, "hp": 56, "maxhp": 56, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 93412, "card": "Thunderclap+", "hand": ["Bite", "Defend", "True Grit+", "Ascender's Bane"], "floor": 33, "hp": 40, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 93538, "card": "Bite", "hand": ["Defend+", "True Grit+"], "floor": 33, "hp": 40, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 93642, "card": "Barricade+", "hand": ["Defend+", "Dark Embrace+"], "floor": 33, "hp": 43, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 93716, "card": "Dark Embrace+", "hand": ["Defend+", "True Grit", "Barricade+", "Ascender's Bane"], "floor": 33, "hp": 43, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 93786, "card": "Barricade+", "hand": ["Defend+", "True Grit+"], "floor": 33, "hp": 43, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 93834, "card": "Defend+", "hand": ["True Grit+", "Ascender's Bane"], "floor": 33, "hp": 43, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 93866, "card": "True Grit", "hand": ["Berserk"], "floor": 33, "hp": 43, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 94264, "card": "Evolve+", "hand": ["Defend", "Havoc", "Bite", "Reaper+"], "floor": 33, "hp": 43, "maxhp": 56, "block": 9, "energy": 6, "v2.0": false}
+{"frame": 94326, "card": "Defend+", "hand": ["Havoc", "Bite", "Reaper+"], "floor": 33, "hp": 43, "maxhp": 56, "block": 9, "energy": 5, "v2.0": false}
+{"frame": 94800, "card": "Bite", "hand": ["Reaper+", "Warcry+", "Battle Trance+"], "floor": 33, "hp": 43, "maxhp": 56, "block": 28, "energy": 5, "v2.0": false}
+{"frame": 94888, "card": "Warcry+", "hand": ["Reaper+", "Battle Trance+"], "floor": 33, "hp": 46, "maxhp": 56, "block": 28, "energy": 4, "v2.0": false}
+{"frame": 95146, "card": "Bite", "hand": ["Reaper+", "Bite", "Battle Trance+"], "floor": 33, "hp": 46, "maxhp": 56, "block": 28, "energy": 4, "v2.0": false}
+{"frame": 95220, "card": "Reaper+", "hand": ["Bite+"], "floor": 33, "hp": 49, "maxhp": 56, "block": 28, "energy": 3, "v2.0": false}
+{"frame": 95404, "card": "Battle Trance+", "hand": ["Bite", "Bite+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 95558, "card": "Headbutt+", "hand": ["Bite", "Bite+", "Thunderclap+", "Flame Barrier+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 95936, "card": "Battle Trance+", "hand": ["Bite", "Bite", "Defend+", "Twin Strike+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 4, "energy": 5, "v2.0": false}
+{"frame": 96150, "card": "Bite+", "hand": ["Bite", "Defend+", "Bite", "True Grit", "Defend+", "Havoc", "Twin Strike+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 4, "energy": 5, "v2.0": false}
+{"frame": 96220, "card": "Bite", "hand": ["Bite+", "Defend+", "True Grit+", "Defend+", "Havoc", "Twin Strike+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 96436, "card": "Twin Strike+", "hand": ["Bite", "Defend+", "True Grit+", "Defend+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 96486, "card": "Bite", "hand": ["Defend+", "True Grit+", "Defend+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 96558, "card": "True Grit", "hand": ["Defend+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 96916, "card": "Defend+", "hand": ["Defend+", "Sever Soul+", "Bite"], "floor": 33, "hp": 56, "maxhp": 56, "block": 21, "energy": 5, "v2.0": false}
+{"frame": 96948, "card": "Defend+", "hand": ["Bite+", "Parasite", "Sever Soul+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 9, "energy": 4, "v2.0": false}
+{"frame": 97012, "card": "Bite", "hand": ["Sever Soul+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 37, "energy": 3, "v2.0": false}
+{"frame": 97492, "card": "Battle Trance+", "hand": ["True Grit+", "Headbutt", "Defend", "Flame Barrier+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 36, "energy": 6, "v2.0": false}
+{"frame": 97514, "card": "Battle Trance+", "hand": ["True Grit", "Defend+", "Thunderclap", "Flame Barrier+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 36, "energy": 6, "v2.0": false}
+{"frame": 97574, "card": "Thunderclap+", "hand": ["Havoc", "Bite", "True Grit+", "Flame Barrier+", "Defend+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 36, "energy": 6, "v2.0": false}
+{"frame": 97656, "card": "Bite", "hand": ["True Grit+", "Defend+", "Havoc", "Bite+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 36, "energy": 5, "v2.0": false}
+{"frame": 97706, "card": "Safety", "hand": ["True Grit+", "Headbutt+", "Defend+", "Havoc+", "Flame Barrier+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 36, "energy": 4, "v2.0": false}
+{"frame": 97756, "card": "Headbutt", "hand": [], "floor": 33, "hp": 56, "maxhp": 56, "block": 36, "energy": 3, "v2.0": false}
+{"frame": 97878, "card": "Havoc+", "hand": ["True Grit+", "Flame Barrier+", "Defend+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 36, "energy": 2, "v2.0": false}
+{"frame": 97998, "card": "Defend+", "hand": ["True Grit+", "Flame Barrier+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 36, "energy": 2, "v2.0": false}
+{"frame": 98034, "card": "True Grit+", "hand": ["Flame Barrier+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 44, "energy": 1, "v2.0": false}
+{"frame": 98376, "card": "Twin Strike+", "hand": ["Bite+", "Bite", "Defend+", "Bite+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 53, "energy": 5, "v2.0": false}
+{"frame": 98416, "card": "Bite", "hand": ["Bite+", "Bite+", "Defend+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 53, "energy": 4, "v2.0": false}
+{"frame": 98460, "card": "Bite", "hand": ["Defend+"], "floor": 33, "hp": 56, "maxhp": 56, "block": 53, "energy": 3, "v2.0": false}
+{"frame": 98506, "card": "Bite", "hand": [], "floor": 33, "hp": 56, "maxhp": 56, "block": 53, "energy": 2, "v2.0": false}
+{"frame": 98920, "card": "Havoc+", "hand": ["Defend", "Defend+", "True Grit"], "floor": 33, "hp": 56, "maxhp": 56, "block": 21, "energy": 5, "v2.0": false}
+{"frame": 99284, "card": "Bite+", "hand": ["Bite", "Bite+", "Headbutt+", "Bite"], "floor": 33, "hp": 56, "maxhp": 56, "block": 21, "energy": 5, "v2.0": false}
+{"frame": 99462, "card": "Bite+", "hand": ["Bite", "Headbutt+", "Bite"], "floor": 33, "hp": 56, "maxhp": 56, "block": 21, "energy": 4, "v2.0": false}
+{"frame": 106072, "card": "Battle Trance+", "hand": ["Headbutt", "True Grit", "Havoc+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 106172, "card": "Apotheosis+", "hand": ["Havoc"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 106526, "card": "Bite+", "hand": ["Headbutt+", "True Grit+", "Havoc+", "Defend+", "Reaper+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 106722, "card": "True Grit+", "hand": ["Headbutt+", "Havoc", "Reaper+", "Defend+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 106932, "card": "Secret Weapon+", "hand": ["Headbutt+", "Reaper+", "Defend+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 106962, "card": "Evolve", "hand": ["Headbutt+", "Reaper+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 107182, "card": "Headbutt+", "hand": ["Flex"], "floor": 35, "hp": 56, "maxhp": 56, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 107524, "card": "Defend", "hand": [], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 107610, "card": "Battle Trance+", "hand": ["Bite+", "Bite", "Twin Strike+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 107632, "card": "Battle Trance+", "hand": ["Bite", "Bite+", "Defend", "Twin Strike+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 107716, "card": "Bite+", "hand": ["Bite", "Defend+", "Bite", "Twin Strike+", "Parasite", "Defend+", "Evolve"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 107760, "card": "Bite", "hand": ["Bite+", "Defend+", "Defend", "Evolve"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 107816, "card": "Bite", "hand": ["Twin Strike+", "Defend+", "Defend+", "Evolve"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 107888, "card": "Evolve", "hand": ["Twin Strike+", "Defend+", "Defend+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 108276, "card": "Barricade+", "hand": ["Bite+", "Offering+", "Bash+", "Inflame"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 108330, "card": "Offering+", "hand": ["Bite+", "Bash+", "Inflame+", "Entrench"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 108442, "card": "Inflame", "hand": ["Bash", "Shrug It Off", "Thunderclap", "Demon Form", "Flame Barrier"], "floor": 35, "hp": 55, "maxhp": 56, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 108618, "card": "Defend+", "hand": ["Bite", "Shrug It Off+", "Thunderclap+"], "floor": 35, "hp": 55, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 108650, "card": "Flame Barrier+", "hand": ["Bite+", "Shrug It Off+", "Thunderclap+", "Dazed", "Dazed"], "floor": 35, "hp": 55, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 108696, "card": "Shrug It Off+", "hand": ["Thunderclap+", "Dazed", "Bash+", "Entrench"], "floor": 35, "hp": 55, "maxhp": 56, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 108798, "card": "Warcry+", "hand": ["Bite", "Thunderclap+", "Bash"], "floor": 35, "hp": 55, "maxhp": 56, "block": 35, "energy": 1, "v2.0": false}
+{"frame": 109108, "card": "Thunderclap+", "hand": ["Battle Trance+", "Havoc", "Bite+", "Dazed"], "floor": 35, "hp": 55, "maxhp": 56, "block": 35, "energy": 1, "v2.0": false}
+{"frame": 109576, "card": "Shrug It Off+", "hand": ["Bite+", "True Grit", "Defend+", "Defend", "Flame Barrier+"], "floor": 35, "hp": 55, "maxhp": 56, "block": 33, "energy": 6, "v2.0": false}
+{"frame": 109648, "card": "Flame Barrier+", "hand": ["Defend+", "Defend+", "Bite+", "Parasite"], "floor": 35, "hp": 55, "maxhp": 56, "block": 44, "energy": 5, "v2.0": false}
+{"frame": 109826, "card": "Defend+", "hand": ["Bite+", "True Grit", "Defend", "Bite+"], "floor": 35, "hp": 55, "maxhp": 56, "block": 60, "energy": 3, "v2.0": false}
+{"frame": 109858, "card": "Defend+", "hand": ["Bite", "True Grit+", "Bite", "Parasite"], "floor": 35, "hp": 55, "maxhp": 56, "block": 68, "energy": 2, "v2.0": false}
+{"frame": 109890, "card": "True Grit+", "hand": ["Bite", "Bite", "Parasite"], "floor": 35, "hp": 55, "maxhp": 56, "block": 7, "energy": 1, "v2.0": false}
+{"frame": 110242, "card": "Defend+", "hand": ["Bite+", "Bite", "Headbutt+", "Twin Strike+"], "floor": 35, "hp": 55, "maxhp": 56, "block": 85, "energy": 5, "v2.0": false}
+{"frame": 110304, "card": "Bite+", "hand": ["Bite", "Twin Strike+", "Headbutt+"], "floor": 35, "hp": 55, "maxhp": 56, "block": 93, "energy": 4, "v2.0": false}
+{"frame": 110358, "card": "Bite", "hand": ["Twin Strike+", "Headbutt+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 110650, "card": "Defend+", "hand": ["Twin Strike", "Defend+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 58, "energy": 5, "v2.0": false}
+{"frame": 110674, "card": "Defend+", "hand": ["Twin Strike+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 110976, "card": "Shrug It Off+", "hand": ["Defend", "Bash+", "Bite"], "floor": 35, "hp": 56, "maxhp": 56, "block": 74, "energy": 6, "v2.0": false}
+{"frame": 111034, "card": "Defend+", "hand": ["Bite", "Havoc+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 85, "energy": 5, "v2.0": false}
+{"frame": 111616, "card": "Bite", "hand": ["Bite", "Bite", "Flame Barrier+", "True Grit+"], "floor": 35, "hp": 56, "maxhp": 56, "block": 93, "energy": 5, "v2.0": false}
+{"frame": 116320, "card": "Apotheosis+", "hand": ["Warcry+", "Battle Trance+", "Battle Trance+"], "floor": 37, "hp": 46, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 116362, "card": "Warcry+", "hand": ["Defend+", "Battle Trance+", "Parasite"], "floor": 37, "hp": 46, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 116678, "card": "Battle Trance+", "hand": ["Defend+", "Defend+", "Twin Strike+", "Thunderclap+", "Bite", "Bash+"], "floor": 37, "hp": 46, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 117048, "card": "Metallicize+", "hand": ["Twin Strike+", "Bite+", "Bash", "Defend", "Bite"], "floor": 37, "hp": 46, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 117224, "card": "Bash", "hand": ["Defend+", "Twin Strike+", "Bite+", "Defend+", "Bite", "Defend+", "Parasite"], "floor": 37, "hp": 46, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 117330, "card": "Twin Strike+", "hand": ["Defend+", "Defend+", "Bite", "Defend+", "Bite"], "floor": 37, "hp": 46, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 117386, "card": "Bite", "hand": ["Defend+", "Defend+", "Defend+", "Bite+", "Parasite"], "floor": 37, "hp": 46, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 117590, "card": "Bite+", "hand": ["Defend+", "Defend+", "Defend+"], "floor": 37, "hp": 49, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 118110, "card": "Inflame+", "hand": ["Barricade+", "Bite", "Havoc+", "True Grit+"], "floor": 37, "hp": 52, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 118280, "card": "Havoc+", "hand": ["Bite+", "True Grit+"], "floor": 37, "hp": 52, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 118472, "card": "Bite", "hand": ["True Grit+"], "floor": 37, "hp": 55, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 118962, "card": "Evolve+", "hand": ["Headbutt+", "Shrug It Off+", "Reaper+", "Offering+"], "floor": 37, "hp": 47, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 119048, "card": "Offering+", "hand": ["Headbutt+", "Shrug It Off+", "Reaper+", "Entrench"], "floor": 37, "hp": 47, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119204, "card": "Mayhem+", "hand": ["Shrug It Off+", "Headbutt+", "Ascender's Bane", "Dark Embrace", "Sever Soul+"], "floor": 37, "hp": 41, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 119252, "card": "Dark Embrace+", "hand": ["Headbutt+", "Shrug It Off+", "Reaper+", "Bite+", "Sever Soul+"], "floor": 37, "hp": 41, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 119680, "card": "Reaper+", "hand": ["Headbutt", "Shrug It Off+", "Ascender's Bane", "Bite+", "Sever Soul+"], "floor": 37, "hp": 41, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119854, "card": "Shrug It Off+", "hand": ["Headbutt+", "Bite+", "Sever Soul+", "Flame Barrier+"], "floor": 37, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 120100, "card": "Headbutt+", "hand": [], "floor": 37, "hp": 56, "maxhp": 56, "block": 11, "energy": 3, "v2.0": false}
+{"frame": 120262, "card": "Thunderclap+", "hand": ["Bite", "Ascender's Bane", "Sever Soul+", "Inflame", "Defend+"], "floor": 37, "hp": 56, "maxhp": 56, "block": 11, "energy": 1, "v2.0": false}
+{"frame": 120376, "card": "Bite", "hand": ["Defend+", "Ascender's Bane", "Sever Soul+", "Flame Barrier+"], "floor": 37, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 120508, "card": "Sever Soul+", "hand": ["Bash", "Ascender's Bane", "Flame Barrier+", "Defend+"], "floor": 37, "hp": 56, "maxhp": 56, "block": 11, "energy": 3, "v2.0": false}
+{"frame": 121784, "card": "Apotheosis+", "hand": ["Offering+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 121836, "card": "Offering+", "hand": ["Bite", "Bite+", "Parasite", "Entrench"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 122020, "card": "Violence+", "hand": ["Bite", "Decay", "Flame Barrier", "Defend"], "floor": 38, "hp": 50, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 122144, "card": "Bite+", "hand": ["Bite", "Violence+", "Bite", "Defend+", "Defend", "Parasite"], "floor": 38, "hp": 50, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 122202, "card": "Violence+", "hand": ["Bite", "Bite", "Defend"], "floor": 38, "hp": 53, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 122396, "card": "Bash+", "hand": ["Bite+", "Defend"], "floor": 38, "hp": 53, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 122478, "card": "Twin Strike+", "hand": ["Bite", "Defend+", "Defend+"], "floor": 38, "hp": 53, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 122552, "card": "Bite", "hand": ["Bite", "Bite", "Defend+"], "floor": 38, "hp": 53, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 122704, "card": "Inflame+", "hand": ["Bite", "Bite+", "Defend", "Cleave"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 122862, "card": "Defend+", "hand": ["Bite+", "Bite", "Flame Barrier+", "Sever Soul+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 123274, "card": "Dark Embrace+", "hand": ["Bite+", "Headbutt+", "Reaper+", "Defend+"], "floor": 38, "hp": 51, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 123412, "card": "Bite", "hand": ["Headbutt+", "Defend+", "Reaper+"], "floor": 38, "hp": 51, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 123530, "card": "Reaper+", "hand": ["Headbutt+", "Defend+"], "floor": 38, "hp": 54, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 123886, "card": "Headbutt+", "hand": [], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 123978, "card": "Havoc", "hand": ["Defend+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 124114, "card": "Mayhem+", "hand": ["Defend+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 124144, "card": "Defend+", "hand": [], "floor": 38, "hp": 56, "maxhp": 56, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 124580, "card": "Barricade+", "hand": ["Defend+", "Warcry+", "Shrug It Off+", "Shrug It Off+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 124632, "card": "Evolve+", "hand": ["Thunderclap+", "Defend+", "Warcry+", "Shrug It Off+", "True Grit+", "Shrug It Off+", "Ascender's Bane"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 124708, "card": "Shrug It Off+", "hand": ["Thunderclap+", "Shrug It Off", "True Grit+", "Ascender's Bane"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 124804, "card": "Thunderclap+", "hand": ["Warcry", "Shrug It Off+", "True Grit+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 1, "energy": 2, "v2.0": false}
+{"frame": 124864, "card": "Shrug It Off+", "hand": ["Warcry+", "True Grit", "Ascender's Bane"], "floor": 38, "hp": 56, "maxhp": 56, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 124922, "card": "Warcry+", "hand": ["True Grit+", "Ascender's Bane"], "floor": 38, "hp": 56, "maxhp": 56, "block": 30, "energy": 0, "v2.0": false}
+{"frame": 125564, "card": "Bite+", "hand": ["True Grit+", "Twin Strike+", "Bite", "Defend+", "Parasite"], "floor": 38, "hp": 50, "maxhp": 56, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 125608, "card": "Bite", "hand": ["True Grit+", "Twin Strike+", "Defend+", "Metallicize+", "Parasite"], "floor": 38, "hp": 53, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 125706, "card": "Defend+", "hand": ["True Grit+", "Twin Strike+", "Metallicize+", "Parasite"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 125740, "card": "True Grit+", "hand": ["Twin Strike+", "Metallicize+", "Parasite"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 125902, "card": "Metallicize+", "hand": ["Twin Strike+", "Defend+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 125936, "card": "Defend+", "hand": ["Twin Strike+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 17, "energy": 1, "v2.0": false}
+{"frame": 126306, "card": "Shrug It Off+", "hand": ["Havoc+", "Bite", "Battle Trance+", "Thunderclap+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 37, "energy": 6, "v2.0": false}
+{"frame": 126368, "card": "Battle Trance+", "hand": ["Havoc+", "Bite", "Thunderclap+", "Bash+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 48, "energy": 5, "v2.0": false}
+{"frame": 126550, "card": "Shrug It Off+", "hand": ["Havoc", "Bite+", "Thunderclap+", "Bash+", "Headbutt"], "floor": 38, "hp": 56, "maxhp": 56, "block": 56, "energy": 4, "v2.0": false}
+{"frame": 126934, "card": "Defend+", "hand": ["Bite", "Headbutt+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 49, "energy": 5, "v2.0": false}
+{"frame": 126968, "card": "Battle Trance+", "hand": ["Bite", "Headbutt+", "Sever Soul+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 57, "energy": 4, "v2.0": false}
+{"frame": 126992, "card": "Battle Trance+", "hand": ["Bite+", "Headbutt+", "Sever Soul+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 57, "energy": 4, "v2.0": false}
+{"frame": 127048, "card": "Shrug It Off+", "hand": ["Bite+", "Bite", "Bite", "Bite", "Headbutt+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 57, "energy": 4, "v2.0": false}
+{"frame": 127372, "card": "Shrug It Off+", "hand": ["Defend+", "Defend+", "Havoc+", "Twin Strike+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 72, "energy": 4, "v2.0": false}
+{"frame": 127412, "card": "Defend+", "hand": ["Havoc", "Twin Strike+", "Defend+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 127440, "card": "Defend+", "hand": ["Havoc+", "Twin Strike+", "Defend+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 127472, "card": "Defend", "hand": ["Havoc", "Twin Strike+"], "floor": 38, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 129918, "card": "Shrug It Off", "hand": ["Twin Strike", "Bash", "Ascender's Bane", "Battle Trance+"], "floor": 40, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 129996, "card": "Battle Trance+", "hand": ["Twin Strike", "Bash", "Defend", "Ascender's Bane"], "floor": 40, "hp": 56, "maxhp": 56, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 130018, "card": "Battle Trance+", "hand": ["Bash", "Defend", "Bite", "Ascender's Bane", "Twin Strike"], "floor": 40, "hp": 56, "maxhp": 56, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 130112, "card": "Inflame+", "hand": ["Bash", "Defend", "Thunderclap", "Defend", "Twin Strike"], "floor": 40, "hp": 56, "maxhp": 56, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 130262, "card": "Thunderclap", "hand": ["Bash", "Defend", "Bite", "Defend", "Ascender's Bane", "Twin Strike", "Burn"], "floor": 40, "hp": 56, "maxhp": 56, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 130426, "card": "Twin Strike", "hand": ["Defend", "Defend", "Ascender's Bane", "Bash"], "floor": 40, "hp": 56, "maxhp": 56, "block": 1, "energy": 2, "v2.0": false}
+{"frame": 130522, "card": "Defend", "hand": ["Bash", "Defend"], "floor": 40, "hp": 56, "maxhp": 56, "block": 1, "energy": 2, "v2.0": false}
+{"frame": 130552, "card": "Defend", "hand": ["Bash"], "floor": 40, "hp": 56, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 130892, "card": "Shrug It Off+", "hand": ["Headbutt", "Bite", "Defend", "Flame Barrier"], "floor": 40, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 131012, "card": "Havoc+", "hand": ["Headbutt", "Bite", "Flame Barrier", "Defend"], "floor": 40, "hp": 56, "maxhp": 56, "block": 11, "energy": 4, "v2.0": false}
+{"frame": 131286, "card": "Headbutt", "hand": [], "floor": 40, "hp": 56, "maxhp": 56, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 131398, "card": "Flame Barrier", "hand": ["Bite", "Defend"], "floor": 40, "hp": 56, "maxhp": 56, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 131470, "card": "Bite", "hand": ["Defend", "Flame Barrier"], "floor": 40, "hp": 56, "maxhp": 56, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 131532, "card": "Flame Barrier", "hand": ["Defend"], "floor": 40, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 131556, "card": "Flame Barrier", "hand": ["Defend"], "floor": 40, "hp": 56, "maxhp": 56, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 131880, "card": "Apotheosis+", "hand": ["True Grit", "Barricade"], "floor": 40, "hp": 56, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 132056, "card": "Battle Trance+", "hand": ["True Grit+", "Barricade+", "Parasite"], "floor": 40, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 132078, "card": "Battle Trance+", "hand": ["True Grit", "Bite", "Parasite"], "floor": 40, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 132556, "card": "Sever Soul+", "hand": ["Bite+", "Bite+"], "floor": 40, "hp": 56, "maxhp": 56, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 132610, "card": "Bite+", "hand": ["Bite"], "floor": 40, "hp": 56, "maxhp": 56, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 132654, "card": "Bite", "hand": [], "floor": 40, "hp": 56, "maxhp": 56, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 133202, "card": "Defend+", "hand": ["Reaper+", "Violence+"], "floor": 40, "hp": 40, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 133226, "card": "Defend+", "hand": ["Violence", "Violence+"], "floor": 40, "hp": 40, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 133410, "card": "Offering+", "hand": ["Violence+"], "floor": 40, "hp": 40, "maxhp": 56, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 133628, "card": "Evolve+", "hand": ["Feed", "Violence+", "Mayhem+", "Bite", "Thunderclap+"], "floor": 40, "hp": 34, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 133728, "card": "Dark Embrace+", "hand": ["Reaper+", "Violence+", "Mayhem+", "Thunderclap+"], "floor": 40, "hp": 34, "maxhp": 56, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 133784, "card": "Metallicize+", "hand": ["Reaper+", "Violence+", "Mayhem+", "Bite+", "Thunderclap+"], "floor": 40, "hp": 34, "maxhp": 56, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 133906, "card": "Violence+", "hand": ["Mayhem+", "Bite", "Reaper+", "Thunderclap+"], "floor": 40, "hp": 34, "maxhp": 56, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 134562, "card": "Reaper+", "hand": ["Thunderclap+", "Headbutt+", "Twin Strike+", "Bite+", "Bite", "Bite+", "Havoc"], "floor": 40, "hp": 34, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 134838, "card": "Flame Barrier+", "hand": ["Bite", "Headbutt", "Twin Strike+", "Bite"], "floor": 40, "hp": 45, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 134910, "card": "Shrug It Off+", "hand": ["Bite", "Thunderclap+", "Headbutt+", "Twin Strike+", "Bite", "Bite", "Decay", "Entrench"], "floor": 40, "hp": 45, "maxhp": 56, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 135026, "card": "Shrug It Off+", "hand": ["Bite", "Thunderclap+", "Headbutt+", "Twin Strike+", "Bite"], "floor": 40, "hp": 45, "maxhp": 56, "block": 20, "energy": 2, "v2.0": false}
+{"frame": 135134, "card": "Defend+", "hand": ["Bite+", "Thunderclap+", "Headbutt+", "Twin Strike+", "Bite", "Mayhem+"], "floor": 40, "hp": 45, "maxhp": 56, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 135524, "card": "Bite", "hand": ["Defend+", "Defend+", "Sever Soul+", "True Grit+"], "floor": 40, "hp": 45, "maxhp": 56, "block": 38, "energy": 5, "v2.0": false}
+{"frame": 135570, "card": "Defend+", "hand": ["True Grit+", "Defend+", "Sever Soul+"], "floor": 40, "hp": 48, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 135600, "card": "True Grit+", "hand": ["Defend+", "Defend", "Sever Soul+"], "floor": 40, "hp": 48, "maxhp": 56, "block": 23, "energy": 4, "v2.0": false}
+{"frame": 135734, "card": "Defend+", "hand": [], "floor": 40, "hp": 48, "maxhp": 56, "block": 29, "energy": 3, "v2.0": false}
+{"frame": 135762, "card": "Defend", "hand": [], "floor": 40, "hp": 48, "maxhp": 56, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 136200, "card": "Bite", "hand": ["Bash+", "Bite", "Bite"], "floor": 40, "hp": 48, "maxhp": 56, "block": 51, "energy": 6, "v2.0": false}
+{"frame": 136290, "card": "Bite", "hand": ["Bash", "Bite+", "Battle Trance+"], "floor": 40, "hp": 51, "maxhp": 56, "block": 34, "energy": 5, "v2.0": false}
+{"frame": 136794, "card": "Shrug It Off", "hand": ["Bite", "Bite", "Dark Embrace", "Ascender's Bane"], "floor": 41, "hp": 54, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 136890, "card": "Evolve+", "hand": ["Bite", "Bite", "Dark Embrace"], "floor": 41, "hp": 54, "maxhp": 56, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 136930, "card": "Dark Embrace", "hand": ["Bite", "Anger"], "floor": 41, "hp": 54, "maxhp": 56, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 136974, "card": "Bite", "hand": ["Bite", "Ascender's Bane"], "floor": 41, "hp": 54, "maxhp": 56, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 137020, "card": "Bite", "hand": ["Ascender's Bane"], "floor": 41, "hp": 56, "maxhp": 56, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 137596, "card": "Apotheosis+", "hand": ["Offering"], "floor": 41, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 137664, "card": "Mayhem+", "hand": ["Reaper+", "Battle Trance+", "Shrug It Off+", "Sever Soul", "Offering+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 137740, "card": "Offering+", "hand": ["Reaper", "Sever Soul+", "Battle Trance+", "Burn"], "floor": 41, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 137928, "card": "Metallicize+", "hand": ["Battle Trance", "Violence+", "Deep Breath+"], "floor": 41, "hp": 55, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 138010, "card": "Shrug It Off+", "hand": ["Battle Trance+", "Violence", "Bash+", "Defend+", "Bite"], "floor": 41, "hp": 55, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 138498, "card": "Violence+", "hand": ["Battle Trance+", "Bash", "Defend", "Bite"], "floor": 41, "hp": 55, "maxhp": 56, "block": 11, "energy": 4, "v2.0": false}
+{"frame": 138684, "card": "Sever Soul+", "hand": ["Battle Trance+", "Bash+", "Defend+", "Bite", "Thunderclap+"], "floor": 41, "hp": 55, "maxhp": 56, "block": 11, "energy": 4, "v2.0": false}
+{"frame": 138892, "card": "Flame Barrier+", "hand": [], "floor": 41, "hp": 55, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 138970, "card": "True Grit+", "hand": ["Bash+", "Bite", "Bite", "Thunderclap+", "Bite", "Reaper", "Warcry"], "floor": 41, "hp": 55, "maxhp": 56, "block": 11, "energy": 4, "v2.0": false}
+{"frame": 139168, "card": "Warcry+", "hand": ["Bash", "Bite", "Thunderclap+", "Havoc+", "Reaper+"], "floor": 41, "hp": 55, "maxhp": 56, "block": 20, "energy": 3, "v2.0": false}
+{"frame": 139498, "card": "Inflame+", "hand": ["Bash+", "Bite", "Thunderclap+", "Bite+", "Defend+", "Defend", "Reaper"], "floor": 41, "hp": 55, "maxhp": 56, "block": 20, "energy": 3, "v2.0": false}
+{"frame": 139602, "card": "Havoc+", "hand": ["Bash+", "Bite", "Thunderclap", "Bite+", "Defend", "Defend"], "floor": 41, "hp": 55, "maxhp": 56, "block": 20, "energy": 2, "v2.0": false}
+{"frame": 139760, "card": "Barricade+", "hand": ["Bash+", "Bite", "Thunderclap+", "Bite+", "Defend+", "Reaper"], "floor": 41, "hp": 55, "maxhp": 56, "block": 36, "energy": 2, "v2.0": false}
+{"frame": 139876, "card": "Defend+", "hand": ["Bite", "Reaper+", "Bash+", "Thunderclap+", "Bite"], "floor": 41, "hp": 55, "maxhp": 56, "block": 36, "energy": 0, "v2.0": false}
+{"frame": 139918, "card": "Bite", "hand": ["Reaper+", "Bash+", "Thunderclap+", "Bite", "Defend+"], "floor": 41, "hp": 55, "maxhp": 56, "block": 44, "energy": 0, "v2.0": false}
+{"frame": 140472, "card": "Thunderclap+", "hand": ["Bash+", "Bite", "Bite", "Reaper+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 45, "energy": 6, "v2.0": false}
+{"frame": 140584, "card": "Bash+", "hand": ["Bite+", "Bite", "Reaper+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 45, "energy": 5, "v2.0": false}
+{"frame": 140628, "card": "Bite", "hand": ["Bite", "Reaper+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 45, "energy": 3, "v2.0": false}
+{"frame": 140678, "card": "Bite", "hand": ["Reaper+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 45, "energy": 2, "v2.0": false}
+{"frame": 141122, "card": "True Grit+", "hand": ["Twin Strike", "Defend+", "Bite", "Burn", "Bite"], "floor": 41, "hp": 56, "maxhp": 56, "block": 4, "energy": 5, "v2.0": false}
+{"frame": 141248, "card": "Shrug It Off+", "hand": ["Defend+", "Burn", "Twin Strike+", "Bite", "Reaper+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 141340, "card": "Shrug It Off+", "hand": ["Defend+", "Bite", "Bite+", "Twin Strike+", "Reaper+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 141510, "card": "True Grit+", "hand": ["Defend+", "Bite", "Bite", "Twin Strike+", "Rage"], "floor": 41, "hp": 56, "maxhp": 56, "block": 35, "energy": 2, "v2.0": false}
+{"frame": 141784, "card": "Thunderclap+", "hand": ["Defend+", "Bite", "Bite", "Twin Strike+", "Burn", "Rage"], "floor": 41, "hp": 56, "maxhp": 56, "block": 44, "energy": 1, "v2.0": false}
+{"frame": 142360, "card": "Shrug It Off+", "hand": ["Shrug It Off+", "Sever Soul+", "Headbutt+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 42, "energy": 5, "v2.0": false}
+{"frame": 142436, "card": "Shrug It Off+", "hand": ["Headbutt+", "Bite+", "Sever Soul+", "Bash+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 53, "energy": 4, "v2.0": false}
+{"frame": 142644, "card": "Bite+", "hand": ["Headbutt+", "Defend+", "Sever Soul+", "Bash+", "Burn", "Reaper+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 64, "energy": 3, "v2.0": false}
+{"frame": 142756, "card": "Sever Soul+", "hand": ["Bash+", "Headbutt+", "Burn", "Reaper+", "Defend+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 64, "energy": 2, "v2.0": false}
+{"frame": 143452, "card": "Twin Strike+", "hand": ["True Grit", "Bash+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 41, "energy": 6, "v2.0": false}
+{"frame": 143506, "card": "Thunderclap+", "hand": ["Bash", "Burn", "True Grit+", "Burn"], "floor": 41, "hp": 56, "maxhp": 56, "block": 1, "energy": 5, "v2.0": false}
+{"frame": 143564, "card": "Bite", "hand": ["Bash", "Burn", "True Grit", "Shrug It Off+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 143602, "card": "True Grit", "hand": ["Bash", "Burn", "Shrug It Off+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 41, "energy": 3, "v2.0": false}
+{"frame": 143758, "card": "Shrug It Off+", "hand": ["Bash", "Bite", "Burn", "Burn", "Burn"], "floor": 41, "hp": 56, "maxhp": 56, "block": 50, "energy": 2, "v2.0": false}
+{"frame": 143874, "card": "Bite", "hand": ["Bite", "Burn", "Bash+", "Burn", "Burn", "Shrug It Off+"], "floor": 41, "hp": 56, "maxhp": 56, "block": 61, "energy": 1, "v2.0": false}
+{"frame": 149474, "card": "Dark Embrace", "hand": ["Defend", "Twin Strike", "Bite", "Apotheosis+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 149520, "card": "Apotheosis+", "hand": [], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 149760, "card": "Twin Strike+", "hand": ["Defend+", "Bite", "Bite+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 149814, "card": "Bite", "hand": ["Defend+", "Bite+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 149964, "card": "Defend+", "hand": ["Defend+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 150148, "card": "Bite", "hand": ["Defend+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 151016, "card": "Bash+", "hand": ["Bite", "True Grit+", "Parasite", "Metallicize+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 151074, "card": "Bite", "hand": ["True Grit+", "Parasite", "Metallicize+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 151216, "card": "Mayhem+", "hand": ["True Grit+", "Parasite", "Metallicize+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 151258, "card": "Metallicize+", "hand": ["True Grit+", "Parasite"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 151408, "card": "Shrug It Off+", "hand": [], "floor": 44, "hp": 56, "maxhp": 56, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 151488, "card": "Defend+", "hand": [], "floor": 44, "hp": 56, "maxhp": 56, "block": 20, "energy": 2, "v2.0": false}
+{"frame": 152244, "card": "Inflame+", "hand": ["Thunderclap", "Headbutt+", "Bite+", "Reaper+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 152710, "card": "Offering+", "hand": ["Thunderclap+", "Havoc", "Headbutt", "Reaper"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 153728, "card": "Shrug It Off+", "hand": ["Headbutt", "Bite", "Defend+", "Violence", "Offering"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 154060, "card": "Headbutt+", "hand": [], "floor": 44, "hp": 56, "maxhp": 56, "block": 11, "energy": 6, "v2.0": false}
+{"frame": 154232, "card": "Havoc+", "hand": ["Violence+", "Defend", "Battle Trance+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 154716, "card": "Bite", "hand": ["Violence+", "Offering+", "Bite", "Flame Barrier+", "Sever Soul+", "Battle Trance+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 22, "energy": 4, "v2.0": false}
+{"frame": 154786, "card": "Flame Barrier+", "hand": ["Bite", "Dazed", "Violence+", "Battle Trance+", "Cleave+", "Entrench"], "floor": 44, "hp": 56, "maxhp": 56, "block": 22, "energy": 3, "v2.0": false}
+{"frame": 154828, "card": "Evolve+", "hand": ["Violence+", "Offering+", "Battle Trance+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 154926, "card": "Offering+", "hand": ["Bite+", "Violence+", "Defend+", "Sever Soul+", "Battle Trance+", "Entrench"], "floor": 44, "hp": 56, "maxhp": 56, "block": 38, "energy": 0, "v2.0": false}
+{"frame": 155124, "card": "Bite", "hand": ["Defend", "Violence+", "Shrug It Off+", "Bite", "Headbutt+"], "floor": 44, "hp": 50, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 155208, "card": "Shrug It Off+", "hand": ["Violence+", "Battle Trance+", "Bite", "Defend+", "Havoc"], "floor": 44, "hp": 53, "maxhp": 56, "block": 38, "energy": 2, "v2.0": false}
+{"frame": 155326, "card": "Headbutt+", "hand": ["Sever Soul", "Doubt", "Violence", "Battle Trance"], "floor": 44, "hp": 53, "maxhp": 56, "block": 49, "energy": 1, "v2.0": false}
+{"frame": 155412, "card": "Havoc", "hand": ["Violence+", "Defend", "Battle Trance+", "Bite", "Wound", "Defend+"], "floor": 44, "hp": 53, "maxhp": 56, "block": 49, "energy": 0, "v2.0": false}
+{"frame": 155538, "card": "Sever Soul+", "hand": ["Violence", "Battle Trance+", "Bite", "Wound", "Defend+", "Bite"], "floor": 44, "hp": 53, "maxhp": 56, "block": 60, "energy": 0, "v2.0": false}
+{"frame": 156278, "card": "Bite+", "hand": ["Twin Strike+", "True Grit+", "Thunderclap+", "Defend+"], "floor": 44, "hp": 53, "maxhp": 56, "block": 38, "energy": 5, "v2.0": false}
+{"frame": 156370, "card": "Defend+", "hand": ["Twin Strike+", "True Grit+", "Thunderclap+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 38, "energy": 4, "v2.0": false}
+{"frame": 156412, "card": "True Grit+", "hand": ["Twin Strike+", "Thunderclap+"], "floor": 44, "hp": 56, "maxhp": 56, "block": 46, "energy": 3, "v2.0": false}
+{"frame": 160190, "card": "Offering+", "hand": ["True Grit", "Bite", "Sever Soul"], "floor": 45, "hp": 56, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 160388, "card": "Dark Embrace", "hand": ["Bite", "Twin Strike", "Shrug It Off", "Defend"], "floor": -1, "hp": 50, "maxhp": 56, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 160568, "card": "Shrug It Off+", "hand": ["Bite", "Havoc", "Doubt", "Twin Strike", "Defend", "True Grit"], "floor": 45, "hp": 52, "maxhp": 56, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 160670, "card": "Shrug It Off", "hand": ["Bite", "Havoc", "Defend", "Defend", "True Grit"], "floor": 45, "hp": 52, "maxhp": 56, "block": 11, "energy": 4, "v2.0": false}
+{"frame": 160732, "card": "Defend", "hand": ["Bite", "Defend", "Warcry", "True Grit", "Sever Soul"], "floor": 45, "hp": 52, "maxhp": 56, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 160796, "card": "Warcry+", "hand": ["True Grit", "Bite", "Havoc", "Twin Strike", "Defend"], "floor": 45, "hp": 52, "maxhp": 56, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 161422, "card": "Evolve+", "hand": ["Decay", "Reaper", "Bite", "Armaments", "True Grit"], "floor": 45, "hp": 52, "maxhp": 56, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 161668, "card": "True Grit", "hand": ["Defend", "Reaper", "Bite", "Defend", "Bite", "Twin Strike", "Flame Barrier"], "floor": 45, "hp": 54, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 161844, "card": "Bite", "hand": ["Defend", "Reaper", "Defend", "Sever Soul", "Twin Strike", "Flame Barrier"], "floor": 45, "hp": 54, "maxhp": 56, "block": 31, "energy": 2, "v2.0": false}
+{"frame": 161918, "card": "Twin Strike", "hand": ["Defend", "Defend", "Sever Soul", "Flame Barrier"], "floor": 45, "hp": 56, "maxhp": 56, "block": 31, "energy": 1, "v2.0": false}
+{"frame": 162272, "card": "Barricade", "hand": ["Bite", "Defend", "Bite", "Feed+"], "floor": 45, "hp": 56, "maxhp": 56, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 162338, "card": "Defend", "hand": ["Bite", "Bite", "Feed+"], "floor": 45, "hp": 56, "maxhp": 56, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 162382, "card": "Bite", "hand": ["Bite", "Feed"], "floor": 45, "hp": 56, "maxhp": 56, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 162426, "card": "Bite", "hand": ["Feed+"], "floor": 45, "hp": 56, "maxhp": 56, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 162740, "card": "Shrug It Off+", "hand": ["Thunderclap", "Bite"], "floor": 45, "hp": 56, "maxhp": 56, "block": 6, "energy": 6, "v2.0": false}
+{"frame": 162830, "card": "Offering+", "hand": ["Bash", "Thunderclap", "Bite", "Entrench"], "floor": 45, "hp": 56, "maxhp": 56, "block": 17, "energy": 5, "v2.0": false}
+{"frame": 163014, "card": "Inflame+", "hand": ["Headbutt", "Violence", "Bash", "Metallicize"], "floor": 45, "hp": 50, "maxhp": 56, "block": 17, "energy": 7, "v2.0": false}
+{"frame": 163306, "card": "Mayhem", "hand": ["Thunderclap", "Bite", "Headbutt", "Violence", "Bash"], "floor": 45, "hp": 54, "maxhp": 56, "block": 17, "energy": 5, "v2.0": false}
+{"frame": 163482, "card": "Bash", "hand": ["Thunderclap", "Bite", "Headbutt"], "floor": 45, "hp": 56, "maxhp": 56, "block": 17, "energy": 5, "v2.0": false}
+{"frame": 163612, "card": "Violence+", "hand": ["Thunderclap", "Bite", "Headbutt"], "floor": 45, "hp": 56, "maxhp": 56, "block": 17, "energy": 5, "v2.0": false}
+{"frame": 163698, "card": "Apotheosis+", "hand": [], "floor": 45, "hp": 56, "maxhp": 56, "block": 17, "energy": 5, "v2.0": false}
+{"frame": 163912, "card": "Headbutt+", "hand": ["Thunderclap+", "Bite+", "Bite+", "Parasite", "Ascender's Bane"], "floor": 45, "hp": 56, "maxhp": 56, "block": 17, "energy": 4, "v2.0": false}
+{"frame": 163976, "card": "Bite", "hand": ["Thunderclap+", "Bite", "Parasite", "Ascender's Bane"], "floor": 45, "hp": 56, "maxhp": 56, "block": 17, "energy": 4, "v2.0": false}
+{"frame": 164020, "card": "Bite", "hand": ["Thunderclap+", "Parasite", "Ascender's Bane"], "floor": 45, "hp": 56, "maxhp": 56, "block": 174, "energy": 3, "v2.0": false}
+{"frame": 164554, "card": "Reaper+", "hand": ["Havoc", "Defend+", "Flame Barrier+", "Bite", "Defend+"], "floor": 45, "hp": 39, "maxhp": 56, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 164700, "card": "Bite+", "hand": ["Havoc", "Defend+", "Defend+", "Shrug It Off+", "Flame Barrier+"], "floor": 45, "hp": 52, "maxhp": 56, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 164766, "card": "Shrug It Off+", "hand": ["Havoc+", "Defend+", "Defend+", "Flame Barrier+"], "floor": 45, "hp": 55, "maxhp": 56, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 164882, "card": "Defend+", "hand": ["Havoc", "Defend+", "Defend+"], "floor": 45, "hp": 55, "maxhp": 56, "block": 25, "energy": 1, "v2.0": false}
+{"frame": 165418, "card": "Bite+", "hand": ["Feed+", "Shrug It Off+", "True Grit+", "Sever Soul+", "Bash"], "floor": 45, "hp": 54, "maxhp": 56, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 165546, "card": "Feed+", "hand": ["Shrug It Off+", "True Grit+", "Sever Soul+", "Bash"], "floor": 45, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 166850, "card": "Metallicize", "hand": ["Bite", "Bash", "Shrug It Off", "Thunderclap", "Havoc", "Twin Strike"], "floor": 46, "hp": 54, "maxhp": 60, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 166868, "card": "Metallicize", "hand": ["Bite", "Bash", "Shrug It Off", "Thunderclap", "Twin Strike"], "floor": 46, "hp": 54, "maxhp": 60, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 166948, "card": "Shrug It Off", "hand": ["Bite", "Bash", "Havoc", "Twin Strike"], "floor": 46, "hp": 56, "maxhp": 60, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 167150, "card": "Thunderclap", "hand": ["Bite", "Bash", "Twin Strike", "Violence", "Havoc"], "floor": 46, "hp": 56, "maxhp": 60, "block": 8, "energy": 6, "v2.0": false}
+{"frame": 167220, "card": "Havoc", "hand": ["Bash", "Twin Strike", "Violence"], "floor": 46, "hp": 56, "maxhp": 60, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 167340, "card": "Violence+", "hand": ["Bite", "Bash", "Twin Strike"], "floor": 46, "hp": 58, "maxhp": 60, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 167536, "card": "Twin Strike", "hand": ["Bash", "Headbutt", "Bite", "Reaper", "Bite", "Bite", "Sever Soul"], "floor": 46, "hp": 58, "maxhp": 60, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 167798, "card": "Headbutt", "hand": ["True Grit", "Bash", "Bite", "Reaper", "Bite", "Bite", "Sever Soul"], "floor": 46, "hp": 58, "maxhp": 60, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 167946, "card": "Shrug It Off", "hand": ["Bite", "Bash", "Bite", "Bite", "True Grit"], "floor": 46, "hp": 58, "maxhp": 60, "block": 8, "energy": -1, "v2.0": false}
+{"frame": 168036, "card": "Shrug It Off+", "hand": ["Bite", "Bash", "Bite", "Bite", "True Grit"], "floor": 46, "hp": 58, "maxhp": 60, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 168328, "card": "Bash", "hand": ["Bite", "Bite", "Reaper", "Bite", "True Grit", "Sever Soul", "Feed"], "floor": 46, "hp": 58, "maxhp": 60, "block": 27, "energy": 3, "v2.0": false}
+{"frame": 168374, "card": "Bite", "hand": ["Bite", "Bite", "Feed+", "Sever Soul", "Reaper"], "floor": 46, "hp": 58, "maxhp": 60, "block": 27, "energy": 1, "v2.0": false}
+{"frame": 168896, "card": "Apotheosis+", "hand": ["Shrug It Off+", "Warcry"], "floor": 46, "hp": 60, "maxhp": 60, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 168956, "card": "Shrug It Off+", "hand": ["Warcry+", "Defend+", "Defend+"], "floor": 46, "hp": 60, "maxhp": 60, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 169124, "card": "Warcry+", "hand": ["Defend+", "Defend+", "Mayhem+"], "floor": 46, "hp": 60, "maxhp": 60, "block": 14, "energy": 3, "v2.0": false}
+done

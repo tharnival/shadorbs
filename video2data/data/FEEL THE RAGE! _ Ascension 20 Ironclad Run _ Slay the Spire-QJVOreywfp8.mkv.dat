@@ -1,0 +1,525 @@
+{"frame": 1836, "card": "Strike", "hand": ["Strike", "Bash", "Defend", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 1866, "card": "Strike", "hand": ["Strike", "Bash"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 1894, "card": "Defend", "hand": ["Strike", "Bash"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 2144, "card": "Strike", "hand": ["Defend", "Defend", "Defend", "Ascender's Bane"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2638, "card": "Strike", "hand": ["Strike", "Bash", "Defend", "Defend"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2734, "card": "Defend", "hand": ["Strike", "Bash"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 2992, "card": "Strike", "hand": ["Defend", "Defend", "Strike", "Strike"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3016, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3036, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 3296, "card": "Defend", "hand": ["Defend", "Bash", "Defend"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3602, "card": "Strike", "hand": ["Strike", "Strike"], "floor": 1, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3624, "card": "Strike", "hand": ["Defend", "Strike"], "floor": 1, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3646, "card": "Strike", "hand": [], "floor": 1, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 4468, "card": "Pommel Strike", "hand": ["Defend", "Strike", "Strike"], "floor": 4, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 4526, "card": "Strike", "hand": ["Defend", "Strike", "Defend"], "floor": 4, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 4556, "card": "Defend", "hand": ["Defend", "Strike"], "floor": 4, "hp": 65, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 4896, "card": "Defend", "hand": ["Strike", "Exhume", "Bash", "Strike"], "floor": 4, "hp": 62, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 4978, "card": "Bash", "hand": ["Strike", "Strike", "Exhume"], "floor": 4, "hp": 62, "maxhp": 75, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 5364, "card": "Strike", "hand": ["Exhume", "Defend", "Defend", "Strike"], "floor": 4, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5716, "card": "Bash", "hand": ["Defend", "Slimed", "Strike", "Strike"], "floor": 4, "hp": 53, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5744, "card": "Strike", "hand": [], "floor": 4, "hp": 53, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 7068, "card": "Strike", "hand": ["Defend", "Defend", "Exhume", "Rage"], "floor": 5, "hp": 54, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 7116, "card": "Exhume", "hand": ["Defend", "Defend", "Rage"], "floor": 5, "hp": 59, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 7452, "card": "Pommel Strike", "hand": ["Bash", "Defend", "Strike"], "floor": 5, "hp": 54, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 7502, "card": "Strike", "hand": ["Strike"], "floor": 5, "hp": 54, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 7526, "card": "Defend", "hand": ["Strike", "Bash", "Ascender's Bane"], "floor": 5, "hp": 54, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 7826, "card": "Rage", "hand": ["Strike", "Defend", "Defend"], "floor": 5, "hp": 58, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 7912, "card": "Strike", "hand": ["Defend"], "floor": 5, "hp": 58, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 7952, "card": "Strike", "hand": ["Defend"], "floor": 5, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 7988, "card": "Defend", "hand": ["Defend"], "floor": 5, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 8218, "card": "Pommel Strike", "hand": ["Strike", "Strike", "Bash", "Defend"], "floor": 5, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 8290, "card": "Strike", "hand": ["Strike"], "floor": 5, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 8312, "card": "Strike", "hand": [], "floor": 5, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 8950, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 6, "hp": 64, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 8968, "card": "Strike", "hand": ["Defend"], "floor": 6, "hp": 64, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 8990, "card": "Strike", "hand": ["Ascender's Bane", "Defend"], "floor": 6, "hp": 64, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 9290, "card": "Bash", "hand": ["Exhume", "Defend", "Pommel Strike"], "floor": 6, "hp": 64, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 9322, "card": "Strike", "hand": ["Exhume", "Defend", "Rage+"], "floor": 6, "hp": 64, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 9640, "card": "Pommel Strike", "hand": ["Strike", "Defend", "Strike", "Defend"], "floor": 6, "hp": 56, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 9696, "card": "Strike", "hand": ["Defend", "Strike", "Defend", "Strike"], "floor": 6, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9718, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 6, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 9968, "card": "Bash", "hand": ["Exhume", "Strike", "Pommel Strike", "Defend"], "floor": 6, "hp": 32, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 11176, "card": "Pommel Strike", "hand": ["Strike", "Defend", "Strike", "Ascender's Bane"], "floor": 8, "hp": 38, "maxhp": 75, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 11318, "card": "Strike", "hand": ["Strike", "Defend", "Strike", "Ascender's Bane"], "floor": 8, "hp": -1, "maxhp": -1, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 11406, "card": "Defend", "hand": ["Strike", "Strike", "Ascender's Bane"], "floor": 8, "hp": 38, "maxhp": 75, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 11900, "card": "Pommel Strike", "hand": ["Strike", "Bash", "Headbutt"], "floor": 8, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 12310, "card": "Headbutt", "hand": ["Defend", "Bash+"], "floor": 8, "hp": -1, "maxhp": -1, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 12592, "card": "Strike", "hand": ["Defend", "Bash"], "floor": 8, "hp": 23, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 12992, "card": "Rage+", "hand": ["Exhume", "Defend", "Strike", "Defend"], "floor": 8, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13088, "card": "Strike", "hand": ["Exhume"], "floor": 8, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13162, "card": "Defend", "hand": ["Exhume"], "floor": 8, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 13628, "card": "Pommel Strike", "hand": ["Strike", "Strike", "Bash", "Strike"], "floor": 8, "hp": 23, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13794, "card": "Pommel Strike", "hand": ["Strike", "Strike", "Bash", "Strike"], "floor": 8, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 14198, "card": "Strike", "hand": ["Defend", "Defend", "Strike", "Exhume"], "floor": 8, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14228, "card": "Strike", "hand": [], "floor": 8, "hp": 16, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 18360, "card": "Sentinel", "hand": ["Headbutt", "Strike", "Strike", "Strike"], "floor": 11, "hp": 22, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 19126, "card": "Feed", "hand": ["Strike", "Sentinel"], "floor": 11, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 19200, "card": "Strike", "hand": ["Strike"], "floor": 11, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 19236, "card": "Sentinel", "hand": ["Strike", "Ascender's Bane"], "floor": 11, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 19608, "card": "Rage+", "hand": ["Defend", "Bash", "Strike", "Pommel Strike"], "floor": 11, "hp": 11, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 19752, "card": "Pommel Strike", "hand": ["Defend", "Bash", "Strike"], "floor": 11, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20202, "card": "Strike", "hand": ["Defend", "Bash", "Defend"], "floor": 11, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 20238, "card": "Defend", "hand": ["Defend", "Bash"], "floor": 11, "hp": 11, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 20654, "card": "Pommel Strike", "hand": ["Exhume", "Headbutt", "Bash", "Strike"], "floor": 11, "hp": 8, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20698, "card": "Strike", "hand": [], "floor": 11, "hp": 8, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 23550, "card": "Exhume", "hand": ["Defend", "Strike", "Pommel Strike"], "floor": 12, "hp": 14, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 25622, "card": "Thunderclap", "hand": ["Strike", "Strike"], "floor": 12, "hp": 14, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 25768, "card": "Pommel Strike", "hand": ["Strike", "Headbutt", "Strike"], "floor": 12, "hp": 14, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 25932, "card": "Headbutt", "hand": ["Strike", "Strike", "Defend"], "floor": 12, "hp": 14, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 26728, "card": "Rage+", "hand": ["Pommel Strike", "Bash"], "floor": 12, "hp": 14, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26878, "card": "Pommel Strike", "hand": ["Bash", "Strike", "Strike"], "floor": 12, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26960, "card": "Strike", "hand": ["Bash", "Strike", "Strike"], "floor": 12, "hp": 14, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 27006, "card": "Strike", "hand": ["Strike", "Bash"], "floor": 12, "hp": -1, "maxhp": -1, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 27278, "card": "Thunderclap", "hand": ["Defend", "Headbutt", "Pummel", "Defend"], "floor": 12, "hp": 6, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27328, "card": "Pommel Strike", "hand": [], "floor": 12, "hp": 6, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 30882, "card": "Bash", "hand": ["Headbutt", "Defend", "Strike"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 30964, "card": "Headbutt", "hand": ["Strike", "Wound"], "floor": 14, "hp": 12, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 31736, "card": "Pommel Strike", "hand": ["Pommel Strike", "Exhume", "Strike"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31834, "card": "Thunderclap", "hand": ["Pommel Strike", "Exhume"], "floor": 14, "hp": 11, "maxhp": 75, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 32208, "card": "Pommel Strike", "hand": ["Exhume", "Strike"], "floor": 14, "hp": -1, "maxhp": -1, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 32538, "card": "Strike", "hand": ["Exhume", "Ascender's Bane"], "floor": 14, "hp": 11, "maxhp": 75, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 32578, "card": "Exhume", "hand": ["Ascender's Bane"], "floor": 14, "hp": 11, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 33006, "card": "Strike", "hand": ["Defend", "Bash", "Dazed", "Dazed"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33044, "card": "Bash", "hand": ["Defend", "Dazed", "Dazed"], "floor": 14, "hp": 11, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 33422, "card": "Pommel Strike", "hand": [], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 34778, "card": "Pommel Strike", "hand": ["Headbutt", "Bash", "Defend", "Ascender's Bane"], "floor": 16, "hp": 39, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 35010, "card": "Strike", "hand": ["Headbutt", "Defend", "Ascender's Bane", "Bash"], "floor": 16, "hp": 38, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 35054, "card": "Headbutt", "hand": ["Defend", "Ascender's Bane"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 35404, "card": "Rage+", "hand": ["Pommel Strike", "Strike", "Pommel Strike"], "floor": 16, "hp": 38, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 35502, "card": "Pommel Strike", "hand": ["Strike", "Strike", "Pommel Strike"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 35576, "card": "Pommel Strike", "hand": ["Strike", "Strike", "Pommel Strike"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 35752, "card": "Pommel Strike", "hand": ["Strike", "Strike", "Thunderclap"], "floor": 16, "hp": 35, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 36194, "card": "Pommel Strike", "hand": ["Exhume", "Strike", "Strike", "Pommel Strike"], "floor": 16, "hp": 18, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 36294, "card": "Pommel Strike", "hand": ["Exhume", "Strike", "Strike", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 36386, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 16, "hp": 18, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 37092, "card": "Rage+", "hand": ["Headbutt", "Bash", "Thunderclap", "Pommel Strike"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 37222, "card": "Thunderclap", "hand": ["Headbutt", "Bash", "Pommel Strike"], "floor": 16, "hp": 15, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 37480, "card": "Pommel Strike", "hand": ["Headbutt", "Bash"], "floor": 16, "hp": 15, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 37690, "card": "Headbutt", "hand": [], "floor": 16, "hp": -1, "maxhp": -1, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 38308, "card": "Pommel Strike", "hand": ["Strike", "Defend", "Burn"], "floor": 16, "hp": 10, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 38364, "card": "Strike", "hand": [], "floor": 16, "hp": 10, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 42448, "card": "Pommel Strike", "hand": ["Strike", "Strike", "Defend"], "floor": 18, "hp": 60, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 42654, "card": "Strike", "hand": ["Strike", "Defend", "Thunderclap", "Ascender's Bane"], "floor": 18, "hp": 60, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 42700, "card": "Strike", "hand": ["Ascender's Bane", "Defend", "Thunderclap"], "floor": 18, "hp": 60, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 43124, "card": "Strike", "hand": [], "floor": 18, "hp": 44, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 43344, "card": "Pommel Strike", "hand": ["Headbutt", "Defend", "Bash", "Reaper"], "floor": 18, "hp": 44, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 43582, "card": "Reaper", "hand": ["Headbutt", "Bash", "Pommel Strike"], "floor": 18, "hp": 44, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 44982, "card": "Pummel", "hand": ["Exhume", "Strike"], "floor": 18, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 45068, "card": "Strike", "hand": [], "floor": 18, "hp": 44, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 48526, "card": "Pommel Strike", "hand": ["Bash", "Thunderclap", "Defend", "Rage+"], "floor": 21, "hp": 50, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 48804, "card": "Bash", "hand": ["Thunderclap", "Defend", "Rage+"], "floor": 21, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 49398, "card": "Pommel Strike", "hand": ["Pommel Strike", "Defend", "Headbutt", "Dual Wield"], "floor": 21, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 49616, "card": "Pommel Strike", "hand": ["Defend", "Headbutt", "Exhume", "Dual Wield"], "floor": 21, "hp": 50, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 49724, "card": "Headbutt", "hand": ["Exhume", "Strike"], "floor": 21, "hp": 50, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 50254, "card": "Rage+", "hand": ["Pommel Strike", "Pommel Strike"], "floor": 21, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 50534, "card": "Pommel Strike", "hand": ["Strike", "Reaper", "Pommel Strike"], "floor": 21, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 50586, "card": "Reaper", "hand": ["Strike", "Pommel Strike", "Defend"], "floor": 21, "hp": 43, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 53244, "card": "Discovery+", "hand": ["Strike", "Bash", "Rage", "Strike"], "floor": 24, "hp": 57, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 53400, "card": "Offering", "hand": ["Strike", "Bash", "Reaper", "Strike"], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 54072, "card": "Dual Wield", "hand": ["Strike", "Bash", "Reaper", "Strike", "Pommel Strike"], "floor": 24, "hp": 51, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 54334, "card": "Reaper", "hand": ["Strike", "Bash", "Strike", "Pommel Strike", "Reaper", "Reaper"], "floor": 24, "hp": 51, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 54462, "card": "Pommel Strike", "hand": ["Strike", "Strike", "Ascender's Bane", "Reaper"], "floor": 24, "hp": 69, "maxhp": 75, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 54634, "card": "Strike", "hand": ["Strike", "Thunderclap", "Bash", "Ascender's Bane"], "floor": 24, "hp": 63, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 55146, "card": "Headbutt", "hand": ["Twin Strike"], "floor": 24, "hp": 69, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 55250, "card": "Pommel Strike", "hand": ["Exhume+", "Seeing Red", "Pommel Strike"], "floor": 24, "hp": 69, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 55304, "card": "Rage+", "hand": ["Exhume+", "Seeing Red", "Pommel Strike"], "floor": 24, "hp": 69, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 55440, "card": "Seeing Red", "hand": ["Exhume+", "Pommel Strike"], "floor": 24, "hp": 69, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 55580, "card": "Pommel Strike", "hand": ["Exhume+"], "floor": 24, "hp": 69, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 55986, "card": "Offering", "hand": ["Defend", "Entrench"], "floor": 24, "hp": 69, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 56278, "card": "Bash", "hand": ["Defend", "Strike", "Dual Wield"], "floor": 24, "hp": 63, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 56326, "card": "Strike", "hand": ["Defend", "Dual Wield"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 56916, "card": "Rage+", "hand": ["Headbutt", "Pummel", "Pommel Strike", "Reaper"], "floor": 24, "hp": 395, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 57024, "card": "Reaper", "hand": ["Headbutt", "Pommel Strike"], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 57096, "card": "Pommel Strike", "hand": ["Headbutt", "Pommel Strike"], "floor": 24, "hp": 54, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 57530, "card": "Pommel Strike", "hand": ["Strike", "Defend", "Pommel Strike", "Rage+"], "floor": 24, "hp": 54, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 57604, "card": "Strike", "hand": ["Defend", "Doubt", "Pommel Strike"], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 62902, "card": "Rage+", "hand": ["Pommel Strike+", "Master of Strategy", "Thunderclap"], "floor": 29, "hp": 60, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 63004, "card": "Master of Strategy", "hand": ["Pommel Strike+", "Thunderclap"], "floor": 29, "hp": 60, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 63144, "card": "Thunderclap", "hand": ["Pummel", "Exhume", "Strike"], "floor": 29, "hp": 60, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 63236, "card": "Pummel+", "hand": ["Pommel Strike", "Exhume+", "Strike", "Burning Pact"], "floor": 29, "hp": 60, "maxhp": 7, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 63538, "card": "Burning Pact", "hand": ["Pommel Strike", "Exhume+", "Strike", "Pommel Strike"], "floor": 29, "hp": 60, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 63692, "card": "Seeing Red+", "hand": ["Exhume+", "Pommel Strike", "Pummel"], "floor": 29, "hp": -1, "maxhp": -1, "block": 10, "energy": -1, "v2.0": false}
+{"frame": 63758, "card": "Pommel Strike", "hand": ["Exhume+", "Reaper+", "Pommel Strike"], "floor": 29, "hp": 60, "maxhp": 75, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 63870, "card": "Pommel Strike", "hand": ["Exhume+", "Reaper+", "Bash+"], "floor": 29, "hp": 60, "maxhp": 75, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 63972, "card": "Exhume+", "hand": ["Bite", "Reaper", "Ascender's Bane"], "floor": 29, "hp": 60, "maxhp": 75, "block": 20, "energy": -1, "v2.0": false}
+{"frame": 64084, "card": "Seeing Red+", "hand": ["Reaper+", "Bash+", "Rage"], "floor": 29, "hp": 60, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 64344, "card": "Reaper+", "hand": ["Bash+", "Ascender's Bane", "Rage"], "floor": 29, "hp": 60, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 65090, "card": "Strike", "hand": ["Headbutt"], "floor": 29, "hp": 75, "maxhp": 75, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 65190, "card": "Headbutt", "hand": [], "floor": 29, "hp": -1, "maxhp": -1, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 66368, "card": "Pommel Strike", "hand": ["Reaper+", "Strike", "Pommel Strike", "Seeing Red+"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 66452, "card": "Pommel Strike+", "hand": ["Strike", "Pommel Strike", "Seeing Red+", "Reaper+"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 66528, "card": "Rage+", "hand": ["Strike", "Pommel Strike", "Seeing Red+", "Ascender's Bane"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 66624, "card": "Pommel Strike", "hand": ["Strike", "Seeing Red+", "Ascender's Bane"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 66706, "card": "Seeing Red+", "hand": ["Reaper+", "Strike", "Ascender's Bane", "Thunderclap"], "floor": 31, "hp": -1, "maxhp": -1, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 66756, "card": "Thunderclap", "hand": ["Reaper+", "Strike", "Ascender's Bane"], "floor": 31, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 66846, "card": "Strike", "hand": ["Reaper+", "Ascender's Bane"], "floor": 31, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 67466, "card": "Rage", "hand": ["Bash+", "Master of Strategy", "Burn", "Dropkick"], "floor": 31, "hp": 74, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 67608, "card": "Dropkick", "hand": ["Master of Strategy", "Burning Pact"], "floor": 31, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 67696, "card": "Master of Strategy", "hand": ["Strike", "Burning Pact"], "floor": 31, "hp": 74, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 67848, "card": "Rage+", "hand": ["Strike", "Burning Pact", "Exhume+", "Dropkick"], "floor": 31, "hp": 74, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 67868, "card": "Rage+", "hand": [], "floor": 31, "hp": 74, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 68110, "card": "Exhume+", "hand": ["Strike"], "floor": 31, "hp": 74, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 68220, "card": "Seeing Red+", "hand": ["Strike", "Dropkick"], "floor": 31, "hp": 74, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 68330, "card": "Burning Pact", "hand": ["Dropkick"], "floor": 31, "hp": 74, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 68432, "card": "Rage", "hand": ["Strike", "Dropkick"], "floor": 31, "hp": 74, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 68646, "card": "Strike", "hand": ["Headbutt"], "floor": 31, "hp": -1, "maxhp": -1, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 68708, "card": "Headbutt", "hand": [], "floor": 31, "hp": -1, "maxhp": -1, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 69268, "card": "Dual Wield", "hand": ["Reaper+", "Thunderclap", "Pommel Strike"], "floor": 31, "hp": 74, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 69366, "card": "Dropkick", "hand": ["Reaper+", "Thunderclap", "Pommel Strike", "Dropkick"], "floor": 31, "hp": 74, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 69436, "card": "Dropkick", "hand": ["Reaper+", "Thunderclap", "Pommel Strike", "Pommel Strike+"], "floor": 31, "hp": 74, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 69498, "card": "Pommel Strike+", "hand": ["Reaper+", "Thunderclap", "Pommel Strike", "Pommel Strike"], "floor": 31, "hp": 74, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 69560, "card": "Pommel Strike", "hand": [], "floor": 31, "hp": 74, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 72896, "card": "Barricade", "hand": [], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 73292, "card": "Master of Strategy", "hand": ["Bite", "Bash+", "Burning Pact", "Rage"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 73534, "card": "Rage+", "hand": ["Pummel"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 73662, "card": "Bash+", "hand": ["Burning Pact", "Rage", "Pommel Strike", "Dropkick"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 73722, "card": "Dropkick", "hand": ["Burning Pact", "Rage", "Seeing Red+", "Pommel Strike"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 73826, "card": "Pommel Strike+", "hand": ["Burning Pact", "Seeing Red+", "Pommel Strike"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 73918, "card": "Seeing Red+", "hand": ["Rage", "Pummel", "Pommel Strike+"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 73974, "card": "Pommel Strike+", "hand": ["Pommel Strike", "Burning Pact"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 74182, "card": "Burning Pact", "hand": ["Rage", "Pommel Strike", "Ascender's Bane", "Thunderclap", "Strike"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 74274, "card": "Burning Pact", "hand": ["Pommel Strike", "Thunderclap"], "floor": 33, "hp": -1, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 75156, "card": "Rage", "hand": ["Headbutt", "Pommel Strike"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 75278, "card": "Pommel Strike", "hand": ["Headbutt", "Dual Wield", "Burning Pact"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 75594, "card": "Burning Pact", "hand": ["Bash+", "Dual Wield+"], "floor": 33, "hp": -1, "maxhp": -1, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 75868, "card": "Pommel Strike+", "hand": ["Headbutt", "Dual Wield", "Burning Pact"], "floor": 33, "hp": 82, "maxhp": 82, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 76074, "card": "Evolve+", "hand": [], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 76414, "card": "Dropkick", "hand": ["Brutality", "Smite", "Dazed"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 76770, "card": "Headbutt", "hand": ["Strike"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 76908, "card": "Strike", "hand": ["Dual Wield", "Burning Pact"], "floor": 33, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 77348, "card": "Rage+", "hand": ["Thunderclap", "Reaper", "Pommel Strike+"], "floor": 33, "hp": 58, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 78516, "card": "Reaper+", "hand": ["Pommel Strike+", "Pommel Strike+"], "floor": 33, "hp": 58, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 79118, "card": "Rage+", "hand": ["Strike", "Burning Pact", "Burning Pact", "Dual Wield"], "floor": 33, "hp": 55, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79226, "card": "Burning Pact", "hand": ["Strike", "Burning Pact", "Dual Wield"], "floor": 33, "hp": 55, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79840, "card": "Headbutt", "hand": [], "floor": 33, "hp": 55, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 80538, "card": "Rage", "hand": ["Pummel", "Pommel Strike+", "Dropkick", "Burning Pact"], "floor": 33, "hp": 55, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 80630, "card": "Pommel Strike", "hand": ["Pommel Strike", "Dropkick", "Burning Pact"], "floor": 33, "hp": 55, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 80752, "card": "Rage+", "hand": ["Pommel Strike", "Dropkick", "Burning Pact", "Dual Wield"], "floor": 33, "hp": 55, "maxhp": 82, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 80920, "card": "Pommel Strike", "hand": ["Headbutt", "Burning Pact", "Dual Wield"], "floor": 33, "hp": 55, "maxhp": 82, "block": 11, "energy": -1, "v2.0": false}
+{"frame": 80982, "card": "Headbutt", "hand": ["Pommel Strike+", "Burning Pact", "Dual Wield+"], "floor": 33, "hp": 55, "maxhp": 82, "block": 1, "energy": 1, "v2.0": false}
+{"frame": 84508, "card": "Pommel Strike+", "hand": ["Pommel Strike", "Pommel Strike+", "Headbutt", "Dual Wield"], "floor": 35, "hp": 77, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 84630, "card": "Rage+", "hand": ["Pommel Strike", "Pommel Strike+", "Headbutt", "Thunderclap", "Dual Wield"], "floor": 35, "hp": 77, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 84876, "card": "Pommel Strike+", "hand": ["Pommel Strike", "Headbutt", "Thunderclap", "Dual Wield"], "floor": 35, "hp": 77, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 85550, "card": "Headbutt", "hand": ["Thunderclap", "Burning Pact"], "floor": 35, "hp": 77, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 86224, "card": "Master of Strategy", "hand": ["Pommel Strike+", "Seeing Red+", "Reaper+", "Burning Pact"], "floor": 35, "hp": 75, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 86336, "card": "Rage", "hand": ["Fiend Fire"], "floor": 35, "hp": 75, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 86354, "card": "Rage", "hand": ["Fiend Fire", "Pommel Strike+", "Seeing Red+", "Burning Pact"], "floor": 35, "hp": 75, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 86442, "card": "Seeing Red+", "hand": ["Pommel Strike+", "Reaper+", "Bash+", "Fiend Fire"], "floor": 35, "hp": 75, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 86512, "card": "Pommel Strike+", "hand": ["Reaper+", "Bash+", "Fiend Fire", "Burning Pact"], "floor": 35, "hp": 75, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 87060, "card": "Burning Pact", "hand": ["Reaper+", "Bash+", "Fiend Fire", "Dual Wield", "Rage"], "floor": 35, "hp": 75, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 87358, "card": "Rage", "hand": ["Reaper+", "Fiend Fire", "Thunderclap", "Dual Wield"], "floor": 35, "hp": 75, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 87702, "card": "Thunderclap", "hand": ["Reaper+", "Fiend Fire", "Exhume+", "Dual Wield"], "floor": 35, "hp": 75, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 87782, "card": "Reaper+", "hand": ["Fiend Fire", "Dual Wield", "Exhume+"], "floor": 35, "hp": 75, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 88518, "card": "Bite", "hand": [], "floor": 35, "hp": 80, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 88614, "card": "Pommel Strike", "hand": ["Strike", "Strike", "Dropkick", "Burning Pact"], "floor": 35, "hp": 80, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 88816, "card": "Strike", "hand": ["Strike", "Headbutt", "Dropkick", "Burning Pact"], "floor": 35, "hp": 80, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 88954, "card": "Headbutt", "hand": [], "floor": 35, "hp": 80, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 89670, "card": "Pummel+", "hand": ["Exhume+", "Fiend Fire"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 90218, "card": "Thunderclap", "hand": ["Exhume+", "Thunderclap", "Fiend Fire"], "floor": 35, "hp": 80, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 91114, "card": "Pommel Strike+", "hand": ["Strike", "Pommel Strike", "Burning Pact", "Burning Pact"], "floor": 35, "hp": 80, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 91206, "card": "Dropkick", "hand": ["Strike", "Pommel Strike", "Strike", "Burning Pact", "Burning Pact"], "floor": 35, "hp": 80, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 91268, "card": "Pommel Strike", "hand": ["Strike", "Burning Pact", "Burning Pact", "Strike", "Headbutt"], "floor": 35, "hp": 80, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 92552, "card": "Dark Embrace+", "hand": ["Master of Strategy", "Reaper+", "Thunderclap", "Pommel Strike+"], "floor": 37, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92716, "card": "Rage", "hand": ["Reaper+", "Thunderclap", "Pommel Strike+", "Entrench"], "floor": 37, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 92814, "card": "Pommel Strike+", "hand": ["Reaper+", "Thunderclap", "Pommel Strike+", "Ascender's Bane", "Burning Pact"], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 93102, "card": "Pommel Strike+", "hand": ["Reaper+", "Thunderclap", "Exhume+", "Ascender's Bane", "Burning Pact"], "floor": 37, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 93280, "card": "Exhume+", "hand": ["Thunderclap", "Strike"], "floor": 37, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 93468, "card": "Rage+", "hand": ["Thunderclap", "Burning Pact", "Strike"], "floor": 37, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 93636, "card": "Bash+", "hand": ["Thunderclap", "Strike", "Strike", "Reaper+", "Burning Pact"], "floor": 37, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 93686, "card": "Reaper+", "hand": ["Thunderclap", "Strike", "Burning Pact", "Strike"], "floor": 37, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 93852, "card": "Pommel Strike", "hand": ["Thunderclap", "Strike", "Strike", "Burning Pact"], "floor": 37, "hp": 82, "maxhp": 82, "block": 22, "energy": -1, "v2.0": false}
+{"frame": 93960, "card": "Headbutt", "hand": [], "floor": 37, "hp": 82, "maxhp": 82, "block": 30, "energy": 1, "v2.0": false}
+{"frame": 94414, "card": "Pommel Strike+", "hand": [], "floor": 37, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 95836, "card": "Pommel Strike+", "hand": ["Master of Strategy", "Bash+", "Seeing Red+", "Strike"], "floor": 38, "hp": 8, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 95924, "card": "Master of Strategy", "hand": ["Burning Pact", "Strike", "Dropkick"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 96012, "card": "Dark Embrace+", "hand": ["Bash+", "Headbutt", "Seeing Red+", "Strike", "Burning Pact", "Entrench"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 96160, "card": "Seeing Red+", "hand": ["Smite", "Headbutt", "Exhume+", "Bash+", "Dropkick"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 96372, "card": "Burning Pact", "hand": ["Strike", "Exhume+", "Pommel Strike"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 96580, "card": "Exhume+", "hand": ["Headbutt", "Reaper+", "Pommel Strike+", "Bash+"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 96854, "card": "Rage", "hand": ["Headbutt", "Pommel Strike", "Reaper+", "Pommel Strike+", "Burn"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 97118, "card": "Burning Pact", "hand": ["Headbutt", "Pommel Strike", "Reaper+", "Bash+", "Dropkick"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 97610, "card": "Dual Wield", "hand": ["Bash+", "Dropkick", "Headbutt", "Pommel Strike", "Pommel Strike+", "Fiend Fire"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 97854, "card": "Bash+", "hand": ["Headbutt", "Pommel Strike", "Reaper+", "Pommel Strike+", "Fiend Fire", "Dropkick"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 98814, "card": "Burning Pact", "hand": [], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 99104, "card": "Burning Pact", "hand": ["Rage+", "Pommel Strike+", "Dual Wield", "Dual Wield", "Headbutt"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 99190, "card": "Burning Pact", "hand": ["Pommel Strike+", "Ascender's Bane", "Dual Wield"], "floor": 38, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 100320, "card": "Dropkick", "hand": ["Pommel Strike+", "Reaper+", "Pommel Strike", "Dropkick"], "floor": 38, "hp": 56, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 100402, "card": "Dropkick", "hand": ["Pommel Strike+", "Reaper+", "Pommel Strike", "Pommel Strike+", "Rage"], "floor": 38, "hp": 56, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 100506, "card": "Pommel Strike+", "hand": ["Pommel Strike+", "Reaper+", "Pommel Strike", "Bash+", "Rage"], "floor": 38, "hp": 56, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 101084, "card": "Burning Pact", "hand": ["Pommel Strike+", "Reaper+", "Pommel Strike"], "floor": 38, "hp": 56, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 101360, "card": "Pommel Strike+", "hand": ["Pommel Strike", "Rage", "Burning Pact", "Rage+"], "floor": 38, "hp": 56, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 102384, "card": "Pommel Strike+", "hand": ["Pommel Strike", "Dropkick", "Burning Pact", "Dual Wield"], "floor": 38, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 102512, "card": "Rage", "hand": ["Burning Pact", "Pommel Strike", "Bash+", "Dropkick", "Dual Wield"], "floor": 38, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 102708, "card": "Dropkick", "hand": ["Pommel Strike", "Bash+", "Burning Pact", "Dropkick"], "floor": 38, "hp": 56, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 102796, "card": "Dropkick", "hand": ["Pommel Strike", "Pommel Strike+", "Bash+", "Burning Pact"], "floor": 38, "hp": 56, "maxhp": 82, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 102950, "card": "Rage+", "hand": ["Pommel Strike", "Pommel Strike+", "Bash", "Burning Pact"], "floor": 38, "hp": 56, "maxhp": 82, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 103036, "card": "Pommel Strike+", "hand": ["Pommel Strike", "Bash+", "Burning Pact"], "floor": 38, "hp": 56, "maxhp": 82, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 103462, "card": "Dropkick", "hand": ["Bash+", "Pommel Strike", "Pommel Strike+", "Dropkick"], "floor": 38, "hp": 31, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 103548, "card": "Dropkick", "hand": ["Bash+", "Pommel Strike", "Pommel Strike+", "Dropkick"], "floor": 38, "hp": 31, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 103634, "card": "Dropkick", "hand": ["Bash+", "Pommel Strike", "Pommel Strike+", "Dual Wield"], "floor": 38, "hp": 31, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 103748, "card": "Pommel Strike+", "hand": ["Bash", "Pommel Strike", "Pommel Strike+", "Dual Wield"], "floor": 38, "hp": 31, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 104188, "card": "Bash+", "hand": ["Pommel Strike", "Pommel Strike+", "Burning Pact", "Regret"], "floor": 38, "hp": 31, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 104488, "card": "Reaper+", "hand": [], "floor": 38, "hp": 31, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 109978, "card": "Rage", "hand": ["Bash", "Pommel Strike+", "Dropkick", "Ascender's Bane"], "floor": 40, "hp": 56, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 110118, "card": "Dropkick", "hand": ["Pommel Strike+", "Ascender's Bane"], "floor": 40, "hp": 56, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 110296, "card": "Pommel Strike+", "hand": ["Ascender's Bane"], "floor": 40, "hp": 56, "maxhp": 82, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 110400, "card": "Pommel Strike+", "hand": ["Ascender's Bane", "Burning Pact"], "floor": 40, "hp": -1, "maxhp": -1, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 110880, "card": "Dark Embrace+", "hand": [], "floor": 40, "hp": 54, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 110954, "card": "Master of Strategy", "hand": ["Strike", "Fiend Fire", "Dual Wield", "Burning Pact"], "floor": 40, "hp": 54, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 111132, "card": "Burning Pact", "hand": ["Strike"], "floor": 40, "hp": 54, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 111224, "card": "Headbutt", "hand": [], "floor": 40, "hp": 54, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 111532, "card": "Burning Pact", "hand": ["Strike", "Blind", "Dual Wield", "Pummel", "Pommel Strike", "Seeing Red+"], "floor": 40, "hp": 54, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 111854, "card": "Burning Pact", "hand": ["Fiend Fire", "Pommel Strike", "Dual Wield"], "floor": 40, "hp": 54, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 112054, "card": "Dark Embrace+", "hand": ["Fiend Fire", "Pommel Strike", "Rage", "Dual Wield", "Seeing Red+"], "floor": 40, "hp": 54, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 112122, "card": "Rage+", "hand": ["Fiend Fire", "Dual Wield", "Pummel", "Seeing Red+"], "floor": 40, "hp": 54, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 112376, "card": "Pommel Strike", "hand": ["Fiend Fire", "Pommel Strike+", "Dual Wield"], "floor": 40, "hp": 54, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 112462, "card": "Rage+", "hand": ["Fiend Fire", "Pommel Strike+", "Dual Wield"], "floor": 40, "hp": 54, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 112552, "card": "Pommel Strike+", "hand": ["Fiend Fire", "Dual Wield"], "floor": 40, "hp": 54, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 112824, "card": "Headbutt", "hand": ["Fiend Fire", "Reaper"], "floor": 40, "hp": 54, "maxhp": 82, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 113360, "card": "Rage+", "hand": ["Burning Pact", "Pommel Strike+"], "floor": 40, "hp": 52, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 113406, "card": "Evolve", "hand": ["Pommel Strike+", "Thunderclap", "Burning Pact"], "floor": 40, "hp": 52, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 113502, "card": "Rage+", "hand": ["Thunderclap", "Pommel Strike+", "Burning Pact", "Burning Pact"], "floor": 40, "hp": 52, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 113576, "card": "Pommel Strike+", "hand": ["Thunderclap", "Burning Pact"], "floor": 40, "hp": 52, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 113884, "card": "Exhume+", "hand": ["Thunderclap", "Reckless Charge", "Burning Pact"], "floor": 40, "hp": 52, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 114026, "card": "Seeing Red+", "hand": ["Thunderclap", "Bash+", "Burn+", "Burning Pact"], "floor": 40, "hp": 52, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 114166, "card": "Burning Pact", "hand": ["Bash"], "floor": 40, "hp": 52, "maxhp": 82, "block": 5, "energy": 5, "v2.0": false}
+{"frame": 114292, "card": "Burning Pact", "hand": ["Thunderclap", "Burning Pact", "Dropkick"], "floor": 40, "hp": 52, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 114498, "card": "Pommel Strike+", "hand": ["Thunderclap", "Pommel Strike", "Burning Pact", "Dropkick"], "floor": 40, "hp": 52, "maxhp": 82, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 115120, "card": "Rage+", "hand": ["Thunderclap", "Blind", "Pommel Strike", "Rage"], "floor": 40, "hp": 52, "maxhp": 82, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 115980, "card": "Fiend Fire", "hand": ["Thunderclap", "Pommel Strike", "Burning Pact", "Pommel Strike+"], "floor": 40, "hp": 52, "maxhp": 82, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 125250, "card": "Dark Embrace+", "hand": ["Apotheosis", "Pommel Strike+"], "floor": 42, "hp": 48, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 125820, "card": "Pommel Strike+", "hand": ["Apotheosis", "Rage"], "floor": 42, "hp": 48, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 126114, "card": "Apotheosis", "hand": ["Exhume+"], "floor": 42, "hp": 48, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 126210, "card": "Master of Strategy+", "hand": ["Exhume", "Dropkick+"], "floor": 42, "hp": 48, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 126372, "card": "Seeing Red+", "hand": ["Exhume+", "Rage+"], "floor": 42, "hp": 48, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 126450, "card": "Rage+", "hand": ["Exhume", "Pommel Strike+", "Pommel Strike", "Rage+"], "floor": 42, "hp": 48, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 126654, "card": "Exhume+", "hand": ["Pommel Strike", "Strike", "Thunderclap"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 127236, "card": "Thunderclap+", "hand": ["Bash+", "Pummel", "Strike+", "Dual Wield+", "Dropkick+", "Pommel Strike+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 127590, "card": "Dropkick+", "hand": ["Bash+", "Pommel Strike+", "Strike+", "Pommel Strike+"], "floor": 42, "hp": 33, "maxhp": 82, "block": 24, "energy": -1, "v2.0": false}
+{"frame": 127716, "card": "Flash of Steel+", "hand": ["Bash+", "Pommel Strike+", "Strike"], "floor": 42, "hp": -1, "maxhp": -1, "block": 34, "energy": -1, "v2.0": false}
+{"frame": 127860, "card": "Reaper+", "hand": ["Bash+"], "floor": 42, "hp": 48, "maxhp": 82, "block": 44, "energy": -1, "v2.0": false}
+{"frame": 128100, "card": "Reaper+", "hand": ["Bash+", "Pommel Strike+", "Strike", "Fiend Fire+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 128760, "card": "Rage+", "hand": ["Pommel Strike+", "Headbutt+", "Pommel Strike+", "Evolve+"], "floor": 42, "hp": 72, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 128848, "card": "Pommel Strike+", "hand": ["Headbutt+", "Pommel Strike+", "Evolve+"], "floor": 42, "hp": 2, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 129164, "card": "Fiend Fire+", "hand": ["Evolve+", "Headbutt+", "Pommel Strike+", "Dropkick+"], "floor": 42, "hp": 72, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 129396, "card": "Flash of Steel+", "hand": [], "floor": 42, "hp": 72, "maxhp": 82, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 131774, "card": "Dark Embrace+", "hand": ["Master of Strategy", "Flash of Steel", "Dual Wield", "Ascender's Bane"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 131852, "card": "Master of Strategy", "hand": ["Flash of Steel", "Dual Wield", "Ascender's Bane"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 132182, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Exhume+", "Burning Pact", "Flash of Steel"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 132448, "card": "Apotheosis", "hand": ["Pommel Strike+", "Exhume+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 132526, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Exhume+", "Burning Pact+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 132612, "card": "Exhume+", "hand": ["Pommel Strike", "Armaments"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 133034, "card": "Strike+", "hand": ["Pommel Strike", "Burning Pact+", "Dropkick+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 133592, "card": "Seeing Red+", "hand": ["Fiend Fire+", "Reaper+", "Thunderclap+", "Evolve+", "Rage+", "Entrench"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 134094, "card": "Fiend Fire+", "hand": ["Reaper+", "Rage", "Thunderclap+", "Secret Technique+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 134368, "card": "Dark Embrace+", "hand": ["Pommel Strike+", "Headbutt+", "Flash of Steel+", "Pommel Strike+", "Burning Pact+", "Entrench"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 134452, "card": "Burning Pact+", "hand": ["Pommel Strike+", "Pommel Strike+", "Headbutt+", "Flash of Steel+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 134556, "card": "Burning Pact+", "hand": ["Pommel Strike+", "Pommel Strike+", "Flash of Steel+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 134786, "card": "Pommel Strike+", "hand": ["Pommel Strike+", "Flash of Steel+", "Burning Pact+", "Dropkick+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 134994, "card": "Burning Pact+", "hand": ["Flash of Steel+", "Pommel Strike+", "Flash of Steel+", "Bash+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 135260, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Flash of Steel+", "Pommel Strike", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 135380, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 135528, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 135600, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 135660, "card": "Flash of Steel+", "hand": ["Flash of Steel+", "Strike", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 135774, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": -1, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 135842, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 135894, "card": "Flash of Steel+", "hand": ["Pommel Strike"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 135942, "card": "Clash+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 7, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 136024, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 136092, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pummel+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 136150, "card": "Flash of Steel+", "hand": ["Flash of Steel+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 136190, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Rage", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 136332, "card": "Clash+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 7, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 136424, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 136494, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 136566, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 136620, "card": "Flash of Steel+", "hand": ["Pommel Strike+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 136808, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pummel+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 136858, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Dropkick+", "Flash of Steel+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 136900, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 136972, "card": "Clash+", "hand": ["Pommel Strike+", "Pommel Strike+", "Pommel Strike+", "Dropkick+", "Burning Pact+"], "floor": 44, "hp": 78, "maxhp": 82, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 137042, "card": "Clash+", "hand": [], "floor": 44, "hp": 78, "maxhp": 82, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 140748, "card": "Dark Embrace+", "hand": ["Flash of Steel", "Rage+", "Dropkick", "Dual Wield"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 140838, "card": "Dual Wield", "hand": [], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 140934, "card": "Rage+", "hand": ["Flash of Steel", "Dropkick", "Flash of Steel"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 141026, "card": "Flash of Steel", "hand": ["Dropkick", "Flash of Steel"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 141116, "card": "Flash of Steel", "hand": ["Dropkick", "Burning Pact"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 141212, "card": "Burning Pact", "hand": ["Dropkick", "Burning Pact"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 141294, "card": "Burning Pact", "hand": ["Dropkick"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 141410, "card": "Pommel Strike+", "hand": ["Thunderclap", "Headbutt", "Dropkick"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 142026, "card": "Apotheosis", "hand": ["Pommel Strike+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 142226, "card": "Seeing Red+", "hand": ["Pummel", "Exhume+", "Evolve+", "Rage+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 142402, "card": "Evolve+", "hand": ["Anger", "Bash+", "Pommel Strike+", "Exhume+", "Reaper+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 142524, "card": "Bash+", "hand": ["Pommel Strike+", "Exhume+", "Reaper+", "Rage+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 142564, "card": "Exhume+", "hand": ["Reaper"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 142886, "card": "Master of Strategy+", "hand": ["Doubt", "Fiend Fire+", "Pommel Strike+", "Reaper+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 143050, "card": "Dropkick+", "hand": ["Fiend Fire+", "Thunderclap+", "Burning Pact+", "Rage+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 143470, "card": "Fiend Fire+", "hand": ["Thunderclap+", "Reaper+", "Bash+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 143918, "card": "Flash of Steel+", "hand": ["Headbutt+", "Pommel Strike+", "Flash of Steel+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 143984, "card": "Dropkick+", "hand": ["Pommel Strike+", "Strike+", "Headbutt+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 144160, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Flash of Steel+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 8, "energy": -1, "v2.0": false}
+{"frame": 144194, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Strike+", "Headbutt+", "Dark Embrace+"], "floor": 46, "hp": -1, "maxhp": 82, "block": 8, "energy": -1, "v2.0": false}
+{"frame": 144406, "card": "Flash of Steel+", "hand": ["Strike"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 144472, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Strike", "Headbutt+", "Dark Embrace+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 12, "energy": -1, "v2.0": false}
+{"frame": 144682, "card": "Flash of Steel+", "hand": ["Strike", "Pummel", "Rage"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 144768, "card": "Flash of Steel+", "hand": ["Strike", "Pummel+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 144954, "card": "Clash+", "hand": ["Strike"], "floor": 46, "hp": 82, "maxhp": 82, "block": 2, "energy": -1, "v2.0": false}
+{"frame": 145286, "card": "Flash of Steel+", "hand": ["Strike", "Pummel+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 145350, "card": "Flash of Steel+", "hand": ["Strike+", "Headbutt+", "Seeing Red"], "floor": 46, "hp": 82, "maxhp": 82, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 145574, "card": "Flash of Steel+", "hand": ["Strike", "Pummel+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 145636, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Strike+", "Headbutt+", "Dark Embrace+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 28, "energy": -1, "v2.0": false}
+{"frame": 145656, "card": "Flash of Steel+", "hand": ["Strike", "Pommel Strike+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 28, "energy": -1, "v2.0": false}
+{"frame": 145846, "card": "Flash of Steel+", "hand": ["Strike", "Pummel+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 146120, "card": "Flash of Steel+", "hand": ["Strike", "Pummel+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 146224, "card": "Flash of Steel+", "hand": ["Strike", "Pummel+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 36, "energy": 2, "v2.0": false}
+{"frame": 146410, "card": "Flash of Steel+", "hand": ["Strike+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 146488, "card": "Flash of Steel+", "hand": ["Strike"], "floor": 46, "hp": -1, "maxhp": -1, "block": 40, "energy": 2, "v2.0": false}
+{"frame": 146698, "card": "Flash of Steel+", "hand": ["Strike+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 146784, "card": "Flash of Steel+", "hand": ["Strike+", "Pummel+"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 146962, "card": "Clash+", "hand": ["Strike"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 147036, "card": "Flash of Steel+", "hand": ["Strike"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 147244, "card": "Flash of Steel+", "hand": ["Strike"], "floor": 46, "hp": 82, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 147314, "card": "Flash of Steel+", "hand": ["Strike"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 147536, "card": "Flash of Steel+", "hand": ["Strike"], "floor": 46, "hp": 82, "maxhp": 82, "block": 56, "energy": -1, "v2.0": false}
+{"frame": 147590, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Finesse", "Strike", "Headbutt+", "Dark Embrace+"], "floor": 46, "hp": 2, "maxhp": 82, "block": 56, "energy": -1, "v2.0": false}
+{"frame": 147808, "card": "Flash of Steel+", "hand": ["Strike"], "floor": 46, "hp": 2, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 148100, "card": "Flash of Steel+", "hand": ["Strike", "Pummel"], "floor": 46, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 151116, "card": "Dark Embrace+", "hand": ["Seeing Red+", "Headbutt", "Rage", "Dual Wield"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 151452, "card": "Seeing Red+", "hand": ["Headbutt", "Rage", "Dual Wield"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 151588, "card": "Dual Wield", "hand": ["Headbutt"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 151816, "card": "Rage", "hand": ["Headbutt", "Flash of Steel", "Flash of Steel"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 151874, "card": "Rage", "hand": ["Headbutt", "Flash of Steel", "Flash of Steel"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 152062, "card": "Anger+", "hand": [], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 152182, "card": "Flash of Steel", "hand": ["Flash of Steel"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 152238, "card": "Dual Wield", "hand": ["Flash of Steel"], "floor": 48, "hp": 82, "maxhp": 2, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 152286, "card": "Flash of Steel+", "hand": ["Flash of Steel"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 152402, "card": "Flash of Steel", "hand": ["Pommel Strike"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 152496, "card": "Feel No Pain", "hand": ["Pommel Strike"], "floor": 48, "hp": 82, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 152546, "card": "Pommel Strike", "hand": [], "floor": 48, "hp": 82, "maxhp": 82, "block": 16, "energy": -1, "v2.0": false}
+{"frame": 152810, "card": "Master of Strategy", "hand": ["Seeing Red+"], "floor": 48, "hp": 82, "maxhp": 82, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 152908, "card": "Seeing Red+", "hand": ["Fiend Fire", "Dropkick", "Burning Pact"], "floor": 48, "hp": 82, "maxhp": 82, "block": 25, "energy": -1, "v2.0": false}
+{"frame": 153172, "card": "Pommel Strike+", "hand": ["Fiend Fire", "Ascender's Bane", "Dropkick", "Burning Pact"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 153412, "card": "Bash+", "hand": ["Fiend Fire", "Thunderclap", "Ascender's Bane", "Dropkick", "Burning Pact"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 153466, "card": "Disarm", "hand": ["Thunderclap", "Ascender's Bane", "Burning Pact"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 154458, "card": "Thunderclap", "hand": ["Pommel Strike+", "Ascender's Bane", "Burning Pact", "Fiend Fire"], "floor": 48, "hp": 82, "maxhp": 82, "block": 41, "energy": 1, "v2.0": false}
+{"frame": 154986, "card": "Havoc+", "hand": ["Apotheosis"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 155458, "card": "Rage", "hand": ["Apotheosis", "Pommel Strike"], "floor": 48, "hp": 82, "maxhp": 82, "block": 2, "energy": -1, "v2.0": false}
+{"frame": 155586, "card": "Thunderclap", "hand": ["Apotheosis", "Pommel Strike", "Burning Pact", "Dark Embrace"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 155754, "card": "Pommel Strike", "hand": ["Apotheosis", "Burning Pact", "Dark Embrace"], "floor": 48, "hp": -1, "maxhp": -1, "block": 11, "energy": 2, "v2.0": false}
+{"frame": 155886, "card": "Flash of Steel", "hand": ["Apotheosis", "Burning Pact", "Dark Embrace"], "floor": 48, "hp": 82, "maxhp": 82, "block": 19, "energy": -1, "v2.0": false}
+{"frame": 155980, "card": "Dropkick", "hand": ["Apotheosis", "Burning Pact", "Dark Embrace"], "floor": 48, "hp": 82, "maxhp": 82, "block": 31, "energy": -1, "v2.0": false}
+{"frame": 156098, "card": "Flash of Steel", "hand": ["Apotheosis", "Burning Pact", "Dark Embrace"], "floor": 48, "hp": 2, "maxhp": 82, "block": 39, "energy": -1, "v2.0": false}
+{"frame": 156208, "card": "Evolve", "hand": ["Apotheosis", "Burning Pact", "Dark Embrace"], "floor": 48, "hp": 82, "maxhp": 82, "block": 47, "energy": -1, "v2.0": false}
+{"frame": 156312, "card": "Burning Pact", "hand": ["Apotheosis"], "floor": 48, "hp": 82, "maxhp": 82, "block": 47, "energy": 1, "v2.0": false}
+{"frame": 156440, "card": "Pommel Strike+", "hand": ["Pommel Strike+", "Reaper+"], "floor": 48, "hp": 82, "maxhp": 82, "block": 50, "energy": 1, "v2.0": false}
+{"frame": 156518, "card": "Flash of Steel", "hand": ["Pommel Strike+", "Bash+", "Reaper+", "Fiend Fire", "Fiend Fire"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 157172, "card": "Fiend Fire", "hand": ["Dual Wield", "Headbutt", "Rage", "Burning Pact"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 157394, "card": "Flash of Steel+", "hand": ["Reaper", "Pommel Strike+", "Doubt"], "floor": 48, "hp": 82, "maxhp": 82, "block": 15, "energy": -1, "v2.0": false}
+{"frame": 157432, "card": "Flash of Steel+", "hand": [], "floor": 48, "hp": 2, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 158630, "card": "Dark Embrace+", "hand": ["Burning Pact", "Dark Embrace", "Rage+", "Rage+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 158830, "card": "Dark Embrace", "hand": ["Rage+", "Rage", "Burning Pact"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 159332, "card": "Feel No Pain", "hand": ["Evolve", "Exhume+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 159420, "card": "Seeing Red+", "hand": ["Evolve", "Exhume+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 159546, "card": "Master of Strategy", "hand": ["Exhume+", "Evolve"], "floor": 50, "hp": 82, "maxhp": 82, "block": 3, "energy": -1, "v2.0": false}
+{"frame": 159792, "card": "Evolve", "hand": ["Reaper+", "Secret Technique", "Bash+", "Pummel"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 160544, "card": "Pommel Strike+", "hand": ["Exhume+", "Reaper+", "Secret Technique", "Bash+", "Burning Pact"], "floor": 50, "hp": 82, "maxhp": 82, "block": 6, "energy": -1, "v2.0": false}
+{"frame": 160770, "card": "Pommel Strike+", "hand": ["Reaper+", "Secret Weapon", "Bash", "Thunderclap", "Exhume+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 11, "energy": 6, "v2.0": false}
+{"frame": 163174, "card": "Bash+", "hand": ["Thunderclap", "Exhume+", "Reaper+", "Secret Technique", "Burning Pact", "Apotheosis"], "floor": 50, "hp": 82, "maxhp": 82, "block": 16, "energy": 5, "v2.0": false}
+{"frame": 163520, "card": "Thunderclap", "hand": ["Apotheosis", "Exhume+", "Reaper+", "Burning Pact"], "floor": 50, "hp": 82, "maxhp": 82, "block": 25, "energy": 3, "v2.0": false}
+{"frame": 164668, "card": "Flash of Steel+", "hand": ["Fiend Fire", "Headbutt", "Pommel Strike", "Secret Technique", "Flash of Steel"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 164778, "card": "Flash of Steel+", "hand": ["Fiend Fire", "Headbutt", "Pommel Strike", "Secret Technique", "Exhume+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 164918, "card": "Rage+", "hand": ["Fiend Fire", "Headbutt", "Pommel Strike", "Secret Weapon", "Exhume+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 165138, "card": "Fiend Fire", "hand": ["Headbutt", "Pommel Strike", "Burning Pact", "Exhume+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 165768, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Pommel Strike+", "Thunderclap", "Burning Pact", "Rage+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 27, "energy": 1, "v2.0": false}
+{"frame": 166026, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Thunderclap", "Burning Pact", "Dual Wield"], "floor": 50, "hp": 22, "maxhp": 82, "block": 41, "energy": 1, "v2.0": false}
+{"frame": 166088, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Burning Pact", "Rage", "Ritual Dagger", "Dropkick"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 166256, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Thunderclap", "Burning Pact", "Dual Wield"], "floor": 50, "hp": -1, "maxhp": 82, "block": 51, "energy": -1, "v2.0": false}
+{"frame": 166704, "card": "Dropkick+", "hand": ["Pommel Strike+", "Pommel Strike+", "Apotheosis", "Thunderclap", "Burning Pact", "Dual Wield"], "floor": 50, "hp": 82, "maxhp": 82, "block": 60, "energy": 1, "v2.0": false}
+{"frame": 167204, "card": "Apotheosis", "hand": ["Bash+", "Reaper+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 167444, "card": "Reaper+", "hand": ["Thunderclap+", "Pummel", "Pommel Strike+", "Bash+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 168036, "card": "Rage+", "hand": ["Flash of Steel+", "Flash of Steel+", "Dropkick+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 168434, "card": "Flash of Steel+", "hand": ["Dropkick+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 168512, "card": "Pommel Strike+", "hand": ["Dropkick+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 168606, "card": "Bash+", "hand": ["Pommel Strike+", "Dropkick+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 29, "energy": 3, "v2.0": false}
+{"frame": 168814, "card": "Pommel Strike+", "hand": ["Dual Wield+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 49, "energy": 1, "v2.0": false}
+{"frame": 170166, "card": "Sentinel+", "hand": ["Thunderclap+", "Slimed", "Slimed", "Dual Wield+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 170700, "card": "Pommel Strike+", "hand": ["Flash of Steel+", "Slimed", "Bash+", "Shame", "Pommel Strike+"], "floor": 50, "hp": 44, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 170814, "card": "Pommel Strike+", "hand": ["Shame", "Bash+", "Shame", "Flash of Steel+", "Rage+", "Dropkick+"], "floor": 50, "hp": 44, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 170928, "card": "Safety+", "hand": [], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 171762, "card": "Dark Embrace+", "hand": ["Burning Pact", "Evolve", "Dropkick", "Dark Embrace"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 171830, "card": "Evolve", "hand": ["Burning Pact", "Dropkick", "Dark Embrace"], "floor": 51, "hp": 50, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 172600, "card": "Dark Embrace", "hand": ["Burning Pact", "Dropkick"], "floor": 51, "hp": 50, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 173012, "card": "Dropkick", "hand": ["Burning Pact"], "floor": 51, "hp": 50, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 173484, "card": "Pommel Strike+", "hand": ["Pommel Strike"], "floor": 51, "hp": 50, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 173572, "card": "Seeing Red+", "hand": ["Thunderclap", "Pommel Strike"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 173868, "card": "Reaper+", "hand": ["Pommel Strike", "Thunderclap", "Pommel Strike+"], "floor": 51, "hp": 50, "maxhp": 82, "block": 4, "energy": -1, "v2.0": false}
+{"frame": 174252, "card": "Seeing Red+", "hand": ["Master of Strategy", "Secret Weapon", "Pommel Strike", "Thunderclap", "Pommel Strike+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 4, "energy": -1, "v2.0": false}
+{"frame": 174408, "card": "Dual Wield", "hand": [], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 175398, "card": "Fiend Fire", "hand": ["Master of Strategy", "Pommel Strike", "Thunderclap", "Pommel Strike+", "Secret Technique", "Headbutt", "Feel No Pain"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 175938, "card": "Flash of Steel", "hand": ["Burning Pact", "Apotheosis", "Dual Wield", "Bash+", "Pommel Strike+", "Burning Pact"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 176866, "card": "Rage+", "hand": ["Flash of Steel", "Dropkick", "Burn", "Flash of Steel"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 176972, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Burning Pact", "Flash of Steel"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 177038, "card": "Flash of Steel", "hand": ["Bash+", "Pommel Strike+", "Dropkick", "Burning Pact"], "floor": 51, "hp": -1, "maxhp": -1, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 177114, "card": "Burning Pact", "hand": ["Bash+", "Pummel"], "floor": 51, "hp": -1, "maxhp": -1, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 177350, "card": "Burning Pact+", "hand": ["Bash+", "Pommel Strike+", "Strike", "Dropkick", "Burning Pact"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 177510, "card": "Flash of Steel", "hand": ["Pommel Strike+", "Apotheosis", "Flash of Steel", "Bash+", "Dropkick", "Dual Wield"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 177882, "card": "Pommel Strike+", "hand": ["Burning Pact", "Apotheosis", "Bash", "Dropkick", "Rage+", "Burning Pact"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 177978, "card": "Clash", "hand": ["Bash", "Dropkick", "Dual Wield", "Burning Pact"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 178044, "card": "Flash of Steel+", "hand": ["Burning Pact"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 178090, "card": "Flash of Steel+", "hand": ["Bash", "Dropkick", "Dual Wield", "Rage+", "Burning Pact"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 178192, "card": "Pummel", "hand": ["Bash+", "Dropkick", "Dual Wield", "Burning Pact"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 178292, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 178560, "card": "Flash of Steel+", "hand": ["Disarm", "Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 178640, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 2, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 178752, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 178926, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 8, "energy": -1, "v2.0": false}
+{"frame": 179036, "card": "Flash of Steel", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 9, "energy": -1, "v2.0": false}
+{"frame": 179124, "card": "Clash", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 2, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 179226, "card": "Flash of Steel", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 179346, "card": "Flash of Steel+", "hand": ["Evolve", "Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 179430, "card": "Clash+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 179510, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 179620, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 179794, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 143, "energy": -1, "v2.0": false}
+{"frame": 179906, "card": "Flash of Steel+", "hand": ["Pummel", "Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 179990, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 180078, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 180206, "card": "Flash of Steel+", "hand": ["Cleave"], "floor": 51, "hp": 82, "maxhp": 82, "block": 171, "energy": 0, "v2.0": false}
+{"frame": 180300, "card": "Flash of Steel", "hand": ["Pummel", "Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 176, "energy": 0, "v2.0": false}
+{"frame": 180386, "card": "Flash of Steel+", "hand": ["Bash", "Dropkick", "Burning Pact", "Apotheosis", "Dual Wield", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 2, "energy": 0, "v2.0": false}
+{"frame": 180492, "card": "Clash", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 180658, "card": "Flash of Steel+", "hand": ["Bash", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 200, "energy": -1, "v2.0": false}
+{"frame": 180766, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 181046, "card": "Flash of Steel+", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 181148, "card": "Flash of Steel", "hand": ["Bash+", "Dropkick", "Burning Pact", "Apotheosis", "Rage+", "Burning Pact", "Pommel Strike+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 181774, "card": "Apotheosis", "hand": ["Bash"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 181954, "card": "Burning Pact+", "hand": ["Flash of Steel+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 182096, "card": "Burning Pact+", "hand": ["Dual Wield+", "Flash of Steel+", "Dropkick+", "Wound+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 182280, "card": "Rage+", "hand": ["Flash of Steel+", "Dual Wield+", "Flash of Steel+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182370, "card": "Flash of Steel+", "hand": ["Flash of Steel+", "Pommel Strike+", "Dual Wield+", "Burning Pact+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182454, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Dual Wield+", "Dropkick+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182562, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Dual Wield+", "Dropkick+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182674, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Dual Wield+", "Rage+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182756, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Safety", "Dual Wield+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 182954, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Dual Wield+", "Dropkick+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 183054, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Dual Wield+", "Rage+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 43, "energy": -1, "v2.0": false}
+{"frame": 183224, "card": "Flash of Steel+", "hand": ["Burning Pact+", "Pommel Strike+", "Dual Wield+", "Rage+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 48, "energy": 1, "v2.0": false}
+{"frame": 183542, "card": "Burning Pact+", "hand": ["Doubt", "Dropkick+", "Burning Pact+", "Pommel Strike+", "Flash of Steel+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 184204, "card": "Flash of Steel+", "hand": ["Burning Pact+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 184268, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Burning Pact+", "Dropkick+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 184360, "card": "Burning Pact+", "hand": ["Dropkick+", "Pommel Strike+", "Burning Pact+"], "floor": 51, "hp": -1, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 184486, "card": "Burning Pact+", "hand": ["Pommel Strike+", "Burning Pact+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 184646, "card": "Rage+", "hand": ["Pommel Strike+", "Burn+", "Flash of Steel+", "Clash+"], "floor": 51, "hp": 2, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 185034, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Burning Pact+", "Burning Pact+", "Rage+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 44, "energy": -1, "v2.0": false}
+{"frame": 185142, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Burning Pact+", "Burning Pact+", "Rage+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 185650, "card": "Pommel Strike+", "hand": ["Flash of Steel+", "Flash of Steel+", "Burning Pact+", "Rage+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 185716, "card": "Flash of Steel+", "hand": ["Flash of Steel+", "Burning Pact+", "Rage+", "Burning Pact+"], "floor": 51, "hp": 2, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 185782, "card": "Clash+", "hand": ["Pommel Strike+", "Burning Pact+", "Rage+", "Burning Pact+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 185910, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Burning Pact+", "Rage+", "Burning Pact+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 185990, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Burning Pact+", "Rage+", "Burning Pact+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 186068, "card": "Flash of Steel+", "hand": ["Pommel Strike+", "Burning Pact+", "Rage+", "Burning Pact+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 186156, "card": "Flash of Steel+", "hand": ["Safety", "Pommel Strike+", "Burning Pact+", "Burning Pact+"], "floor": 51, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 186250, "card": "Flash of Steel+", "hand": [], "floor": 51, "hp": 82, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+done

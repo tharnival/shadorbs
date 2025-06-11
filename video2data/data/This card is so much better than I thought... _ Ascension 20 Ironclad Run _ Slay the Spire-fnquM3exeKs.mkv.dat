@@ -1,0 +1,631 @@
+{"frame": 772, "card": "Warcry", "hand": ["Strike", "Defend", "Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 954, "card": "Strike", "hand": ["Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 974, "card": "Strike", "hand": ["Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 994, "card": "Strike", "hand": ["Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 1246, "card": "Strike", "hand": ["Defend", "Defend", "Defend", "Ascender's Bane"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 1280, "card": "Defend", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 1312, "card": "Defend", "hand": ["Defend", "Ascender's Bane"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 2004, "card": "Bash", "hand": ["Defend", "Strike", "Strike", "Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2602, "card": "Strike", "hand": ["Strike", "Defend", "Defend", "Strike"], "floor": 1, "hp": 62, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2628, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 1, "hp": 62, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2650, "card": "Strike", "hand": [], "floor": 1, "hp": 62, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5272, "card": "Bash", "hand": ["Strike", "Defend", "Defend", "Defend"], "floor": 3, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5316, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 3, "hp": 68, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5632, "card": "Warcry", "hand": ["Strike", "Strike", "Defend", "Strike"], "floor": 3, "hp": 56, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5894, "card": "Defend", "hand": ["Strike", "Ascender's Bane"], "floor": 3, "hp": 56, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5926, "card": "Strike", "hand": [], "floor": 3, "hp": 56, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5948, "card": "Strike", "hand": ["Ascender's Bane"], "floor": 3, "hp": 56, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 6274, "card": "Strike", "hand": ["Bash"], "floor": 3, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 6294, "card": "Strike", "hand": [], "floor": 3, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 10590, "card": "Defend", "hand": ["Exhume", "Strike", "Defend", "Strike"], "floor": 5, "hp": 58, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10614, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 5, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 10650, "card": "Strike", "hand": ["Exhume", "Strike"], "floor": 5, "hp": 59, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 11110, "card": "Bash", "hand": ["Strike", "Defend", "Thunderclap"], "floor": 5, "hp": 57, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 11166, "card": "Defend", "hand": ["Strike", "Thunderclap", "Ascender's Bane"], "floor": 5, "hp": 57, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 11540, "card": "Wild Strike", "hand": ["Defend", "Warcry", "Strike", "Defend"], "floor": 5, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 11610, "card": "Warcry", "hand": ["Defend", "Strike", "Defend"], "floor": 5, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 12026, "card": "Strike", "hand": ["Defend"], "floor": 5, "hp": 55, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 14014, "card": "Clothesline", "hand": ["Strike", "Wild Strike", "Defend", "Defend"], "floor": 7, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14048, "card": "Wild Strike", "hand": ["Strike", "Defend", "Defend"], "floor": 7, "hp": 59, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 14590, "card": "Defend", "hand": ["Thunderclap", "Defend", "Strike"], "floor": 7, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14660, "card": "Defend", "hand": ["Thunderclap", "Strike", "Wound"], "floor": 7, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 14692, "card": "Strike", "hand": ["Thunderclap", "Wound"], "floor": 7, "hp": 59, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 15440, "card": "Warcry", "hand": ["Bash+", "Exhume", "Strike", "Strike"], "floor": 7, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15630, "card": "Bash+", "hand": ["Exhume", "Strike", "Ascender's Bane"], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15676, "card": "Strike", "hand": ["Exhume", "Ascender's Bane"], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 16198, "card": "Thunderclap", "hand": ["Strike", "Exhume", "Wild Strike", "Bash+"], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16302, "card": "Wild Strike", "hand": ["Strike", "Exhume", "Bash+"], "floor": 7, "hp": 52, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 16350, "card": "Strike", "hand": ["Exhume", "Bash"], "floor": 7, "hp": 52, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 16606, "card": "Strike", "hand": ["Strike", "Defend", "Slimed", "Wound"], "floor": 7, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16642, "card": "Strike", "hand": [], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 21534, "card": "Inflame", "hand": ["Strike", "Strike", "Defend", "Void", "Clothesline"], "floor": 8, "hp": 58, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21662, "card": "Wild Strike", "hand": ["Strike", "Strike", "Defend"], "floor": 8, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 22044, "card": "Strike", "hand": ["Strike", "Exhume", "Ascender's Bane", "Wound"], "floor": 8, "hp": 58, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22074, "card": "Strike", "hand": ["Exhume", "Ascender's Bane", "Wound"], "floor": 8, "hp": 58, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 22856, "card": "Bash+", "hand": ["Defend", "Defend", "Warcry", "Defend", "Bludgeon"], "floor": 8, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 25496, "card": "Bash", "hand": ["Strike", "Strike", "Defend", "Exhume+"], "floor": 12, "hp": 58, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 25572, "card": "Strike", "hand": ["Exhume+", "Strike", "Defend"], "floor": 12, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 25846, "card": "Clothesline", "hand": ["Strike", "Defend", "Thunderclap"], "floor": 12, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26318, "card": "Warcry", "hand": ["Void", "Defend", "Dazed", "Defend"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26556, "card": "Wild Strike", "hand": [], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26782, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26822, "card": "Defend", "hand": ["Defend", "Defend"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 27396, "card": "Bash+", "hand": ["Wild Strike", "Defend", "Thunderclap", "Strike"], "floor": 12, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27456, "card": "Wild Strike", "hand": ["Defend", "Thunderclap", "Strike"], "floor": 12, "hp": 43, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 27804, "card": "Clothesline", "hand": ["Strike", "Exhume+", "Defend"], "floor": 12, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27910, "card": "Strike", "hand": ["Exhume+", "Defend"], "floor": 12, "hp": 43, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 27950, "card": "Exhume+", "hand": [], "floor": 12, "hp": 13, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 30370, "card": "Bash+", "hand": ["Strike", "Exhume+", "Clothesline+", "Defend"], "floor": 14, "hp": 49, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 30412, "card": "Strike", "hand": ["Exhume+", "Defend"], "floor": 14, "hp": 49, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 30718, "card": "Thunderclap", "hand": ["Defend", "Feed", "Defend", "Strike"], "floor": 14, "hp": 49, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 30788, "card": "Strike", "hand": ["Defend", "Feed", "Defend"], "floor": 14, "hp": 459, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 31152, "card": "Feed", "hand": ["Defend", "Defend"], "floor": 14, "hp": 48, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 31452, "card": "Warcry", "hand": ["Defend", "Ascender's Bane"], "floor": 14, "hp": 41, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31728, "card": "Strike", "hand": ["Dazed", "Defend", "Ascender's Bane"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31748, "card": "Wild Strike", "hand": [], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 33366, "card": "Clothesline+", "hand": ["Strike", "Strike", "Defend", "Wild Strike"], "floor": 16, "hp": 72, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 33702, "card": "Strike", "hand": ["Strike", "Defend", "Wild Strike"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 34364, "card": "Thunderclap", "hand": ["Defend", "Bash+", "Defend", "Warcry"], "floor": 16, "hp": 72, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34424, "card": "Bash+", "hand": ["Defend", "Defend", "Warcry"], "floor": 16, "hp": 72, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 35100, "card": "Strike", "hand": ["Exhume+", "Feed", "Ascender's Bane"], "floor": 16, "hp": 42, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 35170, "card": "Feed", "hand": ["Exhume+", "Ascender's Bane"], "floor": 16, "hp": 42, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 35658, "card": "Clothesline+", "hand": ["Defend", "Strike", "Defend", "Defend"], "floor": 16, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35818, "card": "Defend", "hand": ["Strike", "Defend", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 35868, "card": "Defend", "hand": ["Strike", "Defend", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 36154, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 16, "hp": 38, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 36634, "card": "Bash+", "hand": ["Strike", "Defend", "Warcry", "Exhume+", "Burn"], "floor": 16, "hp": 30, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 36840, "card": "Warcry", "hand": ["Strike", "Defend", "Exhume+", "Entrench"], "floor": 16, "hp": 30, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 37070, "card": "Wild Strike", "hand": ["Strike", "Defend", "Strike", "Exhume+"], "floor": 16, "hp": 30, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 38224, "card": "Thunderclap", "hand": ["Strike", "Wound"], "floor": 16, "hp": 26, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38320, "card": "Strike", "hand": ["Burn", "Burn", "Defend", "Bash", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 38422, "card": "Defend", "hand": [], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 39054, "card": "Clothesline+", "hand": ["Strike", "Defend", "Defend", "Wild Strike"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 39324, "card": "Wild Strike", "hand": ["Strike", "Defend", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 40726, "card": "Clothesline+", "hand": ["Strike", "Strike", "Bash+", "Thunderclap", "Exhume+"], "floor": 16, "hp": 11, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 40952, "card": "Clothesline+", "hand": ["Strike", "Strike", "Thunderclap", "Exhume+", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 41138, "card": "Feed", "hand": ["Strike", "Thunderclap", "Strike", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 44876, "card": "Warcry", "hand": ["Strike", "Bash+", "Wild Strike", "Strike"], "floor": 18, "hp": 64, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 45240, "card": "Bash+", "hand": ["Strike", "Strike", "Clothesline+"], "floor": 18, "hp": 64, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 45752, "card": "Evolve+", "hand": ["Wild Strike", "Thunderclap", "Strike"], "floor": 18, "hp": 49, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 45804, "card": "Thunderclap", "hand": ["Wild Strike"], "floor": 18, "hp": 45, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 45880, "card": "Strike", "hand": ["Wild Strike", "Thunderclap"], "floor": 18, "hp": 49, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 45926, "card": "Thunderclap", "hand": ["Wild Strike"], "floor": 18, "hp": 45, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 46014, "card": "Wild Strike", "hand": ["Ascender's Bane"], "floor": 18, "hp": 49, "maxhp": 78, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 47098, "card": "Impervious", "hand": ["Defend", "Wound", "Exhume+", "Defend"], "floor": 18, "hp": 39, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 47152, "card": "Exhume+", "hand": ["Defend", "Feed", "Defend", "Defend"], "floor": 18, "hp": 35, "maxhp": 78, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 47328, "card": "Feed", "hand": ["Defend", "Defend", "Defend", "Warcry", "Wound"], "floor": 18, "hp": 39, "maxhp": 78, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 51324, "card": "Strike", "hand": ["Defend", "Defend", "Impervious", "Exhume+"], "floor": 20, "hp": 48, "maxhp": 81, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 51722, "card": "Thunderclap", "hand": ["Defend", "Strike"], "floor": 20, "hp": 48, "maxhp": 81, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 51776, "card": "Combust", "hand": ["Defend", "Strike", "Feed"], "floor": 20, "hp": 48, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 51826, "card": "Strike", "hand": ["Defend", "Feed"], "floor": 20, "hp": 48, "maxhp": 81, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 52232, "card": "Evolve+", "hand": ["Warcry", "Wild Strike", "Defend", "Bash+"], "floor": 20, "hp": 48, "maxhp": 81, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 52294, "card": "Defend", "hand": ["Warcry", "Wild Strike", "Bash+"], "floor": 20, "hp": 48, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 52442, "card": "Wild Strike", "hand": ["Warcry", "Bash+"], "floor": 20, "hp": 48, "maxhp": 81, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 52484, "card": "Warcry", "hand": ["Bash+", "Bash+"], "floor": 20, "hp": 48, "maxhp": 81, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 53708, "card": "Bash+", "hand": ["Wild Strike", "Defend", "Impervious", "Dazed", "Exhume"], "floor": 20, "hp": 35, "maxhp": 81, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 53802, "card": "Defend", "hand": ["Wild Strike", "Dazed"], "floor": 20, "hp": 35, "maxhp": 81, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 54992, "card": "Feed", "hand": ["Strike", "Strike", "Defend", "Defend", "Dazed", "Defend"], "floor": 20, "hp": 35, "maxhp": 81, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 56546, "card": "Apparition", "hand": ["Wild Strike", "Impervious", "Defend", "Exhume+"], "floor": 22, "hp": 42, "maxhp": 42, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 56644, "card": "Exhume+", "hand": ["Wild Strike", "Impervious", "Defend"], "floor": 22, "hp": 42, "maxhp": 42, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 56686, "card": "Apparition", "hand": ["Wild Strike", "Impervious"], "floor": 22, "hp": 42, "maxhp": 42, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 56720, "card": "Apparition", "hand": ["Wild Strike", "Impervious", "Defend"], "floor": 22, "hp": 42, "maxhp": 42, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 56782, "card": "Wild Strike", "hand": ["Impervious", "Defend"], "floor": 22, "hp": 42, "maxhp": 42, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 57192, "card": "Apparition", "hand": ["Defend", "Defend", "Strike", "Defend"], "floor": 22, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 57226, "card": "Defend", "hand": ["Strike", "Defend"], "floor": 22, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 57318, "card": "Strike", "hand": ["Defend"], "floor": 22, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 57342, "card": "Defend", "hand": [], "floor": 22, "hp": -1, "maxhp": -1, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 57796, "card": "Apparition", "hand": ["Clothesline+", "Strike", "Wound", "Bash+"], "floor": 22, "hp": 43, "maxhp": 42, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 58144, "card": "Seeing Red", "hand": ["Warcry", "Thunderclap", "Feed"], "floor": 22, "hp": 41, "maxhp": 42, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 58266, "card": "Warcry", "hand": ["Feed", "Thunderclap"], "floor": 22, "hp": 41, "maxhp": 42, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 58874, "card": "Evolve+", "hand": ["Ascender's Bane", "Thunderclap"], "floor": 22, "hp": 41, "maxhp": 42, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 58908, "card": "Thunderclap", "hand": [], "floor": 22, "hp": 41, "maxhp": 42, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 59366, "card": "Defend", "hand": ["Feed", "Mind Blast", "Clothesline+", "Defend"], "floor": 22, "hp": 40, "maxhp": 42, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 59450, "card": "Clothesline+", "hand": ["Feed", "Wild Strike", "Defend"], "floor": 22, "hp": 40, "maxhp": 42, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 59516, "card": "Feed", "hand": ["Wild Strike", "Defend"], "floor": 22, "hp": 40, "maxhp": 42, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 60054, "card": "Impervious", "hand": ["Strike", "Strike", "Defend", "Thunderclap", "Bash+"], "floor": 22, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 60182, "card": "Thunderclap", "hand": ["Strike", "Bash+"], "floor": 22, "hp": -1, "maxhp": -1, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 60256, "card": "Strike", "hand": ["Defend", "Wound", "Strike", "Bash"], "floor": 22, "hp": 38, "maxhp": 42, "block": 30, "energy": 1, "v2.0": false}
+{"frame": 60294, "card": "Defend", "hand": ["Wound", "Strike", "Bash+"], "floor": 22, "hp": -1, "maxhp": -1, "block": 30, "energy": 0, "v2.0": false}
+{"frame": 60714, "card": "Bash+", "hand": ["Defend", "Wild Strike", "Defend", "Strike"], "floor": 22, "hp": 38, "maxhp": 42, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 60774, "card": "Wild Strike", "hand": [], "floor": 22, "hp": 38, "maxhp": 42, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 62306, "card": "Clothesline+", "hand": ["Apparition", "Apparition", "Wild Strike"], "floor": 23, "hp": 47, "maxhp": 47, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 62364, "card": "Wild Strike", "hand": ["Apparition", "Apparition"], "floor": 23, "hp": 47, "maxhp": 47, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 63066, "card": "Impervious", "hand": ["Defend", "Ascender's Bane"], "floor": 23, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 63168, "card": "Strike", "hand": ["Defend", "Exhume+", "Ascender's Bane"], "floor": 23, "hp": 47, "maxhp": 47, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 63218, "card": "Defend", "hand": ["Exhume+", "Ascender's Bane"], "floor": 23, "hp": 47, "maxhp": 47, "block": 30, "energy": 1, "v2.0": false}
+{"frame": 63684, "card": "Apparition", "hand": ["Bash+", "Defend", "Defend", "Seeing Red", "Wound"], "floor": 23, "hp": 47, "maxhp": 47, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 63732, "card": "Seeing Red", "hand": ["Feed", "Bash+", "Defend", "Defend", "Wound"], "floor": 23, "hp": 47, "maxhp": 47, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 63850, "card": "Bash+", "hand": ["Feed", "Defend", "Defend", "Wound"], "floor": 23, "hp": 47, "maxhp": 47, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 64100, "card": "Feed", "hand": ["Defend", "Defend", "Wound"], "floor": 23, "hp": 47, "maxhp": 47, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 64150, "card": "Defend", "hand": ["Defend"], "floor": 23, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 64626, "card": "Warcry", "hand": ["Strike", "Thunderclap", "Defend", "Defend"], "floor": 23, "hp": 47, "maxhp": 47, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 65204, "card": "Clothesline+", "hand": ["Strike", "Defend", "Defend"], "floor": 23, "hp": 47, "maxhp": 47, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 65256, "card": "Defend", "hand": ["Strike", "Defend"], "floor": 23, "hp": 47, "maxhp": 47, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 65290, "card": "Defend", "hand": ["Strike"], "floor": 23, "hp": 47, "maxhp": 47, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 66620, "card": "Wild Strike", "hand": ["Defend", "Defend", "Bash+", "Strike", "Thunderclap", "Wound"], "floor": 23, "hp": 32, "maxhp": 47, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 66742, "card": "Strike", "hand": ["Defend", "Defend", "Bash+", "Thunderclap", "Wound", "Wound", "Wound"], "floor": 23, "hp": 32, "maxhp": 47, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 66870, "card": "Exhume+", "hand": [], "floor": 23, "hp": 32, "maxhp": 47, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 67136, "card": "Thunderclap", "hand": ["Dazed", "Defend", "Bash+", "Feed"], "floor": 23, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 68596, "card": "Seeing Red", "hand": ["Apparition", "Thunderclap", "Apparition", "Wild Strike"], "floor": 25, "hp": 50, "maxhp": 50, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 68678, "card": "Apparition", "hand": ["Thunderclap", "Wild Strike", "Apparition"], "floor": 25, "hp": 50, "maxhp": 50, "block": 10, "energy": -1, "v2.0": false}
+{"frame": 68718, "card": "Apparition", "hand": ["Thunderclap"], "floor": 25, "hp": 50, "maxhp": 50, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 68742, "card": "Apparition", "hand": ["Strike"], "floor": 25, "hp": 50, "maxhp": 50, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 68772, "card": "Thunderclap", "hand": ["Wild Strike"], "floor": 25, "hp": 50, "maxhp": 50, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 68804, "card": "Thunderclap", "hand": ["Wild Strike"], "floor": 25, "hp": 50, "maxhp": 50, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 68898, "card": "Wild Strike", "hand": [], "floor": 25, "hp": 50, "maxhp": 50, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 69360, "card": "Feel No Pain", "hand": ["Defend", "Defend", "Exhume+", "Ascender's Bane"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 69588, "card": "Apparition", "hand": ["Defend", "Ascender's Bane", "Defend"], "floor": 25, "hp": 50, "maxhp": 50, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 69658, "card": "Defend", "hand": ["Ascender's Bane", "Defend"], "floor": 25, "hp": 50, "maxhp": 50, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 69714, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 25, "hp": 56, "maxhp": 50, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 70136, "card": "Warcry", "hand": ["Bash+", "Impervious", "Defend", "Strike"], "floor": 25, "hp": 50, "maxhp": 50, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 70464, "card": "Evolve+", "hand": ["Bash+", "Defend", "Strike"], "floor": 25, "hp": 50, "maxhp": 50, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 70942, "card": "Bash+", "hand": ["Defend", "Strike"], "floor": 25, "hp": 50, "maxhp": 50, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 71122, "card": "Strike", "hand": ["Defend"], "floor": 25, "hp": 50, "maxhp": 50, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 71538, "card": "Feed", "hand": ["Impervious", "Defend", "Clothesline+", "Strike"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 71762, "card": "Clothesline+", "hand": ["Impervious", "Defend", "Strike"], "floor": 25, "hp": 53, "maxhp": 53, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 71808, "card": "Strike", "hand": [], "floor": 25, "hp": -1, "maxhp": -1, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 75468, "card": "Feel No Pain", "hand": ["Bash+"], "floor": 28, "hp": 53, "maxhp": 53, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 75520, "card": "Seeing Red", "hand": ["Exhume+", "Defend", "Impervious", "Apparition", "Bash+"], "floor": 28, "hp": 53, "maxhp": 53, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 76152, "card": "Bash+", "hand": ["Exhume+", "Defend", "Impervious"], "floor": 28, "hp": 53, "maxhp": 53, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 76236, "card": "Defend", "hand": ["Exhume+", "Impervious"], "floor": 28, "hp": 53, "maxhp": 53, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 76646, "card": "Strike", "hand": ["Defend", "Defend", "Feed"], "floor": 28, "hp": 53, "maxhp": 53, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 76702, "card": "Feed", "hand": ["Defend", "Defend"], "floor": 28, "hp": 53, "maxhp": 53, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 76806, "card": "Defend", "hand": ["Defend", "Ascender's Bane"], "floor": 28, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 76838, "card": "Defend", "hand": [], "floor": 28, "hp": 56, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 77148, "card": "Thunderclap", "hand": ["Apparition", "Warcry", "Dropkick", "Evolve+"], "floor": 28, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 77202, "card": "Evolve+", "hand": ["Apparition", "Warcry", "Dropkick"], "floor": 28, "hp": 56, "maxhp": 56, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 77242, "card": "Dropkick", "hand": ["Apparition", "Warcry"], "floor": 28, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 77324, "card": "Apparition", "hand": ["Warcry", "Chrysalis"], "floor": 28, "hp": 56, "maxhp": 56, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 77466, "card": "Warcry", "hand": ["Strike"], "floor": 28, "hp": 56, "maxhp": 56, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 77692, "card": "Strike", "hand": [], "floor": 28, "hp": 56, "maxhp": 56, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 77840, "card": "Wild Strike", "hand": [], "floor": 28, "hp": 56, "maxhp": 56, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 78292, "card": "Apparition", "hand": ["Strike", "Clothesline+", "Defend", "Dropkick", "Thunderclap"], "floor": 28, "hp": 56, "maxhp": 56, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 78460, "card": "Defend", "hand": ["Thunderclap", "Clothesline+", "Wound", "Dropkick"], "floor": 28, "hp": 56, "maxhp": 56, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 79038, "card": "Feed", "hand": ["Impervious", "Bash+", "Strike", "Defend"], "floor": 28, "hp": 56, "maxhp": 56, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 79680, "card": "Feel No Pain", "hand": ["Apparition", "Thunderclap", "Apparition", "Warcry"], "floor": 28, "hp": 59, "maxhp": 59, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 79814, "card": "Warcry", "hand": ["Apparition", "Strike", "Thunderclap", "Seeing Red"], "floor": 28, "hp": 59, "maxhp": 59, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 80120, "card": "Seeing Red", "hand": ["Apparition", "Thunderclap", "Apparition"], "floor": 28, "hp": -1, "maxhp": -1, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 80174, "card": "Seeing Red", "hand": ["Apparition", "Thunderclap", "Apparition", "Dropkick"], "floor": 28, "hp": 59, "maxhp": 5, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 80226, "card": "Thunderclap", "hand": ["Apparition", "Apparition", "Dropkick"], "floor": 28, "hp": 59, "maxhp": 59, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 80338, "card": "Dropkick", "hand": ["Apparition", "Apparition"], "floor": 28, "hp": 54, "maxhp": 59, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 80482, "card": "Apparition", "hand": ["Apparition", "Strike"], "floor": 28, "hp": 58, "maxhp": 59, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 80694, "card": "Strike", "hand": [], "floor": 28, "hp": 59, "maxhp": 59, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 81550, "card": "Strike", "hand": ["Exhume+", "Defend", "Feed", "Defend"], "floor": 28, "hp": 59, "maxhp": 5, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 81600, "card": "Exhume+", "hand": ["Defend", "Feed", "Defend"], "floor": 28, "hp": 59, "maxhp": 59, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 81862, "card": "Seeing Red", "hand": ["Defend"], "floor": 28, "hp": 59, "maxhp": 59, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82018, "card": "Feed", "hand": ["Defend", "Defend"], "floor": 28, "hp": 58, "maxhp": 59, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 82064, "card": "Defend", "hand": ["Defend"], "floor": 28, "hp": 62, "maxhp": 62, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 82152, "card": "Defend", "hand": [], "floor": 28, "hp": 62, "maxhp": 62, "block": 1, "energy": 2, "v2.0": false}
+{"frame": 82484, "card": "Wild Strike", "hand": [], "floor": 28, "hp": 62, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 84520, "card": "Bash+", "hand": ["Wild Strike", "Clothesline+", "Apparition", "Apparition", "Strike", "Dropkick"], "floor": 29, "hp": 62, "maxhp": 62, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 84584, "card": "Dropkick", "hand": ["Wild Strike", "Clothesline+", "Apparition", "Apparition", "Strike"], "floor": 29, "hp": 62, "maxhp": 62, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 84794, "card": "Clothesline+", "hand": ["Wild Strike", "Apparition", "Apparition", "Strike", "Strike"], "floor": 29, "hp": 62, "maxhp": 62, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 85288, "card": "Thunderclap", "hand": ["Reckless Charge+"], "floor": 29, "hp": 62, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 85378, "card": "Seeing Red", "hand": ["Impervious", "Defend", "Reckless Charge+"], "floor": 29, "hp": 62, "maxhp": 62, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 85438, "card": "Impervious", "hand": ["Defend"], "floor": 29, "hp": 62, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 85664, "card": "Defend", "hand": ["Reckless Charge+"], "floor": 29, "hp": 62, "maxhp": 62, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 85988, "card": "Evolve+", "hand": ["Defend", "Feel No Pain"], "floor": 29, "hp": 62, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 86040, "card": "Feel No Pain", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 29, "hp": 62, "maxhp": 62, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 86080, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 29, "hp": 62, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 86110, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 29, "hp": 62, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 86612, "card": "Apparition", "hand": ["Defend"], "floor": 29, "hp": 57, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 87004, "card": "Apparition", "hand": ["Warcry", "Defend", "Feed"], "floor": 29, "hp": 57, "maxhp": 62, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 87294, "card": "Warcry", "hand": ["Defend", "Feed"], "floor": 29, "hp": 57, "maxhp": 62, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 87780, "card": "Clothesline+", "hand": ["Defend", "Feed", "Strike", "Defend"], "floor": 29, "hp": 57, "maxhp": 62, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 88202, "card": "Thunderclap", "hand": ["Reckless Charge+", "Wild Strike"], "floor": 29, "hp": 57, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 88416, "card": "Dropkick", "hand": ["Strike", "Wild Strike", "Reckless Charge+"], "floor": 29, "hp": 57, "maxhp": 62, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92458, "card": "Defend", "hand": ["Clothesline+"], "floor": 29, "hp": 51, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 92610, "card": "Defend", "hand": ["Thunderclap", "Strike", "Clothesline+", "Bash+"], "floor": 29, "hp": 51, "maxhp": 62, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 93092, "card": "Feed", "hand": ["Wild Strike", "Defend", "Strike", "Defend", "Wound", "Dropkick"], "floor": 29, "hp": 43, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 95484, "card": "Feel No Pain", "hand": ["Clothesline+", "Apparition", "Thunderclap", "Strike", "Defend"], "floor": 30, "hp": 52, "maxhp": 65, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 95576, "card": "Thunderclap", "hand": ["Clothesline+", "Defend"], "floor": 30, "hp": 52, "maxhp": 65, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 95848, "card": "Clothesline+", "hand": ["Apparition", "Strike", "Defend", "Dropkick"], "floor": 30, "hp": 52, "maxhp": 65, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 95990, "card": "Strike", "hand": ["Dropkick", "Apparition", "Defend", "Defend"], "floor": 30, "hp": 52, "maxhp": 65, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 96516, "card": "Warcry", "hand": ["Void", "Anger", "Feed"], "floor": 30, "hp": 52, "maxhp": 65, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 96930, "card": "Feed", "hand": ["Ascender's Bane", "Seeing Red", "Apparition"], "floor": 30, "hp": 52, "maxhp": 65, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 97130, "card": "Seeing Red", "hand": ["Apparition", "Ascender's Bane"], "floor": 30, "hp": 55, "maxhp": 68, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 97872, "card": "Defend", "hand": ["Defend", "Bash+", "Wild Strike", "Evolve"], "floor": 30, "hp": 55, "maxhp": 68, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 97916, "card": "Defend", "hand": ["Bash+", "Wild Strike", "Evolve+"], "floor": 30, "hp": 55, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 97980, "card": "Wild Strike", "hand": ["Bash+"], "floor": 30, "hp": 55, "maxhp": 68, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 98018, "card": "Evolve+", "hand": ["Bash+"], "floor": 30, "hp": 55, "maxhp": 68, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 98068, "card": "Bash+", "hand": [], "floor": 30, "hp": 55, "maxhp": 68, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 98910, "card": "Reckless Charge+", "hand": ["Impervious", "Defend", "Exhume+", "Strike"], "floor": 30, "hp": 39, "maxhp": 68, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 98980, "card": "Strike", "hand": ["Impervious", "Defend", "Exhume+"], "floor": 30, "hp": 349, "maxhp": 68, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 99012, "card": "Safety", "hand": ["Impervious"], "floor": 30, "hp": 39, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 99130, "card": "Feed", "hand": ["Impervious", "Defend"], "floor": 30, "hp": 39, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 100828, "card": "Warcry", "hand": ["Thunderclap", "Defend", "Apparition", "Bash+"], "floor": 31, "hp": 48, "maxhp": 71, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 101944, "card": "Impervious", "hand": ["Thunderclap", "Defend", "Bash+", "Dropkick"], "floor": 31, "hp": 48, "maxhp": 71, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 102114, "card": "Dropkick", "hand": ["Thunderclap", "Defend", "Bash+"], "floor": 31, "hp": 48, "maxhp": 71, "block": 40, "energy": 1, "v2.0": false}
+{"frame": 102516, "card": "Apparition", "hand": ["Apparition", "Exhume+", "Strike"], "floor": 31, "hp": 48, "maxhp": 71, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 102574, "card": "Apparition", "hand": ["Strike", "Exhume+"], "floor": 31, "hp": 48, "maxhp": 71, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 102752, "card": "Apparition", "hand": ["Feed"], "floor": 31, "hp": 48, "maxhp": 71, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 102808, "card": "Strike", "hand": ["Feed"], "floor": 31, "hp": 48, "maxhp": 71, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 103050, "card": "Feel No Pain", "hand": ["Defend", "Defend", "Apparition", "Reckless Charge+"], "floor": 31, "hp": 48, "maxhp": 71, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 103088, "card": "Apparition", "hand": ["Defend", "Defend"], "floor": 31, "hp": 48, "maxhp": 71, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 103110, "card": "Apparition", "hand": ["Defend", "Defend"], "floor": 31, "hp": 48, "maxhp": 71, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 103206, "card": "Apparition", "hand": ["Defend", "Defend", "Reckless Charge+"], "floor": 31, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 103314, "card": "Reckless Charge+", "hand": ["Defend", "Defend"], "floor": 31, "hp": 48, "maxhp": 71, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 103364, "card": "Defend", "hand": [], "floor": 31, "hp": 48, "maxhp": 7, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 103684, "card": "Seeing Red", "hand": ["Strike", "Clothesline+", "Ascender's Bane", "Wild Strike"], "floor": 31, "hp": 18, "maxhp": 71, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 103862, "card": "Clothesline+", "hand": ["Strike", "Wild Strike", "Ascender's Bane"], "floor": 31, "hp": 48, "maxhp": 71, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 104050, "card": "Wild Strike", "hand": ["Strike", "Ascender's Bane"], "floor": 31, "hp": 18, "maxhp": 71, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 104634, "card": "Feed", "hand": ["Defend", "Strike", "Wild Strike", "Defend", "Defend", "Dazed", "Dropkick"], "floor": 31, "hp": 48, "maxhp": 71, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 106678, "card": "Thunderclap", "hand": ["Apparition", "Defend", "Strike", "Defend", "Dropkick"], "floor": 33, "hp": 74, "maxhp": 74, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 106744, "card": "Dropkick", "hand": ["Apparition", "Defend", "Strike", "Defend"], "floor": 33, "hp": 74, "maxhp": 74, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 106904, "card": "Clothesline+", "hand": ["Apparition", "Defend", "Strike", "Defend", "Ascender's Bane"], "floor": 33, "hp": 74, "maxhp": 74, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 106962, "card": "Strike", "hand": ["Apparition", "Defend", "Defend"], "floor": 33, "hp": 74, "maxhp": 74, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 107634, "card": "Apparition", "hand": ["Defend"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 107652, "card": "Apparition", "hand": ["Safety", "Defend"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 107934, "card": "Defend", "hand": [], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 108024, "card": "Feel No Pain", "hand": [], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 108088, "card": "Bash+", "hand": [], "floor": 33, "hp": 74, "maxhp": 74, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 109204, "card": "Seeing Red", "hand": ["Defend", "Exhume+", "Wild Strike", "Feed"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 109330, "card": "Exhume+", "hand": ["Defend", "Feed", "Wild Strike"], "floor": 33, "hp": 74, "maxhp": 74, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 109598, "card": "Wild Strike", "hand": ["Defend", "Feed", "Apparition"], "floor": 33, "hp": 74, "maxhp": 74, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 109670, "card": "Apparition", "hand": ["Defend", "Feed"], "floor": 33, "hp": 74, "maxhp": 74, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 110156, "card": "Rage+", "hand": [], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 110412, "card": "Defend", "hand": ["Feed"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 110966, "card": "Evolve+", "hand": ["Warcry", "Impervious", "Reckless Charge+"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 111296, "card": "Reckless Charge+", "hand": ["Warcry", "Impervious", "Wound"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 111362, "card": "Warcry", "hand": ["Wound"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 112172, "card": "Clothesline+", "hand": ["Impervious", "Defend", "Strike", "Dazed"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 112466, "card": "Strike", "hand": ["Impervious", "Dazed", "Defend"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 113396, "card": "Reckless Charge+", "hand": ["Defend", "Dropkick", "Dropkick"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 113604, "card": "Dropkick", "hand": ["Defend", "Defend"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 114028, "card": "Defend", "hand": ["Defend", "Feed"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 114070, "card": "Defend", "hand": ["Feed"], "floor": 33, "hp": 74, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 114500, "card": "Bash+", "hand": ["Wild Strike", "Defend", "Defend", "Defend"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 114554, "card": "Dropkick", "hand": ["Wild Strike", "Defend", "Defend", "Defend"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 114880, "card": "Wild Strike", "hand": ["Defend", "Defend", "Defend", "Dropkick"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 114926, "card": "Dropkick", "hand": ["Defend", "Defend", "Defend"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 115086, "card": "Reckless Charge+", "hand": ["Defend", "Defend", "Defend", "Defend"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 115146, "card": "Defend", "hand": ["Defend", "Defend", "Defend"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 115834, "card": "Clothesline+", "hand": ["Impervious", "Strike", "Thunderclap", "Feed", "Defend"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 115878, "card": "Thunderclap", "hand": ["Impervious", "Strike", "Feed", "Defend", "Defend"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 115926, "card": "Thunderclap", "hand": ["Impervious", "Strike", "Feed", "Defend", "Defend", "Wound", "Dazed"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 116012, "card": "Strike", "hand": ["Wound", "Impervious", "Dazed", "Defend", "Defend"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 117084, "card": "Reckless Charge+", "hand": ["Wild Strike", "Bash+", "Defend", "Defend", "Wound"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 117292, "card": "Wild Strike", "hand": ["Bash+", "Defend", "Defend", "Dropkick"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 117384, "card": "Dropkick", "hand": ["Bash+", "Defend", "Defend"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 117504, "card": "Dropkick", "hand": ["Bash", "Defend", "Defend"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 118176, "card": "Bash+", "hand": ["Defend", "Defend", "Defend+", "Strike", "Feed"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 118278, "card": "Strike", "hand": ["Defend", "Wound", "Dazed"], "floor": 33, "hp": 47, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 119136, "card": "Wild Strike", "hand": ["Thunderclap", "Clothesline+", "Impervious"], "floor": 33, "hp": 18, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119410, "card": "Reckless Charge+", "hand": ["Thunderclap", "Clothesline+", "Impervious"], "floor": 33, "hp": 18, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 119474, "card": "Dropkick", "hand": ["Thunderclap", "Clothesline+", "Impervious", "Wound"], "floor": 33, "hp": 18, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 120224, "card": "Clothesline+", "hand": ["Impervious", "Defend", "Wild Strike", "Safety", "Thunderclap"], "floor": 33, "hp": 18, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 125066, "card": "Apparition", "hand": ["Clothesline+", "Impervious", "Dropkick", "Apparition", "Exhume+", "Feed"], "floor": 35, "hp": 62, "maxhp": 74, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 125142, "card": "Apparition", "hand": ["Clothesline+", "Impervious", "Exhume+", "Feed"], "floor": 35, "hp": 62, "maxhp": 74, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 125198, "card": "Exhume+", "hand": ["Clothesline+", "Impervious", "Feed"], "floor": 35, "hp": 62, "maxhp": 74, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 125310, "card": "Apparition", "hand": ["Clothesline+", "Impervious", "Feed"], "floor": 35, "hp": 62, "maxhp": 74, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 125368, "card": "Clothesline+", "hand": ["Impervious", "Dropkick"], "floor": 35, "hp": 62, "maxhp": 74, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 125670, "card": "Reckless Charge+", "hand": ["Thunderclap", "Ascender's Bane", "Burn", "Strike"], "floor": 35, "hp": 62, "maxhp": 74, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 125710, "card": "Thunderclap", "hand": ["Burn", "Strike"], "floor": 35, "hp": 62, "maxhp": 74, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 126230, "card": "Feel No Pain", "hand": ["Offering", "Defend", "Seeing Red", "Bash+"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 126282, "card": "Offering", "hand": ["Safety", "Defend", "Seeing Red", "Entrench"], "floor": 35, "hp": 60, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 126464, "card": "Bash+", "hand": ["Wild Strike", "Warcry", "Defend", "Seeing Red", "Dropkick"], "floor": 35, "hp": 59, "maxhp": 74, "block": 3, "energy": 6, "v2.0": false}
+{"frame": 126516, "card": "Dropkick", "hand": ["Wild Strike", "Warcry", "Defend", "Seeing Red"], "floor": 35, "hp": 58, "maxhp": 74, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 126708, "card": "Apparition", "hand": ["Wild Strike", "Warcry", "Defend", "Seeing Red"], "floor": 35, "hp": 59, "maxhp": 74, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 126754, "card": "Warcry", "hand": [], "floor": 35, "hp": 54, "maxhp": 74, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 127608, "card": "Feed", "hand": ["Defend", "Defend", "Thunderclap", "Defend", "Burn"], "floor": 35, "hp": 594, "maxhp": 74, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 130240, "card": "Bash+", "hand": ["Feed", "Clothesline+", "Wild Strike", "Evolve+", "Dropkick"], "floor": 36, "hp": 68, "maxhp": 77, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 130346, "card": "Dropkick", "hand": ["Feed", "Clothesline+", "Wild Strike", "Evolve+"], "floor": 36, "hp": 68, "maxhp": 77, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 130534, "card": "Feed", "hand": ["Clothesline+", "Wild Strike", "Impervious", "Evolve+", "Ascender's Bane"], "floor": 36, "hp": 68, "maxhp": 77, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 130886, "card": "Wild Strike", "hand": ["Impervious", "Ascender's Bane", "Clothesline+"], "floor": 36, "hp": 71, "maxhp": 80, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 131274, "card": "Apparition", "hand": ["Thunderclap", "Warcry", "Seeing Red", "Wound"], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 131368, "card": "Warcry", "hand": ["Defend", "Thunderclap", "Seeing Red", "Dropkick"], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 131560, "card": "Defend", "hand": ["Thunderclap", "Defend", "Seeing Red", "Dropkick"], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 131618, "card": "Thunderclap", "hand": ["Defend", "Seeing Red", "Dropkick"], "floor": 36, "hp": 71, "maxhp": 80, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 131728, "card": "Dropkick", "hand": ["Defend", "Seeing Red"], "floor": 36, "hp": 71, "maxhp": 80, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 132026, "card": "Defend", "hand": ["Defend", "Wound"], "floor": 36, "hp": 71, "maxhp": 80, "block": 2, "energy": -1, "v2.0": false}
+{"frame": 132060, "card": "Defend", "hand": ["Wound"], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 132390, "card": "Exhume+", "hand": ["Strike", "Reckless Charge+"], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 132430, "card": "Exhume+", "hand": ["Defend", "Apparition", "Strike"], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 132618, "card": "Apparition", "hand": ["Defend", "Smite"], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 133106, "card": "Defend", "hand": ["Strike", "Feed", "Reckless Charge+"], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 133272, "card": "Reckless Charge+", "hand": ["Strike", "Feed"], "floor": 36, "hp": 71, "maxhp": 80, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 133350, "card": "Strike", "hand": [], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 133390, "card": "Feed", "hand": [], "floor": 36, "hp": 71, "maxhp": 80, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 135876, "card": "Bash+", "hand": ["Defend", "Strike", "Feed", "Apparition", "Dropkick", "Ascender's Bane"], "floor": 37, "hp": 80, "maxhp": 83, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 136084, "card": "Feed", "hand": ["Defend", "Strike", "Apparition", "Wild Strike", "Ascender's Bane"], "floor": 37, "hp": 80, "maxhp": 83, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 136252, "card": "Strike", "hand": ["Defend", "Apparition", "Wild Strike", "Ascender's Bane"], "floor": 37, "hp": 83, "maxhp": 86, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 136354, "card": "Wild Strike", "hand": ["Defend", "Apparition"], "floor": 37, "hp": 83, "maxhp": 86, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 136712, "card": "Apparition", "hand": ["Apparition", "Seeing Red", "Reckless Charge+"], "floor": 37, "hp": 83, "maxhp": 86, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 136746, "card": "Apparition", "hand": [], "floor": 37, "hp": 83, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 136812, "card": "Seeing Red", "hand": [], "floor": 37, "hp": 83, "maxhp": 86, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 136912, "card": "Reckless Charge+", "hand": ["Wound"], "floor": 37, "hp": 83, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 137146, "card": "Feel No Pain", "hand": ["Defend", "Defend", "Clothesline+", "Warcry"], "floor": 37, "hp": 82, "maxhp": 86, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 137270, "card": "Warcry", "hand": ["Defend", "Defend", "Clothesline+"], "floor": 37, "hp": 82, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 137544, "card": "Clothesline+", "hand": ["Defend", "Defend"], "floor": 37, "hp": 82, "maxhp": 86, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 138148, "card": "Offering", "hand": ["Impervious", "True Grit", "Dazed", "Dropkick", "Entrench"], "floor": 37, "hp": 82, "maxhp": 86, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 139810, "card": "Defend", "hand": ["Impervious", "True Grit", "Dropkick"], "floor": 37, "hp": 76, "maxhp": 86, "block": 9, "energy": 5, "v2.0": false}
+{"frame": 139882, "card": "Dropkick", "hand": ["Impervious", "True Grit"], "floor": 37, "hp": 76, "maxhp": 86, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 140022, "card": "True Grit", "hand": ["Impervious"], "floor": 37, "hp": 76, "maxhp": 86, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 140596, "card": "Thunderclap", "hand": ["Strike", "Wild Strike", "Defend", "True Grit"], "floor": 37, "hp": 76, "maxhp": 86, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 141062, "card": "Strike", "hand": ["True Grit", "Bash+", "Wild Strike", "Defend", "Dazed"], "floor": 37, "hp": 76, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 141098, "card": "Wild Strike", "hand": ["True Grit", "Bash+", "Defend", "Dazed"], "floor": 37, "hp": 76, "maxhp": 86, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 141170, "card": "Defend", "hand": ["True Grit", "Bash+", "Dazed"], "floor": 37, "hp": 76, "maxhp": 86, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 141198, "card": "True Grit", "hand": ["Dazed", "Bash+"], "floor": 37, "hp": 76, "maxhp": 86, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 141546, "card": "Clothesline+", "hand": [], "floor": 37, "hp": 65, "maxhp": 86, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 145606, "card": "Feel No Pain", "hand": ["Apparition", "Warcry", "Clothesline+", "True Grit", "Impervious"], "floor": 39, "hp": 71, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 145712, "card": "Apparition", "hand": ["Warcry", "Clothesline+", "True Grit", "Impervious", "Dropkick"], "floor": 39, "hp": 71, "maxhp": 82, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 145778, "card": "Warcry", "hand": ["True Grit", "Impervious"], "floor": 39, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 146132, "card": "Clothesline+", "hand": ["True Grit", "Dropkick", "Ascender's Bane"], "floor": 39, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 146594, "card": "Dark Embrace", "hand": ["Impervious", "Apparition", "Reckless Charge+", "Offering"], "floor": 39, "hp": 71, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 146674, "card": "Apparition", "hand": ["Impervious", "Offering", "Reckless Charge+"], "floor": 39, "hp": 71, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 146834, "card": "Reckless Charge+", "hand": ["Impervious", "Offering", "Defend"], "floor": 39, "hp": 71, "maxhp": 82, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 146884, "card": "Offering", "hand": ["Impervious", "Defend", "Safety"], "floor": 39, "hp": 71, "maxhp": 82, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 147084, "card": "Seeing Red", "hand": ["Impervious", "Defend", "Wild Strike", "Defend"], "floor": 39, "hp": 70, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 147334, "card": "Bash+", "hand": ["Impervious", "Defend", "Wild Strike", "Defend"], "floor": 39, "hp": 70, "maxhp": 82, "block": 9, "energy": 5, "v2.0": false}
+{"frame": 147820, "card": "Evolve+", "hand": ["Defend", "Feed", "Thunderclap", "Dropkick"], "floor": 39, "hp": 70, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 147992, "card": "Dropkick", "hand": ["Defend", "Feed", "Thunderclap", "Exhume+"], "floor": 39, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 148116, "card": "Apparition", "hand": ["Defend", "Feed", "Thunderclap", "Exhume+"], "floor": 39, "hp": 70, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 148252, "card": "Thunderclap", "hand": ["Defend", "Feed", "Exhume", "Defend"], "floor": 39, "hp": 70, "maxhp": 82, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 149152, "card": "Reckless Charge+", "hand": ["Strike", "Defend", "Thunderclap", "Wild Strike"], "floor": 39, "hp": 70, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 149360, "card": "Wild Strike", "hand": ["Strike", "Defend", "Thunderclap"], "floor": 39, "hp": 70, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 149546, "card": "Defend", "hand": ["Strike", "Thunderclap"], "floor": 39, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 149888, "card": "Dropkick", "hand": ["Clothesline+", "Exhume+", "Bash+", "Dropkick"], "floor": 39, "hp": 57, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 150058, "card": "Dropkick", "hand": ["Clothesline+", "Exhume+", "Bash+", "Defend", "Impervious"], "floor": 39, "hp": 57, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 150304, "card": "Impervious", "hand": ["Clothesline+", "Exhume+", "Bash+", "Defend", "Defend", "Entrench"], "floor": 39, "hp": 57, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 150592, "card": "Bash+", "hand": ["Clothesline+", "Exhume+", "Defend", "Defend", "Feed", "Wound"], "floor": 39, "hp": 57, "maxhp": 82, "block": 33, "energy": 3, "v2.0": false}
+{"frame": 151346, "card": "Reckless Charge+", "hand": ["Defend", "True Grit", "Defend", "Wild Strike", "Bash+"], "floor": 39, "hp": 56, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 151450, "card": "Wild Strike", "hand": ["Defend", "True Grit", "Defend", "Bash+"], "floor": 39, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 151550, "card": "True Grit", "hand": ["Defend", "Defend", "Bash+", "Dazed"], "floor": 39, "hp": 56, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 152120, "card": "Apparition", "hand": ["Defend", "Bash+", "Defend"], "floor": 39, "hp": 56, "maxhp": 82, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 152478, "card": "Thunderclap", "hand": ["Defend", "Bash+", "Defend", "Entrench"], "floor": 39, "hp": 56, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 153208, "card": "Dropkick", "hand": ["Clothesline+", "Wild Strike", "Defend", "Bash+", "Thunderclap"], "floor": 39, "hp": 56, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 153320, "card": "Dropkick", "hand": ["Cleave", "Clothesline+", "Wild Strike", "Defend", "Bash+", "Thunderclap", "Strike"], "floor": 39, "hp": 56, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 153482, "card": "Wild Strike", "hand": ["Bash+", "Thunderclap", "Strike", "Defend", "True Grit"], "floor": 39, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 153872, "card": "Clothesline+", "hand": ["Defend", "Bash+", "Thunderclap", "Strike", "True Grit"], "floor": 39, "hp": 56, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 154180, "card": "True Grit", "hand": ["Feed", "Defend", "Bash+", "Thunderclap"], "floor": 39, "hp": 56, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 154794, "card": "Flame Barrier", "hand": ["Defend", "Thunderclap", "Strike", "Defend"], "floor": 39, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 154848, "card": "Defend", "hand": ["Feed", "Thunderclap", "Strike", "Defend", "Entrench"], "floor": 39, "hp": 61, "maxhp": 82, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 155340, "card": "Feed", "hand": ["Defend", "Wild Strike", "Clothesline+", "Reckless Charge", "Wound", "Strike"], "floor": 39, "hp": 58, "maxhp": 82, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 162354, "card": "Evolve+", "hand": [], "floor": 42, "hp": 67, "maxhp": 85, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 162450, "card": "Apparition", "hand": ["Offering", "Impervious"], "floor": 42, "hp": 67, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 162562, "card": "Offering", "hand": ["Defend", "Impervious", "Clothesline+", "Defend", "Entrench"], "floor": 42, "hp": 67, "maxhp": 85, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 163168, "card": "Feel No Pain", "hand": ["Defend", "Impervious", "Seeing Red"], "floor": 42, "hp": 66, "maxhp": 85, "block": 10, "energy": 6, "v2.0": false}
+{"frame": 163292, "card": "Evolve+", "hand": ["Defend", "Impervious", "Defend"], "floor": 42, "hp": 66, "maxhp": 85, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 163330, "card": "Warcry", "hand": ["Defend", "Impervious", "Seeing Red"], "floor": 42, "hp": 66, "maxhp": 85, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 163718, "card": "Clothesline+", "hand": ["Defend", "Defend", "Seeing Red", "Dropkick"], "floor": 42, "hp": 66, "maxhp": 85, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 163754, "card": "Seeing Red", "hand": ["Defend", "Defend", "Dropkick"], "floor": 42, "hp": 66, "maxhp": 85, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 163860, "card": "Dropkick", "hand": ["Defend", "Defend"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 163922, "card": "Defend", "hand": ["Defend"], "floor": 42, "hp": 66, "maxhp": 85, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 164526, "card": "Apparition", "hand": ["Impervious", "True Grit", "Dropkick", "Reckless Charge+"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 164734, "card": "Impervious", "hand": ["True Grit", "Dropkick", "Reckless Charge+"], "floor": 42, "hp": 66, "maxhp": 85, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 164836, "card": "Reckless Charge+", "hand": ["True Grit", "Dropkick"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 164942, "card": "True Grit", "hand": [], "floor": 42, "hp": 66, "maxhp": 85, "block": 36, "energy": 1, "v2.0": false}
+{"frame": 165450, "card": "Dark Embrace", "hand": ["Exhume+", "Bash", "Wild Strike", "Defend"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 165584, "card": "Expunger+", "hand": [], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 165808, "card": "Apparition", "hand": ["Bash+", "Wild Strike", "Defend", "Apparition", "Entrench"], "floor": 42, "hp": 66, "maxhp": 85, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 166124, "card": "Apparition", "hand": ["Wild Strike", "Defend", "Bash+", "Blood for Blood"], "floor": 42, "hp": 66, "maxhp": 85, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 166238, "card": "Wild Strike", "hand": ["Defend", "Bash+", "Dazed", "Ascender's Bane", "Feed"], "floor": 42, "hp": 66, "maxhp": 85, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 167146, "card": "Thunderclap", "hand": ["Clothesline+", "True Grit", "Wild Strike"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 167222, "card": "Dropkick", "hand": ["Wild Strike", "Clothesline+", "True Grit", "Defend", "Reckless Charge+"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 167380, "card": "Bash+", "hand": ["Wild Strike", "Clothesline+", "True Grit", "Defend", "Wound"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 167612, "card": "Defend", "hand": ["Wild Strike", "True Grit"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 167736, "card": "Reckless Charge+", "hand": ["Wild Strike", "True Grit", "Wound", "Clothesline+", "Wound"], "floor": 42, "hp": 66, "maxhp": 85, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 168194, "card": "Dropkick", "hand": ["Defend", "Defend", "Feed", "Writhe", "Wound"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 168884, "card": "Bash", "hand": ["Defend", "Defend", "Feed", "Clothesline+", "Blood for Blood"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 168920, "card": "Feed", "hand": ["Defend", "Defend", "Clothesline+", "Blood for Blood", "Dazed"], "floor": 42, "hp": 66, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 172740, "card": "Apparition", "hand": ["Defend", "Apparition", "Apparition", "Offering", "Clothesline+"], "floor": 45, "hp": 75, "maxhp": 88, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 172782, "card": "Offering", "hand": ["Defend", "Apparition", "Clothesline+"], "floor": 45, "hp": 75, "maxhp": 88, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 173050, "card": "Feel No Pain", "hand": ["Apparition", "Apparition", "Clothesline+", "Defend"], "floor": 45, "hp": 74, "maxhp": 88, "block": 10, "energy": 6, "v2.0": false}
+{"frame": 173106, "card": "Dark Embrace", "hand": ["Defend", "Apparition", "Apparition", "Clothesline+", "Blood for Blood"], "floor": 45, "hp": 74, "maxhp": 88, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 173176, "card": "Apparition", "hand": ["Defend", "Apparition", "Clothesline+", "Dropkick", "Blood for Blood"], "floor": 45, "hp": 74, "maxhp": 88, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 173296, "card": "Evolve+", "hand": ["Defend", "Apparition", "Clothesline+", "Dropkick", "Blood for Blood"], "floor": 45, "hp": 74, "maxhp": 88, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 173350, "card": "Apparition", "hand": ["Defend", "Clothesline+", "Dropkick", "Blood for Blood"], "floor": 45, "hp": 74, "maxhp": 88, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 173642, "card": "Havoc", "hand": ["Defend", "Clothesline+", "Dropkick", "Blood for Blood"], "floor": 45, "hp": 74, "maxhp": 88, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 173838, "card": "Clothesline+", "hand": ["Defend", "Injury", "Dropkick", "Blood for Blood"], "floor": 45, "hp": 73, "maxhp": 88, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 174338, "card": "Purity", "hand": ["Blood for Blood"], "floor": 45, "hp": 73, "maxhp": 88, "block": 19, "energy": 0, "v2.0": false}
+{"frame": 174480, "card": "Defend", "hand": ["Dropkick", "Blood for Blood", "True Grit"], "floor": 45, "hp": 72, "maxhp": 88, "block": 22, "energy": 0, "v2.0": false}
+{"frame": 174928, "card": "Bash+", "hand": ["Warcry", "Feed", "Seeing Red"], "floor": 45, "hp": -1, "maxhp": -1, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 174962, "card": "Seeing Red", "hand": ["Warcry", "Feed", "Defend"], "floor": 45, "hp": 72, "maxhp": 88, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 175150, "card": "Warcry", "hand": ["Feed", "Defend", "Defend"], "floor": 45, "hp": 72, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 175442, "card": "Wild Strike", "hand": ["Feed", "Defend", "Defend"], "floor": 45, "hp": 72, "maxhp": 88, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 175490, "card": "Defend", "hand": ["Feed", "Defend"], "floor": 45, "hp": 72, "maxhp": 88, "block": 20, "energy": 3, "v2.0": false}
+{"frame": 175522, "card": "Defend", "hand": ["Feed"], "floor": 45, "hp": 72, "maxhp": 88, "block": 25, "energy": 2, "v2.0": false}
+{"frame": 176070, "card": "Dropkick", "hand": ["Impervious", "Exhume+", "Havoc", "Reckless Charge+", "Blood for Blood"], "floor": 45, "hp": 72, "maxhp": 88, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 176442, "card": "Blood for Blood", "hand": ["Impervious", "Exhume+", "Havoc", "Feed", "Reckless Charge+"], "floor": 45, "hp": 72, "maxhp": 88, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 176592, "card": "Reckless Charge+", "hand": ["Impervious", "Exhume+", "Havoc", "Feed", "Wound"], "floor": 45, "hp": 72, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 176944, "card": "Exhume+", "hand": ["Impervious", "Feed"], "floor": 45, "hp": 72, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 177160, "card": "Offering", "hand": ["Impervious", "Defend"], "floor": 45, "hp": 72, "maxhp": 88, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 177462, "card": "Dropkick", "hand": ["Havoc", "Feed", "Defend", "True Grit", "Clothesline", "Impervious"], "floor": 45, "hp": 71, "maxhp": 88, "block": 6, "energy": 6, "v2.0": false}
+{"frame": 177744, "card": "Havoc", "hand": ["Defend", "True Grit", "Clothesline+", "Wound", "Defend"], "floor": 45, "hp": 71, "maxhp": 88, "block": 6, "energy": 6, "v2.0": false}
+{"frame": 178044, "card": "Wild Strike", "hand": ["Feed", "Defend", "True Grit", "Clothesline+", "Bash+", "Impervious", "Defend"], "floor": 45, "hp": 71, "maxhp": 88, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 178172, "card": "Clothesline+", "hand": ["Feed", "Defend", "True Grit", "Bash", "Pummel", "Impervious", "Dazed"], "floor": 45, "hp": 71, "maxhp": 88, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 178218, "card": "Feed", "hand": ["Defend", "True Grit", "Bash+", "Defend", "Impervious"], "floor": 45, "hp": 71, "maxhp": 88, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 179166, "card": "Feel No Pain", "hand": ["Havoc", "Exhume+", "Apparition", "Ascender's Bane", "Defend"], "floor": 46, "hp": 80, "maxhp": 91, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 179364, "card": "Havoc", "hand": ["Apparition", "Ascender's Bane", "Defend"], "floor": 46, "hp": 80, "maxhp": 91, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 179516, "card": "Apparition", "hand": ["Exhume+", "Ascender's Bane", "Defend"], "floor": 46, "hp": 80, "maxhp": 91, "block": 13, "energy": 5, "v2.0": false}
+{"frame": 179602, "card": "Exhume+", "hand": ["Defend"], "floor": 46, "hp": 80, "maxhp": 91, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 179754, "card": "Apparition", "hand": ["Ascender's Bane"], "floor": 46, "hp": 80, "maxhp": 91, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 179820, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 46, "hp": -1, "maxhp": -1, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 180328, "card": "Dark Embrace", "hand": ["Defend", "Wild Strike", "Defend", "Bash+"], "floor": 46, "hp": 80, "maxhp": 91, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 180418, "card": "Defend", "hand": ["Defend", "Wild Strike", "Bash+"], "floor": 46, "hp": 80, "maxhp": 91, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 180522, "card": "Bash+", "hand": ["Defend", "Wild Strike"], "floor": 46, "hp": 80, "maxhp": 91, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 180580, "card": "Wild Strike", "hand": ["Defend"], "floor": 46, "hp": 80, "maxhp": 91, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 181096, "card": "Dropkick", "hand": ["Injury", "Apparition", "Offering", "Impervious", "Wound"], "floor": 46, "hp": 80, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 181382, "card": "Purity", "hand": ["Apparition", "Impervious", "Blood for Blood"], "floor": 46, "hp": 80, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 181402, "card": "Purity", "hand": ["Apparition", "Offering", "Impervious", "Blood for Blood"], "floor": 46, "hp": 80, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 181420, "card": "Purity", "hand": ["Warcry", "Apparition", "Offering", "Impervious", "Blood for Blood"], "floor": 46, "hp": 80, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 181582, "card": "Purity", "hand": ["Warcry", "Apparition", "Offering", "Impervious", "Blood for Blood"], "floor": 46, "hp": 80, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 181822, "card": "Apparition", "hand": ["Warcry", "Offering", "Impervious", "True Grit"], "floor": 46, "hp": 749, "maxhp": 91, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 182580, "card": "Reckless Charge+", "hand": ["Impervious", "True Grit", "Havoc", "Feed", "Clothesline+", "Apotheosis", "Warcry"], "floor": 46, "hp": 78, "maxhp": 61, "block": 9, "energy": 6, "v2.0": false}
+{"frame": 182810, "card": "Apparition", "hand": ["Impervious", "Havoc"], "floor": 46, "hp": 78, "maxhp": 91, "block": 9, "energy": 6, "v2.0": false}
+{"frame": 183406, "card": "Warcry", "hand": ["True Grit", "Havoc", "Feed", "Clothesline+", "Impervious", "Bash+"], "floor": 46, "hp": 78, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 183770, "card": "Havoc+", "hand": ["True Grit", "True Grit", "Doubt", "Clothesline+", "Bash+", "Impervious", "Dropkick"], "floor": 46, "hp": 78, "maxhp": 91, "block": 15, "energy": 5, "v2.0": false}
+{"frame": 183958, "card": "Dropkick", "hand": ["Blood for Blood", "True Grit", "Feed", "Clothesline+", "Bash+"], "floor": 46, "hp": 78, "maxhp": 91, "block": 23, "energy": 5, "v2.0": false}
+{"frame": 184066, "card": "Dropkick", "hand": ["True Grit", "Feed", "Clothesline+", "Bash+", "Void", "Impervious", "Dazed"], "floor": 46, "hp": 78, "maxhp": 91, "block": 23, "energy": 5, "v2.0": false}
+{"frame": 185290, "card": "Bash+", "hand": ["Blood for Blood", "True Grit", "Feed", "Clothesline+", "Wild Strike", "Impervious", "Havoc"], "floor": 46, "hp": 78, "maxhp": 91, "block": 23, "energy": 5, "v2.0": false}
+{"frame": 185344, "card": "Clothesline+", "hand": ["Impervious", "True Grit", "Feed", "Wild Strike", "Havoc"], "floor": 46, "hp": 78, "maxhp": 91, "block": 23, "energy": 3, "v2.0": false}
+{"frame": 185408, "card": "Wild Strike", "hand": ["True Grit", "Feed", "Havoc", "Wound", "Dazed"], "floor": 46, "hp": 78, "maxhp": 91, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 186334, "card": "Havoc+", "hand": ["Defend", "Defend", "True Grit", "Reckless Charge+", "Wild Strike"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 186630, "card": "Reckless Charge+", "hand": ["Defend", "Defend", "Wild Strike", "True Grit", "Dropkick"], "floor": 46, "hp": 78, "maxhp": 91, "block": 33, "energy": 5, "v2.0": false}
+{"frame": 186738, "card": "Dropkick", "hand": ["Defend", "Defend", "Wild Strike", "True Grit"], "floor": 46, "hp": 78, "maxhp": 91, "block": 33, "energy": 5, "v2.0": false}
+{"frame": 186918, "card": "Dropkick", "hand": ["Defend", "Wild Strike", "True Grit", "Clothesline+", "Wound", "Feed"], "floor": 46, "hp": -1, "maxhp": -1, "block": 33, "energy": 5, "v2.0": false}
+{"frame": 187340, "card": "Clothesline+", "hand": ["Defend", "Wild Strike", "True Grit", "Dazed", "Blood for Blood"], "floor": 46, "hp": 78, "maxhp": 91, "block": 33, "energy": 5, "v2.0": false}
+{"frame": 187720, "card": "Wild Strike", "hand": ["Defend", "True Grit", "Feed", "Defend", "Wound", "Wound"], "floor": 46, "hp": 78, "maxhp": 91, "block": 33, "energy": 3, "v2.0": false}
+{"frame": 188372, "card": "Havoc+", "hand": ["Havoc", "Clothesline+"], "floor": 46, "hp": 78, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 189142, "card": "Reckless Charge+", "hand": ["Clothesline+", "Wild Strike", "Feed", "Wound", "Dropkick", "Wound"], "floor": 46, "hp": -1, "maxhp": -1, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 189544, "card": "True Grit", "hand": ["Clothesline+", "Wild Strike", "Bash", "Blood for Blood"], "floor": 46, "hp": 78, "maxhp": 91, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 190636, "card": "Dropkick", "hand": ["Wild Strike", "Feed", "Havoc", "Clothesline+"], "floor": 46, "hp": 78, "maxhp": 91, "block": 26, "energy": 3, "v2.0": false}
+{"frame": 190896, "card": "Clothesline+", "hand": ["Wild Strike", "Feed", "Havoc", "Havoc", "Wound"], "floor": 46, "hp": 78, "maxhp": 91, "block": 26, "energy": 3, "v2.0": false}
+{"frame": 191816, "card": "Dropkick", "hand": ["True Grit", "Havoc", "Clothesline+", "Bash", "Blood for Blood"], "floor": 46, "hp": 78, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 192052, "card": "Dropkick", "hand": ["Reckless Charge+", "Havoc", "Clothesline+", "Bash+", "True Grit"], "floor": 46, "hp": 78, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 192256, "card": "Havoc+", "hand": ["Havoc", "Clothesline+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 193130, "card": "Dropkick", "hand": ["Clothesline+", "Feed", "Reckless Charge+", "Blood for Blood", "Wound"], "floor": 46, "hp": -1, "maxhp": -1, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 193496, "card": "Blood for Blood", "hand": ["Clothesline+", "Feed", "Reckless Charge+", "Wound", "Wound", "Havoc"], "floor": 46, "hp": 78, "maxhp": 91, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 193736, "card": "Reckless Charge+", "hand": ["Havoc", "Clothesline+", "Feed", "Havoc"], "floor": 46, "hp": 78, "maxhp": 91, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 194026, "card": "Havoc+", "hand": ["Havoc", "Clothesline+", "Feed"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 194400, "card": "Dropkick", "hand": ["Clothesline+", "Feed", "True Grit"], "floor": 46, "hp": 78, "maxhp": 91, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 196482, "card": "Evolve+", "hand": ["Havoc", "Bash+", "Exhume+", "Impervious", "Entrench"], "floor": 47, "hp": 84, "maxhp": 91, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 196548, "card": "Bash+", "hand": ["Havoc+", "Exhume+", "Impervious", "Seeing Red"], "floor": 47, "hp": 84, "maxhp": 91, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 197206, "card": "Havoc+", "hand": ["Exhume+", "Impervious", "Seeing Red", "Defend"], "floor": 47, "hp": 84, "maxhp": 91, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 198254, "card": "Apparition", "hand": ["Mind Blast", "True Grit", "Offering", "Havoc"], "floor": 47, "hp": 84, "maxhp": 91, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 198300, "card": "Offering", "hand": ["Wild Strike", "Havoc", "True Grit"], "floor": 47, "hp": -1, "maxhp": -1, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 198524, "card": "Dark Embrace", "hand": ["Wild Strike", "True Grit", "Havoc", "Ascender's Bane"], "floor": 47, "hp": 83, "maxhp": 91, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 198638, "card": "Dropkick", "hand": [], "floor": 47, "hp": 83, "maxhp": 91, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 198904, "card": "Dropkick", "hand": ["Wild Strike", "True Grit", "Havoc", "Blood for Blood"], "floor": 47, "hp": 82, "maxhp": 91, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 199184, "card": "Wild Strike", "hand": ["True Grit", "Havoc", "Defend", "Blood for Blood"], "floor": 47, "hp": 82, "maxhp": 91, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 199442, "card": "Dropkick", "hand": ["Havoc", "Defend"], "floor": 47, "hp": 82, "maxhp": 91, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 199552, "card": "Feel No Pain", "hand": ["Havoc", "Defend"], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 200680, "card": "Armaments+", "hand": ["Defend", "Feed", "Defend"], "floor": 47, "hp": 81, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 200946, "card": "Reckless Charge+", "hand": ["Apparition+", "Defend+", "Feed+", "Defend+"], "floor": 47, "hp": 81, "maxhp": 91, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 201092, "card": "Apparition+", "hand": ["Defend+", "Feed+", "Defend+"], "floor": 47, "hp": 81, "maxhp": 9, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 201382, "card": "Defend+", "hand": ["Feed+", "Defend+", "Wound"], "floor": 47, "hp": 81, "maxhp": 91, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 201890, "card": "Havoc+", "hand": ["Defend", "Havoc"], "floor": 47, "hp": 81, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 202132, "card": "Dropkick", "hand": ["Defend", "Havoc", "Exhume+", "Dropkick"], "floor": 47, "hp": 81, "maxhp": 91, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 202922, "card": "Clothesline+", "hand": ["Exhume", "Wild Strike", "True Grit", "Dazed", "Impervious"], "floor": 47, "hp": 81, "maxhp": 91, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 202986, "card": "Wild Strike", "hand": ["True Grit", "Defend", "Dazed", "Impervious"], "floor": 47, "hp": 81, "maxhp": 91, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 204142, "card": "Reckless Charge+", "hand": [], "floor": 47, "hp": 81, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 204244, "card": "Dropkick", "hand": ["Defend+", "Defend+", "Bash", "Impervious", "Defend", "True Grit", "Bludgeon", "Burn"], "floor": 47, "hp": 81, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 204352, "card": "Seeing Red", "hand": ["Defend", "Defend+", "Bash+", "Impervious", "Defend", "Writhe", "Burn"], "floor": 47, "hp": 81, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 204576, "card": "Dropkick", "hand": ["Defend", "Defend+", "Bash", "Impervious", "Defend", "True Grit", "Burn", "Wild Strike"], "floor": 47, "hp": 81, "maxhp": 91, "block": 3, "energy": 6, "v2.0": false}
+{"frame": 204692, "card": "Reckless Charge+", "hand": ["Defend+", "Defend", "Bash+", "Impervious", "Defend", "True Grit", "Burn", "Wild Strike"], "floor": 47, "hp": -1, "maxhp": -1, "block": 3, "energy": 6, "v2.0": false}
+{"frame": 205062, "card": "Wild Strike", "hand": ["Defend+", "Defend+", "Bash+", "Impervious", "Defend", "True Grit", "Burn"], "floor": 47, "hp": 81, "maxhp": 91, "block": 3, "energy": 6, "v2.0": false}
+{"frame": 205504, "card": "Impervious", "hand": ["Defend+", "Dazed", "Bash", "True Grit", "Burn", "Wound"], "floor": 47, "hp": 81, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 205928, "card": "Exhume+", "hand": [], "floor": 47, "hp": 81, "maxhp": 91, "block": 36, "energy": 3, "v2.0": false}
+{"frame": 206206, "card": "Bash+", "hand": ["Defend+", "Defend", "Defend", "True Grit", "Offering", "Burn", "Dazed"], "floor": 47, "hp": -1, "maxhp": -1, "block": 39, "energy": 3, "v2.0": false}
+{"frame": 206346, "card": "Offering", "hand": ["Defend+", "Defend+", "Defend", "True Grit", "Entrench"], "floor": 47, "hp": 81, "maxhp": 91, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 207104, "card": "True Grit+", "hand": ["Defend+", "Defend", "Defend+", "Burn", "Dazed"], "floor": 47, "hp": -1, "maxhp": -1, "block": 47, "energy": 2, "v2.0": false}
+{"frame": 208226, "card": "True Grit+", "hand": ["Havoc", "Defend+", "Defend+", "Havoc"], "floor": 47, "hp": 75, "maxhp": 81, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 208794, "card": "Havoc+", "hand": ["Feed", "Defend+", "Havoc", "Defend+", "Bash+"], "floor": 47, "hp": 75, "maxhp": 91, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 209146, "card": "Havoc", "hand": ["Feed", "Defend+", "Bash+", "Defend+"], "floor": 47, "hp": 75, "maxhp": 81, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 209318, "card": "Armaments+", "hand": ["Defend+", "Feed+", "Defend+", "Burn"], "floor": 47, "hp": -1, "maxhp": -1, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 209400, "card": "Bash+", "hand": ["Defend+", "Feed+", "Defend+", "Burn", "Wound"], "floor": 47, "hp": -1, "maxhp": -1, "block": 23, "energy": 3, "v2.0": false}
+{"frame": 210404, "card": "Reckless Charge+", "hand": ["Clothesline+", "Defend+", "Wild Strike", "Dropkick", "Bash+"], "floor": 47, "hp": 75, "maxhp": 51, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 210466, "card": "Dropkick", "hand": ["Defend+", "Wild Strike", "Clothesline+", "Wound"], "floor": 47, "hp": 75, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 210642, "card": "Clothesline+", "hand": [], "floor": 47, "hp": 75, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 212268, "card": "Feel No Pain", "hand": ["Feed", "Impervious", "Reckless Charge+", "Offering", "Demon Form"], "floor": 48, "hp": 81, "maxhp": 91, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 212610, "card": "Bash+", "hand": ["Feed", "Impervious", "Offering"], "floor": 48, "hp": 81, "maxhp": 91, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 212786, "card": "Reckless Charge+", "hand": ["Feed", "Impervious", "Offering"], "floor": 48, "hp": 81, "maxhp": 91, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 212886, "card": "Dropkick", "hand": ["Feed", "Impervious", "Offering"], "floor": 48, "hp": 81, "maxhp": 91, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 213098, "card": "Offering", "hand": ["Feed", "Warcry"], "floor": 48, "hp": 81, "maxhp": 91, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 213446, "card": "Feed", "hand": ["Apparition", "Impervious"], "floor": 48, "hp": 75, "maxhp": 91, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 213844, "card": "Havoc", "hand": ["Apparition"], "floor": 48, "hp": 78, "maxhp": 94, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 214032, "card": "Apparition", "hand": ["Impervious", "Warcry", "Seeing Red"], "floor": 48, "hp": 78, "maxhp": 94, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 214226, "card": "Warcry", "hand": ["Impervious", "Seeing Red"], "floor": 48, "hp": -1, "maxhp": -1, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 214566, "card": "Seeing Red", "hand": ["Defend"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 214700, "card": "Defend", "hand": [], "floor": 48, "hp": -1, "maxhp": -1, "block": 28, "energy": 3, "v2.0": false}
+{"frame": 216026, "card": "Armaments+", "hand": ["Reaper", "Apparition", "True Grit", "Dazed"], "floor": 48, "hp": 78, "maxhp": 94, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 216102, "card": "Apparition+", "hand": ["Impervious+", "True Grit+", "Dazed"], "floor": 48, "hp": 78, "maxhp": 94, "block": 19, "energy": 4, "v2.0": false}
+{"frame": 216924, "card": "Dark Embrace", "hand": ["Ascender's Bane", "Defend", "Clothesline+", "Wild Strike"], "floor": 48, "hp": 78, "maxhp": 94, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 217002, "card": "Clothesline+", "hand": ["Ascender's Bane", "Defend", "Wild Strike"], "floor": 48, "hp": 78, "maxhp": 94, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 217204, "card": "Wild Strike", "hand": ["Ascender's Bane", "Defend"], "floor": 48, "hp": 78, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 217242, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 218112, "card": "Evolve+", "hand": ["Defend", "Injury", "Havoc+", "Blood for Blood"], "floor": 48, "hp": -1, "maxhp": -1, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 218358, "card": "Purity", "hand": ["Defend", "Havoc", "Feed", "Blood for Blood"], "floor": 48, "hp": 78, "maxhp": 94, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 218684, "card": "Armaments+", "hand": ["Havoc+", "Feed", "Clothesline", "Defend+"], "floor": 48, "hp": 77, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 218804, "card": "Feed", "hand": ["Defend+", "Havoc", "Clothesline+", "Blood for Blood+", "Dropkick+"], "floor": 48, "hp": 77, "maxhp": 94, "block": 11, "energy": 3, "v2.0": false}
+{"frame": 218974, "card": "Reckless Charge+", "hand": ["Defend+", "Havoc+", "Clothesline+", "Blood for Blood+", "Dropkick+"], "floor": 48, "hp": 81, "maxhp": 98, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 219096, "card": "Blood for Blood+", "hand": [], "floor": 48, "hp": 81, "maxhp": 98, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 223010, "card": "Armaments+", "hand": ["Blood for Blood", "Feed", "Warcry", "Wild Strike", "Reckless Charge+"], "floor": 50, "hp": 98, "maxhp": 98, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 223092, "card": "Warcry+", "hand": ["True Grit+", "Feed+", "Wild Strike+", "Blood for Blood+", "Reckless Charge+"], "floor": 50, "hp": 98, "maxhp": 98, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 224618, "card": "Bash+", "hand": ["Feed+", "Wild Strike+", "Blood for Blood+", "Reckless Charge+"], "floor": 50, "hp": 98, "maxhp": 98, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 224858, "card": "Wild Strike+", "hand": ["Feed+", "Feel No Pain"], "floor": 50, "hp": 98, "maxhp": 58, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 225006, "card": "Blood for Blood+", "hand": ["Reckless Charge+"], "floor": 50, "hp": 98, "maxhp": 98, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 225784, "card": "Offering", "hand": ["Havoc", "Havoc", "Exhume+"], "floor": 50, "hp": 98, "maxhp": 98, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 226208, "card": "Havoc+", "hand": ["Havoc", "Exhume+", "Defend"], "floor": 50, "hp": 92, "maxhp": 98, "block": 17, "energy": 7, "v2.0": false}
+{"frame": 226364, "card": "Evolve+", "hand": ["True Grit+", "Havoc", "Defend"], "floor": 50, "hp": 92, "maxhp": 98, "block": 17, "energy": 7, "v2.0": false}
+{"frame": 226840, "card": "Apparition", "hand": ["Havoc", "Exhume+", "Clothesline+"], "floor": 50, "hp": 92, "maxhp": 98, "block": 26, "energy": 5, "v2.0": false}
+{"frame": 228180, "card": "Dropkick", "hand": ["Apparition", "Seeing Red"], "floor": 50, "hp": 92, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 228264, "card": "Dropkick", "hand": ["Apparition", "Defend"], "floor": 50, "hp": 92, "maxhp": 98, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 228596, "card": "Apparition", "hand": ["Apparition", "Impervious", "Defend"], "floor": 50, "hp": 92, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 228770, "card": "Apparition", "hand": ["Impervious", "Defend"], "floor": 50, "hp": 92, "maxhp": 98, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 229112, "card": "Seeing Red", "hand": ["Defend", "Impervious", "Injury", "Armaments+"], "floor": 50, "hp": 92, "maxhp": 98, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 229342, "card": "Armaments+", "hand": ["Defend", "Impervious", "Injury", "Dropkick"], "floor": 50, "hp": 92, "maxhp": 98, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 229704, "card": "Wild Strike+", "hand": ["Defend+", "Impervious+", "Injury"], "floor": 50, "hp": 92, "maxhp": 98, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 230122, "card": "Clothesline+", "hand": ["Defend+", "Impervious+"], "floor": 50, "hp": 91, "maxhp": 98, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 231270, "card": "Reckless Charge+", "hand": ["Shame", "Slimed", "True Grit+", "Exhume+", "Havoc"], "floor": 50, "hp": 91, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 231848, "card": "Blood for Blood+", "hand": ["Shame", "Shame", "True Grit+", "Exhume+", "Havoc+", "Reckless Charge"], "floor": 50, "hp": 91, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 232764, "card": "Bash+", "hand": ["Feed+", "Slimed", "Havoc+", "Slimed", "Havoc"], "floor": 50, "hp": 88, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 232926, "card": "Dropkick", "hand": ["Feed+", "Slimed", "Havoc+", "Slimed", "Havoc", "Wound"], "floor": 50, "hp": 88, "maxhp": 98, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 233164, "card": "Havoc+", "hand": ["Feed", "Bash"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 233860, "card": "Havoc+", "hand": ["Feed", "Slimed", "Shame", "Expunger+", "Wound"], "floor": 50, "hp": 88, "maxhp": 98, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 234618, "card": "Slimed", "hand": ["Flex", "Wound", "Exhume+"], "floor": 50, "hp": 88, "maxhp": 98, "block": 54, "energy": 2, "v2.0": false}
+{"frame": 234754, "card": "Reckless Charge", "hand": ["Feed+", "Exhume+", "True Grit", "Dazed"], "floor": 50, "hp": 88, "maxhp": 98, "block": 57, "energy": 1, "v2.0": false}
+{"frame": 234964, "card": "True Grit+", "hand": ["Feed+", "Exhume"], "floor": 50, "hp": 88, "maxhp": 98, "block": 57, "energy": 1, "v2.0": false}
+{"frame": 236226, "card": "True Grit+", "hand": ["Reckless Charge+", "Shame", "Exhume+", "Clothesline+", "Havoc"], "floor": 50, "hp": 88, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 237298, "card": "Bash+", "hand": ["Feed+", "Havoc", "Wild Strike+", "Clothesline+"], "floor": 50, "hp": 88, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 237734, "card": "Havoc+", "hand": ["Slimed", "Feed+", "Wild Strike+", "Clothesline+"], "floor": 50, "hp": 88, "maxhp": 98, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 238320, "card": "Havoc+", "hand": ["Slimed", "Clothesline+"], "floor": 50, "hp": 88, "maxhp": 98, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 239052, "card": "Dropkick+", "hand": ["Feed+", "Clothesline+", "Slimed", "Exhume+", "Dazed", "Slimed"], "floor": 50, "hp": 38, "maxhp": 98, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 239786, "card": "Clothesline+", "hand": ["Feed", "Shame", "Exhume+", "Bash", "Wound"], "floor": 50, "hp": 88, "maxhp": 98, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 240596, "card": "Clothesline+", "hand": ["Slimed+", "Exhume+", "Bash+", "Havoc", "Feed", "Dropkick+"], "floor": 50, "hp": 82, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 240780, "card": "Dropkick+", "hand": ["Slimed", "Exhume+", "Bash+", "Havoc+", "Feed"], "floor": 50, "hp": 82, "maxhp": 98, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 241262, "card": "Havoc+", "hand": ["Slimed+", "Exhume", "Bash", "Evolve", "Shame", "Slimed", "Slimed"], "floor": 50, "hp": 82, "maxhp": 98, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 241950, "card": "Bash+", "hand": ["Slimed", "Exhume+", "Feed+", "Shame", "Slimed", "Shame"], "floor": 50, "hp": 2, "maxhp": 98, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 242042, "card": "Havoc+", "hand": ["Clumsy", "Exhume+", "Feed+", "Shame", "Shame", "Slimed", "Wound", "Dazed"], "floor": 50, "hp": 82, "maxhp": 98, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 242358, "card": "Feed+", "hand": ["Exhume", "Shame", "Shame", "Shame", "Doubt"], "floor": 50, "hp": 82, "maxhp": 98, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 243062, "card": "Evolve+", "hand": ["Apparition", "Impervious", "Havoc", "Wild Strike", "Reckless Charge+", "Dark Embrace", "Entrench"], "floor": 51, "hp": -1, "maxhp": -1, "block": 10, "energy": 5, "v2.0": false}
+{"frame": 243282, "card": "Apparition", "hand": ["Impervious", "Havoc", "Wild Strike", "Reckless Charge+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 243630, "card": "Havoc", "hand": ["Impervious", "Defend", "Whirlwind"], "floor": 51, "hp": -1, "maxhp": -1, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 243856, "card": "Offering", "hand": ["Impervious", "Wild Strike", "Defend", "Entrench"], "floor": 51, "hp": -1, "maxhp": -1, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 244134, "card": "Apparition", "hand": ["Impervious", "Wild Strike", "Defend", "Combust", "Ascender's Bane", "Reckless Charge+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 244874, "card": "Clothesline+", "hand": ["Impervious", "Wild Strike", "Defend", "True Grit", "Reckless Charge+", "Blood for Blood"], "floor": 51, "hp": 100, "maxhp": 1, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 245184, "card": "Wild Strike", "hand": ["Impervious", "Defend", "True Grit", "Dropkick"], "floor": 51, "hp": 100, "maxhp": 1, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 245252, "card": "Reckless Charge+", "hand": ["Impervious", "Defend", "Dropkick", "Blood for Blood", "True Grit"], "floor": 51, "hp": 100, "maxhp": 1, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 246192, "card": "Bash+", "hand": ["Exhume+", "Defend+", "Warcry+", "Feed+", "Wound"], "floor": 51, "hp": 100, "maxhp": 1, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 246256, "card": "Flash of Steel", "hand": [], "floor": 51, "hp": 100, "maxhp": 1, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 246400, "card": "Warcry+", "hand": ["Exhume+", "Defend+", "Feed+", "Wound", "Entrench"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 246580, "card": "Defend+", "hand": [], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 246934, "card": "Reckless Charge", "hand": [], "floor": 51, "hp": 100, "maxhp": 1, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 247002, "card": "Trip", "hand": ["Exhume+", "Feed", "Havoc", "Defend+", "Wound", "Entrench"], "floor": 51, "hp": 100, "maxhp": 1, "block": 2, "energy": 1, "v2.0": false}
+{"frame": 247484, "card": "Dropkick", "hand": ["Exhume+", "Feed+", "Defend+", "Wound", "Reckless Charge"], "floor": 51, "hp": 99, "maxhp": 10, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 247532, "card": "Reckless Charge", "hand": ["Exhume+", "Feed+", "Defend+", "Wound"], "floor": 51, "hp": 96, "maxhp": 10, "block": 31, "energy": 2, "v2.0": false}
+{"frame": 247576, "card": "Defend+", "hand": ["Exhume+", "Feed+", "Wound"], "floor": 51, "hp": 99, "maxhp": 10, "block": 31, "energy": 2, "v2.0": false}
+{"frame": 248094, "card": "Dropkick", "hand": [], "floor": 51, "hp": 99, "maxhp": 10, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 248320, "card": "Havoc+", "hand": ["Clothesline+", "Wild Strike", "Bash+", "Rage"], "floor": 51, "hp": 89, "maxhp": 10, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 248656, "card": "Bash", "hand": ["Feed+", "Wild Strike", "Dazed", "Sword Boomerang"], "floor": 51, "hp": -1, "maxhp": -1, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 249010, "card": "Reckless Charge", "hand": ["Feed+", "Wild Strike", "Dazed", "Dazed", "Blood for Blood", "Wound"], "floor": 51, "hp": 99, "maxhp": 10, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 249418, "card": "Blood for Blood", "hand": ["Feed+", "Wild Strike", "Dazed", "Dazed", "Wound"], "floor": 51, "hp": 99, "maxhp": 10, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 250070, "card": "Armaments+", "hand": ["True Grit", "Exhume+", "Impervious", "Havoc", "Dropkick", "Dropkick", "Entrench"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 250560, "card": "Havoc+", "hand": ["Exhume", "Defend", "Wound"], "floor": 51, "hp": 99, "maxhp": 10, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 250994, "card": "True Grit+", "hand": ["Defend", "Feed", "Impervious+", "Havoc+"], "floor": 51, "hp": 99, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 251668, "card": "Havoc+", "hand": ["Impervious+", "Feed+", "Armaments"], "floor": 51, "hp": 99, "maxhp": 10, "block": 22, "energy": 3, "v2.0": false}
+{"frame": 252584, "card": "Reckless Charge", "hand": [], "floor": 51, "hp": 103, "maxhp": 10, "block": 74, "energy": 0, "v2.0": false}
+{"frame": 252678, "card": "Reckless Charge+", "hand": ["Exhume", "Wound", "Bash"], "floor": 51, "hp": -1, "maxhp": -1, "block": 74, "energy": 0, "v2.0": false}
+{"frame": 253858, "card": "Clothesline+", "hand": ["True Grit+", "Bash", "Cleave", "Reckless Charge", "Dropkick+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 254084, "card": "Bash+", "hand": ["Reckless Charge", "True Grit+", "Havoc", "Dropkick+", "Reckless Charge+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 254680, "card": "True Grit+", "hand": ["Feed"], "floor": 51, "hp": -1, "maxhp": -1, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 254706, "card": "True Grit+", "hand": ["Feed+", "Havoc+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 254808, "card": "Reckless Charge+", "hand": ["True Grit+", "Feed+", "Blood for Blood", "Dropkick+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 254892, "card": "Reckless Charge", "hand": ["True Grit+", "Feed", "Havoc", "Dropkick+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 255428, "card": "Havoc+", "hand": ["Dropkick", "Feed+", "Wound", "Dazed"], "floor": 51, "hp": 103, "maxhp": 10, "block": 17, "energy": 0, "v2.0": false}
+{"frame": 255762, "card": "Reckless Charge", "hand": ["Dropkick+", "Dropkick+", "Feed+", "Wound", "Dazed"], "floor": 51, "hp": 103, "maxhp": 10, "block": 21, "energy": 0, "v2.0": false}
+{"frame": 256626, "card": "Reckless Charge+", "hand": ["Havoc", "True Grit", "Clothesline+", "Havoc+", "Dropkick+"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 256882, "card": "True Grit+", "hand": ["Havoc", "Clothesline+", "Havoc", "Armaments+"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 257220, "card": "Havoc+", "hand": ["Havoc", "Clothesline+", "Feed", "Dropkick+"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 257500, "card": "Reckless Charge", "hand": ["Havoc", "Clothesline+", "Feed", "Dropkick+", "Dropkick+", "Dazed"], "floor": 51, "hp": 100, "maxhp": 1, "block": 17, "energy": 4, "v2.0": false}
+{"frame": 257572, "card": "Clothesline+", "hand": ["Havoc", "Feed"], "floor": 51, "hp": 100, "maxhp": 1, "block": 17, "energy": 4, "v2.0": false}
+{"frame": 258538, "card": "Reckless Charge", "hand": ["True Grit+", "Feed", "Havoc", "Apotheosis", "Wound"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 258624, "card": "Reckless Charge+", "hand": ["True Grit+", "Feed+", "Havoc", "Clothesline+", "Wound"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 258890, "card": "Clothesline+", "hand": ["True Grit+", "Feed+", "Havoc", "Wound", "Dazed", "Dropkick+"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 259242, "card": "Havoc+", "hand": ["True Grit+", "Feed+", "Dropkick", "Dropkick+"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 259796, "card": "Reckless Charge+", "hand": ["True Grit+", "Feed", "Wound", "Dropkick+", "Dropkick+", "Dazed"], "floor": 51, "hp": 100, "maxhp": 1, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 259916, "card": "Reckless Charge", "hand": ["True Grit+", "Feed+", "Dazed", "Wound", "Dropkick+", "Dropkick+"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 260136, "card": "True Grit+", "hand": ["Dazed", "Feed", "Dropkick+", "Dazed"], "floor": 51, "hp": 10, "maxhp": 1, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 260678, "card": "Dropkick+", "hand": ["Feed+", "Wound", "Wound", "Dazed", "Clothesline+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 261238, "card": "Reckless Charge+", "hand": ["Havoc", "True Grit+", "Clothesline+", "Reckless Charge", "Feed"], "floor": 51, "hp": 100, "maxhp": 1, "block": 0, "energy": 5, "v2.0": false}
+done

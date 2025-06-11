@@ -1,0 +1,560 @@
+{"frame": 1514, "card": "Defend", "hand": ["Strike", "Defend"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 1850, "card": "Bash", "hand": ["Defend", "Strike", "Strike", "Ascender's Bane"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2180, "card": "Defend", "hand": ["Strike", "Defend", "Strike"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 2540, "card": "Bash", "hand": ["Strike", "Defend", "Defend", "Strike"], "floor": 1, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2568, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 1, "hp": 48, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 2864, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 1, "hp": 48, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 2894, "card": "Strike", "hand": [], "floor": 1, "hp": 48, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 5286, "card": "Bash", "hand": ["Strike", "Defend", "Defend", "Ascender's Bane"], "floor": 4, "hp": 54, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5316, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 4, "hp": 54, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5896, "card": "Headbutt", "hand": ["Defend", "Strike", "Defend"], "floor": 4, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 5990, "card": "Strike", "hand": ["Defend", "Strike"], "floor": 4, "hp": 54, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 6268, "card": "Bash", "hand": ["Defend", "Strike"], "floor": 4, "hp": 53, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 6294, "card": "Strike", "hand": [], "floor": 4, "hp": 53, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 7298, "card": "Bash", "hand": ["Anger", "Defend", "Strike", "Headbutt"], "floor": 5, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 7328, "card": "Anger", "hand": ["Defend", "Strike"], "floor": 5, "hp": 59, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 7368, "card": "Headbutt", "hand": ["Defend", "Strike"], "floor": 5, "hp": 54, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 7636, "card": "Anger", "hand": ["Defend", "Defend", "Strike"], "floor": 5, "hp": 5, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 7704, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 5, "hp": 54, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 7722, "card": "Defend", "hand": [], "floor": 5, "hp": 54, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 8020, "card": "Strike", "hand": ["Strike", "Bash", "Defend", "Headbutt"], "floor": 5, "hp": 59, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 8040, "card": "Strike", "hand": [], "floor": 5, "hp": 59, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 10582, "card": "Anger+", "hand": ["Defend", "Headbutt", "Strike", "Defend"], "floor": 7, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 10622, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 7, "hp": 65, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 10654, "card": "Headbutt", "hand": ["Defend", "Defend"], "floor": 7, "hp": 65, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 11126, "card": "Anger+", "hand": ["Defend", "Strike", "Headbutt", "Ascender's Bane"], "floor": 7, "hp": 65, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 11178, "card": "Strike", "hand": ["Defend", "Headbutt", "Ascender's Bane"], "floor": 7, "hp": 65, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 11210, "card": "Headbutt", "hand": [], "floor": 7, "hp": 65, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 13764, "card": "Shockwave+", "hand": ["Strike", "Bash", "Defend"], "floor": 10, "hp": 71, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 14186, "card": "Anger+", "hand": ["Strike", "Bash", "Defend", "Headbutt"], "floor": 10, "hp": 71, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14272, "card": "Bash", "hand": ["Strike"], "floor": 10, "hp": 71, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14302, "card": "Headbutt", "hand": ["Strike", "Defend"], "floor": 10, "hp": 71, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 14582, "card": "Anger+", "hand": ["Defend", "Defend", "Strike", "Strike"], "floor": 10, "hp": 71, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 14724, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 10, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 15164, "card": "Anger+", "hand": ["Headbutt", "Bash", "Strike", "Defend"], "floor": 10, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 15526, "card": "Bash", "hand": ["Headbutt", "Strike"], "floor": 10, "hp": 665, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 15744, "card": "Anger+", "hand": ["Strike", "Defend", "Strike", "Defend"], "floor": 10, "hp": 56, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15786, "card": "Strike", "hand": ["Defend", "Strike", "Defend"], "floor": 10, "hp": 56, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15806, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 10, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 16098, "card": "Anger+", "hand": ["Defend", "Headbutt", "Defend", "Bash"], "floor": 10, "hp": 56, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 16136, "card": "Headbutt", "hand": [], "floor": 10, "hp": 56, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 22870, "card": "Rampage", "hand": ["Anger+", "Defend", "Defend", "Burning Pact"], "floor": 12, "hp": 62, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 22974, "card": "Burning Pact", "hand": ["Anger+", "Defend", "Defend"], "floor": 12, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 23044, "card": "Burning Pact", "hand": ["Anger+", "Defend"], "floor": 12, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 23138, "card": "Anger+", "hand": ["Defend", "Headbutt"], "floor": 12, "hp": 62, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 23194, "card": "Headbutt", "hand": ["Ascender's Bane"], "floor": 12, "hp": 62, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 23920, "card": "Rampage", "hand": ["Bash", "Strike", "Dazed", "Burning Pact"], "floor": 12, "hp": 52, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 23974, "card": "Strike", "hand": ["Bash", "Burning Pact", "Dazed"], "floor": 12, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 24150, "card": "Burning Pact", "hand": ["Bash"], "floor": 12, "hp": 52, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 24624, "card": "Anger+", "hand": ["Defend", "Headbutt", "Anger+", "Dazed"], "floor": 12, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 24668, "card": "Safety", "hand": ["Defend", "Headbutt"], "floor": 12, "hp": 42, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 24822, "card": "Defend", "hand": ["Dazed"], "floor": 12, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 25148, "card": "Shockwave+", "hand": ["Defend", "Rampage+", "Dazed"], "floor": 12, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 25676, "card": "Anger+", "hand": ["Headbutt", "Dazed", "Dazed", "Dazed"], "floor": 12, "hp": 37, "maxhp": 75, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 25718, "card": "Headbutt", "hand": ["Dazed"], "floor": 12, "hp": 37, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 26126, "card": "Rampage", "hand": [], "floor": 12, "hp": 27, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27712, "card": "Burning Pact", "hand": ["Rampage"], "floor": 14, "hp": 28, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27792, "card": "Burning Pact", "hand": ["Anger+", "Defend", "Rampage"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 27886, "card": "Shockwave+", "hand": ["Anger+", "Defend", "Strike+"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 27970, "card": "Defend", "hand": ["Anger+", "Strike+", "Rampage"], "floor": 14, "hp": 29, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 28034, "card": "Anger+", "hand": ["Strike+"], "floor": 14, "hp": -1, "maxhp": -1, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 28328, "card": "Strike+", "hand": ["Defend", "Strike+", "Ascender's Bane", "Rampage"], "floor": 14, "hp": 24, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 28408, "card": "Rampage", "hand": [], "floor": 14, "hp": 24, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 29854, "card": "Shockwave+", "hand": ["Sentinel", "Defend"], "floor": 16, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 29928, "card": "Rampage", "hand": ["Ascender's Bane", "Sentinel", "Defend"], "floor": 16, "hp": 55, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 30370, "card": "Headbutt", "hand": ["Defend", "Seeing Red"], "floor": 16, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 30510, "card": "Seeing Red", "hand": ["Bash", "Defend", "Burning Pact+"], "floor": 16, "hp": 55, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 30600, "card": "Burning Pact+", "hand": ["Bash", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 30794, "card": "Burning Pact+", "hand": ["Defend"], "floor": 16, "hp": 55, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 30942, "card": "Rampage", "hand": ["Defend", "Defend", "Strike+"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 30980, "card": "Strike+", "hand": ["Defend", "Defend"], "floor": 16, "hp": 55, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 31350, "card": "Defend", "hand": ["Anger+", "Headbutt", "Strike+", "Sentinel"], "floor": 16, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31386, "card": "Sentinel", "hand": ["Anger+", "Headbutt", "Strike+"], "floor": 16, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 32060, "card": "Burning Pact+", "hand": ["Defend", "Strike", "Defend"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 32256, "card": "Defend", "hand": ["Defend", "Strike+", "Rampage", "Defend", "Headbutt"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 32698, "card": "Headbutt", "hand": ["Defend", "Strike+", "Defend", "Rampage+"], "floor": 16, "hp": 54, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 33318, "card": "Rampage", "hand": ["Strike+", "Defend", "Defend", "Headbutt", "Strike+"], "floor": 16, "hp": 43, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 33410, "card": "Strike+", "hand": ["Strike+", "Defend", "Defend", "Headbutt"], "floor": 16, "hp": 43, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 33560, "card": "Headbutt", "hand": ["Strike+", "Defend", "Defend"], "floor": 16, "hp": 43, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 33754, "card": "Strike+", "hand": ["Defend", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 34156, "card": "Defend", "hand": ["Strike+", "Rampage+"], "floor": 16, "hp": 43, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 34312, "card": "Defend", "hand": ["Defend", "Strike+", "Burning Pact+"], "floor": 16, "hp": 43, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 34364, "card": "Defend", "hand": ["Strike+", "Rampage+", "Burning Pact+"], "floor": 16, "hp": 43, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 34466, "card": "Burning Pact+", "hand": ["Rampage"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 34806, "card": "Defend", "hand": ["Defend", "Headbutt", "Defend", "Burning Pact+"], "floor": 16, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35270, "card": "Rampage", "hand": ["Strike+", "Defend", "Headbutt", "Burning Pact+"], "floor": 16, "hp": 42, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35406, "card": "Defend", "hand": ["Strike+", "Headbutt"], "floor": 16, "hp": 32, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 35940, "card": "Rampage", "hand": ["Defend", "Defend", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 36362, "card": "Burning Pact+", "hand": ["Headbutt", "Strike+", "Defend"], "floor": 16, "hp": 27, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 36444, "card": "Burning Pact+", "hand": ["Headbutt", "Defend", "Rampage"], "floor": 16, "hp": 27, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 36492, "card": "Defend", "hand": ["Rampage+"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 36894, "card": "Defend", "hand": ["Headbutt", "Burning Pact+", "Rampage", "Defend"], "floor": 16, "hp": 27, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37176, "card": "Burning Pact+", "hand": ["Rampage"], "floor": 16, "hp": 27, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 37514, "card": "Rampage", "hand": ["Defend", "Defend", "Defend", "Burning Pact+"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37554, "card": "Burning Pact+", "hand": ["Defend", "Defend"], "floor": 16, "hp": 21, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 37630, "card": "Burning Pact+", "hand": ["Defend", "Defend"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 37716, "card": "Rampage", "hand": [], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 41688, "card": "Burning Pact+", "hand": ["Seeing Red", "Shockwave+", "Sentinel", "Ascender's Bane", "Defend", "Defend"], "floor": 18, "hp": 63, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 41758, "card": "Burning Pact+", "hand": ["Defend", "Defend", "Seeing Red+", "Shockwave+"], "floor": 18, "hp": 63, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 42100, "card": "Shockwave+", "hand": ["Defend", "Defend", "Strike+", "Bash", "Headbutt"], "floor": 18, "hp": 63, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 42256, "card": "Defend", "hand": ["Strike+", "Bash", "Headbutt", "Ascender's Bane"], "floor": 18, "hp": 63, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 42346, "card": "Bash", "hand": ["Ascender's Bane", "Strike+", "Headbutt"], "floor": 18, "hp": -1, "maxhp": -1, "block": 10, "energy": -1, "v2.0": false}
+{"frame": 42932, "card": "Burning Pact+", "hand": ["Bash"], "floor": 18, "hp": 57, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 43032, "card": "Burning Pact+", "hand": ["Headbutt", "Defend", "Defend", "Bash+"], "floor": 18, "hp": 57, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 43100, "card": "Defend", "hand": ["Headbutt", "Defend", "Strike+"], "floor": 18, "hp": 57, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 43224, "card": "Bash", "hand": ["Headbutt", "Strike", "Strike"], "floor": 18, "hp": 57, "maxhp": 75, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 43258, "card": "Smite", "hand": ["Headbutt", "Strike+", "Strike"], "floor": 18, "hp": 57, "maxhp": 75, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 43980, "card": "Strike+", "hand": ["Headbutt", "Strike+", "Bash", "Rampage+"], "floor": 18, "hp": 56, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 44100, "card": "Headbutt", "hand": ["Strike+", "Bash", "Rampage"], "floor": 18, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 44174, "card": "Bash", "hand": ["Strike+", "Rampage"], "floor": 18, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 44556, "card": "Rampage", "hand": ["Strike+", "Bash", "Headbutt", "Strike+"], "floor": 18, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 44632, "card": "Strike+", "hand": ["Headbutt", "Strike+", "Bash"], "floor": 18, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 44702, "card": "Headbutt", "hand": [], "floor": 18, "hp": 56, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 46764, "card": "Corruption", "hand": ["Rampage", "Defend+", "Shockwave+", "Ascender's Bane"], "floor": 19, "hp": 62, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 46846, "card": "Shockwave+", "hand": ["Bash", "Entrench"], "floor": 19, "hp": 62, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 46936, "card": "Bash", "hand": ["Strike+", "Rampage"], "floor": 19, "hp": -1, "maxhp": -1, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 47016, "card": "Strike+", "hand": [], "floor": 19, "hp": -1, "maxhp": -1, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 47048, "card": "Rampage", "hand": ["Ascender's Bane"], "floor": 19, "hp": 62, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 47412, "card": "Burning Pact+", "hand": ["Defend"], "floor": 19, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47824, "card": "Rampage", "hand": ["Bite", "Strike", "Strike", "Sentinel", "Defend"], "floor": 19, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47872, "card": "Strike+", "hand": ["Defend", "Strike", "Sentinel", "Seeing Red"], "floor": 19, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47924, "card": "Strike+", "hand": ["Defend", "Sentinel", "Headbutt", "Seeing Red"], "floor": 19, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 48008, "card": "Headbutt", "hand": ["Reaper", "Defend", "Defend+"], "floor": 19, "hp": 52, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 48100, "card": "Defend", "hand": ["Seeing Red"], "floor": 19, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 48132, "card": "Defend", "hand": ["Pain", "Seeing Red"], "floor": 19, "hp": 52, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 48160, "card": "Sentinel", "hand": ["Seeing Red"], "floor": 19, "hp": 52, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 48554, "card": "Rampage", "hand": [], "floor": 19, "hp": 51, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 52576, "card": "Seeing Red", "hand": ["Sentinel", "Rampage", "Strike+", "Defend"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 52692, "card": "Rampage", "hand": ["Strike+", "Defend", "Sentinel"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 52730, "card": "Strike+", "hand": ["Defend", "Sentinel"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 53182, "card": "Burning Pact+", "hand": ["Defend", "Defend", "Sentinel", "Sentinel", "Strike+"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 53278, "card": "Burning Pact+", "hand": ["Defend", "Defend", "Strike+", "Defend", "Sentinel"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 53492, "card": "Rampage", "hand": ["Defend", "Defend", "Strike", "Headbutt", "Defend", "Ascender's Bane"], "floor": 22, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 53720, "card": "Sentinel", "hand": ["Defend", "Defend", "Strike+", "Headbutt"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 53818, "card": "Headbutt", "hand": ["Defend", "Defend", "Defend", "Strike+", "Ascender's Bane"], "floor": 22, "hp": 57, "maxhp": 75, "block": 5, "energy": 7, "v2.0": false}
+{"frame": 53908, "card": "Strike+", "hand": ["Defend", "Defend", "Defend", "Ascender's Bane"], "floor": 22, "hp": 57, "maxhp": 75, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 53964, "card": "Defend", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 22, "hp": 57, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 54476, "card": "Rampage", "hand": ["Bash", "Strike+", "Defend", "Defend", "Strike+", "Burning Pact+"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 54526, "card": "Strike+", "hand": ["Defend", "Defend", "Burning Pact+", "Bash", "Strike+"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 54702, "card": "Burning Pact+", "hand": ["Defend", "Defend", "Bash"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 54836, "card": "Rampage", "hand": ["Defend", "Defend", "Headbutt", "Bash", "Strike+"], "floor": 22, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 54870, "card": "Defend", "hand": ["Defend", "Bash", "Headbutt", "Strike+"], "floor": 22, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 54900, "card": "Defend", "hand": ["Bash", "Headbutt", "Strike+"], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 55182, "card": "Rampage", "hand": [], "floor": 22, "hp": 57, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58096, "card": "Burning Pact+", "hand": ["Burning Pact+", "Bash", "Seeing Red", "Defend", "Combust+"], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 58842, "card": "Burning Pact+", "hand": ["Bash", "Seeing Red", "Rampage+"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 59104, "card": "Shockwave+", "hand": [], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 60548, "card": "Combust+", "hand": ["Strike+", "Rampage+"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 60832, "card": "Bash", "hand": ["Defend", "Seeing Red"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 60974, "card": "Strike+", "hand": ["Seeing Red+", "Defend"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 61012, "card": "Defend", "hand": ["Seeing Red+", "Ascender's Bane"], "floor": 24, "hp": 63, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 61670, "card": "Burning Pact+", "hand": ["Defend", "Defend", "Strike+", "Rage+"], "floor": 24, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62276, "card": "Rampage", "hand": ["Defend", "Strike+", "Strike", "Defend", "Sentinel", "Wound", "Wound"], "floor": 24, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62316, "card": "Strike+", "hand": ["Defend", "Defend", "Strike+", "Sentinel", "Wound", "Wound"], "floor": 24, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 62386, "card": "Strike+", "hand": ["Defend", "Defend", "Sentinel", "Wound", "Wound"], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 62470, "card": "Defend", "hand": ["Defend", "Sentinel", "Wound"], "floor": 24, "hp": 55, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 62500, "card": "Defend", "hand": ["Wound"], "floor": 24, "hp": 55, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 62548, "card": "Sentinel", "hand": ["Wound", "Wound"], "floor": 24, "hp": 55, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 62976, "card": "Rampage", "hand": ["Burning Pact+", "Seeing Red", "Strike+", "Wound"], "floor": 24, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 63030, "card": "Bash", "hand": [], "floor": 24, "hp": 53, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 64954, "card": "Rampage+", "hand": [], "floor": 27, "hp": 5, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 65356, "card": "Burning Pact+", "hand": ["Flame Barrier", "Pride"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 65528, "card": "Burning Pact+", "hand": ["Sentinel+", "Headbutt"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 65824, "card": "Headbutt", "hand": ["Defend"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 65972, "card": "Defend", "hand": ["Ascender's Bane", "Defend"], "floor": 27, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 66752, "card": "Seeing Red", "hand": ["Defend", "Headbutt", "Strike+", "Burning Pact+", "Sentinel"], "floor": 27, "hp": 54, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 66808, "card": "Rampage+", "hand": ["Defend", "Headbutt", "Strike+", "Burning Pact+", "Sentinel"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 66864, "card": "Headbutt", "hand": ["Defend", "Strike+", "Burning Pact+", "Sentinel"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 66902, "card": "Burning Pact+", "hand": ["Strike", "Sentinel"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 66984, "card": "Burning Pact+", "hand": ["Defend", "Sentinel"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 67078, "card": "Sentinel", "hand": ["Defend", "Bash", "Sentinel"], "floor": 27, "hp": 5, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 67186, "card": "Sentinel", "hand": ["Berserk", "Bash"], "floor": 27, "hp": 59, "maxhp": 75, "block": 10, "energy": -1, "v2.0": false}
+{"frame": 67240, "card": "Bash", "hand": [], "floor": 27, "hp": 58, "maxhp": 75, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 67868, "card": "Rampage+", "hand": ["Flame Barrier", "Combust+", "Headbutt", "Bash"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 67936, "card": "Flame Barrier", "hand": ["Combust+", "Headbutt", "Bash", "Entrench"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 67960, "card": "Flame Barrier", "hand": ["Combust+", "Headbutt", "Bash", "Entrench"], "floor": 27, "hp": 59, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 68414, "card": "Rampage+", "hand": ["Headbutt", "Wound", "Bash"], "floor": 27, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 68446, "card": "Headbutt", "hand": [], "floor": 27, "hp": 52, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 69196, "card": "Combust+", "hand": [], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 69618, "card": "Burning Pact+", "hand": ["Sentinel", "Shockwave+", "Strike+", "Corruption", "Rampage+", "Headbutt"], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 69708, "card": "Burning Pact+", "hand": ["Corruption", "Headbutt", "Shockwave+", "Strike+", "Rampage+"], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 69858, "card": "Burning Pact+", "hand": ["Shockwave+", "Strike+", "Corruption", "Rampage+", "Headbutt", "Defend", "Strike+"], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 69950, "card": "Burning Pact+", "hand": ["Corruption", "Headbutt", "Defend", "Shockwave+"], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 70248, "card": "Shockwave+", "hand": ["Strike+"], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 70500, "card": "Bash", "hand": ["Defend", "Defend", "Defend"], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 70544, "card": "Rampage+", "hand": ["Defend", "Defend", "Defend", "Headbutt"], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 71172, "card": "Burning Pact+", "hand": [], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 71264, "card": "Burning Pact+", "hand": ["Defend", "Bash", "Ascender's Bane", "Flame Barrier+"], "floor": 28, "hp": 58, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 71646, "card": "Rampage+", "hand": ["Bash", "Feed", "Headbutt", "Ascender's Bane"], "floor": 28, "hp": 58, "maxhp": 75, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 71704, "card": "Headbutt", "hand": ["Feed", "Ascender's Bane", "Bash"], "floor": 28, "hp": 58, "maxhp": 75, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 72496, "card": "Strike+", "hand": ["Defend", "Feed", "Seeing Red"], "floor": 28, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 72712, "card": "Burning Pact+", "hand": ["Rampage+", "Seeing Red", "Feed"], "floor": 28, "hp": 55, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 72914, "card": "Strike+", "hand": ["Feed", "Headbutt", "Bash", "Rampage+", "Seeing Red"], "floor": 28, "hp": 55, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 73036, "card": "Feed", "hand": ["Headbutt", "Bash", "Rampage+", "Seeing Red", "Sentinel+"], "floor": 28, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 74548, "card": "Burning Pact+", "hand": ["Sentinel", "Defend", "Shockwave+"], "floor": 29, "hp": 64, "maxhp": 78, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 75788, "card": "Bash", "hand": ["Defend", "Corruption", "Combust+", "Strike+"], "floor": 29, "hp": 64, "maxhp": 78, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 76642, "card": "Strike+", "hand": ["Combust+", "Flame Barrier", "Corruption", "Seeing Red"], "floor": 29, "hp": 64, "maxhp": 78, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 76832, "card": "Seeing Red", "hand": ["Corruption", "Combust+"], "floor": 29, "hp": 64, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 76966, "card": "Combust+", "hand": [], "floor": 29, "hp": 64, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 77590, "card": "Burning Pact+", "hand": ["Strike+", "Headbutt", "Bash", "Strike+"], "floor": 29, "hp": 63, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 77662, "card": "Rampage+", "hand": ["Strike+", "Headbutt", "Strike+"], "floor": 29, "hp": 63, "maxhp": 78, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 77772, "card": "Burning Pact+", "hand": ["Headbutt", "Strike+", "Bash"], "floor": 29, "hp": 63, "maxhp": 78, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 77906, "card": "Defend", "hand": ["Strike+", "Headbutt", "Rampage+"], "floor": 29, "hp": 63, "maxhp": 78, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 78048, "card": "Rampage+", "hand": ["Strike+", "Headbutt", "Bash", "Feed"], "floor": 29, "hp": 63, "maxhp": 78, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 78528, "card": "Burning Pact+", "hand": ["Strike+", "Feed", "Flame Barrier"], "floor": 29, "hp": 48, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 78642, "card": "Burning Pact+", "hand": ["Headbutt", "Feed", "Bash", "Defend+"], "floor": 29, "hp": 48, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 78790, "card": "Rampage+", "hand": ["Defend", "Feed", "Flame Barrier", "Headbutt", "Bash"], "floor": 29, "hp": 48, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79682, "card": "Rampage+", "hand": ["Bash", "Headbutt", "Feed", "Flame Barrier"], "floor": 29, "hp": 47, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 79996, "card": "Headbutt", "hand": ["Feed", "Bash", "Flame Barrier+", "Rampage+"], "floor": 29, "hp": 47, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 80672, "card": "Bash", "hand": ["Headbutt", "Feed", "Rampage+", "Flame Barrier"], "floor": 29, "hp": 46, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 80738, "card": "Feed", "hand": ["Rampage+", "Headbutt", "Flame Barrier"], "floor": 29, "hp": 46, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 82790, "card": "Burning Pact+", "hand": ["Iron Wave+", "Headbutt", "Defend", "Corruption", "Burning Pact+"], "floor": 30, "hp": 55, "maxhp": 81, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 83260, "card": "Burning Pact+", "hand": ["Defend", "Defend", "Blind", "Headbutt", "Combust+"], "floor": 30, "hp": 55, "maxhp": 81, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 83406, "card": "Sentinel", "hand": ["Defend", "Defend", "Headbutt", "Flame Barrier", "Rampage+"], "floor": 30, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 83664, "card": "Defend", "hand": ["Headbutt"], "floor": 30, "hp": 55, "maxhp": 81, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 83734, "card": "Rampage+", "hand": ["Defend", "Headbutt", "Combust+", "Flame Barrier"], "floor": 30, "hp": 55, "maxhp": 81, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 84330, "card": "Burning Pact+", "hand": ["Seeing Red", "Rampage+"], "floor": 30, "hp": 55, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 84738, "card": "Defend", "hand": ["Seeing Red", "Strike+", "Ascender's Bane+", "Flame Barrier"], "floor": 30, "hp": 55, "maxhp": 81, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 85302, "card": "Strike+", "hand": ["Rampage+", "Defend", "Flame Barrier"], "floor": 30, "hp": 55, "maxhp": 81, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 85408, "card": "Headbutt", "hand": ["Rampage+", "Defend", "Feed", "Flame Barrier"], "floor": 30, "hp": 55, "maxhp": 81, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 85498, "card": "Feed", "hand": ["Rampage+", "Defend", "Seeing Red", "Flame Barrier"], "floor": 30, "hp": 55, "maxhp": 81, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 85658, "card": "Rampage+", "hand": ["Defend", "Seeing Red", "Flame Barrier", "Strike+"], "floor": 30, "hp": 58, "maxhp": 84, "block": 4, "energy": -1, "v2.0": false}
+{"frame": 85710, "card": "Strike+", "hand": ["Defend", "Seeing Red", "Flame Barrier"], "floor": 30, "hp": 58, "maxhp": 84, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 85784, "card": "Defend", "hand": ["Seeing Red+", "Flame Barrier"], "floor": 30, "hp": 58, "maxhp": 84, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 86224, "card": "Rampage+", "hand": [], "floor": 30, "hp": 58, "maxhp": 84, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 87704, "card": "Bash", "hand": ["Defend", "Sentinel+", "Seeing Red", "Headbutt", "Ascender's Bane"], "floor": 31, "hp": 64, "maxhp": 34, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 88330, "card": "Burning Pact+", "hand": ["Strike+", "Warcry"], "floor": 31, "hp": 64, "maxhp": 84, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 88500, "card": "Burning Pact+", "hand": ["Defend", "Corruption", "Rampage+"], "floor": 31, "hp": 64, "maxhp": 84, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 89382, "card": "Rampage+", "hand": ["Combust+", "Defend+", "Seeing Red"], "floor": 31, "hp": 6, "maxhp": 84, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 89516, "card": "Sentinel", "hand": ["Defend", "Feed"], "floor": 31, "hp": 64, "maxhp": 84, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 89592, "card": "Smite", "hand": ["Defend", "Defend", "Defend"], "floor": 31, "hp": 64, "maxhp": 84, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 90454, "card": "Feed", "hand": ["Bash", "Headbutt", "Strike+", "Defend", "Defend", "Burning Pact+"], "floor": 31, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 90630, "card": "Sentinel", "hand": ["Bash", "Headbutt", "Strike+", "Defend"], "floor": 31, "hp": 66, "maxhp": 87, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 91140, "card": "Headbutt", "hand": ["Bash", "Defend", "Defend", "Defend"], "floor": 31, "hp": 66, "maxhp": 87, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 91220, "card": "Bash", "hand": ["Defend", "Defend", "Defend"], "floor": 31, "hp": 66, "maxhp": 87, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 91342, "card": "Rampage+", "hand": ["Defend", "Defend", "Defend"], "floor": 31, "hp": 66, "maxhp": 87, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 94984, "card": "Burning Pact+", "hand": ["Headbutt", "Bash", "Sentinel", "Burning Pact+"], "floor": 33, "hp": 87, "maxhp": 87, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 95172, "card": "Combust+", "hand": ["Headbutt", "Feed+", "Bash+", "Sentinel", "Burning Pact+"], "floor": 33, "hp": 87, "maxhp": 87, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 95228, "card": "Corruption", "hand": ["Bash", "Headbutt", "Sentinel"], "floor": 33, "hp": 87, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 95374, "card": "Bash", "hand": [], "floor": 33, "hp": 87, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 95402, "card": "Headbutt", "hand": [], "floor": 33, "hp": 87, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 96094, "card": "Shockwave+", "hand": ["Defend", "Strike+", "Strike+"], "floor": 33, "hp": 86, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 96246, "card": "Flame Barrier", "hand": ["Defend", "Strike+", "Strike+"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 96628, "card": "Strike+", "hand": ["Sentinel", "Strike+"], "floor": 33, "hp": 86, "maxhp": 87, "block": 17, "energy": 1, "v2.0": false}
+{"frame": 97650, "card": "Burning Pact+", "hand": ["Feed+", "Defend"], "floor": 33, "hp": 77, "maxhp": 87, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 97864, "card": "Burning Pact+", "hand": ["Heavy Blade", "Defend", "Strike+", "Feed+"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 97958, "card": "Burning Pact+", "hand": ["Defend", "Feed+"], "floor": 33, "hp": 77, "maxhp": 87, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 98264, "card": "Rampage+", "hand": ["Defend", "Strike+", "Defend"], "floor": 33, "hp": 77, "maxhp": 87, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 98318, "card": "Strike+", "hand": ["Defend"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 98614, "card": "Rampage+", "hand": ["Defend"], "floor": 33, "hp": 77, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 98942, "card": "Headbutt", "hand": ["Defend", "Feed+", "Bash", "Defend", "Seeing Red", "Regret+"], "floor": 33, "hp": 77, "maxhp": 87, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 99052, "card": "Defend", "hand": ["Bash", "Seeing Red", "Defend", "Sentinel"], "floor": 33, "hp": 77, "maxhp": 87, "block": 1, "energy": -1, "v2.0": false}
+{"frame": 99100, "card": "Defend", "hand": ["Feed", "Bash", "Seeing Red", "Sentinel"], "floor": 33, "hp": 77, "maxhp": 87, "block": 9, "energy": -1, "v2.0": false}
+{"frame": 99630, "card": "Strike+", "hand": ["Feed+", "Headbutt", "Sentinel"], "floor": 33, "hp": 75, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 99668, "card": "Bash", "hand": ["Feed+", "Headbutt", "Seeing Red+", "Sentinel"], "floor": 33, "hp": 75, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 99724, "card": "Headbutt", "hand": ["Feed"], "floor": 33, "hp": 75, "maxhp": 87, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 100398, "card": "Rampage+", "hand": ["Headbutt", "Feed+", "Sentinel", "Bash"], "floor": 33, "hp": 74, "maxhp": 87, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 100450, "card": "Bash", "hand": ["Headbutt", "Feed+", "Seeing Red"], "floor": 33, "hp": 74, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 100544, "card": "Seeing Red", "hand": ["Headbutt", "Sentinel", "Feed+"], "floor": 33, "hp": 74, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 100598, "card": "Strike+", "hand": ["Headbutt", "Feed+", "Sentinel"], "floor": 33, "hp": 74, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 100654, "card": "Headbutt", "hand": ["Feed+", "Sentinel"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 101348, "card": "Bash", "hand": ["Feed+", "Headbutt", "Strike+", "Rampage+", "Sentinel"], "floor": 33, "hp": 54, "maxhp": 87, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 101616, "card": "Strike+", "hand": ["Sentinel", "Feed+", "Headbutt"], "floor": 33, "hp": 54, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 102144, "card": "Bash", "hand": ["Headbutt", "Strike+", "Feed", "Sentinel", "Rampage+"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 102350, "card": "Headbutt", "hand": ["Strike+", "Feed", "Sentinel", "Rampage+"], "floor": 33, "hp": 36, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 102392, "card": "Sentinel", "hand": ["Strike+", "Rampage+", "Feed+"], "floor": 33, "hp": 36, "maxhp": 87, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 102458, "card": "Feed+", "hand": ["Strike+", "Rampage+"], "floor": 33, "hp": -1, "maxhp": -1, "block": 3, "energy": -1, "v2.0": false}
+{"frame": 107718, "card": "Burning Pact+", "hand": ["Corruption", "Burning Pact+", "Combust+", "Heavy Blade+"], "floor": 35, "hp": 80, "maxhp": 51, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 107862, "card": "Corruption", "hand": ["Demon Form", "Heavy Blade+", "Sentinel"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 107968, "card": "Burning Pact+", "hand": [], "floor": 35, "hp": 80, "maxhp": 91, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 108206, "card": "Shockwave+", "hand": ["Headbutt", "Feed+", "Heavy Blade+", "Strike+"], "floor": 35, "hp": 80, "maxhp": 91, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 108538, "card": "Heavy Blade+", "hand": ["Ascender's Bane", "Headbutt", "Feed+", "Strike+"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 109228, "card": "Heavy Blade+", "hand": ["Strike+", "Headbutt", "Defend", "Burning Pact+", "Seeing Red", "Strike+"], "floor": 35, "hp": 73, "maxhp": 91, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 109432, "card": "Headbutt", "hand": ["Strike+", "Defend", "Burning Pact+", "Strike+", "Sentinel"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 109494, "card": "Burning Pact+", "hand": ["Pummel", "Defend", "Strike+", "Sentinel"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 109600, "card": "Burning Pact+", "hand": ["Strike+", "Defend", "Seeing Red"], "floor": 35, "hp": 73, "maxhp": 91, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 109714, "card": "Heavy Blade+", "hand": ["Strike+", "Defend", "Sentinel", "Flame Barrier+", "Bash"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 110028, "card": "Bash", "hand": ["Flame Barrier", "Strike+", "Defend", "Seeing Red"], "floor": 35, "hp": 73, "maxhp": 91, "block": 4, "energy": -1, "v2.0": false}
+{"frame": 110090, "card": "Strike+", "hand": ["Flame Barrier", "Defend", "Seeing Red", "Sentinel"], "floor": 35, "hp": 73, "maxhp": 91, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 110252, "card": "Defend", "hand": ["Defend", "Seeing Red", "Sentinel", "Flame Barrier"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 110290, "card": "Defend", "hand": ["Flame Barrier", "Seeing Red", "Sentinel"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 110854, "card": "Bash", "hand": ["Feed+", "Defend", "Strike+", "Rampage+", "Sentinel", "Flame Barrier"], "floor": 35, "hp": 73, "maxhp": 91, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 111196, "card": "Sentinel", "hand": ["Feed+", "Strike+", "Rampage+", "Defend"], "floor": 35, "hp": 73, "maxhp": 91, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 111410, "card": "Rampage+", "hand": ["Feed+", "Defend", "Flame Barrier"], "floor": 35, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 112640, "card": "Demon Form", "hand": ["Feed+", "Strike+", "Shockwave+", "Bash", "Rampage+"], "floor": 37, "hp": 83, "maxhp": 95, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 112694, "card": "Shockwave+", "hand": ["Bash", "Feed+", "Strike", "Burning Pact+", "Rampage+"], "floor": 37, "hp": 83, "maxhp": 95, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 112754, "card": "Bash", "hand": ["Burning Pact+"], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 113176, "card": "Bash+", "hand": [], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 113352, "card": "Burning Pact+", "hand": ["Defend", "Sentinel", "Strike", "Headbutt"], "floor": 37, "hp": 77, "maxhp": 95, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 113500, "card": "Flame Barrier", "hand": ["Strike+"], "floor": 37, "hp": 77, "maxhp": 95, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 113564, "card": "Seeing Red", "hand": ["Defend", "Strike+", "Feed+"], "floor": 37, "hp": 77, "maxhp": 9, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 113768, "card": "Strike+", "hand": ["Defend", "Sentinel", "Seeing Red", "Feed+"], "floor": 37, "hp": 77, "maxhp": 95, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 113882, "card": "Defend", "hand": ["Sentinel", "Headbutt", "Seeing Red", "Feed+"], "floor": 37, "hp": 77, "maxhp": 95, "block": 1, "energy": 0, "v2.0": false}
+{"frame": 114272, "card": "Burning Pact+", "hand": ["Strike+"], "floor": 37, "hp": 77, "maxhp": 95, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 114356, "card": "Burning Pact+", "hand": ["Strike+", "Burn", "Sentinel", "Ascender's Bane", "Heavy Blade+"], "floor": 37, "hp": 77, "maxhp": 95, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 114426, "card": "Burning Pact+", "hand": ["Defend", "Strike", "Heavy Blade+"], "floor": 37, "hp": 77, "maxhp": 95, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 114682, "card": "Rampage+", "hand": ["Strike+", "Heavy Blade+", "Bash", "Defend", "Defend"], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 114780, "card": "Defend", "hand": ["Defend", "Strike+", "Heavy Blade+", "Bash"], "floor": 37, "hp": 77, "maxhp": 95, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 114810, "card": "Sentinel", "hand": ["Defend", "Strike", "Heavy Blade+", "Bash", "Ascender's Bane"], "floor": 37, "hp": 77, "maxhp": 95, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 114852, "card": "Defend", "hand": ["Strike+", "Heavy Blade+", "Bash"], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 115212, "card": "Feed+", "hand": ["Heavy Blade+", "Burn", "Strike+", "Burn", "Seeing Red", "Rampage+"], "floor": 37, "hp": 77, "maxhp": 95, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119362, "card": "Bash", "hand": ["Defend", "Defend", "Defend", "Headbutt+", "Seeing Red"], "floor": 39, "hp": 87, "maxhp": 99, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 119426, "card": "Headbutt", "hand": ["Defend"], "floor": 39, "hp": 87, "maxhp": 99, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 120022, "card": "Demon Form", "hand": ["Feed+", "Defend", "Flame Barrier", "Dazed"], "floor": 39, "hp": 86, "maxhp": 99, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 120110, "card": "Feed+", "hand": ["Defend", "Flame Barrier", "Dazed"], "floor": 39, "hp": 86, "maxhp": 99, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 120316, "card": "Headbutt", "hand": ["Defend", "Flame Barrier"], "floor": 39, "hp": 90, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 120376, "card": "Flame Barrier", "hand": ["Defend", "Dazed", "Dazed"], "floor": 39, "hp": 90, "maxhp": 10, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 120400, "card": "Flame Barrier", "hand": ["Defend", "Dazed", "Dazed"], "floor": 39, "hp": 90, "maxhp": 10, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 121162, "card": "Burning Pact+", "hand": [], "floor": 39, "hp": 89, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 121242, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Defend", "Defend", "Seeing Red"], "floor": 39, "hp": 85, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 121374, "card": "Heavy Blade+", "hand": ["Heavy Blade+", "Bash"], "floor": 39, "hp": 85, "maxhp": 710, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 121474, "card": "Heavy Blade+", "hand": ["Bash", "Defend", "Defend"], "floor": 39, "hp": 89, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 121710, "card": "Bash", "hand": ["Defend", "Seeing Red", "Burning Pact+"], "floor": 39, "hp": -1, "maxhp": -1, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 121882, "card": "Burning Pact+", "hand": ["Headbutt", "Defend", "Seeing Red"], "floor": 39, "hp": -1, "maxhp": -1, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 121962, "card": "Burning Pact+", "hand": ["Defend", "Defend", "Seeing Red"], "floor": 39, "hp": 89, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 122174, "card": "Defend", "hand": ["Defend", "Bash", "Heavy Blade+", "Seeing Red", "Defend"], "floor": 39, "hp": 89, "maxhp": 10, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 122214, "card": "Defend", "hand": ["Bash", "Heavy Blade+", "Defend"], "floor": 39, "hp": 89, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 125366, "card": "Burning Pact+", "hand": ["Demon Form", "Heavy Blade+", "Bash", "Sentinel", "Rampage+"], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 125656, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Bash", "Heavy Blade+", "Evolve+", "Seeing Red"], "floor": 40, "hp": 93, "maxhp": 10, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 125730, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Bash", "Heavy Blade+", "Seeing Red"], "floor": 40, "hp": 93, "maxhp": 10, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 125868, "card": "Demon Form", "hand": [], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 125930, "card": "Corruption", "hand": ["Heavy Blade+", "Bash", "Seeing Red", "Shockwave+", "Combust+"], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 126018, "card": "Seeing Red", "hand": [], "floor": 40, "hp": 93, "maxhp": 107, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 126128, "card": "Evolve", "hand": ["Heavy Blade+", "Bash", "Heavy Blade+", "Combust+"], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 126194, "card": "Bash", "hand": ["Combust+", "Heavy Blade+"], "floor": 40, "hp": 93, "maxhp": 10, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 126232, "card": "Heavy Blade+", "hand": ["Heavy Blade+", "Combust+", "Combust+"], "floor": 40, "hp": 93, "maxhp": 10, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 126708, "card": "Burning Pact+", "hand": ["Defend", "Sentinel", "Ascender's Bane"], "floor": 40, "hp": 90, "maxhp": 10, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 126982, "card": "Defend", "hand": ["Defend", "Headbutt", "Heavy Blade+", "Sentinel"], "floor": 40, "hp": 90, "maxhp": 10, "block": 5, "energy": 8, "v2.0": false}
+{"frame": 127256, "card": "Headbutt", "hand": ["Defend", "Sentinel", "Flame Barrier", "Ascender's Bane"], "floor": 40, "hp": 90, "maxhp": 10, "block": 10, "energy": -1, "v2.0": false}
+{"frame": 127724, "card": "Bash", "hand": ["Heavy Blade+", "Heavy Blade+", "Feed+", "Strike+", "Flame Barrier"], "floor": 40, "hp": 90, "maxhp": 10, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 128182, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Heavy Blade+", "Reaper", "Strike+", "Flame Barrier"], "floor": 40, "hp": 90, "maxhp": 10, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 128270, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Feed", "Heavy Blade+", "Flame Barrier+"], "floor": 40, "hp": 90, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 128474, "card": "Sentinel", "hand": ["Heavy Blade+", "Heavy Blade+", "Feed+", "Headbutt", "Defend", "Entrench"], "floor": 40, "hp": 90, "maxhp": 10, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 128664, "card": "Defend", "hand": ["Heavy Blade+", "Heavy Blade+", "Headbutt", "Feed+", "Flame Barrier", "Entrench"], "floor": 40, "hp": 50, "maxhp": 10, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 128708, "card": "Flame Barrier+", "hand": ["Heavy Blade+", "Heavy Blade+", "Feed+", "Headbutt"], "floor": 40, "hp": 30, "maxhp": 10, "block": 10, "energy": -1, "v2.0": false}
+{"frame": 128986, "card": "Headbutt", "hand": ["Heavy Blade+", "Heavy Blade+", "Feed+"], "floor": 40, "hp": 90, "maxhp": 10, "block": 22, "energy": -1, "v2.0": false}
+{"frame": 129464, "card": "Heavy Blade+", "hand": ["Heavy Blade+", "Feed+"], "floor": 40, "hp": 90, "maxhp": 10, "block": 22, "energy": 4, "v2.0": false}
+{"frame": 129534, "card": "Heavy Blade+", "hand": ["Feed+"], "floor": 40, "hp": 30, "maxhp": 10, "block": 26, "energy": 3, "v2.0": false}
+{"frame": 130302, "card": "Bash", "hand": ["Heavy Blade+", "Feed+", "Heavy Blade+"], "floor": 40, "hp": 90, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 130358, "card": "Headbutt", "hand": ["Heavy Blade+", "Feed+", "Heavy Blade+"], "floor": 40, "hp": 90, "maxhp": 10, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 130898, "card": "Bash", "hand": ["Heavy Blade+", "Feed+", "Headbutt", "Heavy Blade+"], "floor": 40, "hp": 66, "maxhp": 10, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 131282, "card": "Heavy Blade+", "hand": ["Feed+", "Headbutt", "Heavy Blade+"], "floor": 40, "hp": 66, "maxhp": 10, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 131372, "card": "Headbutt", "hand": ["Heavy Blade"], "floor": 40, "hp": 66, "maxhp": 10, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 131480, "card": "Feed+", "hand": ["Heavy Blade+"], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 133102, "card": "Corruption", "hand": ["Heavy Blade+", "Strike", "Sentinel", "Dark Embrace"], "floor": 41, "hp": 76, "maxhp": 107, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 133184, "card": "Dark Embrace", "hand": ["Defend", "Heavy Blade+"], "floor": 41, "hp": 76, "maxhp": 107, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 133224, "card": "Shockwave+", "hand": ["Defend", "Sentinel", "Heavy Blade+"], "floor": 41, "hp": 76, "maxhp": 107, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 133374, "card": "Flame Barrier", "hand": ["Defend", "Heavy Blade+", "Evolve"], "floor": 41, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 133682, "card": "Seeing Red", "hand": ["Defend", "Defend", "Sentinel", "Demon Form", "Rampage+"], "floor": 41, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 133802, "card": "Sentinel", "hand": ["Defend", "Heavy Blade+", "Defend", "Feed", "Defend", "Sentinel"], "floor": 41, "hp": -1, "maxhp": -1, "block": 12, "energy": -1, "v2.0": false}
+{"frame": 133876, "card": "Demon Form", "hand": ["Defend", "Heavy Blade+", "Defend", "Feed", "Sentinel", "Rampage+"], "floor": 41, "hp": -1, "maxhp": -1, "block": 17, "energy": -1, "v2.0": false}
+{"frame": 134046, "card": "Defend", "hand": ["Defend", "Feed+", "Heavy Blade+", "Rampage+", "Combust+"], "floor": 41, "hp": 76, "maxhp": 107, "block": 17, "energy": 4, "v2.0": false}
+{"frame": 134208, "card": "Defend", "hand": ["Feed+", "Heavy Blade+", "Rampage+", "Bash"], "floor": 41, "hp": 76, "maxhp": 107, "block": 22, "energy": 4, "v2.0": false}
+{"frame": 134364, "card": "Bash", "hand": ["Feed+", "Sentinel", "Rampage+", "Burning Pact+"], "floor": 41, "hp": 76, "maxhp": 107, "block": 27, "energy": 4, "v2.0": false}
+{"frame": 135132, "card": "Burning Pact+", "hand": ["Defend"], "floor": 41, "hp": 76, "maxhp": 107, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 135324, "card": "Burning Pact+", "hand": ["Defend", "Bash", "Strike", "Ascender's Bane"], "floor": 41, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 135484, "card": "Heavy Blade+", "hand": ["Bash", "Strike+", "Defend", "Rampage+", "Headbutt"], "floor": 41, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 135586, "card": "Strike+", "hand": ["Bash", "Feed+", "Defend", "Combust+", "Headbutt"], "floor": 41, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 135878, "card": "Bash", "hand": ["Feed", "Defend", "Combust+", "Strike+"], "floor": 41, "hp": 76, "maxhp": 107, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 135938, "card": "Sentinel", "hand": ["Defend", "Feed+", "Strike+", "Rampage+", "Headbutt"], "floor": 41, "hp": 76, "maxhp": 107, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 136360, "card": "Rampage+", "hand": ["Defend", "Feed+", "Headbutt", "Strike+", "Ascender's Bane", "Combust+"], "floor": 41, "hp": 76, "maxhp": 107, "block": 9, "energy": -1, "v2.0": false}
+{"frame": 136512, "card": "Strike+", "hand": ["Defend", "Feed+", "Headbutt", "Bash", "Ascender's Bane"], "floor": 41, "hp": 76, "maxhp": 17, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 136572, "card": "Feed+", "hand": ["Defend", "Ascender's Bane", "Combust+", "Headbutt", "Bash"], "floor": 41, "hp": 76, "maxhp": 107, "block": 13, "energy": 0, "v2.0": false}
+{"frame": 137392, "card": "Dark Embrace", "hand": ["Sentinel+", "Burning Pact+", "Burning Pact+", "Ascender's Bane"], "floor": 42, "hp": 86, "maxhp": 111, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 137926, "card": "Shockwave+", "hand": ["Seeing Red", "Burn+", "Ascender's Bane", "Decay"], "floor": 42, "hp": 85, "maxhp": 111, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 138054, "card": "Seeing Red", "hand": ["Defend", "Burning Pact+", "Demon Form"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 138156, "card": "Demon Form", "hand": ["Defend", "Heavy Blade+", "Evolve+", "Burning Pact+", "Entrench"], "floor": 42, "hp": 86, "maxhp": 111, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 138228, "card": "Heavy Blade+", "hand": ["Defend", "Burning Pact+", "Combust+"], "floor": 42, "hp": 86, "maxhp": 111, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 138442, "card": "Burning Pact+", "hand": ["Ascender's Bane", "Defend", "Combust+", "Defend"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 138570, "card": "Burning Pact+", "hand": ["Defend", "Evolve", "Defend"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 138812, "card": "Uppercut+", "hand": ["Defend", "Defend", "Defend", "Headbutt", "Sentinel"], "floor": 42, "hp": 86, "maxhp": 111, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 138882, "card": "Headbutt", "hand": ["Defend"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 139176, "card": "Evolve", "hand": ["Defend", "Defend", "Defend", "Heavy Blade+", "Heavy Blade+"], "floor": 42, "hp": 86, "maxhp": 111, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 139636, "card": "Heavy Blade+", "hand": ["Defend", "Headbutt", "Feed+", "Rampage+", "Burning Pact+"], "floor": 42, "hp": 86, "maxhp": 111, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 139820, "card": "Rampage+", "hand": ["Headbutt", "Demon Form", "Uppercut+", "Flame Barrier"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 139876, "card": "Strike+", "hand": ["Headbutt", "Defend", "Feed", "Burning Pact+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 140210, "card": "Burning Pact+", "hand": ["Feed+", "Defend", "Headbutt", "Flame Barrier"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 140458, "card": "Headbutt", "hand": ["Defend", "Bash", "Defend", "Flame Barrier", "Heavy Blade+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 140512, "card": "Heavy Blade+", "hand": ["Defend", "Bash", "Defend", "Feed+", "Sentinel"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 140630, "card": "Sentinel", "hand": ["Defend", "Defend", "Flame Barrier", "Bash"], "floor": 42, "hp": 86, "maxhp": 111, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 140736, "card": "Heavy Blade+", "hand": ["Defend", "Flame Barrier", "Bash", "Defend", "Rampage+"], "floor": 42, "hp": 86, "maxhp": 111, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 140898, "card": "Rampage+", "hand": ["Defend", "Defend", "Flame Barrier", "Feed"], "floor": 42, "hp": 86, "maxhp": 111, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 141286, "card": "Feed+", "hand": ["Strike+", "Heavy Blade+", "Defend", "Uppercut+", "Rampage+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 142520, "card": "Dark Embrace", "hand": ["Shockwave+", "Seeing Red"], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 142648, "card": "Shockwave+", "hand": ["Headbutt", "Heavy Blade+"], "floor": 44, "hp": 96, "maxhp": 115, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 143036, "card": "Sentinel", "hand": ["Headbutt", "Defend", "Heavy Blade+", "Sentinel", "Rampage+"], "floor": 44, "hp": 96, "maxhp": 115, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 143374, "card": "Headbutt", "hand": [], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 143508, "card": "Sentinel", "hand": [], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 144450, "card": "Corruption", "hand": ["Defend", "Heavy Blade+", "Bash", "Burning Pact+"], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 144566, "card": "Defend", "hand": ["Heavy Blade+", "Defend"], "floor": 44, "hp": 90, "maxhp": 115, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 144638, "card": "Evolve", "hand": ["Burning Pact+", "Defend", "Heavy Blade+", "Uppercut+", "Burn+"], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144718, "card": "Berserk", "hand": ["Heavy Blade+", "Bash", "Burning Pact+"], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 144850, "card": "Defend", "hand": ["Heavy Blade+", "Bash", "Heavy Blade+", "Uppercut+", "Burn+", "Burn+"], "floor": 44, "hp": 90, "maxhp": 115, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 144992, "card": "Sentinel", "hand": ["Heavy Blade+", "Bash", "Heavy Blade+", "Uppercut+", "Burning Pact+"], "floor": 44, "hp": 30, "maxhp": 115, "block": 22, "energy": -1, "v2.0": false}
+{"frame": 145122, "card": "Heavy Blade+", "hand": ["Bash", "Heavy Blade+", "Uppercut+", "Burning Pact+", "Combust+", "Sentinel"], "floor": 44, "hp": 90, "maxhp": 115, "block": 27, "energy": 4, "v2.0": false}
+{"frame": 145350, "card": "Bash", "hand": ["Feed+", "Heavy Blade+", "Uppercut+", "Burning Pact+", "Burning Pact+", "Sentinel"], "floor": 44, "hp": 90, "maxhp": 115, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 145456, "card": "Heavy Blade+", "hand": ["Feed", "Uppercut+", "Burning Pact+"], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 145534, "card": "Sentinel", "hand": ["Uppercut+", "Burning Pact+", "Burning Pact+", "Combust+", "Feed"], "floor": 44, "hp": 90, "maxhp": 115, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 145684, "card": "Headbutt", "hand": ["Feed+"], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 145768, "card": "Feed", "hand": ["Rage", "Burning Pact+", "Burning Pact+", "Combust+"], "floor": 44, "hp": 90, "maxhp": 115, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 145918, "card": "Heavy Blade+", "hand": ["Combust+", "Rampage+"], "floor": 44, "hp": 94, "maxhp": 118, "block": 36, "energy": 4, "v2.0": false}
+{"frame": 146100, "card": "Burning Pact+", "hand": ["Uppercut+", "Burning Pact+", "Combust+", "Rampage+"], "floor": 44, "hp": 94, "maxhp": 119, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 146170, "card": "Burning Pact+", "hand": ["Burning Pact+", "Rampage+"], "floor": 44, "hp": 94, "maxhp": 119, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 146272, "card": "Seeing Red+", "hand": [], "floor": 44, "hp": 94, "maxhp": 119, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 146440, "card": "Heavy Blade+", "hand": [], "floor": 44, "hp": 94, "maxhp": 119, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 147324, "card": "Corruption", "hand": ["Heavy Blade+", "Demon Form", "Uppercut+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 147418, "card": "Demon Form", "hand": ["Uppercut+", "Entrench"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 147454, "card": "Shockwave+", "hand": ["Uppercut+", "Entrench"], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 147558, "card": "Defend", "hand": ["Heavy Blade+", "Uppercut+", "Sentinel"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 147620, "card": "Uppercut+", "hand": ["Heavy Blade+", "Sentinel"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 147664, "card": "Heavy Blade+", "hand": ["Sentinel"], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 148046, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Strike+", "Headbutt", "Reaper+", "Flame Barrier", "Defend"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 148208, "card": "Evolve", "hand": ["Headbutt", "Reaper+", "Bash", "Heavy Blade+"], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 148432, "card": "Bash", "hand": ["Heavy Blade+", "Headbutt", "Reaper+", "Defend", "Rampage+"], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 148530, "card": "Rampage+", "hand": ["Heavy Blade+", "Headbutt", "Reaper+", "Defend", "Flame Barrier"], "floor": 45, "hp": 160, "maxhp": 14, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 148622, "card": "Heavy Blade+", "hand": ["Headbutt", "Reaper+", "Defend", "Flame Barrier"], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 148692, "card": "Headbutt", "hand": ["Defend"], "floor": 45, "hp": 100, "maxhp": 11, "block": 4, "energy": 8, "v2.0": false}
+{"frame": 149070, "card": "Dark Embrace", "hand": ["Sentinel", "Combust+", "Ascender's Bane"], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 149310, "card": "Combust+", "hand": [], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 149618, "card": "Sentinel", "hand": ["Heavy Blade+", "Second Wind", "Seeing Red", "Seeing Red+"], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 149856, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Seeing Red", "Seeing Red+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 150018, "card": "Seeing Red+", "hand": ["Bash", "Heavy Blade+", "Reaper+", "Seeing Red", "Rampage+"], "floor": 45, "hp": 100, "maxhp": 11, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 150306, "card": "Uppercut+", "hand": ["Bash", "Heavy Blade+", "Reaper+", "Heavy Blade+", "Seeing Red"], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 150548, "card": "Bash", "hand": ["Heavy Blade+", "Reaper+", "Reaper", "Heavy Blade+", "Rampage+"], "floor": 45, "hp": 100, "maxhp": 11, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 150680, "card": "Heavy Blade+", "hand": ["Seeing Red", "Feed+"], "floor": 45, "hp": 100, "maxhp": 1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 150716, "card": "Heavy Blade+", "hand": ["Seeing Red", "Feed", "Reaper+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 151214, "card": "Defend", "hand": ["Defend", "Feed+", "Bash", "Heavy Blade+", "Rampage+", "Uppercut+"], "floor": 45, "hp": 99, "maxhp": 119, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 151300, "card": "Defend", "hand": ["Feed+", "Bash", "Heavy Blade+", "Heavy Blade+", "Uppercut+"], "floor": 45, "hp": 99, "maxhp": 119, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 151414, "card": "Flame Barrier", "hand": ["Feed+", "Bash", "Heavy Blade+", "Heavy Blade+"], "floor": 45, "hp": 94, "maxhp": 119, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 153580, "card": "Corruption", "hand": ["Heavy Blade+", "Headbutt", "Burning Pact+", "Dual Wield", "Sentinel"], "floor": 46, "hp": 169, "maxhp": 12, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 153764, "card": "Burning Pact+", "hand": ["Seeing Red+", "Heavy Blade+", "Dual Wield"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 154062, "card": "Defend", "hand": ["Rage+", "Heavy Blade+", "Sentinel", "Feed+"], "floor": 46, "hp": 109, "maxhp": 12, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 154596, "card": "Dark Embrace", "hand": ["Bash", "Sentinel", "Shockwave+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 154756, "card": "Shockwave+", "hand": ["Bash", "Defend", "Sentinel+", "Uppercut+"], "floor": 46, "hp": 102, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 154998, "card": "Burning Pact+", "hand": ["Sentinel+", "Bash"], "floor": 46, "hp": 102, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 155274, "card": "Demon Form", "hand": ["Reaper", "Sentinel"], "floor": 46, "hp": 102, "maxhp": 1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 155426, "card": "Sentinel", "hand": ["Bash", "Rampage+", "Reaper", "Ascender's Bane"], "floor": 46, "hp": 102, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 155520, "card": "Defend", "hand": ["Bash", "Reaper", "Rampage+"], "floor": 46, "hp": 102, "maxhp": 12, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 155636, "card": "Seeing Red", "hand": ["Bash", "Reaper", "Rampage+"], "floor": 46, "hp": 102, "maxhp": 12, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 155758, "card": "Defend", "hand": ["Bash", "Reaper+", "Strike", "Rampage+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 10, "energy": -1, "v2.0": false}
+{"frame": 156010, "card": "Uppercut+", "hand": ["Bash", "Reaper+", "Rampage+", "Strike+", "Seeing Red+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 156348, "card": "Bash", "hand": ["Reaper+", "Ascender's Bane", "Seeing Red+"], "floor": 46, "hp": 162, "maxhp": 12, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 156498, "card": "Seeing Red+", "hand": ["Reaper+", "Ascender's Bane", "Strike"], "floor": 46, "hp": 102, "maxhp": 12, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 157474, "card": "Heavy Blade+", "hand": ["Strike+", "Flame Barrier+", "Feed+", "Sentinel", "Heavy Blade+"], "floor": 46, "hp": 101, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 157614, "card": "Strike+", "hand": ["Flame Barrier", "Feed+", "Sentinel", "Bash", "Uppercut+", "Heavy Blade+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 157786, "card": "Flame Barrier", "hand": ["Bash", "Uppercut+", "Entrench"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 157810, "card": "Flame Barrier", "hand": ["Feed"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 157908, "card": "Sentinel", "hand": ["Feed+", "Uppercut+", "Reaper+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 158184, "card": "Heavy Blade+", "hand": ["Feed+", "Bash", "Reaper+", "Uppercut+", "Rampage+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 158876, "card": "Reaper+", "hand": ["Bash", "Heavy Blade+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 159140, "card": "Strike+", "hand": ["Bash", "Feed+", "Heavy Blade+", "Heavy Blade+", "Rampage+", "Uppercut+"], "floor": 46, "hp": 116, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 159188, "card": "Feed+", "hand": ["Bash", "Heavy Blade+", "Heavy Blade+", "Rampage+", "Uppercut+"], "floor": 46, "hp": 116, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 160252, "card": "Dark Embrace", "hand": ["Feed+"], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 160322, "card": "Shockwave+", "hand": ["Feed+", "Reaper+"], "floor": 47, "hp": 126, "maxhp": 12, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 161704, "card": "Burning Pact+", "hand": [], "floor": 47, "hp": 118, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 161874, "card": "Defend", "hand": ["Evolve", "Dazed"], "floor": 47, "hp": 118, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 161920, "card": "Seeing Red+", "hand": ["Heavy Blade", "Demon Form", "Dazed", "Defend", "Seeing Red", "Flame Barrier"], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 162252, "card": "Seeing Red", "hand": ["Flame Barrier", "Demon Form", "Dazed", "Defend"], "floor": 47, "hp": 118, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 162366, "card": "Corruption", "hand": ["Heavy Blade+", "Dazed"], "floor": 47, "hp": 118, "maxhp": 12, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 162486, "card": "Flame Barrier", "hand": ["Defend"], "floor": 47, "hp": 118, "maxhp": 12, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 162634, "card": "Defend", "hand": ["Demon Form", "Heavy Blade+", "Dazed"], "floor": 47, "hp": 118, "maxhp": 12, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 162752, "card": "Demon Form", "hand": ["Dazed", "Rampage+", "Heavy Blade+"], "floor": 47, "hp": 118, "maxhp": 12, "block": 2, "energy": 2, "v2.0": false}
+{"frame": 163962, "card": "Sentinel", "hand": ["Reaper+", "Dazed", "Feed", "Uppercut+", "Entrench"], "floor": 47, "hp": 117, "maxhp": 12, "block": 10, "energy": -1, "v2.0": false}
+{"frame": 164354, "card": "Defend", "hand": ["Reaper+", "Bash"], "floor": 47, "hp": -1, "maxhp": -1, "block": 15, "energy": 8, "v2.0": false}
+{"frame": 164990, "card": "Feed+", "hand": ["Reaper+", "Bash", "Uppercut+", "Burning Pact+"], "floor": 47, "hp": 117, "maxhp": 12, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 165212, "card": "Rampage+", "hand": ["Reaper+", "Bash", "Feed", "Uppercut+"], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 165904, "card": "Reaper+", "hand": [], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 165994, "card": "Reaper+", "hand": ["Bash", "Uppercut+", "Headbutt", "Rampage+"], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 166256, "card": "Heavy Blade+", "hand": ["Bash", "Uppercut+", "Burning Pact+", "Rampage+"], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 166492, "card": "Heavy Blade+", "hand": [], "floor": 47, "hp": 135, "maxhp": 13, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 167622, "card": "Burning Pact+", "hand": ["Shockwave+", "Shockwave+", "Heavy Blade+", "Corruption", "Bash"], "floor": 48, "hp": 135, "maxhp": 13, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 167660, "card": "Clothesline", "hand": [], "floor": 48, "hp": 135, "maxhp": 13, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 167712, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Corruption", "Bash", "Shockwave+", "Shockwave+"], "floor": 48, "hp": 135, "maxhp": 13, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 167830, "card": "Corruption", "hand": ["Feed+", "Defend"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 167960, "card": "Shockwave+", "hand": ["Feed+"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 168286, "card": "Heavy Blade+", "hand": ["Bash", "Feed+", "Defend"], "floor": 48, "hp": 135, "maxhp": 13, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 168330, "card": "Feed", "hand": ["Bash", "Defend"], "floor": 48, "hp": 135, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 168486, "card": "Headbutt", "hand": [], "floor": 48, "hp": 1338, "maxhp": 13, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 168942, "card": "Dark Embrace", "hand": ["Heavy Blade+", "Demon Form", "Strike+"], "floor": 48, "hp": 139, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 168978, "card": "Sentinel", "hand": ["Heavy Blade+", "Demon Form", "Strike+", "Rampage+", "Burning Pact+"], "floor": 48, "hp": 139, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 169076, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Rampage+", "Demon Form", "Strike+", "Strike+", "Defend"], "floor": 48, "hp": 139, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 169172, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Demon Form", "Defend"], "floor": 48, "hp": 139, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 169348, "card": "Demon Form", "hand": ["Rampage+", "Ascender's Bane", "Seeing Red+", "Uppercut+"], "floor": 48, "hp": 136, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 169388, "card": "Seeing Red+", "hand": ["Defend", "Heavy Blade+", "Defend", "Uppercut+"], "floor": 48, "hp": 136, "maxhp": 13, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 169460, "card": "Defend", "hand": ["Heavy Blade+", "Flame Barrier", "Uppercut+", "Dual Wield"], "floor": 48, "hp": 136, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 169534, "card": "Defend", "hand": ["Rampage+", "Dual Wield", "Combust+"], "floor": 48, "hp": 1356, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 169714, "card": "Dual Wield", "hand": ["Uppercut+", "Combust+"], "floor": 48, "hp": 1358, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 169848, "card": "Uppercut+", "hand": ["Heavy Blade+", "Reaper+", "Flame Barrier", "Ascender's Bane", "Uppercut+", "Burning Pact+"], "floor": 48, "hp": 138, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 169998, "card": "Heavy Blade+", "hand": ["Reaper+", "Rampage+", "Burning Pact+"], "floor": 48, "hp": 135, "maxhp": 13, "block": 15, "energy": -1, "v2.0": false}
+{"frame": 170092, "card": "Rampage+", "hand": ["Reaper+", "Combust+", "Flame Barrier"], "floor": 48, "hp": -1, "maxhp": -1, "block": 19, "energy": -1, "v2.0": false}
+{"frame": 170228, "card": "Heavy Blade+", "hand": ["Combust+", "Reaper+", "Flame Barrier", "Burning Pact+"], "floor": 48, "hp": 139, "maxhp": 13, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 170450, "card": "Barricade+", "hand": ["Reaper+", "Ascender's Bane+"], "floor": 48, "hp": 1359, "maxhp": 13, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 170556, "card": "Seeing Red", "hand": ["Combust+", "Reaper+", "Burning Pact+"], "floor": 48, "hp": 139, "maxhp": 13, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 170718, "card": "Burning Pact+", "hand": ["Bash", "Combust+", "Reaper+"], "floor": 48, "hp": 1358, "maxhp": 13, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 170774, "card": "Burning Pact+", "hand": ["Combust+", "Reaper+", "Bash"], "floor": 48, "hp": 1359, "maxhp": 13, "block": 22, "energy": 3, "v2.0": false}
+{"frame": 170984, "card": "Burning Pact+", "hand": ["Reaper+", "Ascender's Bane"], "floor": 48, "hp": 135, "maxhp": 13, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 171114, "card": "Heavy Blade+", "hand": [], "floor": 48, "hp": 135, "maxhp": 13, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 172912, "card": "Dark Embrace", "hand": ["Demon Form", "Heavy Blade+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 172952, "card": "Shockwave+", "hand": ["Feed+", "Demon Form", "Heavy Blade+"], "floor": 50, "hp": 139, "maxhp": 13, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 173086, "card": "Demon Form", "hand": ["Heavy Blade+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 173496, "card": "Bash", "hand": [], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 173532, "card": "Heavy Blade+", "hand": [], "floor": 50, "hp": 139, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 174142, "card": "Headbutt", "hand": [], "floor": 50, "hp": 126, "maxhp": 13, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 174720, "card": "Feed+", "hand": ["Strike+", "Defend"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 175522, "card": "Rampage+", "hand": ["Feed+"], "floor": 50, "hp": 130, "maxhp": 14, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 175620, "card": "Seeing Red", "hand": ["Feed+", "Reaper+"], "floor": 50, "hp": 130, "maxhp": 14, "block": 4, "energy": -1, "v2.0": false}
+{"frame": 176806, "card": "Defend", "hand": [], "floor": 50, "hp": 13, "maxhp": 14, "block": 4, "energy": 8, "v2.0": false}
+{"frame": 176900, "card": "Flame Barrier", "hand": [], "floor": 50, "hp": 130, "maxhp": 14, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 177496, "card": "Corruption", "hand": ["Defend", "Heavy Blade+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 177664, "card": "Headbutt", "hand": [], "floor": 50, "hp": 126, "maxhp": 14, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 177788, "card": "Sentinel", "hand": ["Defend", "Heavy Blade+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 177924, "card": "Feed+", "hand": ["Defend", "Heavy Blade+", "Shockwave+", "Burning Pact+"], "floor": 50, "hp": 126, "maxhp": 14, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 178074, "card": "Burning Pact+", "hand": ["Defend", "Heavy Blade+", "Bash", "Rampage+"], "floor": 50, "hp": 130, "maxhp": 14, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 178196, "card": "Burning Pact+", "hand": ["Heavy Blade+", "Bash"], "floor": 50, "hp": 130, "maxhp": 14, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 178362, "card": "Rampage+", "hand": ["Heavy Blade+", "Bash"], "floor": 50, "hp": 130, "maxhp": 14, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 178556, "card": "Dropkick+", "hand": ["Heavy Blade+"], "floor": 50, "hp": 130, "maxhp": 14, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 178638, "card": "Sentinel", "hand": ["Heavy Blade", "Burn"], "floor": 50, "hp": 1306, "maxhp": 14, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 178784, "card": "Flame Barrier", "hand": ["Defend", "Heavy Blade+"], "floor": 50, "hp": 1306, "maxhp": 14, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 179068, "card": "Heavy Blade+", "hand": ["Defend", "Reaper+", "Reaper+", "Cleave"], "floor": 50, "hp": -1, "maxhp": -1, "block": 26, "energy": -1, "v2.0": false}
+{"frame": 179252, "card": "Defend", "hand": ["Reaper+", "Shockwave+"], "floor": 50, "hp": 130, "maxhp": 14, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 179556, "card": "Heavy Blade+", "hand": ["Reaper+", "Reaper+", "Headbutt", "Feed"], "floor": 50, "hp": 130, "maxhp": 14, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 180262, "card": "Heavy Blade+", "hand": ["Defend", "Headbutt", "Reaper+", "Feed+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 180430, "card": "Reaper+", "hand": ["Defend", "Headbutt", "Feed+", "Burning Pact+"], "floor": 50, "hp": 122, "maxhp": 14, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 180992, "card": "Seeing Red+", "hand": ["Heavy Blade+", "Reaper+", "Headbutt", "Heavy Blade+", "Feed+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 181140, "card": "Bash", "hand": ["Heavy Blade+", "Reaper+", "Headbutt", "Heavy Blade+", "Feed+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 181320, "card": "Heavy Blade+", "hand": ["Heavy Blade+", "Reaper+", "Headbutt", "Feed+", "Entrench"], "floor": 50, "hp": 143, "maxhp": 14, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 181526, "card": "Heavy Blade+", "hand": ["Reaper+", "Headbutt", "Feed+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 4, "energy": -1, "v2.0": false}
+{"frame": 182096, "card": "Armaments+", "hand": [], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 8, "v2.0": false}
+{"frame": 182434, "card": "Corruption", "hand": ["Decay+", "Heavy Blade+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 182520, "card": "Corruption", "hand": ["Heavy Blade+", "Shockwave+", "Burning Pact+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 182604, "card": "Shockwave+", "hand": [], "floor": 51, "hp": 151, "maxhp": 15, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182626, "card": "Shockwave+", "hand": ["Pain"], "floor": 51, "hp": 151, "maxhp": 15, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182668, "card": "Flame Barrier", "hand": [], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 183090, "card": "Demon Form", "hand": ["Strike+", "Defend"], "floor": 51, "hp": 138, "maxhp": 15, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 183140, "card": "Dark Embrace", "hand": ["Feed+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 183316, "card": "Strike+", "hand": ["Feed+", "Shockwave+"], "floor": 51, "hp": 1349, "maxhp": 15, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 184690, "card": "Headbutt", "hand": ["Strike"], "floor": 51, "hp": 127, "maxhp": 15, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 184880, "card": "Seeing Red+", "hand": ["Heavy Blade+", "Reaper+", "Dual Wield"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 185114, "card": "Dual Wield", "hand": [], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 185344, "card": "Heavy Blade+", "hand": ["Reaper+", "Heavy Blade+", "Defend", "Heavy Blade+", "Defend"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 185400, "card": "Heavy Blade+", "hand": ["Reaper+", "Heavy Blade+", "Defend", "Defend"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 185492, "card": "Heavy Blade+", "hand": ["Defend", "Reaper+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 186184, "card": "Evolve", "hand": ["Reaper+", "Shame", "Defend", "Defend"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 186256, "card": "Slimed", "hand": ["Reaper+", "Defend", "Defend"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 186358, "card": "Heavy Blade+", "hand": ["Reaper+", "Defend", "Defend", "Sentinel"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 186750, "card": "Slimed", "hand": ["Strike+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 187292, "card": "Shockwave+", "hand": ["Feed+", "Defend", "Dropkick+", "Burning Pact+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 187796, "card": "Burning Pact+", "hand": [], "floor": 51, "hp": 110, "maxhp": 15, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 187908, "card": "Defend", "hand": ["Heavy Blade+", "Heavy Blade", "Uppercut+"], "floor": 51, "hp": 110, "maxhp": 15, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 188056, "card": "Heavy Blade+", "hand": ["Heavy Blade+", "Dropkick+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 188138, "card": "Heavy Blade+", "hand": ["Feed+", "Dropkick+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 188288, "card": "Uppercut+", "hand": ["Feed+", "Dropkick+", "Bash", "Combust+"], "floor": 51, "hp": 110, "maxhp": 15, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 188710, "card": "Reaper+", "hand": ["Heavy Blade+", "Defend"], "floor": 51, "hp": 97, "maxhp": 151, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 188904, "card": "Sentinel", "hand": ["Headbutt", "Defend", "Bash"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 189010, "card": "Sentinel", "hand": ["Headbutt", "Heavy Blade+", "Defend", "Bash", "Heavy Blade+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 189118, "card": "Defend", "hand": ["Headbutt", "Heavy Blade+", "Heavy Blade+", "Bash"], "floor": 51, "hp": 122, "maxhp": 15, "block": 10, "energy": -1, "v2.0": false}
+{"frame": 189260, "card": "Slimed", "hand": ["Heavy Blade+", "Bash", "Heavy Blade+", "Slimed", "Headbutt"], "floor": 51, "hp": 122, "maxhp": 15, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 189380, "card": "Slimed", "hand": ["Bash", "Headbutt", "Heavy Blade+", "Combust+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 189484, "card": "Dropkick+", "hand": ["Bash", "Headbutt", "Heavy Blade+", "Uppercut+"], "floor": 51, "hp": 122, "maxhp": 15, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 190142, "card": "Feed+", "hand": ["Headbutt", "Heavy Blade+", "Seeing Red", "Burning Pact+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": -1, "v2.0": false}
+done

@@ -1,0 +1,735 @@
+{"frame": 2296, "card": "Bash", "hand": ["Defend", "Strike", "Strike"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2338, "card": "Defend", "hand": ["Strike", "Strike", "Ascender's Bane"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 2624, "card": "Strike", "hand": ["Defend", "Defend", "Strike", "Strike"], "floor": 1, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2740, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 1, "hp": 43, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3224, "card": "Bash", "hand": ["Defend", "Defend", "Defend", "Defend"], "floor": 1, "hp": 41, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3262, "card": "Defend", "hand": ["Defend", "Defend", "Defend"], "floor": 1, "hp": 41, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 3544, "card": "Strike", "hand": ["Strike", "Strike", "Strike"], "floor": 1, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3568, "card": "Strike", "hand": ["Strike", "Strike"], "floor": 1, "hp": 39, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3590, "card": "Strike", "hand": [], "floor": 1, "hp": 39, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5050, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 2, "hp": 45, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5076, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 2, "hp": 45, "maxhp": 795, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5326, "card": "Infernal Blade", "hand": ["Defend", "Defend", "Bash", "Strike"], "floor": 2, "hp": 45, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5488, "card": "Searing Blow", "hand": ["Defend", "Defend", "Bash", "Strike"], "floor": 2, "hp": 45, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5736, "card": "Defend", "hand": ["Defend", "Bash", "Strike"], "floor": 2, "hp": 45, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5790, "card": "Strike", "hand": ["Defend", "Bash"], "floor": 2, "hp": 45, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 6106, "card": "Defend", "hand": ["Defend"], "floor": 2, "hp": 44, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6134, "card": "Defend", "hand": ["Defend", "Ascender's Bane"], "floor": 2, "hp": 44, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 6496, "card": "Bash", "hand": ["Strike", "Strike", "Searing Blow"], "floor": 2, "hp": 44, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6524, "card": "Strike", "hand": [], "floor": 2, "hp": 44, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 8430, "card": "Infernal Blade", "hand": ["Strike", "Defend", "Strike"], "floor": 4, "hp": 50, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 9266, "card": "Defend", "hand": ["Strike", "Sword Boomerang"], "floor": 4, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9288, "card": "Defend", "hand": ["Strike", "Sword Boomerang", "Strike"], "floor": 4, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9308, "card": "Defend", "hand": ["Strike", "Sword Boomerang", "Strike"], "floor": 4, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9332, "card": "Defend", "hand": ["Strike", "Sword Boomerang"], "floor": 4, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9350, "card": "Defend", "hand": ["Strike", "Sword Boomerang", "Strike"], "floor": 4, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9380, "card": "Defend", "hand": ["Strike", "Sword Boomerang", "Strike"], "floor": 4, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9562, "card": "Strike", "hand": ["Sword Boomerang", "Strike", "Ascender's Bane"], "floor": 4, "hp": 50, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 9656, "card": "Sword Boomerang", "hand": ["Strike", "Ascender's Bane"], "floor": 4, "hp": 50, "maxhp": 75, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 10064, "card": "Flame Barrier", "hand": ["Strike", "Defend", "Defend"], "floor": 4, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10082, "card": "Flame Barrier", "hand": ["Strike", "Defend"], "floor": 4, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10100, "card": "Flame Barrier", "hand": ["Strike", "Defend"], "floor": 4, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10118, "card": "Flame Barrier", "hand": ["Strike", "Defend", "Defend", "Entrench"], "floor": 4, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10138, "card": "Flame Barrier", "hand": ["Defend", "Defend"], "floor": 4, "hp": 48, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 10210, "card": "Defend", "hand": ["Strike", "Strike", "Defend"], "floor": 4, "hp": 48, "maxhp": 75, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 10676, "card": "Bash", "hand": ["Defend", "Strike", "Sword Boomerang", "Flame Barrier"], "floor": 4, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10706, "card": "Sword Boomerang", "hand": ["Defend", "Strike", "Flame Barrier"], "floor": 4, "hp": 48, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 16610, "card": "Armaments", "hand": ["Defend", "Strike", "Strike"], "floor": 7, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16778, "card": "Strike+", "hand": ["Defend", "Strike", "Flame Barrier"], "floor": 7, "hp": 54, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 17100, "card": "Strike", "hand": ["Flame Barrier", "Defend"], "floor": 7, "hp": 54, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 17868, "card": "Infernal Blade", "hand": ["Defend", "Strike", "Defend", "Strike", "Defend", "Blind"], "floor": 7, "hp": 49, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18074, "card": "Defend", "hand": ["Defend", "Defend", "Strike", "Body Slam"], "floor": 7, "hp": 49, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 18160, "card": "Defend", "hand": ["Strike", "Body Slam", "Demon Form+"], "floor": 7, "hp": 49, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 18216, "card": "Defend", "hand": ["Defend", "Strike"], "floor": 7, "hp": 49, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 18452, "card": "Body Slam", "hand": ["Defend", "Demon Form+", "Strike", "Strike", "Strike"], "floor": 7, "hp": 49, "maxhp": 75, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 18972, "card": "Defend", "hand": ["Bash", "Dazed", "Dazed", "Dazed"], "floor": 7, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 19010, "card": "Bash", "hand": ["Dazed", "Dazed", "Dazed"], "floor": 7, "hp": 39, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 19534, "card": "Defend", "hand": ["Body Slam+", "Strike+"], "floor": 7, "hp": 34, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 19602, "card": "Strike+", "hand": ["Body Slam+", "Dazed"], "floor": 7, "hp": 34, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 19638, "card": "Body Slam+", "hand": ["Dazed"], "floor": 7, "hp": 34, "maxhp": 75, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 20132, "card": "Flame Barrier", "hand": ["Strike", "Dazed", "Defend"], "floor": 7, "hp": 34, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20156, "card": "Flame Barrier", "hand": ["Defend"], "floor": 7, "hp": 34, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 20220, "card": "Strike", "hand": ["Demon Form+", "Defend", "Dazed"], "floor": 7, "hp": 34, "maxhp": 75, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 20566, "card": "Defend", "hand": ["Strike", "Dazed", "Dazed", "Dazed"], "floor": 7, "hp": 34, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20630, "card": "Strike", "hand": ["Dazed", "Dazed", "Dazed"], "floor": 7, "hp": 34, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 21118, "card": "Strike+", "hand": ["Strike", "Defend", "Body Slam+", "Dazed"], "floor": 7, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21144, "card": "Defend", "hand": ["Dazed", "Strike", "Body Slam+"], "floor": 7, "hp": 29, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 21180, "card": "Strike", "hand": ["Dazed"], "floor": 7, "hp": 29, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 21208, "card": "Body Slam+", "hand": ["Dazed"], "floor": 7, "hp": 29, "maxhp": 75, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 21458, "card": "Defend", "hand": ["Dazed", "Dazed", "Dazed", "Dazed"], "floor": 7, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21766, "card": "Strike", "hand": ["Defend", "Dazed", "Dazed"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22068, "card": "Flame Barrier", "hand": ["Bash", "Armaments", "Dazed"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22216, "card": "Armaments", "hand": ["Bash", "Flame Barrier", "Dazed"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22324, "card": "Flame Barrier+", "hand": ["Bash", "Dazed"], "floor": 7, "hp": 24, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 22684, "card": "Demon Form+", "hand": ["Strike", "Dazed", "Dazed"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23066, "card": "Defend", "hand": ["Defend", "Strike"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23122, "card": "Strike+", "hand": ["Defend", "Defend", "Strike", "Dazed"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23186, "card": "Defend", "hand": ["Defend", "Strike", "Dazed"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 23214, "card": "Defend", "hand": ["Strike", "Dazed"], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 23762, "card": "Strike", "hand": [], "floor": 7, "hp": 24, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 24442, "card": "Defend", "hand": ["Defend", "Demon Form+", "Strike"], "floor": 8, "hp": 30, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 24472, "card": "Defend", "hand": ["Strike", "Demon Form+"], "floor": 8, "hp": 30, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 24512, "card": "Purity", "hand": ["Demon Form+", "Ascender's Bane"], "floor": 8, "hp": 30, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 25750, "card": "Infernal Blade", "hand": ["Armaments", "Strike", "Feed", "Defend", "Strike", "Bash", "Flame Barrier+"], "floor": 8, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26286, "card": "Armaments", "hand": ["Strike", "Feed", "Defend", "Iron Wave"], "floor": 8, "hp": 29, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 26436, "card": "Iron Wave+", "hand": ["Strike", "Strike", "Feed", "Defend", "Flame Barrier"], "floor": 8, "hp": 25, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 26514, "card": "Strike", "hand": ["Bash", "Flame Barrier", "Feed", "Defend"], "floor": 8, "hp": 25, "maxhp": 75, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 26868, "card": "Strike", "hand": ["Defend", "Armaments", "Strike"], "floor": 8, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26898, "card": "Strike", "hand": ["Defend", "Armaments"], "floor": 8, "hp": 29, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 26926, "card": "Strike", "hand": ["Defend", "Armaments"], "floor": 8, "hp": 29, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 27282, "card": "Bash", "hand": ["Defend", "Defend", "Feed", "Flame Barrier+"], "floor": 8, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27318, "card": "Feed", "hand": ["Defend", "Defend"], "floor": 8, "hp": 29, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 28932, "card": "Flame Barrier", "hand": ["Defend", "Ascender's Bane"], "floor": 10, "hp": 38, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 28980, "card": "Strike", "hand": ["Bash", "Defend", "Ascender's Bane"], "floor": 10, "hp": 38, "maxhp": 78, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 34110, "card": "Infernal Blade", "hand": ["Iron Wave", "Strike", "Strike", "Defend"], "floor": 10, "hp": 38, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34244, "card": "Strike", "hand": ["Iron Wave", "Strike", "Defend", "Whirlwind"], "floor": 10, "hp": 38, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 34284, "card": "Strike", "hand": ["Iron Wave", "Defend", "Whirlwind"], "floor": 10, "hp": 38, "maxhp": 78, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 34910, "card": "Armaments", "hand": ["Defend", "Strike", "Defend", "Demon Form+"], "floor": 10, "hp": 38, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35012, "card": "Defend+", "hand": ["Defend", "Strike", "Demon Form+"], "floor": 10, "hp": 38, "maxhp": 78, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 35046, "card": "Strike", "hand": ["Defend", "Demon Form+"], "floor": 10, "hp": 38, "maxhp": 78, "block": 1, "energy": 1, "v2.0": false}
+{"frame": 35584, "card": "Armaments", "hand": ["Strike", "Whirlwind"], "floor": 10, "hp": 38, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35704, "card": "Whirlwind+", "hand": ["Feed", "Strike", "Shame"], "floor": 10, "hp": 38, "maxhp": 78, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 36300, "card": "Defend", "hand": ["Demon Form+", "Defend", "Shame", "Strike"], "floor": 10, "hp": 38, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 36336, "card": "Defend", "hand": ["Slimed", "Strike", "Demon Form+"], "floor": 10, "hp": 38, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 36402, "card": "Strike", "hand": ["Demon Form+", "Shame"], "floor": 10, "hp": 38, "maxhp": 78, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 36774, "card": "Flame Barrier", "hand": ["Defend+", "Strike", "Bash", "Slimed", "Defend"], "floor": 10, "hp": 36, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 36798, "card": "Flame Barrier", "hand": ["Defend+", "Strike", "Bash", "Shame", "Defend"], "floor": 10, "hp": 36, "maxhp": 78, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 37422, "card": "Whirlwind+", "hand": ["Iron Wave"], "floor": 10, "hp": 36, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37792, "card": "Feed", "hand": ["Defend", "Bash", "Shame", "Strike"], "floor": 10, "hp": 36, "maxhp": 78, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 40618, "card": "Armaments", "hand": ["Iron Wave", "Feed", "Bash", "Demon Form+"], "floor": 11, "hp": 61, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 40724, "card": "Iron Wave+", "hand": ["Feed", "Bash", "Demon Form+"], "floor": 11, "hp": 61, "maxhp": 81, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 41126, "card": "Infernal Blade", "hand": ["Strike", "Defend", "Uppercut", "Strike"], "floor": 11, "hp": 60, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 41198, "card": "Flame Barrier", "hand": ["Defend", "Body Slam", "Strike"], "floor": 11, "hp": 60, "maxhp": 81, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 41220, "card": "Flame Barrier", "hand": [], "floor": 11, "hp": 60, "maxhp": 81, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 41610, "card": "Defend", "hand": ["Strike", "Defend", "Strike", "Iron Wave+"], "floor": 11, "hp": 60, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 41682, "card": "Iron Wave", "hand": ["Strike", "Strike"], "floor": 11, "hp": 60, "maxhp": 81, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 42180, "card": "Armaments", "hand": ["Defend", "Strike", "Feed", "Bash"], "floor": 11, "hp": 60, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 42596, "card": "Flame Barrier", "hand": ["Demon Form+", "Strike", "Body Slam"], "floor": 11, "hp": 60, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 42736, "card": "Defend", "hand": ["Strike", "Body Slam", "Demon Form+"], "floor": 11, "hp": 60, "maxhp": 81, "block": 1, "energy": 1, "v2.0": false}
+{"frame": 43236, "card": "Defend", "hand": ["Defend", "Body Slam", "Strike", "Uppercut"], "floor": 11, "hp": 60, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 43302, "card": "Defend", "hand": ["Body Slam", "Strike", "Uppercut"], "floor": 11, "hp": 60, "maxhp": 81, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 43362, "card": "Body Slam", "hand": ["Uppercut", "Strike"], "floor": 11, "hp": 60, "maxhp": 81, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 43616, "card": "Feed+", "hand": ["Demon Form+", "Strike", "Bash", "Defend"], "floor": 11, "hp": 57, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47866, "card": "Demon Form+", "hand": ["Defend", "Flame Barrier", "Strike", "Bash"], "floor": 13, "hp": 67, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 48258, "card": "Infernal Blade", "hand": ["Defend", "Strike", "Iron Wave", "Feed+"], "floor": 13, "hp": 67, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 49010, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 13, "hp": 67, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 49082, "card": "Strike", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 13, "hp": 67, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 49706, "card": "Iron Wave+", "hand": ["Fiend Fire", "Defend", "Uppercut"], "floor": 13, "hp": 67, "maxhp": 85, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 50228, "card": "Flame Barrier", "hand": ["Defend", "Bash", "Strike", "Defend", "Entrench"], "floor": 13, "hp": 64, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 50250, "card": "Flame Barrier", "hand": ["Bash", "Strike", "Defend"], "floor": 13, "hp": 64, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 50276, "card": "Defend", "hand": ["Strike", "Defend", "Bash"], "floor": 13, "hp": 64, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 50656, "card": "Strike", "hand": ["Strike", "Defend", "Iron Wave+", "Flame Barrier+"], "floor": 13, "hp": 61, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 50702, "card": "Strike", "hand": ["Defend"], "floor": 13, "hp": 61, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 50752, "card": "Iron Wave+", "hand": ["Defend", "Flame Barrier"], "floor": 13, "hp": 61, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 51160, "card": "Armaments", "hand": ["Strike", "Fiend Fire", "Defend", "Defend"], "floor": 13, "hp": 61, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 51252, "card": "Defend+", "hand": ["Strike", "Fiend Fire", "Defend"], "floor": 13, "hp": 61, "maxhp": 85, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 51286, "card": "Defend", "hand": ["Strike", "Fiend Fire"], "floor": 13, "hp": 61, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 51524, "card": "Feed+", "hand": ["Strike", "Bash", "Defend", "Uppercut+"], "floor": 13, "hp": 53, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 52698, "card": "Uppercut", "hand": ["Defend", "Defend", "Flame Barrier", "Iron Wave"], "floor": 14, "hp": 63, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 52732, "card": "Iron Wave", "hand": ["Defend", "Defend", "Flame Barrier"], "floor": 14, "hp": 63, "maxhp": 89, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 53676, "card": "Armaments", "hand": ["Feed+", "Strike", "Strike", "Defend", "Defend"], "floor": 14, "hp": 57, "maxhp": 8, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 54032, "card": "Defend+", "hand": ["Strike", "Strike", "Flex", "Feed+"], "floor": 14, "hp": 57, "maxhp": 89, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 54106, "card": "Strike", "hand": ["Strike", "Strike", "Defend", "Feed+"], "floor": 14, "hp": 57, "maxhp": 89, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 54532, "card": "Infernal Blade", "hand": ["Reaper", "Bash", "Smite", "Demon Form+"], "floor": 14, "hp": 57, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 54836, "card": "Bash", "hand": ["Reaper", "Strike", "Demon Form+"], "floor": 14, "hp": 57, "maxhp": 89, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 58462, "card": "Infernal Blade", "hand": ["Reaper", "Armaments", "Strike", "Void"], "floor": 16, "hp": 63, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58566, "card": "Armaments", "hand": ["Reaper", "Fiend Fire", "Ascender's Bane", "Strike"], "floor": 16, "hp": 63, "maxhp": 89, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 58730, "card": "Strike", "hand": ["Fiend Fire+", "Reaper", "Ascender's Bane"], "floor": 16, "hp": 63, "maxhp": 89, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 59110, "card": "Uppercut+", "hand": ["Strike", "Strike", "Defend", "Defend"], "floor": 16, "hp": 63, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 59518, "card": "Demon Form+", "hand": ["Feed+", "Defend", "Flame Barrier", "Trip", "Bash"], "floor": 16, "hp": 46, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 59970, "card": "Defend", "hand": ["Strike", "Defend", "Strike"], "floor": 16, "hp": 42, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 60030, "card": "Strike", "hand": ["Burn", "Strike"], "floor": 16, "hp": 42, "maxhp": 89, "block": 7, "energy": 2, "v2.0": false}
+{"frame": 60056, "card": "Defend", "hand": ["Burn", "Strike"], "floor": 16, "hp": 42, "maxhp": 89, "block": 7, "energy": 1, "v2.0": false}
+{"frame": 60420, "card": "Uppercut+", "hand": ["Bash", "Strike", "Armaments"], "floor": 16, "hp": 42, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 60534, "card": "Armaments", "hand": ["Strike", "Bash", "Burn"], "floor": 16, "hp": 42, "maxhp": 89, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 61212, "card": "Fiend Fire+", "hand": ["Defend", "Defend", "Iron Wave", "Flame Barrier"], "floor": 16, "hp": 42, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 61902, "card": "Bash+", "hand": ["Feed+", "Reaper", "Strike", "Strike"], "floor": 16, "hp": 42, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62046, "card": "Feed+", "hand": ["Strike", "Strike", "Reaper"], "floor": 16, "hp": 42, "maxhp": 89, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 62436, "card": "Armaments", "hand": ["Strike", "Burn", "Burn", "Burn"], "floor": 16, "hp": 24, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62524, "card": "Strike+", "hand": ["Burn", "Burn", "Burn"], "floor": 16, "hp": 24, "maxhp": 89, "block": 7, "energy": 2, "v2.0": false}
+{"frame": 62898, "card": "Uppercut+", "hand": [], "floor": 16, "hp": 16, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 70800, "card": "Defend", "hand": ["Strike", "Strike", "Defend", "Bash"], "floor": 18, "hp": 72, "maxhp": 89, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 70830, "card": "Violence", "hand": ["Strike", "Bash", "Strike"], "floor": 18, "hp": 72, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 70866, "card": "Bash", "hand": ["Strike", "Strike"], "floor": 18, "hp": 72, "maxhp": 89, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 71200, "card": "Demon Form+", "hand": ["Defend", "Iron Wave", "Infernal Blade"], "floor": 18, "hp": 61, "maxhp": 89, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 71338, "card": "Iron Wave", "hand": ["Defend", "Defend", "Strike", "Flame Barrier", "Uppercut+"], "floor": 18, "hp": 61, "maxhp": 89, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 71738, "card": "Armaments", "hand": ["Feed+", "Reaper", "Strike"], "floor": 18, "hp": 50, "maxhp": 89, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 72438, "card": "Strike", "hand": ["Reaper+", "Feed+"], "floor": 18, "hp": 50, "maxhp": 89, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 73348, "card": "Trip", "hand": ["Immolate", "Defend", "Feed+", "Strike", "Infernal Blade"], "floor": 18, "hp": 41, "maxhp": 89, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 73500, "card": "Infernal Blade", "hand": ["Immolate", "Defend", "Feed+", "Strike"], "floor": 18, "hp": 41, "maxhp": 89, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 73796, "card": "Defend", "hand": ["Immolate"], "floor": 18, "hp": 41, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 73882, "card": "Immolate", "hand": ["Feed+", "Body Slam"], "floor": 18, "hp": 41, "maxhp": 89, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 74442, "card": "Defend", "hand": ["Strike", "Feed+", "Body Slam"], "floor": 18, "hp": 41, "maxhp": 89, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 74486, "card": "Body Slam", "hand": ["Strike", "Feed+"], "floor": 18, "hp": 41, "maxhp": 89, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 74850, "card": "Armaments", "hand": ["Bash"], "floor": 18, "hp": 32, "maxhp": 89, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 74886, "card": "Armaments", "hand": ["Bash"], "floor": 18, "hp": 32, "maxhp": 89, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 75026, "card": "Defend+", "hand": ["Bash", "Strike", "Uppercut+"], "floor": 18, "hp": 32, "maxhp": 89, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 75346, "card": "Uppercut+", "hand": ["Bash", "Strike"], "floor": 18, "hp": 32, "maxhp": 89, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 75696, "card": "Reaper+", "hand": ["Strike", "Iron Wave", "Strike", "Flame Barrier"], "floor": 18, "hp": 32, "maxhp": 89, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 76818, "card": "Infernal Blade", "hand": ["Bite", "Bite", "Shrug It Off"], "floor": 20, "hp": 49, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 76926, "card": "Bite", "hand": ["Bite", "Shrug It Off", "Bite", "Fiend Fire"], "floor": 20, "hp": 49, "maxhp": 62, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 76972, "card": "Bite", "hand": ["Shrug It Off", "Fiend Fire"], "floor": 20, "hp": 51, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 77014, "card": "Bite", "hand": ["Shrug It Off"], "floor": 20, "hp": 53, "maxhp": 62, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 77062, "card": "Fiend Fire", "hand": ["Shrug It Off"], "floor": 20, "hp": 55, "maxhp": 62, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 77362, "card": "Flame Barrier", "hand": ["Iron Wave", "Reaper", "Defend"], "floor": 20, "hp": 55, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 77386, "card": "Flame Barrier", "hand": ["Iron Wave", "Reaper"], "floor": 20, "hp": 55, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 77414, "card": "Bash", "hand": ["Defend", "Rage"], "floor": 20, "hp": 55, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 77462, "card": "Iron Wave", "hand": ["Defend", "Reaper"], "floor": 20, "hp": 57, "maxhp": 62, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 77940, "card": "Defend", "hand": ["Bite", "Defend", "Immolate"], "floor": 20, "hp": 57, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 77968, "card": "Defend", "hand": ["Bite", "Immolate"], "floor": 20, "hp": 57, "maxhp": 62, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 78008, "card": "Bite", "hand": ["Immolate", "Ascender's Bane"], "floor": 20, "hp": 57, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 79446, "card": "Armaments", "hand": ["Bash", "Defend", "Defend", "Demon Form+", "Uppercut+"], "floor": 20, "hp": 43, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 79556, "card": "Defend+", "hand": ["Bash", "Defend", "Defend", "Demon Form+", "Feed"], "floor": 20, "hp": 43, "maxhp": 62, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 79684, "card": "Uppercut+", "hand": ["Bash", "Defend", "Defend", "Feed+", "Demon Form+"], "floor": 20, "hp": 43, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 80140, "card": "Bite", "hand": ["Immolate", "Bite", "Bite", "Bite"], "floor": 20, "hp": 46, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 80184, "card": "Bite", "hand": ["Immolate", "Bite", "Bite"], "floor": 20, "hp": 48, "maxhp": 62, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 80734, "card": "Reaper", "hand": ["Bite", "Defend"], "floor": 20, "hp": 36, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 80994, "card": "Flame Barrier", "hand": ["Iron Wave"], "floor": 20, "hp": 40, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 81062, "card": "Flame Barrier", "hand": ["Bite", "Defend", "Iron Wave"], "floor": 20, "hp": 40, "maxhp": 62, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 81510, "card": "Defend+", "hand": ["Defend", "Bite", "Bash"], "floor": 20, "hp": 41, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 81610, "card": "Bite", "hand": ["Bash"], "floor": 20, "hp": 41, "maxhp": 62, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 81656, "card": "Bludgeon", "hand": ["Bash"], "floor": 20, "hp": 43, "maxhp": 62, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 82012, "card": "Bite", "hand": ["Defend", "Iron Wave", "Bite", "Flame Barrier"], "floor": 20, "hp": 34, "maxhp": 62, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82402, "card": "Flame Barrier", "hand": ["Defend", "Iron Wave", "Bite", "Entrench"], "floor": 20, "hp": 36, "maxhp": 62, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82808, "card": "Bite", "hand": ["Defend", "Demon Form+", "Feed+", "Uppercut+", "Normality+"], "floor": 20, "hp": 37, "maxhp": 62, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 82902, "card": "Feed+", "hand": ["Defend", "Demon Form+", "Uppercut+"], "floor": 20, "hp": 39, "maxhp": 62, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 85156, "card": "Bite", "hand": ["Defend", "Armaments", "Infernal Blade"], "floor": 21, "hp": 49, "maxhp": 66, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 85816, "card": "Defend", "hand": ["Defend", "Bite+"], "floor": 21, "hp": 51, "maxhp": 66, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 85926, "card": "Bite+", "hand": ["Defend"], "floor": 21, "hp": 51, "maxhp": 66, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 85978, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 21, "hp": 54, "maxhp": 66, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 87408, "card": "Immolate", "hand": ["Bite", "Iron Wave", "Reaper", "Bite"], "floor": 21, "hp": 51, "maxhp": 66, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 87462, "card": "Flame Barrier", "hand": ["Bite", "Iron Wave", "Reaper", "Bite"], "floor": 21, "hp": 51, "maxhp": 66, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 87480, "card": "Flame Barrier", "hand": ["Iron Wave", "Bite"], "floor": 21, "hp": 51, "maxhp": 66, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 87974, "card": "Shrug It Off", "hand": ["Defend", "Feed+"], "floor": 21, "hp": 41, "maxhp": 66, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 88152, "card": "Defend", "hand": ["Defend", "Bash", "Uppercut+"], "floor": 21, "hp": 41, "maxhp": 66, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 88204, "card": "Defend", "hand": ["Feed+"], "floor": 21, "hp": 41, "maxhp": 6, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 88228, "card": "Defend", "hand": ["Feed", "Bash", "Uppercut+"], "floor": 21, "hp": 41, "maxhp": 66, "block": 1, "energy": 2, "v2.0": false}
+{"frame": 88314, "card": "Feed+", "hand": ["Bash", "Uppercut+"], "floor": 21, "hp": 41, "maxhp": 66, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 88666, "card": "Reaper", "hand": ["Armaments", "Defend"], "floor": 21, "hp": 45, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 88694, "card": "Reaper", "hand": ["Armaments", "Defend"], "floor": 21, "hp": 45, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 88712, "card": "Reaper", "hand": ["Armaments", "Defend"], "floor": 21, "hp": 45, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 88730, "card": "Reaper", "hand": ["Armaments", "Defend"], "floor": 21, "hp": 45, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 88748, "card": "Reaper", "hand": ["Armaments", "Defend"], "floor": 21, "hp": 45, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 90990, "card": "Armaments", "hand": ["Defend", "Iron Wave", "Flame Barrier", "Power Through"], "floor": 22, "hp": 66, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 91114, "card": "Flame Barrier+", "hand": ["Defend", "Iron Wave", "Power Through"], "floor": 22, "hp": 66, "maxhp": 70, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 91208, "card": "Iron Wave", "hand": ["Defend", "Power Through"], "floor": 22, "hp": 66, "maxhp": 70, "block": 21, "energy": 1, "v2.0": false}
+{"frame": 92162, "card": "Shrug It Off", "hand": ["Immolate", "Bash", "Defend", "Bite", "Bite", "Armaments"], "floor": 22, "hp": 65, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 92794, "card": "Bite", "hand": ["Bite", "Immolate", "Dazed", "Bash"], "floor": 22, "hp": 65, "maxhp": 70, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 92898, "card": "Bite", "hand": ["Defend", "Armaments", "Immolate", "Bash", "Ascender's Bane"], "floor": 22, "hp": 65, "maxhp": 70, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 93382, "card": "Uppercut+", "hand": ["Bite", "Bite", "Defend", "Feed+"], "floor": 22, "hp": 60, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 93508, "card": "Bite", "hand": ["Bite", "Feed+"], "floor": 22, "hp": 60, "maxhp": 70, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 93920, "card": "Demon Form+", "hand": ["Reaper", "Bite", "Infernal Blade", "Defend"], "floor": 22, "hp": 44, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 94012, "card": "Defend", "hand": ["Bite", "Infernal Blade"], "floor": 22, "hp": 44, "maxhp": 70, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 94454, "card": "Flame Barrier+", "hand": ["Immolate", "Defend", "Burn"], "floor": 22, "hp": 38, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 94510, "card": "Uppercut+", "hand": ["Iron Wave", "Defend", "Immolate"], "floor": 22, "hp": 38, "maxhp": 70, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 94860, "card": "Armaments", "hand": ["Blind", "Sentinel", "Defend"], "floor": 22, "hp": 38, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 94882, "card": "Armaments", "hand": ["Defend"], "floor": 22, "hp": 38, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 94904, "card": "Armaments", "hand": ["Defend", "Defend"], "floor": 22, "hp": 38, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 94926, "card": "Armaments", "hand": ["Defend", "Defend"], "floor": 22, "hp": 38, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 94958, "card": "Armaments", "hand": ["Bite", "Defend"], "floor": 22, "hp": 38, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 95106, "card": "Bite+", "hand": ["Bite", "Defend", "Defend"], "floor": 22, "hp": 38, "maxhp": 70, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 95212, "card": "Defend", "hand": ["Defend"], "floor": 22, "hp": 43, "maxhp": 70, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 95700, "card": "Shrug It Off", "hand": ["Armaments", "Bash", "Bite", "Feed+"], "floor": 22, "hp": 43, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 95778, "card": "Armaments", "hand": ["Bash", "Bite", "Feed+", "Bite"], "floor": 22, "hp": 43, "maxhp": 70, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 95930, "card": "Bite+", "hand": ["Bash", "Bite", "Feed+"], "floor": 22, "hp": 43, "maxhp": 70, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 96856, "card": "Power Through", "hand": ["Bash", "Defend", "Armaments", "Infernal Blade"], "floor": 22, "hp": 46, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 96910, "card": "Infernal Blade", "hand": ["Bash", "Defend", "Armaments"], "floor": 22, "hp": 46, "maxhp": 70, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 97068, "card": "Armaments", "hand": ["Defend", "Wound", "Searing Blow"], "floor": 22, "hp": 46, "maxhp": 70, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 97154, "card": "Defend+", "hand": ["Searing Blow"], "floor": 22, "hp": 46, "maxhp": 70, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 97532, "card": "Shrug It Off", "hand": ["Bite", "Bite", "Defend", "Uppercut+"], "floor": 22, "hp": 46, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 97632, "card": "Defend", "hand": ["Bite", "Bite+", "Bite"], "floor": 22, "hp": 46, "maxhp": 70, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 98298, "card": "Reaper", "hand": ["Defend", "Armaments", "Iron Wave"], "floor": 22, "hp": 46, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 98428, "card": "Armaments", "hand": ["Immolate", "Iron Wave", "Defend"], "floor": 22, "hp": 59, "maxhp": 70, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 98526, "card": "Defend+", "hand": ["Immolate", "Iron Wave"], "floor": 22, "hp": 59, "maxhp": 70, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 98886, "card": "Feed+", "hand": ["Defend", "Bite", "Flame Barrier+", "Bite+"], "floor": 22, "hp": 59, "maxhp": 70, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 102586, "card": "Demon Form+", "hand": ["Iron Wave", "Defend", "Bite", "Flame Barrier"], "floor": 23, "hp": 69, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 102696, "card": "Iron Wave", "hand": ["Bite", "Defend", "Flame Barrier"], "floor": 23, "hp": 69, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 103490, "card": "Armaments", "hand": ["Defend", "Bite", "Feed+", "Bite"], "floor": 23, "hp": 60, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 103612, "card": "Shrug It Off+", "hand": ["Defend", "Bite", "Bite", "Feed+"], "floor": 23, "hp": 60, "maxhp": 74, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 103720, "card": "Bite", "hand": ["Defend", "Bite", "Feed", "Power Through", "Bite"], "floor": 23, "hp": 60, "maxhp": 74, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 103766, "card": "Bite", "hand": ["Defend", "Feed+", "Bite", "Power Through", "Ascender's Bane"], "floor": 23, "hp": 62, "maxhp": 74, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 104268, "card": "Armaments", "hand": ["Defend", "Bash", "Defend", "Reaper"], "floor": 23, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 104286, "card": "Armaments", "hand": ["Dazed", "Bash", "Defend", "Reaper"], "floor": 23, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 104318, "card": "Armaments", "hand": ["Defend", "Bash", "Defend", "Reaper"], "floor": 23, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 104340, "card": "Armaments", "hand": ["Defend", "Bash", "Defend", "Reaper"], "floor": 23, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 104360, "card": "Armaments", "hand": ["Defend", "Bash", "Defend", "Reaper"], "floor": 23, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 104384, "card": "Armaments", "hand": ["Defend", "Bash", "Defend", "Reaper"], "floor": 23, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 105252, "card": "Defend+", "hand": ["Bash", "Defend", "Reaper"], "floor": 23, "hp": 56, "maxhp": 74, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 105292, "card": "Bash", "hand": ["Defend", "Reaper"], "floor": 23, "hp": 56, "maxhp": 74, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 105872, "card": "Uppercut+", "hand": ["Shrug It Off", "Bite", "Immolate", "Infernal Blade"], "floor": 23, "hp": 41, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 105916, "card": "Infernal Blade", "hand": ["Shrug It Off", "Bite"], "floor": 23, "hp": 41, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 105988, "card": "Searing Blow", "hand": ["Shrug It Off", "Bite", "Immolate"], "floor": 23, "hp": 41, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 106554, "card": "Shrug It Off", "hand": ["Bite", "Immolate"], "floor": 23, "hp": 41, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 107324, "card": "Flame Barrier", "hand": ["Wound", "Defend+", "Iron Wave", "Bite"], "floor": 23, "hp": 31, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 107346, "card": "Flame Barrier", "hand": [], "floor": 23, "hp": 31, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 107372, "card": "Defend+", "hand": ["Iron Wave", "Bite"], "floor": 23, "hp": 31, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 107532, "card": "Bite", "hand": ["Iron Wave", "Wound"], "floor": 23, "hp": 31, "maxhp": 74, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 108908, "card": "Bash", "hand": ["Shrug It Off", "Immolate", "Defend", "Shrug It Off"], "floor": 25, "hp": 51, "maxhp": 74, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 109322, "card": "Bite", "hand": ["Bite", "Defend", "Defend", "Feed+"], "floor": 25, "hp": 51, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 109426, "card": "Defend", "hand": ["Bite", "Defend", "Feed+"], "floor": 25, "hp": 53, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 109460, "card": "Defend", "hand": ["Bite", "Feed+", "Feed+"], "floor": 25, "hp": 53, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 109890, "card": "Demon Form+", "hand": ["Bite", "Defend", "Armaments", "Iron Wave", "Bite"], "floor": 25, "hp": 45, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 110594, "card": "Defend+", "hand": ["Bite", "Bite", "Iron Wave", "Reaper", "Ascender's Bane"], "floor": 25, "hp": 45, "maxhp": 74, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 110962, "card": "Flame Barrier", "hand": ["Bite"], "floor": 25, "hp": 40, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 111052, "card": "Infernal Blade", "hand": ["Bite", "Power Through"], "floor": 25, "hp": 40, "maxhp": 74, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 111242, "card": "Pommel Strike", "hand": ["Bite", "Power Through", "Uppercut+"], "floor": 25, "hp": 40, "maxhp": 74, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 111458, "card": "Armaments", "hand": ["Power Through", "Bite"], "floor": 25, "hp": 40, "maxhp": 74, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 112084, "card": "Armaments", "hand": ["Defend", "Defend", "Feed+", "Power Through"], "floor": 25, "hp": 40, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 112216, "card": "Power Through+", "hand": ["Defend", "Defend", "Feed"], "floor": 25, "hp": 40, "maxhp": 74, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 112264, "card": "Defend", "hand": ["Defend", "Feed+", "Wound", "Wound"], "floor": 25, "hp": 40, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 112310, "card": "Defend", "hand": ["Flex", "Rage", "Wound"], "floor": 25, "hp": 40, "maxhp": 74, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 112378, "card": "Defend", "hand": ["Feed+", "Wound", "Wound"], "floor": 25, "hp": 40, "maxhp": 74, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 112790, "card": "Uppercut+", "hand": ["Bite", "Bite", "Bite", "Reaper"], "floor": 25, "hp": 40, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 112832, "card": "Reaper", "hand": ["Bite"], "floor": 25, "hp": 40, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 112944, "card": "Bite", "hand": ["Bite", "Bite"], "floor": 25, "hp": 54, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 115768, "card": "Demon Form+", "hand": ["Feed+"], "floor": 27, "hp": 64, "maxhp": 74, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 115790, "card": "Demon Form+", "hand": ["Feed+", "Defend", "Iron Wave", "Normality"], "floor": 27, "hp": 64, "maxhp": 74, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 116460, "card": "Uppercut+", "hand": ["Defend", "Shrug It Off", "Bite", "Armaments", "Bash", "Dark Embrace+", "Bite"], "floor": 27, "hp": 58, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 116512, "card": "Bite", "hand": ["Armaments", "Bash", "Defend", "Shrug It Off"], "floor": 27, "hp": 58, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 116574, "card": "Bite", "hand": ["Armaments", "Defend", "Shrug It Off", "Dark Embrace+"], "floor": 27, "hp": 60, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 116982, "card": "Infernal Blade+", "hand": ["Defend", "Bite", "Defend"], "floor": 27, "hp": 62, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 117140, "card": "Defend+", "hand": ["Defend", "Bite", "Body Slam"], "floor": 27, "hp": 62, "maxhp": 74, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 117182, "card": "Defend", "hand": ["Bite", "Body Slam"], "floor": 27, "hp": 62, "maxhp": 74, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 117434, "card": "Body Slam", "hand": ["Bite"], "floor": 27, "hp": 62, "maxhp": 74, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 117900, "card": "Reaper", "hand": ["Flame Barrier+"], "floor": 27, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 117944, "card": "Reaper", "hand": ["Flame Barrier"], "floor": 27, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 118112, "card": "Reaper", "hand": ["Burn"], "floor": 27, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 118188, "card": "Reaper", "hand": ["Bite"], "floor": 27, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 118288, "card": "Reaper", "hand": ["Flame Barrier", "Blind"], "floor": 27, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 118556, "card": "Bite", "hand": ["Bite", "Flame Barrier"], "floor": 27, "hp": 65, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 118800, "card": "Bite", "hand": ["Power Through", "Flame Barrier"], "floor": 27, "hp": 67, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 120068, "card": "Demon Form+", "hand": ["Shrug It Off", "Feed+", "Power Through"], "floor": 28, "hp": 74, "maxhp": 74, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 120224, "card": "Shrug It Off", "hand": ["Feed+", "Defend", "Power Through"], "floor": 28, "hp": 74, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 121034, "card": "Bash", "hand": ["Bite", "Defend", "Defend", "Bite", "Ascender's Bane"], "floor": 28, "hp": 71, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 121098, "card": "Bite", "hand": ["Defend", "Defend", "Bite", "Normality", "Ascender's Bane", "Infernal Blade"], "floor": 28, "hp": 71, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 121240, "card": "Defend", "hand": ["Bite", "Normality", "Infernal Blade"], "floor": 28, "hp": 73, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 121710, "card": "Uppercut+", "hand": ["Reaper", "Defend", "Bite", "Dark Embrace+"], "floor": 28, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 122226, "card": "Shrug It Off", "hand": ["Bite"], "floor": 28, "hp": 46, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 122356, "card": "Armaments", "hand": ["Bite", "Flame Barrier", "Iron Wave", "Bite"], "floor": 28, "hp": 46, "maxhp": 74, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 122478, "card": "Bite", "hand": ["Bite", "Iron Wave+", "Flame Barrier"], "floor": 28, "hp": 46, "maxhp": 74, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 122594, "card": "Bite", "hand": ["Iron Wave+", "Flame Barrier"], "floor": 28, "hp": 48, "maxhp": 74, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 123032, "card": "Armaments", "hand": ["Bash", "Bite", "Bite", "Shrug It Off"], "floor": 28, "hp": 50, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 123128, "card": "Shrug It Off+", "hand": ["Bash", "Bite", "Bite"], "floor": 28, "hp": 50, "maxhp": 74, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 123248, "card": "Bite", "hand": ["Bash", "Bite", "Normality"], "floor": 28, "hp": 50, "maxhp": 74, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 123904, "card": "Power Through", "hand": ["Iron Wave+", "Bite", "Defend", "Uppercut+", "Wound", "Wound"], "floor": 28, "hp": 52, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 123984, "card": "Defend", "hand": ["Iron Wave+", "Bite", "Uppercut+", "Wound", "Wound"], "floor": 28, "hp": 52, "maxhp": 74, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 124806, "card": "Infernal Blade", "hand": ["Bite", "Bite"], "floor": 28, "hp": 52, "maxhp": 74, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 124958, "card": "Armaments", "hand": ["Bite", "Bite", "Immolate", "Pummel"], "floor": 28, "hp": 52, "maxhp": 74, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 125342, "card": "Reaper", "hand": ["Feed+"], "floor": 28, "hp": 49, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 125390, "card": "Reaper", "hand": ["Defend", "Feed+", "Flame Barrier", "Defend"], "floor": 28, "hp": 49, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 125528, "card": "Feed+", "hand": ["Defend", "Bite+", "Flame Barrier+", "Defend"], "floor": 28, "hp": 64, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 128988, "card": "Demon Form+", "hand": ["Defend", "Infernal Blade", "Reaper"], "floor": 29, "hp": 76, "maxhp": 78, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 129032, "card": "Infernal Blade", "hand": ["Defend", "Ascender's Bane"], "floor": 29, "hp": 76, "maxhp": 78, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 129160, "card": "Pommel Strike", "hand": ["Defend", "Reaper"], "floor": 29, "hp": 76, "maxhp": 78, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 130494, "card": "Bash", "hand": ["Shrug It Off", "Bite", "Bite", "Defend", "Defend", "Power Through", "Dark Embrace+"], "floor": 29, "hp": 74, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 130532, "card": "Bite", "hand": ["Shrug It Off", "Bite", "Defend", "Defend", "Power Through", "Dark Embrace+"], "floor": 29, "hp": 74, "maxhp": 78, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 130590, "card": "Bite", "hand": ["Shrug It Off", "Defend", "Defend"], "floor": 29, "hp": 76, "maxhp": 78, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 131404, "card": "Armaments", "hand": ["Bite", "Immolate", "Defend", "Shrug It Off"], "floor": 29, "hp": 56, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 131520, "card": "Immolate+", "hand": ["Bite", "Shrug It Off", "Defend"], "floor": 29, "hp": 56, "maxhp": 78, "block": 1, "energy": 3, "v2.0": false}
+{"frame": 131992, "card": "Shrug It Off", "hand": ["Bite", "Defend"], "floor": 29, "hp": 56, "maxhp": 78, "block": 1, "energy": 1, "v2.0": false}
+{"frame": 132376, "card": "Feed+", "hand": ["Flame Barrier", "Iron Wave", "Uppercut+"], "floor": 29, "hp": 41, "maxhp": 78, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 137364, "card": "Dark Embrace+", "hand": ["Infernal Blade"], "floor": 31, "hp": 53, "maxhp": 82, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 137414, "card": "Dark Embrace+", "hand": ["Infernal Blade"], "floor": 31, "hp": 53, "maxhp": 82, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 137432, "card": "Dark Embrace+", "hand": ["Infernal Blade"], "floor": 31, "hp": 53, "maxhp": 82, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 137566, "card": "Infernal Blade", "hand": ["Armaments", "Disarm", "Uppercut+", "Power Through"], "floor": 31, "hp": 53, "maxhp": 82, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 138278, "card": "Power Through", "hand": ["Armaments", "Armaments", "Body Slam", "Uppercut+"], "floor": 31, "hp": 53, "maxhp": 82, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 138336, "card": "Uppercut+", "hand": ["Armaments", "Body Slam", "Wound", "Wound"], "floor": 31, "hp": 53, "maxhp": 82, "block": 25, "energy": 2, "v2.0": false}
+{"frame": 139398, "card": "Dark Embrace", "hand": ["Immolate", "Defend", "Armaments"], "floor": 31, "hp": 53, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 139604, "card": "Defend+", "hand": ["Bash", "Bite", "Immolate"], "floor": 31, "hp": 53, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 139654, "card": "Bash", "hand": ["Immolate", "Bite"], "floor": 31, "hp": 53, "maxhp": 82, "block": 13, "energy": 0, "v2.0": false}
+{"frame": 140222, "card": "Demon Form+", "hand": ["Bite", "Bash", "Shrug It Off", "Bite", "Warcry"], "floor": 31, "hp": 45, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 140350, "card": "Defend", "hand": ["Warcry", "Flex", "Bite", "Flame Barrier"], "floor": 31, "hp": 45, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 140406, "card": "Shrug It Off", "hand": ["Warcry", "Bite", "Feed+", "Bite"], "floor": 31, "hp": 45, "maxhp": 82, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 141246, "card": "Second Wind", "hand": ["Bite", "Iron Wave", "Reaper+"], "floor": 31, "hp": 41, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 141270, "card": "Second Wind", "hand": ["Bite", "Iron Wave", "Reaper"], "floor": 31, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 141478, "card": "Defend", "hand": ["Bite", "Iron Wave", "Shrug It Off"], "floor": 31, "hp": 41, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 141630, "card": "Iron Wave", "hand": ["Bite", "Reaper", "Shrug It Off"], "floor": 31, "hp": 41, "maxhp": 82, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 141708, "card": "Bite", "hand": ["Shrug It Off", "Reaper"], "floor": 31, "hp": 41, "maxhp": 82, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 142226, "card": "Flame Barrier", "hand": ["Wound", "Wound"], "floor": 31, "hp": 35, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 142244, "card": "Flame Barrier", "hand": ["Wound", "Wound"], "floor": 31, "hp": 35, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 142342, "card": "Immolate", "hand": ["Wound", "Wound", "Wound"], "floor": 31, "hp": 35, "maxhp": 82, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 143026, "card": "Shrug It Off", "hand": ["Armaments", "Bite", "Wound", "Wound"], "floor": 31, "hp": 28, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 143252, "card": "Armaments", "hand": ["Bite", "Wound", "Wound", "Wound"], "floor": 31, "hp": 28, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 143354, "card": "Bite+", "hand": ["Wound", "Wound", "Wound"], "floor": 31, "hp": 28, "maxhp": 82, "block": 21, "energy": 1, "v2.0": false}
+{"frame": 143690, "card": "Warcry", "hand": ["Bite", "Defend", "Bash"], "floor": 31, "hp": 31, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144014, "card": "Defend", "hand": ["Bash", "Bite", "Wound", "Wound"], "floor": 31, "hp": 31, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144850, "card": "Second Wind", "hand": ["Bite", "Iron Wave", "Bite"], "floor": 31, "hp": 23, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 145080, "card": "Armaments", "hand": ["Bite", "Iron Wave", "Bite", "Uppercut+"], "floor": 31, "hp": 23, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 145650, "card": "Defend+", "hand": ["Bite", "Wound", "Wound"], "floor": 31, "hp": 19, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 146080, "card": "Reaper", "hand": ["Feed+", "Defend", "Body Slam"], "floor": 31, "hp": 12, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 146274, "card": "Feed+", "hand": ["Defend", "Body Slam", "Power Through", "Wound", "Burn"], "floor": 31, "hp": 37, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 150480, "card": "Bash", "hand": ["Defend", "Defend", "Bite", "Immolate"], "floor": 33, "hp": 74, "maxhp": 86, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 150540, "card": "Bite", "hand": ["Defend", "Defend", "Immolate"], "floor": 33, "hp": 74, "maxhp": 86, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 150596, "card": "Immolate", "hand": ["Defend", "Defend"], "floor": 33, "hp": 76, "maxhp": 86, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 151058, "card": "Shrug It Off", "hand": ["Iron Wave", "Uppercut+", "Disarm"], "floor": 33, "hp": 76, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 151202, "card": "Disarm", "hand": ["Iron Wave", "Feed+", "Uppercut+"], "floor": 33, "hp": 76, "maxhp": 86, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 151336, "card": "Uppercut+", "hand": ["Iron Wave", "Feed+", "Ascender's Bane"], "floor": 33, "hp": 76, "maxhp": 86, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 152844, "card": "Dark Embrace+", "hand": ["Warcry", "Shrug It Off", "Armaments", "Second Wind", "Power Through"], "floor": 33, "hp": 72, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 153130, "card": "Armaments", "hand": ["Armaments", "Warcry", "Shrug It Off", "Second Wind", "Dark Embrace", "Power Through"], "floor": 33, "hp": 72, "maxhp": 86, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 153246, "card": "Warcry+", "hand": ["Armaments", "Shrug It Off", "Second Wind", "Dark Embrace", "Power Through"], "floor": 33, "hp": 72, "maxhp": 86, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 153608, "card": "Demon Form+", "hand": ["Armaments", "Shrug It Off", "Reaper", "Second Wind", "Power Through", "Entrench"], "floor": 33, "hp": 72, "maxhp": 86, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 154882, "card": "Bite", "hand": ["Iron Wave", "Shrug It Off", "Power Through+", "Dark Embrace"], "floor": 33, "hp": 37, "maxhp": 86, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 155054, "card": "Shrug It Off", "hand": ["Iron Wave", "Power Through+", "Dark Embrace"], "floor": 33, "hp": 39, "maxhp": 86, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 155150, "card": "Iron Wave", "hand": ["Defend", "Power Through+"], "floor": 33, "hp": 39, "maxhp": 86, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 155818, "card": "Bite", "hand": ["Defend", "Defend", "Feed+", "Second Wind"], "floor": 33, "hp": 39, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 155982, "card": "Feed+", "hand": ["Defend", "Defend", "Second Wind"], "floor": 33, "hp": 41, "maxhp": 86, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 156818, "card": "Bite", "hand": ["Defend", "Defend", "Second Wind"], "floor": 33, "hp": 41, "maxhp": 86, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 156900, "card": "Defend", "hand": ["Defend", "Second Wind"], "floor": 33, "hp": 43, "maxhp": 86, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 157342, "card": "Infernal Blade", "hand": ["Bite", "Defend", "Bite", "Armaments", "Headbutt"], "floor": 33, "hp": 43, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 158464, "card": "Armaments", "hand": ["Bite", "Bite", "Havoc"], "floor": 33, "hp": 43, "maxhp": 86, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 158632, "card": "Armaments", "hand": ["Bite", "Defend", "Bite", "Havoc"], "floor": 33, "hp": 43, "maxhp": 86, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 158710, "card": "Flame Barrier", "hand": [], "floor": 33, "hp": 43, "maxhp": 86, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 158802, "card": "Flame Barrier+", "hand": ["Bite", "Defend", "Bite", "Headbutt"], "floor": 33, "hp": 43, "maxhp": 86, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 160168, "card": "Headbutt", "hand": [], "floor": 33, "hp": 43, "maxhp": 86, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 161216, "card": "Reaper", "hand": ["Armaments"], "floor": 33, "hp": 2, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 161438, "card": "Reaper", "hand": ["Armaments"], "floor": 33, "hp": 2, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 162044, "card": "Immolate", "hand": ["Armaments"], "floor": 33, "hp": 57, "maxhp": 86, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 163014, "card": "Uppercut+", "hand": ["Bash", "Armaments", "Bite", "Headbutt"], "floor": 33, "hp": 55, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 163324, "card": "Bite", "hand": ["Bash", "Armaments", "Headbutt"], "floor": 33, "hp": 55, "maxhp": 86, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 163396, "card": "Headbutt", "hand": ["Armaments", "Bash"], "floor": 33, "hp": 57, "maxhp": 86, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 163742, "card": "Shrug It Off", "hand": ["Burn", "Burn", "Bite"], "floor": 33, "hp": 25, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 163826, "card": "Bite", "hand": ["Burn", "Burn", "Bite", "Second Wind"], "floor": 33, "hp": 25, "maxhp": 86, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 163906, "card": "Bite", "hand": ["Burn", "Burn", "Second Wind"], "floor": 33, "hp": 27, "maxhp": 86, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 164328, "card": "Bite", "hand": ["Immolate", "Defend", "Bite", "Iron Wave"], "floor": 33, "hp": 29, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 178736, "card": "Dark Embrace+", "hand": ["Feed+", "Shrug It Off", "Uppercut+", "Dark Embrace"], "floor": 35, "hp": 76, "maxhp": 86, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 178824, "card": "Shrug It Off", "hand": ["Feed+", "Uppercut+", "Dark Embrace"], "floor": 35, "hp": 76, "maxhp": 86, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 178928, "card": "Dark Embrace", "hand": ["Feed+", "Defend", "Uppercut+"], "floor": 35, "hp": 76, "maxhp": 86, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 178988, "card": "Defend", "hand": ["Feed+", "Uppercut+"], "floor": 35, "hp": 76, "maxhp": 86, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 179682, "card": "Power Through", "hand": ["Decay", "Bite"], "floor": 35, "hp": 76, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 179976, "card": "Power Through", "hand": ["Armaments", "Defend", "Second Wind"], "floor": 35, "hp": 76, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 180078, "card": "Second Wind", "hand": ["Armaments", "Defend", "Bite", "Wound", "Wound"], "floor": 35, "hp": 76, "maxhp": 86, "block": 1, "energy": 3, "v2.0": false}
+{"frame": 180100, "card": "Second Wind", "hand": ["Armaments", "Defend", "Bite", "Wound"], "floor": 35, "hp": 76, "maxhp": 86, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 180730, "card": "Bite", "hand": ["Warcry", "Iron Wave", "Shrug It Off", "Bite", "Immolate", "Defend"], "floor": 35, "hp": 76, "maxhp": 86, "block": 35, "energy": 2, "v2.0": false}
+{"frame": 180774, "card": "Bite", "hand": ["Iron Wave", "Shrug It Off", "Defend", "Warcry", "Disarm", "Immolate"], "floor": 35, "hp": 78, "maxhp": 86, "block": 35, "energy": 1, "v2.0": false}
+{"frame": 182194, "card": "Armaments", "hand": ["Defend", "Bite", "Flame Barrier", "Demon Form+", "Bite"], "floor": 35, "hp": 80, "maxhp": 86, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182378, "card": "Flame Barrier+", "hand": ["Bite", "Bite", "Demon Form+"], "floor": 35, "hp": 80, "maxhp": 86, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 182578, "card": "Bite", "hand": ["Bite", "Bite", "Reaper", "Demon Form+", "Infernal Blade"], "floor": 35, "hp": 80, "maxhp": 86, "block": 21, "energy": 1, "v2.0": false}
+{"frame": 182630, "card": "Bite", "hand": ["Defend", "Bite", "Demon Form+", "Bash", "Reaper", "Infernal Blade"], "floor": 35, "hp": 82, "maxhp": 86, "block": 21, "energy": 1, "v2.0": false}
+{"frame": 183250, "card": "Demon Form+", "hand": ["Bite", "Bite", "Shrug It Off", "Infernal Blade"], "floor": 35, "hp": 83, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 183360, "card": "Infernal Blade", "hand": ["Shrug It Off", "Bite", "Defend", "Uppercut+"], "floor": 35, "hp": 83, "maxhp": 86, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 184080, "card": "Bite", "hand": ["Defend", "Bite", "Headbutt", "Defend", "Second Wind"], "floor": 35, "hp": 83, "maxhp": 86, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 184204, "card": "Power Through", "hand": ["Bite", "Headbutt", "Defend", "Second Wind", "Entrench"], "floor": 35, "hp": 85, "maxhp": 86, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 184358, "card": "Bite", "hand": ["Headbutt", "Defend", "Uppercut+", "Wound"], "floor": 35, "hp": 85, "maxhp": 86, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 184726, "card": "Headbutt", "hand": [], "floor": 35, "hp": 86, "maxhp": 86, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 184852, "card": "Defend", "hand": ["Defend", "Second Wind", "Reaper", "Wound", "Wound"], "floor": 35, "hp": 86, "maxhp": 86, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 185002, "card": "Defend", "hand": ["Second Wind", "Defend", "Reaper", "Wound"], "floor": 35, "hp": 86, "maxhp": 86, "block": 36, "energy": 0, "v2.0": false}
+{"frame": 185954, "card": "Warcry", "hand": ["Bite", "Bash", "Bite"], "floor": 35, "hp": 86, "maxhp": 86, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 186534, "card": "Bite", "hand": ["Bite", "Bite", "Bash", "Wound", "Wound"], "floor": 35, "hp": 86, "maxhp": 86, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 186594, "card": "Bite", "hand": ["Bite", "Bash", "Wound", "Wound"], "floor": 35, "hp": 86, "maxhp": 86, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 187042, "card": "Reaper", "hand": ["Headbutt", "Burn", "Iron Wave", "Bite"], "floor": 35, "hp": 74, "maxhp": 86, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 187276, "card": "Bite", "hand": ["Headbutt", "Feed+", "Burn", "Iron Wave", "Second Wind"], "floor": 35, "hp": 84, "maxhp": 86, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 187336, "card": "Feed+", "hand": ["Headbutt", "Burn", "Iron Wave", "Second Wind"], "floor": 35, "hp": 86, "maxhp": 86, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 190514, "card": "Uppercut+", "hand": ["Immolate", "Reaper", "Demon Form+", "Bite"], "floor": 36, "hp": 30, "maxhp": 90, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 190568, "card": "Immolate", "hand": ["Bite", "Reaper"], "floor": 36, "hp": 30, "maxhp": 90, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 191564, "card": "Feed+", "hand": ["Defend", "Bite"], "floor": 36, "hp": 90, "maxhp": 90, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 191652, "card": "Power Through", "hand": ["Defend"], "floor": 36, "hp": 94, "maxhp": 94, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 191700, "card": "Dark Embrace+", "hand": ["Defend", "Bite"], "floor": 36, "hp": 94, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 191758, "card": "Bite", "hand": ["Defend"], "floor": 36, "hp": 94, "maxhp": 94, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 191806, "card": "Defend", "hand": [], "floor": 36, "hp": 94, "maxhp": 94, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 192068, "card": "Bite", "hand": ["Defend", "Shrug It Off"], "floor": 36, "hp": 94, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 192476, "card": "Bash", "hand": [], "floor": 36, "hp": 94, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 198918, "card": "Corruption", "hand": ["Defend", "Ascender's Bane", "Dark Embrace+"], "floor": 40, "hp": 94, "maxhp": 94, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 199002, "card": "Dark Embrace+", "hand": ["Defend"], "floor": 40, "hp": 94, "maxhp": 9, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 199060, "card": "Bash", "hand": ["Defend", "Ascender's Bane", "Entrench"], "floor": 40, "hp": 94, "maxhp": 94, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 199958, "card": "Armaments", "hand": ["Defend", "Bite", "Defend", "Immolate", "Sentinel"], "floor": 40, "hp": 94, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 200092, "card": "Defend+", "hand": ["Purity", "Defend", "Bite", "Reaper", "Immolate", "Entrench"], "floor": 40, "hp": 94, "maxhp": 94, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 200204, "card": "Defend", "hand": ["Defend", "Bite", "Immolate", "Sentinel", "Reaper"], "floor": 40, "hp": 94, "maxhp": 94, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 201454, "card": "Dark Embrace", "hand": ["Bite", "Bite", "Feed+", "Iron Wave", "Shrug It Off+"], "floor": 40, "hp": 91, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 201588, "card": "Bite", "hand": ["Shrug It Off+", "Bite", "Feed", "Flame Barrier"], "floor": 40, "hp": 91, "maxhp": 4, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 202412, "card": "Shrug It Off", "hand": ["Warcry"], "floor": 40, "hp": 93, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 202650, "card": "Demon Form+", "hand": ["Shrug It Off", "Power Through", "Warcry", "Bite"], "floor": 40, "hp": 93, "maxhp": 94, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 202806, "card": "Armaments", "hand": ["Shrug It Off", "Warcry", "Bite", "Power Through", "Disarm", "Entrench"], "floor": 40, "hp": 93, "maxhp": 94, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 203010, "card": "Disarm+", "hand": ["Shrug It Off", "Warcry", "Bite", "Burn", "Power Through", "Infernal Blade"], "floor": 40, "hp": 93, "maxhp": 94, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 203110, "card": "Bite", "hand": ["Warcry", "Shrug It Off", "Power Through", "Infernal Blade", "Burn", "Immolate", "Burn"], "floor": 40, "hp": 93, "maxhp": 94, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 203234, "card": "Shrug It Off", "hand": ["Warcry", "Infernal Blade", "Burn", "Immolate", "Burn"], "floor": 40, "hp": 94, "maxhp": 94, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 203540, "card": "Power Through", "hand": ["Immolate"], "floor": 40, "hp": 94, "maxhp": 94, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 203808, "card": "Heavy Blade", "hand": ["Warcry", "Immolate", "Reaper", "Wound"], "floor": 40, "hp": 94, "maxhp": 94, "block": 36, "energy": 1, "v2.0": false}
+{"frame": 204520, "card": "Bite", "hand": ["Defend", "Burn", "Flame Barrier"], "floor": 40, "hp": 94, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 205424, "card": "Flame Barrier", "hand": ["Defend", "Burn"], "floor": 40, "hp": 94, "maxhp": 94, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 205566, "card": "Bite", "hand": ["Defend", "Burn", "Burn"], "floor": 40, "hp": 94, "maxhp": 94, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 206108, "card": "Second Wind", "hand": ["Feed+", "Burn", "Burn"], "floor": 40, "hp": 94, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 208132, "card": "Iron Wave", "hand": ["Burn", "Defend", "Shrug It Off+", "Bite", "Feed+", "Sentinel", "Wound"], "floor": 40, "hp": 94, "maxhp": 94, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 208232, "card": "Shrug It Off+", "hand": ["Bite", "Feed+", "Defend", "Sentinel", "Burn", "Wound"], "floor": 40, "hp": 94, "maxhp": 94, "block": 20, "energy": 3, "v2.0": false}
+{"frame": 208380, "card": "Bite", "hand": ["Bite", "Immolate", "Feed+", "Defend", "Wound"], "floor": 40, "hp": 94, "maxhp": 94, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 208538, "card": "Bite", "hand": ["Immolate", "Feed+", "Bludgeon", "Defend", "Sentinel", "Burn"], "floor": 40, "hp": 94, "maxhp": 94, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 209912, "card": "Bash", "hand": ["Heavy Blade", "Burn", "Burn", "Burn"], "floor": 40, "hp": 79, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 210016, "card": "Heavy Blade", "hand": ["Burn", "Burn", "Burn"], "floor": 40, "hp": 79, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 212428, "card": "Armaments", "hand": ["Sentinel", "Shrug It Off", "Disarm"], "floor": 41, "hp": 87, "maxhp": 94, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 212514, "card": "Disarm+", "hand": ["Defend", "Shrug It Off", "Second Wind"], "floor": 41, "hp": 87, "maxhp": 94, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 212548, "card": "Shrug It Off", "hand": ["Defend", "Second Wind"], "floor": 41, "hp": 87, "maxhp": 94, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 212832, "card": "Armaments", "hand": ["Defend", "Second Wind"], "floor": 41, "hp": 87, "maxhp": 94, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 213508, "card": "Uppercut+", "hand": ["Reaper", "Sword Boomerang", "Power Through", "Flame Barrier"], "floor": 41, "hp": 87, "maxhp": 94, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 213564, "card": "Sword Boomerang", "hand": ["Reaper", "Flame Barrier", "Power Through"], "floor": 41, "hp": 87, "maxhp": 94, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 213652, "card": "Flame Barrier", "hand": ["Reaper"], "floor": 41, "hp": 87, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 213680, "card": "Flame Barrier", "hand": ["Reaper", "Power Through"], "floor": 41, "hp": 87, "maxhp": 94, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 214244, "card": "Dark Embrace+", "hand": ["Bite", "Bite", "Defend", "Bite", "Demon Form+"], "floor": 41, "hp": 83, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 215496, "card": "Demon Form+", "hand": ["Bite", "Bite", "Feed+", "Defend", "Bite", "Dark Embrace"], "floor": 41, "hp": 83, "maxhp": 94, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 215580, "card": "Bite", "hand": ["Feed+", "Bite", "Bite", "Dark Embrace", "Defend"], "floor": 41, "hp": 83, "maxhp": 94, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 215640, "card": "Evolve", "hand": ["Bite", "Bite", "Dark Embrace", "Defend"], "floor": 41, "hp": 85, "maxhp": 94, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 216250, "card": "Infernal Blade", "hand": ["Bite", "Defend", "Immolate"], "floor": 41, "hp": 64, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 216372, "card": "Corruption", "hand": ["Bite", "Immolate", "Defend", "Uppercut"], "floor": 41, "hp": 64, "maxhp": 94, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 216622, "card": "Bite", "hand": ["Defend", "Immolate", "Warcry"], "floor": 41, "hp": 64, "maxhp": 94, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 217014, "card": "Immolate", "hand": ["Defend", "Warcry"], "floor": 41, "hp": 66, "maxhp": 94, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 217456, "card": "Bash", "hand": ["Shrug It Off", "Defend", "Iron Wave"], "floor": 41, "hp": 66, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 217572, "card": "Shrug It Off", "hand": ["Iron Wave", "Ascender's Bane", "Defend"], "floor": 41, "hp": 66, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 217778, "card": "Shrug It Off", "hand": ["Defend", "Iron Wave", "Defend", "Ascender's Bane"], "floor": 41, "hp": 66, "maxhp": 94, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 217872, "card": "Flame Barrier", "hand": [], "floor": 41, "hp": 66, "maxhp": 94, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 218138, "card": "Power Through", "hand": ["Defend", "Iron Wave", "Defend", "Ascender's Bane"], "floor": 41, "hp": 66, "maxhp": 94, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 221190, "card": "Reaper", "hand": [], "floor": 41, "hp": 66, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 221212, "card": "Reaper", "hand": ["Bite", "Bash", "Second Wind+", "Flame Barrier"], "floor": 41, "hp": 66, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 221368, "card": "Flame Barrier", "hand": ["Second Wind+", "Writhe"], "floor": 41, "hp": 85, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 221392, "card": "Flame Barrier", "hand": ["Second Wind+"], "floor": 41, "hp": 85, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 221736, "card": "Second Wind+", "hand": ["Bite", "Bash", "Dark Embrace", "Armaments"], "floor": 41, "hp": 85, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 222044, "card": "Bite", "hand": ["Bite", "Immolate", "Defend", "Shrug It Off+", "Bash"], "floor": 41, "hp": 85, "maxhp": 94, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 222142, "card": "Bite", "hand": ["Defend", "Shrug It Off+", "Bash", "Immolate"], "floor": 41, "hp": 87, "maxhp": 94, "block": 33, "energy": 1, "v2.0": false}
+{"frame": 228628, "card": "Second Wind+", "hand": [], "floor": 42, "hp": 94, "maxhp": 94, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 228894, "card": "Bash", "hand": ["Pommel Strike+", "Disarm", "Defend"], "floor": 42, "hp": 94, "maxhp": 94, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 228952, "card": "Pommel Strike+", "hand": ["Defend"], "floor": 42, "hp": 94, "maxhp": 94, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 229202, "card": "Dark Embrace+", "hand": ["Defend"], "floor": 42, "hp": 94, "maxhp": 94, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 229582, "card": "Disarm", "hand": ["Defend"], "floor": 42, "hp": 94, "maxhp": 94, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 231316, "card": "Uppercut+", "hand": ["Shrug It Off+", "Iron Wave", "Shrug It Off", "Bite", "Bite"], "floor": 42, "hp": 94, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 231574, "card": "Shrug It Off+", "hand": ["Iron Wave", "Shrug It Off", "Bite"], "floor": 42, "hp": 94, "maxhp": 94, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 233198, "card": "Infernal Blade", "hand": ["Feed+", "Defend", "Sword Boomerang", "Reaper", "Defend"], "floor": 42, "hp": 68, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 233878, "card": "Flame Barrier", "hand": ["Feed+", "Power Through", "Fiend Fire"], "floor": 42, "hp": 68, "maxhp": 94, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 233932, "card": "Flame Barrier", "hand": ["Defend", "Sword Boomerang", "Fiend Fire"], "floor": 42, "hp": 68, "maxhp": 94, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 233954, "card": "Power Through", "hand": ["Safety"], "floor": 42, "hp": 68, "maxhp": 94, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 235342, "card": "Armaments", "hand": ["Warcry", "Defend", "Armaments"], "floor": 42, "hp": 68, "maxhp": 94, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 235464, "card": "Dark Embrace+", "hand": ["Warcry", "Defend", "Armaments"], "floor": 42, "hp": 68, "maxhp": 94, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 235548, "card": "Warcry", "hand": ["Defend", "Armaments"], "floor": 42, "hp": 68, "maxhp": 94, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 236416, "card": "Corruption", "hand": ["Armaments", "Bite", "Defend"], "floor": 42, "hp": 68, "maxhp": 94, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 236558, "card": "Armaments", "hand": ["Bite", "Defend"], "floor": 42, "hp": 68, "maxhp": 94, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 236714, "card": "Defend+", "hand": ["Bite", "Bite"], "floor": 42, "hp": 68, "maxhp": 94, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 237564, "card": "Defend", "hand": ["Bite", "Fiend Fire"], "floor": 42, "hp": 68, "maxhp": 94, "block": 18, "energy": 0, "v2.0": false}
+{"frame": 237946, "card": "Bite", "hand": ["Demon Form+"], "floor": 42, "hp": 68, "maxhp": 94, "block": 23, "energy": 0, "v2.0": false}
+{"frame": 238798, "card": "Flame Barrier", "hand": ["Defend", "Pommel Strike+", "Armaments"], "floor": 42, "hp": 47, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 238816, "card": "Flame Barrier", "hand": ["Defend", "Pommel Strike+", "Armaments"], "floor": 42, "hp": 47, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 238964, "card": "Armaments", "hand": ["Defend", "Pommel Strike+", "Shrug It Off+", "Immolate"], "floor": 42, "hp": 47, "maxhp": 94, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 239338, "card": "Immolate+", "hand": ["Defend", "Pommel Strike+", "Shrug It Off+", "Shrug It Off", "Iron Wave"], "floor": 42, "hp": 47, "maxhp": 94, "block": 17, "energy": 4, "v2.0": false}
+{"frame": 239698, "card": "Shrug It Off+", "hand": ["Defend", "Pummel+", "Shrug It Off", "Iron Wave", "Wound"], "floor": 42, "hp": 47, "maxhp": 94, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 240288, "card": "Pommel Strike+", "hand": ["Shrug It Off", "Iron Wave", "Feed+", "Uppercut+"], "floor": 42, "hp": 47, "maxhp": 94, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 240414, "card": "Iron Wave", "hand": ["Shrug It Off", "Feed+", "Defend", "Defend", "Second Wind"], "floor": 42, "hp": 47, "maxhp": 94, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 240888, "card": "Power Through", "hand": ["Bite", "Sword Boomerang"], "floor": 42, "hp": 47, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 241056, "card": "Shrug It Off", "hand": ["Bite", "Sword Boomerang", "Bite"], "floor": 42, "hp": 47, "maxhp": 94, "block": 1, "energy": 4, "v2.0": false}
+{"frame": 241378, "card": "Bite", "hand": ["Bite", "Sword Boomerang+", "Wound"], "floor": 42, "hp": 47, "maxhp": 94, "block": 23, "energy": 4, "v2.0": false}
+{"frame": 241618, "card": "Bite", "hand": ["Sword Boomerang", "Shrug It Off", "Immolate"], "floor": 42, "hp": 49, "maxhp": 94, "block": 23, "energy": 3, "v2.0": false}
+{"frame": 241662, "card": "Sentinel", "hand": ["Sword Boomerang", "Shrug It Off", "Immolate+"], "floor": 42, "hp": 51, "maxhp": 94, "block": 23, "energy": 2, "v2.0": false}
+{"frame": 242026, "card": "Bite", "hand": ["Sword Boomerang", "Shrug It Off", "Immolate+", "Wound"], "floor": 42, "hp": 51, "maxhp": 94, "block": 28, "energy": 4, "v2.0": false}
+{"frame": 242064, "card": "Shrug It Off", "hand": ["Sword Boomerang", "Wound"], "floor": 42, "hp": 53, "maxhp": 94, "block": 28, "energy": 3, "v2.0": false}
+{"frame": 242156, "card": "Demon Form+", "hand": ["Sword Boomerang", "Wound"], "floor": 42, "hp": 53, "maxhp": 94, "block": 36, "energy": 3, "v2.0": false}
+{"frame": 242264, "card": "Sword Boomerang", "hand": ["Defend", "Immolate+", "Immolate+", "Feed"], "floor": 42, "hp": 53, "maxhp": 94, "block": 36, "energy": 0, "v2.0": false}
+{"frame": 243230, "card": "Uppercut+", "hand": ["Reaper", "Bite", "Fiend Fire", "Defend"], "floor": 42, "hp": 53, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 243344, "card": "Fiend Fire", "hand": ["Bite"], "floor": 42, "hp": 53, "maxhp": 94, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 243492, "card": "Second Wind", "hand": [], "floor": 42, "hp": 53, "maxhp": 94, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 243512, "card": "Second Wind", "hand": [], "floor": 42, "hp": 53, "maxhp": 94, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 244482, "card": "Sword Boomerang", "hand": ["Feed+", "Bite"], "floor": 42, "hp": 53, "maxhp": 94, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 244572, "card": "Bite", "hand": ["Feed+", "Wound"], "floor": 42, "hp": 53, "maxhp": 94, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 248160, "card": "Sentinel", "hand": [], "floor": 44, "hp": 67, "maxhp": 98, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 248384, "card": "Infernal Blade", "hand": [], "floor": 44, "hp": 67, "maxhp": 38, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 248820, "card": "Warcry", "hand": ["Reaper", "Defend", "Immolate", "Defend"], "floor": 44, "hp": 67, "maxhp": 98, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 249432, "card": "Shrug It Off+", "hand": ["Shrug It Off", "Infernal Blade"], "floor": 44, "hp": 67, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 249520, "card": "Shrug It Off", "hand": ["Defend", "Infernal Blade", "Power Through"], "floor": 44, "hp": 67, "maxhp": 98, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 249842, "card": "Power Through", "hand": ["Defend", "Bash", "Sentinel", "Infernal Blade"], "floor": 44, "hp": 67, "maxhp": 98, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 249926, "card": "Defend", "hand": ["Bash", "Infernal Blade", "Wound"], "floor": 44, "hp": 67, "maxhp": 98, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 249972, "card": "Sentinel", "hand": ["Infernal Blade", "Bash", "Wound", "Wound"], "floor": 44, "hp": 67, "maxhp": 98, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 250836, "card": "Pommel Strike+", "hand": ["Bite", "Armaments", "Bite", "Bite"], "floor": 44, "hp": 67, "maxhp": 98, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 250948, "card": "Armaments", "hand": ["Bite", "Bite", "Bite", "Sword Boomerang", "Defend"], "floor": 44, "hp": 67, "maxhp": 98, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 251046, "card": "Defend+", "hand": ["Bite", "Bite", "Bite", "Sword Boomerang"], "floor": 44, "hp": 67, "maxhp": 98, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 251394, "card": "Bite", "hand": ["Bite", "Bite", "Sword Boomerang"], "floor": 44, "hp": 67, "maxhp": 98, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 251482, "card": "Bite", "hand": ["Bite", "Sword Boomerang"], "floor": 44, "hp": 69, "maxhp": 98, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 252384, "card": "Dark Embrace", "hand": ["Armaments"], "floor": 44, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 252402, "card": "Dark Embrace", "hand": ["Clash"], "floor": 44, "hp": 65, "maxhp": 98, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 252430, "card": "Demon Form+", "hand": ["Disarm", "Ascender's Bane", "Armaments", "Entrench"], "floor": 44, "hp": 65, "maxhp": 98, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 252628, "card": "Armaments", "hand": ["Disarm", "Ascender's Bane", "Flame Barrier"], "floor": 44, "hp": 65, "maxhp": 98, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 252766, "card": "Flame Barrier+", "hand": ["Disarm", "Ascender's Bane"], "floor": 44, "hp": 65, "maxhp": 98, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 252788, "card": "Flame Barrier+", "hand": ["Disarm", "Ascender's Bane"], "floor": 44, "hp": 65, "maxhp": 98, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 252900, "card": "Disarm", "hand": ["Feed+", "Bite", "Second Wind", "Ascender's Bane"], "floor": 44, "hp": 65, "maxhp": 98, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 253118, "card": "Dark Embrace+", "hand": ["Feed+", "Bite", "Second Wind"], "floor": 44, "hp": 65, "maxhp": 98, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 253176, "card": "Bite", "hand": ["Second Wind", "Ascender's Bane", "Feed+"], "floor": 44, "hp": 65, "maxhp": 98, "block": 23, "energy": 0, "v2.0": false}
+{"frame": 253242, "card": "Second Wind", "hand": ["Ascender's Bane", "Feed+"], "floor": 44, "hp": 67, "maxhp": 98, "block": 23, "energy": 0, "v2.0": false}
+{"frame": 253266, "card": "Second Wind", "hand": [], "floor": 44, "hp": 67, "maxhp": 98, "block": 23, "energy": 0, "v2.0": false}
+{"frame": 253426, "card": "Defend+", "hand": ["Feed+", "Uppercut+", "Iron Wave", "Bite"], "floor": 44, "hp": 67, "maxhp": 98, "block": 29, "energy": 0, "v2.0": false}
+{"frame": 253578, "card": "Shrug It Off", "hand": ["Feed+", "Uppercut+", "Iron Wave", "Bite", "Bite"], "floor": 44, "hp": 67, "maxhp": 98, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 254706, "card": "Defend", "hand": ["Sword Boomerang", "Reaper", "Anger", "Defend", "Bite"], "floor": 44, "hp": 67, "maxhp": 98, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 254922, "card": "Bash", "hand": ["Sword Boomerang", "Reaper", "Anger", "Defend", "Bite", "Pommel Strike+"], "floor": 44, "hp": 67, "maxhp": 98, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 255000, "card": "Sentinel", "hand": ["Sword Boomerang", "Reaper", "Anger", "Defend", "Bite", "Pommel Strike+"], "floor": 44, "hp": 67, "maxhp": 98, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 255332, "card": "Defend", "hand": ["Anger", "Pommel Strike+", "Defend", "Bite", "Sword Boomerang"], "floor": 44, "hp": 67, "maxhp": 98, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 255660, "card": "Reaper", "hand": ["Bite", "Pommel Strike+", "Defend", "Bite", "Wound"], "floor": 44, "hp": 67, "maxhp": 98, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 255828, "card": "Bite", "hand": ["Pommel Strike+", "Defend", "The Bomb", "Sword Boomerang", "Wound"], "floor": 44, "hp": 77, "maxhp": 98, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 255982, "card": "Bite", "hand": ["Pommel Strike+", "Defend", "Sword Boomerang", "Power Through", "Immolate"], "floor": 44, "hp": 79, "maxhp": 98, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 256164, "card": "Anger", "hand": ["Defend", "Pommel Strike+", "Power Through", "Immolate"], "floor": 44, "hp": 81, "maxhp": 98, "block": 18, "energy": 0, "v2.0": false}
+{"frame": 256574, "card": "Shrug It Off+", "hand": ["Bite", "Bite", "Anger", "Iron Wave"], "floor": 44, "hp": 81, "maxhp": 98, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 257058, "card": "Bite", "hand": ["Bite", "Iron Wave", "Anger", "Pommel Strike+", "Shrug It Off"], "floor": 44, "hp": 81, "maxhp": 98, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 257104, "card": "Bite", "hand": ["Iron Wave", "Anger", "Pommel Strike+", "Shrug It Off"], "floor": 44, "hp": 83, "maxhp": 98, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 257148, "card": "Iron Wave", "hand": ["Anger", "Pommel Strike+", "Shrug It Off"], "floor": 44, "hp": 85, "maxhp": 98, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 257894, "card": "Armaments", "hand": ["Pummel", "Defend", "Sword Boomerang"], "floor": 44, "hp": 85, "maxhp": 98, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 258030, "card": "Sword Boomerang+", "hand": ["Immolate", "Defend", "Feed+", "Bite"], "floor": 44, "hp": 85, "maxhp": 98, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 258104, "card": "Feed+", "hand": ["Immolate", "Defend", "Bite", "Wound"], "floor": 44, "hp": 85, "maxhp": 98, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 260176, "card": "Dark Embrace", "hand": ["Power Through", "Uppercut+"], "floor": 45, "hp": 97, "maxhp": 102, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 260298, "card": "Sentinel", "hand": ["Uppercut+", "Infernal Blade", "Power Through"], "floor": 45, "hp": 97, "maxhp": 102, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 260552, "card": "Uppercut+", "hand": [], "floor": 45, "hp": 97, "maxhp": 102, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 261360, "card": "Pommel Strike+", "hand": ["Bite", "Defend", "Iron Wave", "Armaments", "Dazed"], "floor": 45, "hp": 93, "maxhp": 10, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 261488, "card": "Feed+", "hand": ["Bite", "Defend", "Iron Wave", "Armaments", "Defend"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 261644, "card": "Armaments", "hand": ["Defend", "Iron Wave", "Bite"], "floor": 45, "hp": 97, "maxhp": 10, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 261898, "card": "Disarm+", "hand": ["Second Wind", "Defend", "Iron Wave", "Defend", "Bite"], "floor": 45, "hp": 97, "maxhp": 10, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 262632, "card": "Shrug It Off+", "hand": ["Sword Boomerang", "Shrug It Off", "Bite", "Armaments", "Dazed", "Dazed", "Entrench"], "floor": 45, "hp": 97, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 262908, "card": "Shrug It Off", "hand": ["Sword Boomerang", "Bite", "Armaments", "Dazed"], "floor": 45, "hp": 97, "maxhp": 10, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 263210, "card": "Bite", "hand": ["Sword Boomerang", "Armaments", "Bite", "Dazed"], "floor": 45, "hp": 97, "maxhp": 10, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 263270, "card": "Bite", "hand": ["Sword Boomerang", "Dazed", "Armaments", "Dazed"], "floor": 45, "hp": 99, "maxhp": 10, "block": 2, "energy": 1, "v2.0": false}
+{"frame": 263894, "card": "Dark Embrace+", "hand": ["Dazed", "Demon Form+", "Shrug It Off", "Immolate", "Corruption", "Defend"], "floor": 45, "hp": 101, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 263970, "card": "Demon Form+", "hand": ["Reaper", "Shrug It Off", "Immolate", "Corruption", "Defend"], "floor": 45, "hp": 101, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 264078, "card": "Defend", "hand": ["Immolate", "Decay", "Corruption"], "floor": 45, "hp": 101, "maxhp": 10, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 266060, "card": "Armaments", "hand": ["Iron Wave", "Immolate", "Bite", "Shrug It Off", "Defend", "Pummel", "Power Through"], "floor": 45, "hp": 98, "maxhp": 10, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 266210, "card": "Shrug It Off", "hand": ["Iron Wave", "Reaper"], "floor": 45, "hp": 98, "maxhp": 10, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 266394, "card": "Defend", "hand": ["Infernal Blade", "Violence", "Immolate+", "Bash"], "floor": 45, "hp": 98, "maxhp": 10, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 267190, "card": "Warcry", "hand": ["Armaments", "Sword Boomerang", "Dazed"], "floor": 45, "hp": 98, "maxhp": 10, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 267434, "card": "Armaments", "hand": ["Sword Boomerang", "Defend", "Sentinel"], "floor": 45, "hp": 98, "maxhp": 10, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 267490, "card": "Sentinel", "hand": [], "floor": 45, "hp": 98, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 267550, "card": "Sentinel+", "hand": ["Sword Boomerang", "Defend", "Dazed"], "floor": 45, "hp": 98, "maxhp": 10, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 267584, "card": "Defend", "hand": ["Sword Boomerang", "Dazed", "Dazed"], "floor": 45, "hp": 98, "maxhp": 10, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 268318, "card": "Shrug It Off+", "hand": ["Defend", "Bite", "Shrug It Off", "Pommel Strike+", "Second Wind"], "floor": 45, "hp": 98, "maxhp": 10, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 268806, "card": "Bite", "hand": ["Defend", "Bite", "Shrug It Off", "Pommel Strike+"], "floor": 45, "hp": 98, "maxhp": 10, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 269768, "card": "Defend", "hand": ["Defend", "Bash", "Bite", "Shrug It Off+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 269884, "card": "Sentinel+", "hand": ["Defend", "Bash"], "floor": 45, "hp": 102, "maxhp": 10, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 269904, "card": "Sentinel+", "hand": ["Defend", "Bash", "Bite", "Shrug It Off+", "Shame+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 270114, "card": "Shrug It Off+", "hand": ["Bash", "Immolate+", "Bite", "Reaper"], "floor": 45, "hp": 102, "maxhp": 10, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 270232, "card": "Armaments", "hand": ["Bash", "Immolate+", "Bite", "Reaper", "Iron Wave", "Uppercut+"], "floor": 45, "hp": 102, "maxhp": 10, "block": 27, "energy": 4, "v2.0": false}
+{"frame": 270500, "card": "Shrug It Off+", "hand": ["Bite", "Reaper", "Iron Wave", "Immolate+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 33, "energy": 4, "v2.0": false}
+{"frame": 270646, "card": "Immolate+", "hand": ["Bite", "Reaper", "Uppercut+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 45, "energy": 4, "v2.0": false}
+{"frame": 270804, "card": "Flame Barrier", "hand": ["Bite", "Reaper", "Violence"], "floor": 45, "hp": 102, "maxhp": 10, "block": 11, "energy": 2, "v2.0": false}
+{"frame": 276552, "card": "Dark Embrace", "hand": ["Immolate", "Armaments"], "floor": 48, "hp": 89, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 276808, "card": "Armaments", "hand": ["Bite", "Whirlwind+", "Immolate"], "floor": 48, "hp": 89, "maxhp": 10, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 277426, "card": "Armaments", "hand": ["Bite", "Bite", "Madness"], "floor": 48, "hp": 89, "maxhp": 10, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 277628, "card": "Madness", "hand": ["Bite", "Bite+", "Ascender's Bane"], "floor": 48, "hp": 89, "maxhp": 10, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 277822, "card": "Flame Barrier", "hand": ["Bite", "Bite", "Ascender's Bane"], "floor": 48, "hp": 89, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 279120, "card": "Madness", "hand": ["Feed+", "Defend", "Shrug It Off+", "Defend", "Iron Wave"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 279228, "card": "Infernal Blade", "hand": ["Defend", "Dual Wield", "Defend"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 279294, "card": "Infernal Blade", "hand": [], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 279424, "card": "Uppercut+", "hand": ["Feed+", "Shrug It Off+", "Defend", "Iron Wave", "Reaper"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 279466, "card": "Infernal Blade", "hand": ["Feed+", "Defend", "Shrug It Off+", "Defend", "Iron Wave", "Reaper"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 279622, "card": "Shrug It Off+", "hand": ["Defend", "Iron Wave", "Defend", "Immolate", "Void", "Defend"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 279698, "card": "Dark Embrace+", "hand": ["Feed+", "Defend", "Defend", "Iron Wave", "Defend", "Disarm", "Reaper"], "floor": 48, "hp": 86, "maxhp": 10, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 280258, "card": "Defend", "hand": ["Immolate", "Reaper", "Defend", "Power Through"], "floor": 48, "hp": 86, "maxhp": 10, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 280732, "card": "Pommel Strike+", "hand": ["Shrug It Off", "Shrug It Off", "Defend", "Disarm"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 280796, "card": "Warcry", "hand": ["Shrug It Off", "Shrug It Off+", "Defend", "Disarm", "Second Wind", "Entrench"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 280932, "card": "Second Wind", "hand": [], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 281058, "card": "Demon Form+", "hand": ["Shrug It Off", "Shrug It Off", "Defend", "Bash", "Disarm"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 281224, "card": "Defend", "hand": ["Disarm", "Shrug It Off", "Second Wind"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 281608, "card": "Corruption", "hand": ["Bite", "Sentinel", "Sword Boomerang", "Reaper"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 281774, "card": "Sentinel", "hand": ["Bite", "Sword Boomerang", "Reaper"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 281882, "card": "Defend", "hand": ["Bite", "Sword Boomerang", "Reaper", "Feed+"], "floor": 48, "hp": 86, "maxhp": 10, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 281958, "card": "Whirlwind+", "hand": [], "floor": 48, "hp": 86, "maxhp": 10, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 282028, "card": "Flame Barrier+", "hand": ["Defend"], "floor": 48, "hp": 86, "maxhp": 10, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 282234, "card": "Defend", "hand": ["Bite", "Reaper", "Feed+", "Sword Boomerang", "Pride"], "floor": 48, "hp": 86, "maxhp": 10, "block": 17, "energy": 3, "v2.0": false}
+{"frame": 282336, "card": "Disarm", "hand": ["Bite", "Reaper", "Feed+", "Iron Wave", "Defend"], "floor": 48, "hp": 86, "maxhp": 10, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 282620, "card": "Uppercut+", "hand": ["Reaper", "Feed+", "Iron Wave", "Defend", "Bite", "Whirlwind+"], "floor": 48, "hp": 86, "maxhp": 10, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 282750, "card": "Defend", "hand": ["Bite", "Iron Wave", "Sword Boomerang", "Whirlwind", "Entrench"], "floor": 48, "hp": 86, "maxhp": 10, "block": 21, "energy": 1, "v2.0": false}
+{"frame": 282844, "card": "Bite", "hand": ["Sword Boomerang", "Feed", "Iron Wave", "Shrug It Off", "Whirlwind+"], "floor": 48, "hp": 86, "maxhp": 10, "block": 25, "energy": 1, "v2.0": false}
+{"frame": 282892, "card": "Sword Boomerang", "hand": ["Feed+", "Iron Wave", "Shrug It Off", "Reaper", "Power Through"], "floor": 48, "hp": 88, "maxhp": 10, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 283794, "card": "Pommel Strike+", "hand": ["Shrug It Off+", "Defend", "Armaments", "Armaments"], "floor": 48, "hp": 88, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 284644, "card": "Bite+", "hand": ["Defend", "Armaments", "Immolate", "Shrug It Off+", "Bite", "Shrug It Off"], "floor": 48, "hp": 88, "maxhp": 10, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 284708, "card": "Bite+", "hand": ["Defend", "Armaments", "Immolate", "Shrug It Off+", "Shrug It Off"], "floor": 48, "hp": 91, "maxhp": 106, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 285972, "card": "Second Wind", "hand": ["Pummel", "Bite", "Bite"], "floor": 48, "hp": 94, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 286122, "card": "Bite", "hand": ["Immolate", "Bite", "Immolate", "Bite", "Sword Boomerang"], "floor": 48, "hp": 94, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 286216, "card": "Bite+", "hand": ["Immolate", "Immolate", "Bite+", "Sword Boomerang"], "floor": 48, "hp": 97, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 286276, "card": "Bite", "hand": ["Immolate", "Immolate", "Sword Boomerang"], "floor": 48, "hp": 100, "maxhp": 1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 286330, "card": "Sword Boomerang", "hand": ["Immolate", "Immolate"], "floor": 48, "hp": 103, "maxhp": 10, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 286794, "card": "Rampage+", "hand": ["Feed"], "floor": 48, "hp": 65, "maxhp": 10, "block": 9, "energy": 4, "v2.0": false}
+{"frame": 287212, "card": "Uppercut+", "hand": ["Bite", "Bash", "Pommel Strike+", "Armaments", "Whirlwind+"], "floor": 48, "hp": 65, "maxhp": 10, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 287776, "card": "Defend", "hand": ["Bash", "Feed+", "Pommel Strike+", "Shrug It Off+", "Iron Wave"], "floor": 48, "hp": 65, "maxhp": 10, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 289936, "card": "Reaper", "hand": ["Bash+", "Pommel Strike+", "Shrug It Off+", "Iron Wave"], "floor": 48, "hp": 65, "maxhp": 10, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 290182, "card": "Shrug It Off+", "hand": ["Bite", "Power Through", "Whirlwind+", "Bite"], "floor": 48, "hp": 89, "maxhp": 10, "block": 30, "energy": 0, "v2.0": false}
+{"frame": 290790, "card": "Bite", "hand": ["Immolate", "Bite+", "Uppercut+", "Immolate"], "floor": 48, "hp": 89, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 291088, "card": "Power Through", "hand": ["Sword Boomerang", "Pommel Strike+", "Bite", "Bite"], "floor": 48, "hp": 92, "maxhp": 10, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 291208, "card": "Feed+", "hand": ["Pommel Strike+", "Bite", "Bite", "Sword Boomerang", "Whirlwind+"], "floor": 48, "hp": 92, "maxhp": 10, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 295936, "card": "Second Wind", "hand": [], "floor": 50, "hp": -1, "maxhp": -1, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 296032, "card": "Pommel Strike+", "hand": ["Iron Wave", "Shrug It Off+", "Disarm+", "Uppercut+"], "floor": 50, "hp": 104, "maxhp": 11, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 296116, "card": "Shrug It Off+", "hand": ["Iron Wave", "Defend", "Uppercut+", "Infernal Blade"], "floor": 50, "hp": 104, "maxhp": 11, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 296300, "card": "Infernal Blade", "hand": ["Iron Wave", "Defend", "Disarm+", "Second Wind"], "floor": 50, "hp": -1, "maxhp": -1, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 296450, "card": "Disarm+", "hand": ["Cleave", "Iron Wave", "Defend", "Second Wind"], "floor": 50, "hp": 104, "maxhp": 11, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 296492, "card": "Cleave", "hand": ["Iron Wave", "Uppercut+", "Second Wind"], "floor": 50, "hp": 104, "maxhp": 11, "block": 22, "energy": 0, "v2.0": false}
+{"frame": 296996, "card": "Demon Form+", "hand": ["Sword Boomerang", "Immolate", "Armaments", "Power Through"], "floor": 50, "hp": 104, "maxhp": 11, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 297276, "card": "Armaments", "hand": ["Sword Boomerang", "Power Through"], "floor": 50, "hp": 104, "maxhp": 11, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 297318, "card": "Armaments", "hand": ["Sword Boomerang", "Immolate", "Power Through"], "floor": 50, "hp": 104, "maxhp": 11, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 300882, "card": "Dark Embrace+", "hand": ["Defend", "Corruption", "Feed+", "Armaments", "Warcry"], "floor": 50, "hp": 91, "maxhp": 110, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 302848, "card": "Dark Embrace", "hand": ["Warcry", "Defend", "Corruption", "Armaments"], "floor": 50, "hp": 91, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 304274, "card": "Armaments", "hand": ["Defend", "Corruption", "Rage", "Bite", "Feed+", "Bite"], "floor": 50, "hp": 91, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 304826, "card": "Bite", "hand": ["Corruption", "Reaper", "Bite", "Feed+"], "floor": 50, "hp": 391, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 304984, "card": "Bite", "hand": ["Reaper", "Feed+", "Corruption"], "floor": 50, "hp": 93, "maxhp": 110, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 305972, "card": "Madness", "hand": ["Bite", "Shrug It Off"], "floor": 50, "hp": 44, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 306238, "card": "Madness", "hand": ["Bite", "Ascender's Bane", "Flame Barrier"], "floor": 50, "hp": 44, "maxhp": 110, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 306504, "card": "Sentinel", "hand": [], "floor": 50, "hp": 44, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 306824, "card": "Bite", "hand": ["Bite", "Defend", "Bash", "Shrug It Off", "Ascender's Bane"], "floor": 50, "hp": 44, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 306902, "card": "Bite", "hand": ["Shrug It Off", "Defend", "Bash", "Flame Barrier"], "floor": 50, "hp": 46, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 307226, "card": "Shrug It Off", "hand": ["Defend", "Bash", "Flame Barrier"], "floor": 50, "hp": 48, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 307420, "card": "Defend", "hand": ["Shrug It Off", "Flame Barrier"], "floor": 50, "hp": 48, "maxhp": 110, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 309676, "card": "Iron Wave", "hand": ["Defend", "Shrug It Off", "Bash", "Shrug It Off+", "Whirlwind+", "Sentinel"], "floor": 50, "hp": 22, "maxhp": 110, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 309768, "card": "Shrug It Off+", "hand": ["Bash"], "floor": 50, "hp": 22, "maxhp": 110, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 311750, "card": "Second Wind", "hand": ["Armaments", "Bite", "Immolate", "Bite", "Corruption", "Entrench"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 311774, "card": "Second Wind", "hand": ["Bite", "Immolate", "Bite", "Armaments", "Entrench"], "floor": 50, "hp": 25, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 312144, "card": "Armaments", "hand": ["Bite", "Immolate", "Pommel Strike+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 312188, "card": "Power Through", "hand": [], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 312260, "card": "Power Through+", "hand": ["Bite"], "floor": 50, "hp": -1, "maxhp": -1, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 312322, "card": "Bite", "hand": ["Immolate", "Bite", "Cleave", "Wound"], "floor": 50, "hp": 25, "maxhp": 110, "block": 39, "energy": 0, "v2.0": false}
+{"frame": 312772, "card": "Shrug It Off", "hand": ["Bite", "Flame Barrier", "Defend", "Reaper"], "floor": 50, "hp": 31, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 313114, "card": "Defend+", "hand": ["Bite", "Flame Barrier", "Defend", "Reaper"], "floor": 50, "hp": 31, "maxhp": 110, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 313156, "card": "Strike", "hand": ["Bite", "Reaper", "Flame Barrier"], "floor": 50, "hp": 31, "maxhp": 110, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 313272, "card": "Bite", "hand": ["Flame Barrier", "Reaper"], "floor": 50, "hp": 31, "maxhp": 110, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 313772, "card": "Uppercut+", "hand": ["Bite", "Defend", "Iron Wave", "Pommel Strike+"], "floor": 50, "hp": 40, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 313840, "card": "Defend", "hand": ["Bite", "Iron Wave", "Pommel Strike+"], "floor": 50, "hp": 40, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 313890, "card": "Iron Wave", "hand": ["Bite", "Pommel Strike+"], "floor": 50, "hp": 40, "maxhp": 110, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 313970, "card": "Bite", "hand": ["Pommel Strike+"], "floor": 50, "hp": 40, "maxhp": 110, "block": 12, "energy": 0, "v2.0": false}
+{"frame": 314502, "card": "Second Wind", "hand": ["Bite", "Defend", "Cleave"], "floor": 50, "hp": 43, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 314710, "card": "Shrug It Off+", "hand": ["Bite", "Bite", "Cleave", "Flame Barrier+", "Immolate"], "floor": 50, "hp": 43, "maxhp": 110, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 315190, "card": "Flame Barrier", "hand": [], "floor": 50, "hp": 43, "maxhp": 110, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 315398, "card": "Bite", "hand": ["Bite", "Cleave", "Immolate", "Shrug It Off"], "floor": 50, "hp": 43, "maxhp": 110, "block": 37, "energy": 0, "v2.0": false}
+{"frame": 317578, "card": "Armaments", "hand": ["Bite", "Sword Boomerang+", "Sentinel"], "floor": 50, "hp": 51, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 317724, "card": "Sentinel+", "hand": ["Bite", "Sword Boomerang+", "Wound"], "floor": 50, "hp": 51, "maxhp": 110, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 317782, "card": "Bite", "hand": ["Sword Boomerang+", "Wound"], "floor": 50, "hp": 51, "maxhp": 110, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 319888, "card": "Bash", "hand": ["Defend", "Iron Wave", "Defend"], "floor": 50, "hp": 52, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 320014, "card": "Defend", "hand": ["Defend", "Iron Wave", "Bite"], "floor": 50, "hp": 52, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 320116, "card": "Iron Wave", "hand": ["Defend", "Bite"], "floor": 50, "hp": 52, "maxhp": 110, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 322148, "card": "Power Through+", "hand": ["Immolate", "Sword Boomerang", "Cleave"], "floor": 50, "hp": 24, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 322168, "card": "Power Through+", "hand": ["Sword Boomerang", "Cleave"], "floor": 50, "hp": 24, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 323396, "card": "Bite", "hand": ["Immolate", "Sword Boomerang+", "Cleave", "Wound", "Wound"], "floor": 50, "hp": 24, "maxhp": 110, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 324750, "card": "Shrug It Off+", "hand": ["Burn", "Armaments"], "floor": 50, "hp": 4, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 325324, "card": "Shrug It Off+", "hand": ["Armaments", "Shrug It Off"], "floor": 50, "hp": 4, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 325656, "card": "Shrug It Off", "hand": ["Bite", "Armaments", "Pommel Strike+", "Second Wind"], "floor": 50, "hp": 4, "maxhp": 110, "block": 1, "energy": 3, "v2.0": false}
+{"frame": 328956, "card": "Armaments", "hand": ["Burn", "Second Wind", "Pummel+"], "floor": 50, "hp": 4, "maxhp": 110, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 329346, "card": "Good Instincts", "hand": [], "floor": 50, "hp": 4, "maxhp": 110, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 331844, "card": "Reaper", "hand": ["Shrug It Off", "Flame Barrier"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 331866, "card": "Reaper", "hand": ["Shrug It Off", "Sentinel+", "Flame Barrier"], "floor": 50, "hp": -1, "maxhp": 110, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 331904, "card": "Reaper", "hand": ["Shrug It Off", "Sentinel+", "Flame Barrier"], "floor": 50, "hp": 5, "maxhp": 110, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 332350, "card": "Whirlwind+", "hand": [], "floor": 50, "hp": 48, "maxhp": 110, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 332942, "card": "Whirlwind+", "hand": ["Wound", "Sentinel+", "Shrug It Off", "Flame Barrier", "Uppercut+"], "floor": 50, "hp": 48, "maxhp": 110, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 335042, "card": "Sentinel", "hand": ["Bite", "Immolate", "Bash", "Infernal Blade"], "floor": 51, "hp": 56, "maxhp": 110, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 336542, "card": "Iron Wave", "hand": ["Corruption", "Demon Form+", "Sword Boomerang", "Bite"], "floor": 51, "hp": 56, "maxhp": 110, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 336818, "card": "Bite", "hand": ["Corruption", "Demon Form+", "Sword Boomerang"], "floor": 51, "hp": 56, "maxhp": 110, "block": 20, "energy": 4, "v2.0": false}
+{"frame": 336990, "card": "Sword Boomerang", "hand": [], "floor": 51, "hp": -1, "maxhp": -1, "block": 20, "energy": 0, "v2.0": false}
+{"frame": 337832, "card": "Shrug It Off", "hand": ["Reaper", "Bite", "Whirlwind+", "Power Through"], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 337924, "card": "Shrug It Off", "hand": ["Bite", "Whirlwind+", "Reaper", "Power Through"], "floor": 51, "hp": 58, "maxhp": 110, "block": 9, "energy": 4, "v2.0": false}
+{"frame": 339094, "card": "Pommel Strike+", "hand": ["Armaments", "Bite", "Madness", "Uppercut+"], "floor": 51, "hp": 58, "maxhp": 110, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 339468, "card": "Dark Embrace+", "hand": ["Armaments", "Bite", "Uppercut+", "Second Wind", "Entrench"], "floor": 51, "hp": 58, "maxhp": 110, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 339820, "card": "Madness", "hand": ["Armaments", "Bite"], "floor": 51, "hp": 58, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 340286, "card": "Armaments", "hand": ["Bite", "Uppercut+", "Second Wind", "Madness"], "floor": 51, "hp": 58, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 341058, "card": "Madness", "hand": ["Bite+", "Second Wind+"], "floor": 51, "hp": 58, "maxhp": 110, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 341152, "card": "Dark Embrace", "hand": ["Bite+", "Second Wind+", "Uppercut+", "Ascender's Bane"], "floor": 51, "hp": 58, "maxhp": 110, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 341204, "card": "Uppercut+", "hand": ["Bite", "Second Wind+", "Ascender's Bane"], "floor": 51, "hp": 58, "maxhp": 110, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 341296, "card": "Bite+", "hand": ["Second Wind+", "Ascender's Bane"], "floor": 51, "hp": 58, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 341754, "card": "Second Wind+", "hand": ["Ascender's Bane"], "floor": 51, "hp": 61, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 344720, "card": "Flame Barrier", "hand": ["Feed+", "Power Through", "Uppercut+", "Warcry"], "floor": 51, "hp": 57, "maxhp": 110, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 345050, "card": "Whirlwind+", "hand": ["Warcry", "Defend", "Power Through", "Uppercut+"], "floor": 51, "hp": 57, "maxhp": 110, "block": 25, "energy": 4, "v2.0": false}
+{"frame": 345266, "card": "Uppercut+", "hand": ["Defend", "Warcry", "Defend", "Power Through", "Dazed"], "floor": 51, "hp": 57, "maxhp": 110, "block": 25, "energy": 0, "v2.0": false}
+{"frame": 346322, "card": "Reaper", "hand": ["Bite", "Infernal Blade", "Defend", "Defend", "Iron Wave", "Immolate"], "floor": 51, "hp": 57, "maxhp": 110, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 346872, "card": "Iron Wave", "hand": ["Bite", "Defend", "Defend", "Immolate", "Bite", "Bite"], "floor": 51, "hp": 97, "maxhp": 110, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 347122, "card": "Sentinel", "hand": ["Bite", "Defend", "Bite", "Bite", "Immolate", "Sword Boomerang"], "floor": 51, "hp": 97, "maxhp": 110, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 347248, "card": "Bite", "hand": ["Bite", "Defend", "Immolate", "Bite", "Sword Boomerang", "Bash"], "floor": 51, "hp": 97, "maxhp": 110, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 347316, "card": "Bite", "hand": ["Bite", "Defend", "Immolate", "Sword Boomerang", "Clash", "Bite"], "floor": 51, "hp": 100, "maxhp": 11, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 347448, "card": "Bite", "hand": ["Bite", "Defend", "Sword Boomerang", "Immolate"], "floor": 51, "hp": 102, "maxhp": 11, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 348664, "card": "Uppercut+", "hand": ["Bite", "Sword Boomerang", "Iron Wave", "Warcry", "Pommel Strike+", "Defend", "Bite"], "floor": 51, "hp": 104, "maxhp": 11, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 348764, "card": "Defend", "hand": ["Bite", "Iron Wave", "Warcry", "Pommel Strike+", "Bite"], "floor": 51, "hp": 104, "maxhp": 11, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 348788, "card": "Defend", "hand": ["Bite", "Sword Boomerang", "Iron Wave", "Warcry", "Pommel Strike+", "Bite"], "floor": 51, "hp": 104, "maxhp": 11, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 348936, "card": "Sword Boomerang", "hand": ["Pommel Strike+", "Bite", "Bite"], "floor": 51, "hp": -1, "maxhp": -1, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 349334, "card": "Pommel Strike+", "hand": ["Bite", "Iron Wave", "Warcry", "Bite", "Bash", "Whirlwind+", "Clash"], "floor": 51, "hp": 104, "maxhp": 11, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 349452, "card": "Defend", "hand": ["Bite", "Warcry", "Bite"], "floor": 51, "hp": -1, "maxhp": -1, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 349548, "card": "Feed+", "hand": ["Bite+", "Warcry", "Bite", "Bite", "Bash", "Whirlwind+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 18, "energy": 2, "v2.0": false}
+done

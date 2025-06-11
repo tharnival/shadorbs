@@ -1,0 +1,815 @@
+{"frame": 4064, "card": "Strike", "hand": ["Strike", "Defend", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 4086, "card": "Strike", "hand": ["Defend", "Strike", "Ascender's Bane"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 4152, "card": "Strike", "hand": ["Ascender's Bane", "Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 4404, "card": "Bash", "hand": ["Strike", "Defend", "Defend", "Defend"], "floor": 1, "hp": 60, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 4432, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 1, "hp": 60, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5264, "card": "Defend", "hand": ["Corruption", "Strike"], "floor": 1, "hp": 60, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5402, "card": "Strike", "hand": ["Strike", "Corruption", "Bash"], "floor": 1, "hp": 60, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5668, "card": "Strike", "hand": [], "floor": 1, "hp": 53, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 7534, "card": "Strike", "hand": ["Defend", "Corruption", "Ascender's Bane"], "floor": 3, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 7576, "card": "Defend", "hand": ["Corruption", "Ascender's Bane"], "floor": 3, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 7610, "card": "Defend", "hand": ["Corruption", "Ascender's Bane"], "floor": 3, "hp": 59, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 7956, "card": "Strike", "hand": ["Strike", "Bash", "Strike", "Defend"], "floor": 3, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 7990, "card": "Bash", "hand": ["Strike", "Strike", "Defend"], "floor": 3, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 8252, "card": "Rampage", "hand": [], "floor": 3, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16566, "card": "Rampage", "hand": ["Strike", "Strike", "Defend", "Defend"], "floor": 6, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16734, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 6, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 16754, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 6, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 17488, "card": "Wild Strike", "hand": ["Defend", "Defend", "Corruption", "Strike"], "floor": 6, "hp": 65, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18052, "card": "Bash", "hand": ["Strike", "Ascender's Bane", "Wound", "Dazed"], "floor": 6, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18098, "card": "Strike", "hand": ["Ascender's Bane", "Wound", "Dazed"], "floor": 6, "hp": 55, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 18528, "card": "Rampage", "hand": ["Strike", "Dazed", "Dazed", "Dazed"], "floor": 6, "hp": 45, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18562, "card": "Strike", "hand": ["Dazed", "Dazed", "Dazed"], "floor": 6, "hp": 45, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 19014, "card": "Wild Strike", "hand": ["Corruption", "Defend", "Defend", "Strike"], "floor": 6, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 19056, "card": "Strike", "hand": ["Defend", "Defend", "Corruption"], "floor": 6, "hp": 35, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 19088, "card": "Defend", "hand": ["Defend", "Corruption"], "floor": 6, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 19680, "card": "Strike", "hand": ["Defend", "Wound", "Dazed"], "floor": 6, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 19976, "card": "Defend", "hand": ["Strike", "Strike", "Dazed", "Dazed"], "floor": 6, "hp": 30, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20030, "card": "Strike", "hand": ["Dazed", "Dazed"], "floor": 6, "hp": 30, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 20266, "card": "Wild Strike", "hand": ["Dazed", "Defend", "Dazed"], "floor": 6, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21360, "card": "Bash", "hand": ["Strike", "Defend", "Corruption", "Ascender's Bane"], "floor": 7, "hp": 31, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21390, "card": "Strike", "hand": ["Defend", "Ascender's Bane", "Corruption"], "floor": 7, "hp": 31, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 22094, "card": "Wild Strike", "hand": ["Offering", "Defend", "Defend", "Strike"], "floor": 7, "hp": 31, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22614, "card": "Rampage", "hand": ["Defend", "Strike", "Strike"], "floor": 7, "hp": 31, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22642, "card": "Strike", "hand": ["Defend", "Strike", "Wound"], "floor": 7, "hp": 31, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 22668, "card": "Strike", "hand": [], "floor": 7, "hp": 31, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 28410, "card": "Rampage", "hand": ["Smite", "Wild Strike", "Defend", "Dark Embrace"], "floor": 10, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 28440, "card": "Strike", "hand": ["Wild Strike", "Defend", "Dark Embrace"], "floor": 10, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 28472, "card": "Wild Strike", "hand": ["Defend", "Dark Embrace"], "floor": 10, "hp": 59, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 28836, "card": "Offering", "hand": ["Strike", "Ascender's Bane", "Wound"], "floor": 10, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29038, "card": "Bash", "hand": ["Strike", "Defend", "Strike", "Corruption", "Ascender's Bane"], "floor": 10, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 29090, "card": "Strike", "hand": ["Defend", "Strike", "Ascender's Bane", "Wound", "Corruption"], "floor": 10, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29136, "card": "Strike", "hand": ["Defend", "Ascender's Bane", "Wound", "Corruption"], "floor": 10, "hp": 53, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 29546, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 10, "hp": 42, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 29568, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 10, "hp": 42, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 29594, "card": "Strike", "hand": [], "floor": 10, "hp": 42, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 42244, "card": "Rampage", "hand": ["Defend", "Strike", "Burning Pact", "Ascender's Bane"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 42544, "card": "Corruption", "hand": ["Defend", "Defend", "Strike", "Dark Embrace"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 43154, "card": "Burning Pact", "hand": ["Wild Strike", "Defend"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 43230, "card": "Burning Pact", "hand": ["Wild Strike", "Defend", "Defend"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 44152, "card": "Dark Embrace", "hand": ["Immolate"], "floor": 12, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 44500, "card": "Rampage", "hand": ["Offering", "Strike", "Strike"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 44538, "card": "Offering", "hand": ["Strike", "Strike"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 44912, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 12, "hp": 42, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 45134, "card": "Defend", "hand": ["Strike", "Strike", "Bash+", "Strike", "Wild Strike"], "floor": 12, "hp": 42, "maxhp": 75, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 45498, "card": "Bash", "hand": ["Strike", "Strike", "Strike", "Wild Strike"], "floor": 12, "hp": 42, "maxhp": 75, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 45880, "card": "Rampage", "hand": ["Strike", "Strike", "Strike", "Wild Strike"], "floor": 12, "hp": 42, "maxhp": 75, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 45950, "card": "Wild Strike", "hand": ["Strike", "Strike", "Strike"], "floor": 12, "hp": 42, "maxhp": 75, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 46384, "card": "Rampage", "hand": ["Wild Strike", "Strike", "Bash+", "Wound"], "floor": 12, "hp": 37, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 46426, "card": "Wild Strike", "hand": [], "floor": 12, "hp": 37, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 59066, "card": "Offering", "hand": ["Defend", "Strike", "Metallicize", "Entrench"], "floor": 13, "hp": 43, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 60736, "card": "Metallicize", "hand": ["Corruption", "Defend", "Strike", "Strike", "Strike"], "floor": 13, "hp": 37, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 60768, "card": "Defend", "hand": ["Strike", "Strike", "Strike", "Burning Pact"], "floor": 13, "hp": 37, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 60844, "card": "Strike", "hand": ["Burning Pact", "Strike", "Corruption"], "floor": 13, "hp": 37, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 60892, "card": "Strike", "hand": ["Corruption", "Burning Pact"], "floor": 13, "hp": 37, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 60942, "card": "Strike", "hand": ["Corruption", "Burning Pact"], "floor": 13, "hp": 37, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 61784, "card": "Wild Strike", "hand": ["Defend", "Strike", "Defend", "Dark Embrace"], "floor": 13, "hp": 42, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62066, "card": "Strike", "hand": ["Defend", "Dark Embrace"], "floor": 13, "hp": 42, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62094, "card": "Defend", "hand": ["Defend", "Dark Embrace", "Ascender's Bane"], "floor": 13, "hp": 42, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 62128, "card": "Defend", "hand": ["Dark Embrace", "Ascender's Bane"], "floor": 13, "hp": 42, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 62532, "card": "Rampage", "hand": ["Bash+", "Defend", "Wound", "Corruption"], "floor": 13, "hp": 346, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62836, "card": "Bash+", "hand": ["Corruption", "Defend", "Strike", "Wound"], "floor": 13, "hp": 46, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 63140, "card": "Defend", "hand": ["Strike", "Defend", "Strike", "Burning Pact"], "floor": 13, "hp": 45, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 63376, "card": "Burning Pact", "hand": ["Defend", "Strike"], "floor": 13, "hp": 49, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 64078, "card": "Strike", "hand": [], "floor": 13, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 65810, "card": "Defend", "hand": ["Strike", "Strike", "Dark Embrace"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 65842, "card": "Dark Embrace", "hand": ["Strike", "Ascender's Bane"], "floor": 14, "hp": 58, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 67268, "card": "Rampage", "hand": ["Strike", "Defend", "True Grit", "Corruption", "Strike", "Wild Strike"], "floor": 14, "hp": 47, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 67324, "card": "Defend", "hand": ["Defend", "True Grit", "Corruption", "Wild Strike", "Metallicize"], "floor": 14, "hp": 47, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 67368, "card": "Defend", "hand": ["Strike", "True Grit", "Corruption", "Swift Strike", "Metallicize"], "floor": 14, "hp": 47, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 67418, "card": "Metallicize", "hand": ["Strike", "Strike", "Wild Strike"], "floor": 14, "hp": 47, "maxhp": 75, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 67450, "card": "Metallicize", "hand": ["Strike", "Strike", "Wild Strike"], "floor": 14, "hp": 47, "maxhp": 75, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 67654, "card": "True Grit", "hand": ["Strike", "Corruption", "Wild Strike"], "floor": 14, "hp": 47, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 68228, "card": "Defend", "hand": [], "floor": 14, "hp": 47, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 69008, "card": "Rampage", "hand": ["True Grit", "Strike", "Bash+", "Defend", "Dazed"], "floor": 14, "hp": 45, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 69080, "card": "Defend", "hand": ["True Grit", "Strike", "Dazed", "Dazed"], "floor": 14, "hp": 45, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 69112, "card": "True Grit", "hand": ["Strike", "Dazed", "Dazed", "Dazed", "Bash+", "Corruption"], "floor": 14, "hp": 45, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 72604, "card": "Strike", "hand": ["Wild Strike", "Defend", "Strike", "Defend", "Defend", "Dazed", "Corruption"], "floor": 14, "hp": 40, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 72710, "card": "Strike", "hand": ["Wild Strike", "Defend", "Defend", "Defend", "Burning Pact", "Corruption"], "floor": 14, "hp": 40, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 72780, "card": "Wild Strike", "hand": ["Defend", "Defend", "Defend", "Dazed", "Corruption"], "floor": 14, "hp": 40, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 73528, "card": "Strike", "hand": ["True Grit", "Dazed", "Dazed", "Dazed"], "floor": 14, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 73566, "card": "True Grit", "hand": ["Dazed", "Dazed", "Wound", "Dazed", "Dazed"], "floor": 14, "hp": 38, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 74262, "card": "Rampage", "hand": ["Defend", "Defend", "Strike", "Dazed", "True Grit"], "floor": 14, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 74512, "card": "True Grit", "hand": ["Defend", "Defend", "Dazed", "Dazed", "Burning Pact"], "floor": 14, "hp": 38, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 75080, "card": "Strike", "hand": ["Dazed"], "floor": 14, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 75142, "card": "Defend", "hand": ["Dazed", "Dazed", "Dazed", "Dazed"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 75700, "card": "Strike", "hand": ["Wild Strike", "Defend", "Corruption", "Burning Pact", "Strike"], "floor": 14, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 75830, "card": "Defend", "hand": ["Defend+", "Corruption", "Burning Pact", "Rampage", "Defend"], "floor": 14, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 75878, "card": "Rampage", "hand": ["Wild Strike", "Defend", "Strike", "Corruption", "Burning Pact", "Dazed", "Defend"], "floor": 14, "hp": 38, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 75906, "card": "Defend", "hand": ["Wild Strike", "Strike", "Wound", "Corruption", "Burning Pact", "Dazed", "Defend"], "floor": 14, "hp": 38, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 76274, "card": "Strike", "hand": ["True Grit", "Defend", "Strike", "Dazed", "Dazed"], "floor": 14, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 76306, "card": "Strike", "hand": ["True Grit", "Defend", "Dazed", "Dazed"], "floor": 14, "hp": 38, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 87458, "card": "Strike", "hand": ["Offering", "Warcry", "Metallicize", "Dark Embrace"], "floor": 16, "hp": 44, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 87510, "card": "Metallicize", "hand": ["Offering", "Warcry", "Dark Embrace"], "floor": 16, "hp": 44, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 87572, "card": "Offering", "hand": ["Dark Embrace", "Warcry", "Entrench"], "floor": 16, "hp": 44, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 88062, "card": "Dark Embrace", "hand": ["Warcry", "Bash+", "True Grit+", "Burning Pact"], "floor": 16, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 88248, "card": "Warcry", "hand": ["Bash+", "True Grit+", "Burning Pact"], "floor": 16, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92446, "card": "True Grit+", "hand": ["Bash+", "Wild Strike", "Burning Pact"], "floor": 16, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92918, "card": "Bash+", "hand": ["Burning Pact", "Rampage"], "floor": 16, "hp": 38, "maxhp": 75, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 93002, "card": "Rampage", "hand": ["Burning Pact"], "floor": 16, "hp": 38, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 93638, "card": "Defend", "hand": ["Strike", "Defend", "Defend"], "floor": 16, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 93824, "card": "Defend", "hand": ["Strike", "Defend", "Defend"], "floor": 16, "hp": 38, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 94276, "card": "Burning Pact", "hand": ["Corruption", "Strike", "Ascender's Bane"], "floor": 16, "hp": 20, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 94728, "card": "True Grit+", "hand": ["Strike", "Defend", "Defend", "Rampage", "Entrench"], "floor": 16, "hp": 20, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 95042, "card": "Rampage", "hand": ["Defend", "Defend", "Bash+"], "floor": 16, "hp": 20, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 95444, "card": "Defend", "hand": ["Defend", "Strike", "Strike", "Defend", "Strike"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 95490, "card": "Defend", "hand": ["Strike", "Strike", "Strike", "Defend"], "floor": 16, "hp": 20, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 97264, "card": "Defend", "hand": ["Bash", "True Grit+"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 97322, "card": "Defend", "hand": ["Bash"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 97522, "card": "Rampage", "hand": ["Bash+", "True Grit+", "Burning Pact"], "floor": 16, "hp": -1, "maxhp": -1, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 97586, "card": "True Grit+", "hand": ["Burning Pact", "Bash+"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 98154, "card": "True Grit+", "hand": ["Defend", "Strike", "Defend", "Defend"], "floor": 16, "hp": 17, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 98374, "card": "Defend", "hand": ["Defend", "Strike"], "floor": 16, "hp": 17, "maxhp": 75, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 98790, "card": "Rampage", "hand": ["Strike", "True Grit+", "Defend", "Defend"], "floor": 16, "hp": 17, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 98946, "card": "True Grit+", "hand": ["Strike", "Defend", "Defend"], "floor": 16, "hp": 17, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 99128, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 16, "hp": 17, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 99914, "card": "Rampage", "hand": ["Defend", "Defend", "True Grit+", "Burning Pact"], "floor": 16, "hp": 17, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 100460, "card": "True Grit+", "hand": ["Strike", "Defend", "Defend", "Defend"], "floor": 16, "hp": 17, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 100618, "card": "Defend", "hand": ["Defend", "Defend", "Rampage"], "floor": 16, "hp": 17, "maxhp": 75, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 101158, "card": "True Grit+", "hand": ["Defend", "Defend"], "floor": 16, "hp": 17, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 101412, "card": "Defend", "hand": ["Defend", "Burning Pact", "Rampage"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 102008, "card": "Defend", "hand": ["Defend", "Defend"], "floor": 16, "hp": 14, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 102306, "card": "Defend", "hand": ["Defend", "Defend", "Burning Pact", "Rampage"], "floor": 16, "hp": 14, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 102508, "card": "Defend", "hand": ["Burning Pact", "Rampage"], "floor": 16, "hp": 14, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 102956, "card": "Rampage", "hand": ["True Grit+", "Defend", "Defend", "Burning Pact"], "floor": 16, "hp": 12, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 103074, "card": "Burning Pact", "hand": ["True Grit+", "Defend"], "floor": 16, "hp": 12, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 103186, "card": "Rampage", "hand": [], "floor": 16, "hp": 12, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 109862, "card": "Dark Embrace", "hand": ["Bash+", "True Grit+", "Offering", "Defend"], "floor": 18, "hp": 61, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 109944, "card": "Offering", "hand": ["True Grit+", "Defend", "Bash+", "Entrench"], "floor": 18, "hp": 61, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 110422, "card": "Corruption", "hand": ["Bash+", "True Grit+", "Defend", "Strike", "Metallicize"], "floor": 18, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 110622, "card": "Bash+", "hand": ["True Grit+", "Defend", "Strike", "Rampage"], "floor": 18, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 111098, "card": "Rampage", "hand": ["Defend", "Strike", "Defend", "Strike", "True Grit+", "Strike"], "floor": 18, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 111136, "card": "Strike", "hand": ["Defend", "Strike", "Defend", "Strike", "True Grit+", "Strike"], "floor": 18, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 111166, "card": "Smite", "hand": ["True Grit+", "Defend", "Strike", "Defend", "Strike"], "floor": 18, "hp": 55, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 111646, "card": "Juggernaut", "hand": ["Defend", "Strike", "Defend", "Strike", "Burn", "Entrench"], "floor": 18, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 111764, "card": "Defend", "hand": ["Strike", "Warcry", "Wild Strike", "Defend"], "floor": 18, "hp": 5, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 111910, "card": "Defend", "hand": ["Defend", "Strike", "Strike", "Warcry", "Wild Strike", "True Grit+"], "floor": 18, "hp": -1, "maxhp": -1, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 112048, "card": "True Grit+", "hand": ["Strike", "Strike", "Warcry", "Wild Strike", "Burning Pact", "Rampage"], "floor": 18, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 112224, "card": "Defend", "hand": ["Strike", "Warcry", "Wild Strike", "Defend", "Strike", "Burning Pact", "Rampage"], "floor": 18, "hp": 55, "maxhp": 75, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 112348, "card": "Rampage", "hand": ["Wild Strike", "Defend", "Strike", "Dazed", "Strike"], "floor": 18, "hp": 55, "maxhp": 75, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 112454, "card": "Wild Strike", "hand": ["Defend", "Strike", "Warcry", "Burning Pact", "Dazed", "Strike", "Dazed"], "floor": 18, "hp": 55, "maxhp": 75, "block": 24, "energy": 0, "v2.0": false}
+{"frame": 113066, "card": "Defend", "hand": ["Strike", "Bash+", "Burning Pact", "Dazed"], "floor": 18, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 113170, "card": "Strike", "hand": [], "floor": 18, "hp": 55, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 124868, "card": "Dark Embrace", "hand": ["Defend", "Offering", "True Grit+", "Rampage"], "floor": 20, "hp": 61, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 126644, "card": "Offering", "hand": ["Defend", "True Grit+", "Rampage"], "floor": 20, "hp": 61, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 127248, "card": "Defend", "hand": ["Strike", "Defend", "Corruption"], "floor": 20, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 127270, "card": "Defend", "hand": ["True Grit+", "Strike", "Defend", "Corruption"], "floor": 20, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 127326, "card": "Corruption", "hand": ["True Grit+", "Strike", "Defend", "Rampage"], "floor": 20, "hp": 55, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 127424, "card": "Strike", "hand": ["Defend", "True Grit+", "Dark Embrace", "Entrench"], "floor": 20, "hp": -1, "maxhp": -1, "block": 54, "energy": 0, "v2.0": false}
+{"frame": 129028, "card": "Armaments", "hand": ["Defend", "Warcry", "Strike", "Rampage"], "floor": 20, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 129198, "card": "Warcry", "hand": ["Defend", "Strike", "True Grit+", "Bash+", "Rampage"], "floor": 20, "hp": 55, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 129520, "card": "Metallicize+", "hand": ["Defend", "Strike", "True Grit", "Bash+", "Juggernaut", "Safety"], "floor": 20, "hp": 55, "maxhp": 75, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 129556, "card": "Metallicize+", "hand": ["Defend", "Strike", "True Grit", "Bash+", "Juggernaut", "Anger", "Rampage+"], "floor": 20, "hp": 5, "maxhp": -1, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 129672, "card": "Dark Embrace", "hand": ["Strike", "True Grit+", "Bash+", "Juggernaut", "Strike"], "floor": 20, "hp": 55, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 129760, "card": "Juggernaut", "hand": ["Defend", "Strike", "True Grit+", "Bash+", "Strike", "Rampage", "Entrench"], "floor": 20, "hp": 55, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 129968, "card": "Strike", "hand": ["Defend", "True Grit+", "Strike", "Rampage"], "floor": 20, "hp": 55, "maxhp": 75, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 130020, "card": "Strike", "hand": ["Defend", "True Grit+", "Bash+"], "floor": 20, "hp": -1, "maxhp": -1, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 130190, "card": "Defend", "hand": ["True Grit+", "Rampage", "Bash+"], "floor": 20, "hp": 55, "maxhp": 75, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 130956, "card": "Defend", "hand": ["Strike", "Strike", "Strike", "Dazed"], "floor": 20, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 130980, "card": "Defend", "hand": ["Strike", "Dazed", "Strike", "Strike"], "floor": 20, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 131160, "card": "Rampage", "hand": ["True Grit", "Bash+", "Strike", "Defend", "Defend", "Strike", "Strike", "Burning Pact"], "floor": 20, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 131364, "card": "Burning Pact", "hand": ["Defend", "Strike", "True Grit", "Defend", "Defend"], "floor": 20, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 131598, "card": "Rampage", "hand": ["Strike", "Defend", "Defend", "Strike", "Defend", "True Grit", "Wild Strike"], "floor": 20, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 131664, "card": "Defend", "hand": ["Strike", "Defend", "Strike", "Defend", "True Grit", "Wild Strike"], "floor": 20, "hp": 55, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 131842, "card": "Rampage", "hand": ["Strike", "Defend", "Strike", "Defend", "Wild Strike", "True Grit+"], "floor": 20, "hp": 55, "maxhp": 75, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 131904, "card": "Defend", "hand": ["Defend", "True Grit+", "Strike", "Wild Strike"], "floor": 20, "hp": -1, "maxhp": -1, "block": 3, "energy": 0, "v2.0": false}
+{"frame": 131964, "card": "Defend", "hand": [], "floor": 20, "hp": 55, "maxhp": 75, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 132002, "card": "Defend", "hand": ["True Grit+", "Bash", "Strike", "Strike", "Ascender's Bane", "Wild Strike", "Rampage"], "floor": 20, "hp": 55, "maxhp": 75, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 132654, "card": "Rampage", "hand": [], "floor": 20, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 135920, "card": "Dark Embrace", "hand": [], "floor": 21, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 139614, "card": "Bash+", "hand": ["Defend", "Metallicize"], "floor": 21, "hp": 58, "maxhp": 75, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 139690, "card": "Dark Embrace", "hand": [], "floor": 21, "hp": 58, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 140034, "card": "Dark Embrace", "hand": ["Defend", "Ascender's Bane"], "floor": 21, "hp": 58, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 140180, "card": "Warcry", "hand": ["Impatience", "Strike"], "floor": 21, "hp": 58, "maxhp": 75, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 140452, "card": "Offering", "hand": ["Strike", "Strike"], "floor": 21, "hp": 58, "maxhp": 75, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 140848, "card": "Armaments", "hand": ["Juggernaut", "Defend", "Strike", "Rampage"], "floor": 21, "hp": 52, "maxhp": 75, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 141006, "card": "Juggernaut+", "hand": ["Defend", "Bash"], "floor": 21, "hp": 52, "maxhp": 75, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 141166, "card": "Shockwave", "hand": ["Defend", "Defend", "Strike", "Bash+"], "floor": 21, "hp": 52, "maxhp": 75, "block": 19, "energy": 0, "v2.0": false}
+{"frame": 141316, "card": "Strike", "hand": ["Defend", "Defend", "Burning Pact"], "floor": 21, "hp": 52, "maxhp": 75, "block": 19, "energy": 0, "v2.0": false}
+{"frame": 142802, "card": "Strike", "hand": ["Defend", "Defend", "Defend", "Strike", "Strike"], "floor": 21, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 143350, "card": "Rampage", "hand": ["Defend", "Bash+", "Defend", "Strike", "Strike", "Strike"], "floor": 21, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 143546, "card": "Rampage", "hand": ["Defend", "Bash+", "Defend", "Strike", "Strike"], "floor": 21, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 143634, "card": "Defend", "hand": ["Defend", "Bash", "Defend", "Strike", "Strike"], "floor": 21, "hp": 52, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 143772, "card": "Carnage", "hand": ["Defend", "Bash+", "Defend", "Strike", "Strike", "Strike+"], "floor": 21, "hp": 52, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 143842, "card": "Defend", "hand": ["Strike", "Defend", "Burning Pact"], "floor": 21, "hp": 52, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 143968, "card": "Rampage", "hand": [], "floor": 21, "hp": 52, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 146978, "card": "Dark Embrace", "hand": ["Warcry", "Burning Pact", "Strike"], "floor": 22, "hp": 58, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 147050, "card": "Burning Pact", "hand": ["Ascender's Bane", "Strike", "Warcry"], "floor": 22, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 147112, "card": "Burning Pact", "hand": [], "floor": 22, "hp": 58, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 147998, "card": "Corruption", "hand": ["Pummel"], "floor": 22, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 148172, "card": "True Grit+", "hand": ["Shockwave", "Offering"], "floor": 22, "hp": 58, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 148422, "card": "True Grit+", "hand": ["Offering"], "floor": 22, "hp": 58, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 148766, "card": "Metallicize", "hand": [], "floor": 22, "hp": 58, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 149230, "card": "Juggernaut+", "hand": ["Defend"], "floor": 22, "hp": 58, "maxhp": 75, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 149674, "card": "Rampage", "hand": ["Defend", "Offering", "Defend", "Warcry", "Defend", "Shockwave", "Dark Embrace"], "floor": 22, "hp": 58, "maxhp": 75, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 150044, "card": "Offering", "hand": ["Warcry", "Disarm"], "floor": 22, "hp": -1, "maxhp": -1, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 150068, "card": "Offering", "hand": ["Warcry", "Disarm"], "floor": 22, "hp": 58, "maxhp": 75, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 150806, "card": "Rampage", "hand": ["Defend", "Strike", "Warcry"], "floor": 22, "hp": 52, "maxhp": 75, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 150940, "card": "Metallicize", "hand": ["Defend", "Warcry", "Shockwave", "Dazed"], "floor": 22, "hp": 52, "maxhp": 75, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 151158, "card": "Defend", "hand": ["Defend", "Defend", "Shockwave", "Dazed"], "floor": 22, "hp": -1, "maxhp": -1, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 152570, "card": "Rampage", "hand": ["Defend", "Defend", "Defend", "Strike", "Bash+", "Burning Pact"], "floor": 22, "hp": 52, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 152616, "card": "Defend", "hand": ["Defend", "Bash+", "Warcry", "Dark Embrace", "Burning Pact"], "floor": 22, "hp": 52, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 153058, "card": "Rampage", "hand": ["Defend", "Strike", "Strike", "Warcry", "Bash+"], "floor": 22, "hp": -1, "maxhp": -1, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 153188, "card": "Defend", "hand": ["Panache", "Strike"], "floor": 22, "hp": 52, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 153408, "card": "Rampage", "hand": ["Strike", "Strike", "Warcry", "Dark Embrace"], "floor": 22, "hp": 52, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 153590, "card": "Burning Pact", "hand": ["Warcry", "Strike"], "floor": 22, "hp": 52, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 153702, "card": "Burning Pact", "hand": ["Warcry", "Dark Embrace", "Bash+", "Dazed", "Strike"], "floor": 22, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 154142, "card": "Rampage", "hand": [], "floor": 22, "hp": 42, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 159662, "card": "Offering", "hand": ["Juggernaut", "Warcry", "Corruption"], "floor": 23, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 160652, "card": "Seeing Red", "hand": [], "floor": 23, "hp": 42, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 160734, "card": "Metallicize", "hand": ["True Grit+", "Warcry", "Ascender's Bane"], "floor": 23, "hp": 42, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 161162, "card": "Shockwave", "hand": ["Defend", "Warcry", "True Grit"], "floor": 23, "hp": 42, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 161446, "card": "True Grit", "hand": ["Warcry", "Corruption"], "floor": 23, "hp": 42, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 162044, "card": "Seeing Red", "hand": ["Warcry"], "floor": 23, "hp": 42, "maxhp": 75, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 162110, "card": "Corruption", "hand": ["Warcry"], "floor": 23, "hp": 42, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 163068, "card": "Dark Embrace", "hand": ["Warcry", "Bash+"], "floor": 23, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 163322, "card": "Seeing Red", "hand": ["Warcry", "Smite", "Dropkick", "Bash+"], "floor": 23, "hp": 38, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 164590, "card": "Rampage", "hand": ["Warcry", "Strike", "Bash+", "Strike"], "floor": 23, "hp": 38, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 164844, "card": "Bash+", "hand": ["Warcry", "Strike", "Strike"], "floor": 23, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 165362, "card": "Strike", "hand": ["Warcry", "Strike"], "floor": 23, "hp": 38, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 169226, "card": "Dark Embrace", "hand": ["Strike", "Armaments", "Defend", "Strike"], "floor": 23, "hp": 26, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 169356, "card": "Corruption", "hand": ["Strike", "Armaments", "Defend", "Strike", "Burning Pact"], "floor": 23, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 170166, "card": "Defend+", "hand": [], "floor": 23, "hp": 26, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 170186, "card": "Defend+", "hand": [], "floor": 23, "hp": -1, "maxhp": -1, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 170280, "card": "Defend+", "hand": ["Strike"], "floor": 23, "hp": 26, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 170426, "card": "Rampage", "hand": ["Burning Pact", "Strike"], "floor": 23, "hp": 26, "maxhp": 75, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 172200, "card": "Strike", "hand": ["Wild Strike", "Defend", "Burning Pact", "Bash+"], "floor": 23, "hp": -1, "maxhp": -1, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 172898, "card": "Bash+", "hand": ["Writhe", "Wild Strike", "Defend", "Defend", "True Grit+", "Dropkick"], "floor": 23, "hp": 26, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 173082, "card": "True Grit+", "hand": ["Defend", "Defend", "Burning Pact", "Strike"], "floor": 23, "hp": 26, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 174112, "card": "Strike", "hand": ["Defend", "Strike", "Burning Pact", "Wound", "Wound", "Wound"], "floor": 23, "hp": 26, "maxhp": 75, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 175044, "card": "Strike", "hand": ["Defend", "Searing Blow", "Wound", "Wound", "Defend"], "floor": 23, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 175548, "card": "Dropkick", "hand": ["Defend", "Wild Strike"], "floor": 23, "hp": -1, "maxhp": -1, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 175754, "card": "Defend", "hand": ["Burning Pact", "Twin Strike", "Wound", "Wound"], "floor": 23, "hp": 25, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 176038, "card": "Bash+", "hand": ["Burning Pact", "Wild Strike", "Wound"], "floor": 23, "hp": -1, "maxhp": -1, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 176830, "card": "Burning Pact", "hand": ["Wild Strike", "Blind"], "floor": 23, "hp": 25, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 177244, "card": "Strike", "hand": ["Wild Strike", "Wound", "Wound"], "floor": 23, "hp": 25, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 177550, "card": "Rampage", "hand": [], "floor": 23, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 179224, "card": "Rampage", "hand": [], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 179910, "card": "Corruption", "hand": ["Defend", "Wild Strike", "Defend", "Juggernaut"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 180590, "card": "Metallicize", "hand": ["Strike", "Defend"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 180610, "card": "Metallicize", "hand": ["Strike", "Defend", "Juggernaut"], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 180656, "card": "Juggernaut", "hand": ["Wild Strike", "Defend", "Shrug It Off"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 180854, "card": "Dark Embrace", "hand": ["Defend", "Wild Strike"], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 181060, "card": "Shrug It Off", "hand": ["Defend", "Mind Blast", "Defend", "Seeing Red"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 181176, "card": "Seeing Red", "hand": ["Defend", "Void", "Defend", "Dazed"], "floor": 24, "hp": 31, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 181360, "card": "Bash+", "hand": ["Defend", "Wild Strike", "Defend", "Strike", "Dazed", "Dazed"], "floor": 24, "hp": 31, "maxhp": 75, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 181434, "card": "Defend", "hand": ["Defend", "Wild Strike", "Strike", "Dazed"], "floor": 24, "hp": 31, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 181992, "card": "Wild Strike", "hand": ["Defend", "Warcry", "Dazed"], "floor": 24, "hp": 31, "maxhp": 75, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 182908, "card": "Defend", "hand": [], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 182974, "card": "Shockwave", "hand": ["Armaments", "Offering", "Dazed", "Warcry", "Wound"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 183450, "card": "Strike", "hand": ["Warcry", "Armaments", "Offering", "Dazed"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 183562, "card": "Defend", "hand": ["Armaments", "Offering", "Defend", "Wound", "Dazed"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 183774, "card": "Dark Embrace", "hand": ["Warcry", "Armaments", "Offering", "Defend", "Wound"], "floor": 24, "hp": 31, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 183888, "card": "Defend", "hand": ["Armaments", "Offering", "Dazed", "Dazed"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 185434, "card": "Bash+", "hand": ["Armaments", "Offering", "True Grit+", "Strike", "Strike", "Rampage"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 185482, "card": "True Grit+", "hand": ["Armaments", "Offering", "Strike", "Warcry", "Burning Pact"], "floor": 24, "hp": 31, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 185706, "card": "Armaments", "hand": ["Strike", "Wild Strike", "Wound", "Offering", "Dazed"], "floor": 24, "hp": 31, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 186458, "card": "Defend", "hand": ["Offering", "Strike", "Wild Strike", "Strike"], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 186618, "card": "Rampage+", "hand": [], "floor": 24, "hp": 31, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 192070, "card": "Armaments", "hand": ["Defend", "Defend", "Shrug It Off", "Burning Pact"], "floor": 27, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 192608, "card": "Shrug It Off+", "hand": ["Defend", "Defend", "Burning Pact"], "floor": 27, "hp": 37, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 192980, "card": "Burning Pact", "hand": ["Defend", "Defend", "Dropkick"], "floor": 27, "hp": 37, "maxhp": 75, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 193044, "card": "Burning Pact", "hand": ["Defend", "Dropkick"], "floor": 27, "hp": 37, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 193736, "card": "Metallicize", "hand": ["Void", "Defend"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 194058, "card": "Dark Embrace", "hand": ["Defend", "Defend", "Dropkick", "True Grit", "Seeing Red"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 194314, "card": "Shockwave", "hand": ["Dropkick"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 195888, "card": "Defend", "hand": ["Defend", "Wild Strike", "True Grit+", "Offering"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 197048, "card": "Seeing Red", "hand": ["Warcry", "Ascender's Bane"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 197672, "card": "Corruption", "hand": ["Offering"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 198060, "card": "Corruption", "hand": ["Warcry"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 198330, "card": "Juggernaut", "hand": ["True Grit+"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 198356, "card": "Juggernaut", "hand": ["True Grit+", "Offering", "Dropkick", "Defend", "Warcry"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 198538, "card": "True Grit+", "hand": [], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 199804, "card": "Rampage", "hand": ["Warcry", "Armaments", "Shrug It Off+", "Wild Strike", "Defend"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 200076, "card": "Burning Pact", "hand": ["Armaments", "Shrug It Off+", "Bash", "Defend", "Offering"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 200738, "card": "Dropkick", "hand": ["Warcry", "Defend", "Strike", "Defend", "Shrug It Off+", "Bash"], "floor": 27, "hp": 33, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 200892, "card": "Rampage", "hand": ["Warcry", "Defend", "Strike", "Defend", "Shrug It Off+", "Bash+"], "floor": 27, "hp": -1, "maxhp": -1, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 201054, "card": "Dropkick", "hand": ["Warcry", "Defend", "Strike", "Defend", "Shrug It Off+", "Bite", "Bash+"], "floor": 27, "hp": 33, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 201144, "card": "Rampage", "hand": [], "floor": 27, "hp": 33, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 203338, "card": "Barricade", "hand": [], "floor": 27, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 203490, "card": "True Grit+", "hand": ["Defend", "Bash+"], "floor": 27, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 203682, "card": "True Grit+", "hand": ["Defend", "Bash+", "Dark Embrace"], "floor": 27, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 203782, "card": "Dark Embrace", "hand": ["Bash+", "Dark Embrace"], "floor": 27, "hp": 39, "maxhp": 75, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 203876, "card": "Bash+", "hand": ["Dark Embrace"], "floor": 27, "hp": 39, "maxhp": 75, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 204854, "card": "Offering", "hand": ["Defend"], "floor": 27, "hp": 39, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 204968, "card": "Offering", "hand": ["Defend", "Burning Pact"], "floor": 27, "hp": 39, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 205138, "card": "Metallicize+", "hand": [], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 205234, "card": "Dark Embrace", "hand": ["Warcry", "Defend", "Strike", "Burning Pact", "Defend"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 205322, "card": "Shockwave", "hand": ["Defend", "Strike"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 205384, "card": "Shockwave", "hand": ["Defend", "Strike", "Burning Pact+", "Defend"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 206118, "card": "Burning Pact", "hand": ["Warcry", "Defend", "Strike", "Rampage", "Metallicize"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 206198, "card": "Burning Pact", "hand": ["Burning Pact+", "Defend"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 206398, "card": "Seeing Red", "hand": ["Warcry", "Defend", "Anger"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 206858, "card": "Juggernaut+", "hand": ["Warcry", "Shrug It Off", "Defend"], "floor": 27, "hp": 33, "maxhp": 75, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 207038, "card": "Metallicize", "hand": ["Warcry", "Shame", "Shrug It Off", "Burning Pact", "Rampage"], "floor": 27, "hp": 33, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 207098, "card": "Rampage", "hand": ["Defend", "Warcry", "Defend", "Defend", "Shrug It Off", "Burning Pact", "Wound"], "floor": 27, "hp": 33, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 207172, "card": "Burning Pact", "hand": ["Defend", "Warcry", "Defend", "Defend", "Shrug It Off", "Wound"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 207250, "card": "Burning Pact", "hand": ["Defend", "Warcry", "Defend", "Defend", "Shrug It Off"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 207766, "card": "True Grit+", "hand": ["Warcry", "Defend", "Shrug It Off", "Strike", "Bash", "Bash"], "floor": 27, "hp": 33, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 208298, "card": "Defend", "hand": ["Defend", "Shrug It Off", "Bash", "Wild Strike", "Ascender's Bane"], "floor": 27, "hp": 33, "maxhp": 75, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 208528, "card": "Rampage", "hand": ["Warcry", "Defend", "Shrug It Off", "Wild Strike", "Bash", "Ascender's Bane"], "floor": 27, "hp": 33, "maxhp": 75, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 208616, "card": "Defend", "hand": ["Shrug It Off", "Wild Strike", "Warcry", "Ascender's Bane"], "floor": 27, "hp": 33, "maxhp": 75, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 209002, "card": "Dropkick", "hand": ["Warcry", "Shrug It Off", "Bash+", "Wild Strike", "Rampage"], "floor": 27, "hp": 33, "maxhp": 75, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 209140, "card": "Rampage", "hand": ["Shrug It Off", "Wild Strike", "Defend", "Bash+", "Ascender's Bane"], "floor": 27, "hp": 33, "maxhp": 75, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 209212, "card": "Defend", "hand": ["Shrug It Off", "Wild Strike", "Bash+", "Wound", "Ascender's Bane"], "floor": 27, "hp": 33, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 209454, "card": "Rampage", "hand": [], "floor": 27, "hp": 33, "maxhp": 75, "block": 34, "energy": 1, "v2.0": false}
+{"frame": 212934, "card": "Corruption", "hand": ["Shockwave"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 212958, "card": "Corruption", "hand": ["Havoc"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 212986, "card": "Corruption", "hand": ["Shockwave"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 213004, "card": "Corruption", "hand": ["Shockwave"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 213228, "card": "Shrug It Off", "hand": ["Metallicize+", "Shockwave", "Burning Pact"], "floor": 28, "hp": 34, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 213350, "card": "Burning Pact", "hand": ["Metallicize", "Shockwave"], "floor": 28, "hp": 35, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 213376, "card": "Burning Pact", "hand": ["Metallicize+", "Shockwave", "Strike"], "floor": 28, "hp": 39, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 213480, "card": "Burning Pact", "hand": ["Metallicize+", "Shockwave"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 213754, "card": "Metallicize", "hand": ["Warcry", "Shockwave"], "floor": 28, "hp": -1, "maxhp": -1, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 214036, "card": "Bash+", "hand": ["Warcry"], "floor": 28, "hp": 38, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 214524, "card": "Rampage", "hand": ["Warcry"], "floor": 28, "hp": 39, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 215266, "card": "Wild Strike", "hand": ["Warcry", "Impervious", "True Grit+", "Juggernaut"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 215458, "card": "Juggernaut", "hand": ["Warcry", "Impervious", "True Grit+", "Offering"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 215550, "card": "Juggernaut", "hand": ["Warcry", "Impervious", "Offering", "True Grit+", "Dark Embrace", "Entrench"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 215808, "card": "Dark Embrace", "hand": ["Warcry", "Impervious", "Offering"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 215844, "card": "Dark Embrace", "hand": ["Warcry", "Impervious", "Offering"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 215864, "card": "Dark Embrace", "hand": ["Warcry", "Impervious", "Offering"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 215884, "card": "Dark Embrace", "hand": ["Warcry", "Impervious", "Offering"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 217220, "card": "Dark Embrace", "hand": ["Impervious", "True Grit+", "Offering", "Defend", "Warcry"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 217368, "card": "Seeing Red", "hand": ["Impervious", "True Grit+", "Offering", "Defend", "Defend", "Warcry"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 218364, "card": "Burning Pact", "hand": ["Defend", "Defend", "Defend", "Defend", "Impervious"], "floor": 28, "hp": 39, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 218948, "card": "Defend", "hand": ["Decay", "Defend", "Warcry", "Wild Strike"], "floor": 28, "hp": 39, "maxhp": 75, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 219462, "card": "Rampage+", "hand": ["Offering", "Defend", "Defend", "Defend", "Wild Strike", "Warcry", "Bash+"], "floor": 28, "hp": -1, "maxhp": -1, "block": 22, "energy": 3, "v2.0": false}
+{"frame": 219518, "card": "Defend", "hand": ["Impervious", "Defend", "Dazed", "Wild Strike", "Warcry"], "floor": 28, "hp": 39, "maxhp": 75, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 220110, "card": "Rampage+", "hand": ["Impervious", "Offering", "Defend", "Defend", "Wild Strike", "Bash+"], "floor": 28, "hp": 39, "maxhp": 75, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 220166, "card": "Defend", "hand": ["Impervious", "Defend", "Wild Strike", "Warcry", "Bash+"], "floor": 28, "hp": 39, "maxhp": 75, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 220602, "card": "Rampage+", "hand": ["Offering", "Defend", "Wild Strike", "Warcry+", "Impervious", "Bash+"], "floor": 28, "hp": 39, "maxhp": 75, "block": 34, "energy": 1, "v2.0": false}
+{"frame": 229878, "card": "Burning Pact", "hand": ["Seeing Red", "Wild Strike", "Ascender's Bane"], "floor": 29, "hp": 45, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 229982, "card": "Shrug It Off", "hand": [], "floor": 29, "hp": 45, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 230248, "card": "Shrug It Off", "hand": ["Seeing Red", "Wild Strike", "Shockwave"], "floor": 29, "hp": 45, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 230312, "card": "Seeing Red", "hand": ["Impervious", "Shockwave"], "floor": 29, "hp": 45, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 230376, "card": "Impervious", "hand": ["Wild Strike", "Shockwave"], "floor": 29, "hp": -1, "maxhp": -1, "block": 9, "energy": -1, "v2.0": false}
+{"frame": 231250, "card": "Corruption", "hand": ["Juggernaut", "Strike", "Defend", "Wild Strike+", "Shockwave"], "floor": 29, "hp": 45, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 231364, "card": "Shockwave", "hand": ["Warcry"], "floor": 29, "hp": 45, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 231550, "card": "Defend", "hand": ["Warcry", "Strike", "Wild Strike", "Juggernaut"], "floor": 29, "hp": 45, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 231598, "card": "Warcry", "hand": ["Strike", "Wild Strike"], "floor": 29, "hp": 45, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 231784, "card": "Defend", "hand": ["Strike", "Wild Strike"], "floor": 29, "hp": 45, "maxhp": 75, "block": 4, "energy": 0, "v2.0": false}
+{"frame": 232088, "card": "Strike", "hand": ["Wild Strike"], "floor": 29, "hp": 45, "maxhp": 75, "block": 8, "energy": 0, "v2.0": false}
+{"frame": 232784, "card": "Armaments", "hand": ["Wild Strike", "Juggernaut", "Offering", "Dark Embrace"], "floor": 29, "hp": 41, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 232966, "card": "Dark Embrace", "hand": [], "floor": 29, "hp": 41, "maxhp": 75, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 233104, "card": "Metallicize", "hand": ["Wild Strike", "Offering", "True Grit+", "True Grit+"], "floor": 29, "hp": 41, "maxhp": 75, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 233158, "card": "Dark Embrace", "hand": ["Wild Strike", "Juggernaut+", "True Grit+"], "floor": 29, "hp": 41, "maxhp": 75, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 233382, "card": "Juggernaut+", "hand": ["Wild Strike", "Offering", "True Grit+"], "floor": 29, "hp": 41, "maxhp": 75, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 234564, "card": "Burning Pact", "hand": ["Doubt", "Bash+", "Burning Pact", "Defend", "Strike"], "floor": 29, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 234648, "card": "Burning Pact", "hand": ["Bash", "True Grit", "Defend", "Burning Pact+"], "floor": 29, "hp": 41, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 234842, "card": "Rampage", "hand": ["Bash+", "True Grit", "Defend", "Defend", "Dropkick"], "floor": 29, "hp": 41, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 234918, "card": "Dropkick", "hand": ["Bash", "True Grit", "Defend", "Defend", "Shrug It Off", "Offering"], "floor": 29, "hp": 41, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 235072, "card": "Rampage", "hand": ["Bash+", "True Grit", "Defend", "Defend", "Shrug It Off", "Offering", "Burning Pact"], "floor": 29, "hp": 41, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 235202, "card": "Dropkick+", "hand": ["Bash+", "True Grit", "Defend", "Defend", "Shrug It Off", "Offering"], "floor": 29, "hp": 41, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 235346, "card": "Rampage", "hand": ["Bash+", "True Grit", "Defend", "Defend", "Shrug It Off", "Offering", "Burning Pact"], "floor": 29, "hp": 41, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 235560, "card": "Defend", "hand": ["Defend", "Shrug It Off", "Offering", "Burning Pact"], "floor": 29, "hp": 41, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 237570, "card": "Dark Embrace", "hand": ["Dark Embrace", "Panacea", "Heavy Blade"], "floor": 30, "hp": 47, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 237734, "card": "Dark Embrace", "hand": ["Shrug It Off"], "floor": 30, "hp": 47, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 238006, "card": "Burning Pact", "hand": [], "floor": 30, "hp": 47, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 238654, "card": "Corruption", "hand": ["Defend", "Defend", "Armaments", "Impervious", "Warcry", "True Grit+"], "floor": 30, "hp": 47, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 238970, "card": "Defend", "hand": ["Defend", "Armaments", "Impervious", "Warcry", "True Grit+", "Burning Pact"], "floor": 30, "hp": 47, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 239088, "card": "Defend", "hand": ["Impervious", "Warcry", "True Grit+", "Burning Pact", "Defend"], "floor": 30, "hp": 47, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 239294, "card": "Defend", "hand": ["Warcry", "True Grit"], "floor": 30, "hp": 47, "maxhp": 75, "block": 12, "energy": 0, "v2.0": false}
+{"frame": 240348, "card": "Seeing Red", "hand": ["Burning Pact", "Bash+", "Strike"], "floor": 30, "hp": 47, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 240470, "card": "Shockwave", "hand": ["Bash+", "Ascender's Bane"], "floor": 30, "hp": 47, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 240944, "card": "Rampage", "hand": ["Bash+", "Defend", "Feel No Pain", "True Grit"], "floor": 30, "hp": 47, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 241048, "card": "Burning Pact", "hand": [], "floor": 30, "hp": 47, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 241310, "card": "True Grit+", "hand": ["Bash", "Defend", "Wild Strike", "Trip"], "floor": 30, "hp": 47, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 241624, "card": "Burning Pact", "hand": ["Warcry", "Defend"], "floor": 30, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 241864, "card": "Rampage", "hand": ["Bash+", "Defend", "True Grit", "Offering", "Shrug It Off", "Impervious"], "floor": 30, "hp": 47, "maxhp": 75, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 242302, "card": "Bash+", "hand": ["Defend", "True Grit", "Offering", "Shrug It Off", "Impervious", "Rampage"], "floor": 30, "hp": 47, "maxhp": 75, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 242514, "card": "Defend", "hand": ["True Grit", "Offering", "Shrug It Off", "Bash", "Warcry"], "floor": 30, "hp": 47, "maxhp": 75, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 242756, "card": "Rampage", "hand": ["True Grit", "Offering", "Shrug It Off"], "floor": 30, "hp": 47, "maxhp": 75, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 242802, "card": "Dropkick", "hand": ["Warcry", "True Grit", "Offering", "Shrug It Off", "Impervious", "Bash+"], "floor": 30, "hp": 47, "maxhp": 75, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 243016, "card": "Rampage", "hand": ["True Grit", "Offering", "Shrug It Off", "Impervious", "Bash+"], "floor": 30, "hp": 47, "maxhp": 75, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 246256, "card": "Offering", "hand": ["Shockwave", "Burning Pact", "Dark Embrace", "Entrench"], "floor": 31, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 246416, "card": "Corruption", "hand": [], "floor": 31, "hp": 48, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 246566, "card": "Juggernaut", "hand": ["Bash+", "Burning Pact", "Entrench"], "floor": 31, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 246640, "card": "Dark Embrace", "hand": ["Bash", "Defend", "Burning Pact"], "floor": 31, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 246696, "card": "Shockwave", "hand": ["Bash+", "Defend", "Burning Pact"], "floor": 31, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 246852, "card": "Bash+", "hand": ["Defend", "Defend", "Burning Pact+"], "floor": 31, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 246928, "card": "Defend", "hand": ["Defend", "Burning Pact", "Ascender's Bane"], "floor": 31, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 247644, "card": "Armaments", "hand": ["Strike", "Impervious", "True Grit+"], "floor": 31, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 247784, "card": "Metallicize+", "hand": ["Strike", "Impervious", "Burning Pact", "Defend"], "floor": 31, "hp": 48, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 247870, "card": "Dark Embrace", "hand": ["Smite", "True Grit+", "Defend", "Burning Pact", "Seeing Red"], "floor": 31, "hp": 48, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 247946, "card": "Seeing Red", "hand": ["Strike", "Strike", "Impervious", "True Grit+", "Defend", "Shrug It Off"], "floor": 31, "hp": 48, "maxhp": 75, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 248178, "card": "Burning Pact", "hand": ["Strike", "Impervious", "True Grit+", "Defend", "Burning Pact", "Shrug It Off"], "floor": 31, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 248322, "card": "Purity+", "hand": ["Strike", "Impervious", "True Grit+", "Defend", "Shrug It Off", "Barricade", "Burning Pact", "Defend"], "floor": 31, "hp": -1, "maxhp": -1, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 248510, "card": "Barricade+", "hand": ["Strike", "Impervious", "True Grit+", "Shrug It Off", "Shrug It Off", "Burning Pact", "Entrench"], "floor": 31, "hp": -1, "maxhp": -1, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 248646, "card": "Bash+", "hand": ["Strike", "Impervious", "True Grit+", "Defend", "Shrug It Off", "Defend", "Burning Pact"], "floor": 31, "hp": 48, "maxhp": 75, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 248698, "card": "Shrug It Off", "hand": ["Strike", "Strike", "Impervious", "True Grit+", "Defend", "Defend", "Burning Pact"], "floor": 31, "hp": 48, "maxhp": 75, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 248824, "card": "Defend", "hand": ["Strike", "Impervious", "True Grit+", "Defend", "Burning Pact", "Warcry"], "floor": 31, "hp": 48, "maxhp": 75, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 249178, "card": "Strike", "hand": ["Impervious", "Defend", "True Grit", "Warcry", "Burning Pact"], "floor": 31, "hp": 48, "maxhp": 75, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 249258, "card": "Defend", "hand": ["Warcry", "Burning Pact", "Impervious", "Dropkick"], "floor": 31, "hp": 48, "maxhp": 75, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 249420, "card": "Strike", "hand": ["Impervious", "True Grit", "Warcry", "Dropkick", "Strike"], "floor": 31, "hp": 48, "maxhp": 75, "block": 37, "energy": 0, "v2.0": false}
+{"frame": 249552, "card": "Dropkick", "hand": ["Impervious", "True Grit", "Warcry", "Strike", "Strike", "Burning Pact"], "floor": 31, "hp": 48, "maxhp": 75, "block": 37, "energy": 1, "v2.0": false}
+{"frame": 249720, "card": "Rampage", "hand": ["Impervious", "True Grit", "Warcry", "Strike", "Strike", "Burning Pact"], "floor": 31, "hp": 48, "maxhp": 75, "block": 37, "energy": 1, "v2.0": false}
+{"frame": 249804, "card": "Impervious", "hand": ["True Grit", "Warcry", "Burning Pact", "Strike", "Strike"], "floor": 31, "hp": 48, "maxhp": 75, "block": 37, "energy": 0, "v2.0": false}
+{"frame": 249918, "card": "True Grit", "hand": ["Warcry", "Burning Pact", "Strike", "Strike", "Dropkick", "Rampage"], "floor": 31, "hp": 48, "maxhp": 75, "block": 68, "energy": 0, "v2.0": false}
+{"frame": 253406, "card": "Rampage", "hand": [], "floor": 33, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 254154, "card": "Juggernaut", "hand": ["Defend", "Defend", "True Grit", "Defend"], "floor": 33, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 254208, "card": "Defend", "hand": ["Defend", "True Grit", "Defend"], "floor": 33, "hp": 54, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 254282, "card": "True Grit", "hand": ["Defend", "Defend"], "floor": 33, "hp": 54, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 255010, "card": "Barricade+", "hand": ["Defend", "Shockwave", "Burning Pact"], "floor": 33, "hp": 54, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 255216, "card": "Burning Pact", "hand": ["Defend", "Shockwave", "Burning Pact"], "floor": 33, "hp": 4, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 255246, "card": "Burning Pact", "hand": ["Shockwave", "Ascender's Bane", "Burning Pact"], "floor": 33, "hp": 54, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 255318, "card": "Burning Pact", "hand": ["Shockwave", "Burning Pact"], "floor": 33, "hp": 54, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 255446, "card": "Offering", "hand": ["Warcry", "Defend", "Shockwave", "Burning Pact"], "floor": 33, "hp": 54, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 255860, "card": "Bash+", "hand": ["Warcry", "True Grit+", "Defend"], "floor": 33, "hp": 49, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 255920, "card": "Dropkick", "hand": ["Warcry", "True Grit+", "Burning Pact"], "floor": 33, "hp": 49, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 256814, "card": "True Grit+", "hand": ["Warcry"], "floor": 33, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 257088, "card": "Burning Pact", "hand": [], "floor": 33, "hp": 49, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 257162, "card": "Defend", "hand": ["Warcry", "Shockwave", "Dark Embrace"], "floor": 33, "hp": 45, "maxhp": 75, "block": 7, "energy": 1, "v2.0": false}
+{"frame": 257598, "card": "Dark Embrace", "hand": ["Warcry", "Wild Strike", "Shockwave"], "floor": 33, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 257742, "card": "Defend", "hand": ["Wild Strike", "Shockwave", "Warcry", "Impervious", "Entrench"], "floor": 33, "hp": 37, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 258640, "card": "Corruption", "hand": ["Shockwave"], "floor": 33, "hp": 37, "maxhp": 75, "block": 7, "energy": 3, "v2.0": false}
+{"frame": 259006, "card": "Seeing Red", "hand": ["Impervious", "Shockwave"], "floor": 33, "hp": 37, "maxhp": 75, "block": 7, "energy": 0, "v2.0": false}
+{"frame": 259272, "card": "Shockwave", "hand": ["Wild Strike", "Shrug It Off", "Anger", "Carnage"], "floor": 33, "hp": 3, "maxhp": 75, "block": 7, "energy": 2, "v2.0": false}
+{"frame": 259518, "card": "Shockwave", "hand": ["Wild Strike", "Impervious", "Shrug It Off", "Strike", "Armaments+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 259640, "card": "Dropkick", "hand": ["Wild Strike", "Impervious", "Shrug It Off", "Strike", "Armaments+", "Strike"], "floor": 33, "hp": 37, "maxhp": 75, "block": 7, "energy": 2, "v2.0": false}
+{"frame": 259752, "card": "Armaments+", "hand": ["Wild Strike", "Impervious", "Shrug It Off"], "floor": 33, "hp": 37, "maxhp": 75, "block": 7, "energy": 2, "v2.0": false}
+{"frame": 260140, "card": "Bash+", "hand": ["Wild Strike+", "Impervious+", "Shrug It Off+", "Strike+", "Strike+", "Warcry+", "Defend"], "floor": 33, "hp": 37, "maxhp": 75, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 260482, "card": "Shrug It Off+", "hand": ["Warcry+", "Impervious+", "Strike", "Defend"], "floor": 33, "hp": 37, "maxhp": 75, "block": 13, "energy": 0, "v2.0": false}
+{"frame": 260720, "card": "Strike+", "hand": ["Impervious+", "Defend", "Defend", "Warcry+", "Strike+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 25, "energy": 0, "v2.0": false}
+{"frame": 260874, "card": "Burning Pact", "hand": ["Impervious+", "Defend", "Defend", "Warcry+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 261198, "card": "True Grit+", "hand": ["Decay", "Defend", "Trip", "Defend", "Rampage+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 66, "energy": 0, "v2.0": false}
+{"frame": 261390, "card": "Defend", "hand": ["Defend", "True Grit", "Defend", "Bash+", "Dropkick", "Rampage+", "Strike+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 76, "energy": 0, "v2.0": false}
+{"frame": 261904, "card": "Rampage+", "hand": ["Defend", "Defend", "True Grit", "Bash+", "Strike", "Warcry+", "Dropkick"], "floor": 33, "hp": 37, "maxhp": 75, "block": 85, "energy": 3, "v2.0": false}
+{"frame": 261940, "card": "Dropkick", "hand": ["Warcry+", "Defend", "Defend", "True Grit", "Bash+", "Strike+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 85, "energy": 2, "v2.0": false}
+{"frame": 262180, "card": "Defend", "hand": ["Defend", "True Grit", "Strike+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 85, "energy": 1, "v2.0": false}
+{"frame": 262390, "card": "Dropkick", "hand": ["Warcry+", "Defend", "True Grit", "Strike+", "Rampage+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 91, "energy": 1, "v2.0": false}
+{"frame": 262502, "card": "Rampage+", "hand": ["Warcry+", "Defend", "True Grit", "Strike+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 91, "energy": 1, "v2.0": false}
+{"frame": 263038, "card": "Rampage+", "hand": ["Warcry+", "Defend", "True Grit", "Bash+", "Strike+", "Dropkick"], "floor": 33, "hp": 37, "maxhp": 75, "block": 94, "energy": 3, "v2.0": false}
+{"frame": 263174, "card": "Dropkick", "hand": ["Warcry+", "Defend", "True Grit", "Bash+", "Strike+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 94, "energy": 2, "v2.0": false}
+{"frame": 263324, "card": "Rampage+", "hand": ["Warcry+", "Defend", "True Grit", "Bash+", "Strike+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 94, "energy": 2, "v2.0": false}
+{"frame": 263580, "card": "Strike+", "hand": ["Warcry+", "Defend", "True Grit", "Bash"], "floor": 33, "hp": 37, "maxhp": 75, "block": 94, "energy": 1, "v2.0": false}
+{"frame": 264034, "card": "Rampage+", "hand": ["Warcry+", "Defend", "True Grit", "Bash+", "Strike+", "Dropkick"], "floor": 33, "hp": 37, "maxhp": 75, "block": 82, "energy": 3, "v2.0": false}
+{"frame": 264078, "card": "Dropkick", "hand": ["Warcry+", "Defend", "True Grit", "Bash", "Strike+"], "floor": 33, "hp": 37, "maxhp": 75, "block": 82, "energy": 2, "v2.0": false}
+{"frame": 264188, "card": "Rampage+", "hand": [], "floor": 33, "hp": 37, "maxhp": 75, "block": 82, "energy": 2, "v2.0": false}
+{"frame": 277990, "card": "Feel No Pain", "hand": [], "floor": 35, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 279184, "card": "Metallicize", "hand": ["Barricade+", "Defend", "Bloodletting+"], "floor": 35, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 279358, "card": "Barricade+", "hand": ["Bloodletting+", "Defend"], "floor": 35, "hp": 67, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 279518, "card": "Shockwave", "hand": ["Bloodletting+", "Defend"], "floor": 35, "hp": 67, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 279644, "card": "Defend", "hand": ["Bloodletting+"], "floor": 35, "hp": 67, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 280312, "card": "Seeing Red", "hand": [], "floor": 35, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 280566, "card": "Dark Embrace", "hand": ["Shrug It Off", "Warcry", "Ascender's Bane", "Entrench"], "floor": 35, "hp": 67, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 280812, "card": "Juggernaut", "hand": ["Shrug It Off", "Bloodletting+", "Warcry"], "floor": 35, "hp": 67, "maxhp": 75, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 281094, "card": "Shockwave", "hand": ["Warcry", "Bloodletting+"], "floor": 35, "hp": 67, "maxhp": 75, "block": 18, "energy": 0, "v2.0": false}
+{"frame": 281298, "card": "Seeing Red", "hand": ["Warcry", "Bloodletting+", "Burning Pact+"], "floor": 35, "hp": 67, "maxhp": 75, "block": 18, "energy": 0, "v2.0": false}
+{"frame": 281956, "card": "Defend", "hand": ["Warcry", "True Grit+", "Burning Pact", "Offering"], "floor": 35, "hp": 67, "maxhp": 75, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 282140, "card": "Burning Pact", "hand": [], "floor": 35, "hp": 67, "maxhp": 75, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 282254, "card": "Dropkick", "hand": ["Warcry", "True Grit+", "Armaments+", "Offering", "Bloodletting+"], "floor": 35, "hp": 67, "maxhp": 75, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 282864, "card": "Defend", "hand": ["True Grit+", "Offering", "Bloodletting+", "Warcry"], "floor": 35, "hp": 67, "maxhp": 75, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 283192, "card": "Burning Pact", "hand": ["Ascender's Bane", "Burning Pact", "Armaments+"], "floor": 35, "hp": 67, "maxhp": 75, "block": 36, "energy": 2, "v2.0": false}
+{"frame": 283262, "card": "Burning Pact", "hand": ["Offering", "Bloodletting+", "True Grit+", "Evolve+"], "floor": 35, "hp": 67, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 283490, "card": "Evolve+", "hand": ["Trip"], "floor": 35, "hp": 67, "maxhp": 75, "block": 36, "energy": 2, "v2.0": false}
+{"frame": 283636, "card": "Impervious", "hand": ["Offering"], "floor": 35, "hp": 67, "maxhp": 75, "block": 36, "energy": 1, "v2.0": false}
+{"frame": 283878, "card": "Dark Embrace", "hand": ["True Grit+", "Armaments+", "True Grit"], "floor": 35, "hp": 67, "maxhp": 75, "block": 67, "energy": 1, "v2.0": false}
+{"frame": 284052, "card": "Armaments+", "hand": ["True Grit", "Reaper"], "floor": 35, "hp": 67, "maxhp": 75, "block": 67, "energy": 1, "v2.0": false}
+{"frame": 284498, "card": "Defend", "hand": ["Offering+", "True Grit+", "Bloodletting+", "True Grit+"], "floor": 35, "hp": 67, "maxhp": 75, "block": 73, "energy": 1, "v2.0": false}
+{"frame": 284794, "card": "Reaper+", "hand": ["True Grit+", "True Grit"], "floor": 35, "hp": 67, "maxhp": 75, "block": 79, "energy": 4, "v2.0": false}
+{"frame": 285182, "card": "Reaper+", "hand": ["True Grit+", "Rampage"], "floor": 35, "hp": 65, "maxhp": 75, "block": 79, "energy": 4, "v2.0": false}
+{"frame": 285286, "card": "Reaper+", "hand": ["Safety+", "True Grit+", "True Grit+", "Rampage", "Entrench"], "floor": 35, "hp": 65, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 285500, "card": "Rampage", "hand": ["Offering+", "True Grit+", "Ascender's Bane", "True Grit+", "Dropkick"], "floor": 35, "hp": 75, "maxhp": 75, "block": 79, "energy": 4, "v2.0": false}
+{"frame": 285754, "card": "Rampage", "hand": ["True Grit+", "Offering+", "True Grit+", "Ascender's Bane", "Burning Pact+"], "floor": 35, "hp": 75, "maxhp": 75, "block": 79, "energy": 3, "v2.0": false}
+{"frame": 285816, "card": "Burning Pact+", "hand": ["Offering+", "True Grit+"], "floor": 35, "hp": 75, "maxhp": 75, "block": 79, "energy": 2, "v2.0": false}
+{"frame": 286258, "card": "Dropkick", "hand": ["True Grit+", "Offering+", "True Grit+"], "floor": 35, "hp": 75, "maxhp": 75, "block": 79, "energy": 1, "v2.0": false}
+{"frame": 286452, "card": "Rampage", "hand": ["True Grit+", "Offering+", "True Grit+", "Dropkick"], "floor": 35, "hp": -1, "maxhp": -1, "block": 79, "energy": 9, "v2.0": false}
+{"frame": 289258, "card": "Defend", "hand": [], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 289582, "card": "Defend", "hand": [], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 290410, "card": "Metallicize", "hand": ["True Grit", "Shrug It Off"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 290750, "card": "Seeing Red", "hand": [], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 290836, "card": "Armaments+", "hand": ["Shrug It Off", "True Grit+", "Burning Pact", "Shockwave"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 290950, "card": "Juggernaut+", "hand": ["Shrug It Off+", "True Grit+", "Impervious+", "Burning Pact+", "Shockwave+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 290994, "card": "Shrug It Off+", "hand": ["True Grit+", "Impervious+", "Burning Pact+", "Shockwave+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 291078, "card": "Shockwave+", "hand": ["True Grit+", "Impervious+", "Burning Pact+", "Burn", "Bash+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 291608, "card": "Dark Embrace", "hand": ["Warcry", "Burning Pact+", "Seeing Red"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 291660, "card": "Bash+", "hand": ["True Grit+", "Anger", "Warcry", "Burning Pact+", "Burning Pact+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 291700, "card": "Seeing Red", "hand": ["True Grit+", "Impervious+", "Offering", "Warcry", "Burning Pact+", "Burning Pact+"], "floor": 37, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 291850, "card": "Burning Pact+", "hand": ["True Grit+", "Impervious+", "Warcry", "True Grit"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 291936, "card": "Burning Pact+", "hand": ["Offering", "Burning Pact+", "True Grit+", "Impervious+", "True Grit"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 292170, "card": "Bloodletting+", "hand": ["Impervious+", "Offering", "True Grit", "Dazed", "Reaper", "Burning Pact+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 292354, "card": "Evolve+", "hand": ["Impervious+", "Offering", "True Grit", "Defend", "Rage", "Burning Pact+"], "floor": 37, "hp": 73, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 292674, "card": "Rampage", "hand": ["Impervious+", "Offering", "True Grit", "Defend", "Burning Pact+", "Defend"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 292720, "card": "Defend", "hand": ["True Grit+", "Impervious+", "Offering", "True Grit", "Burning Pact+", "Defend"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 292864, "card": "Dropkick", "hand": ["Impervious+", "Offering", "True Grit", "Barricade+", "Burning Pact+"], "floor": 37, "hp": 75, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 293046, "card": "Burning Pact", "hand": ["Offering", "True Grit", "Defend", "Barricade", "Burning Pact+", "True Grit+", "Impervious+", "Burn"], "floor": 37, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 293382, "card": "Rampage", "hand": [], "floor": 37, "hp": -1, "maxhp": -1, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 296830, "card": "Shrug It Off", "hand": [], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 297298, "card": "Dark Embrace", "hand": ["Reaper", "Burning Pact+", "Burning Pact"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 297674, "card": "Burning Pact", "hand": ["Burning Pact+", "Reaper"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 297746, "card": "Burning Pact", "hand": ["Reaper"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 298284, "card": "Seeing Red", "hand": [], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 298568, "card": "Corruption", "hand": ["Impervious", "Defend", "Trip", "Defend", "Entrench"], "floor": 38, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 298698, "card": "Dark Embrace", "hand": ["Defend", "True Grit+", "Offering", "Entrench"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 298854, "card": "Metallicize", "hand": ["Impervious", "Defend", "Offering", "Reaper"], "floor": 38, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 298972, "card": "Offering", "hand": ["Reaper", "Impervious", "Defend"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 299010, "card": "Offering", "hand": ["Reaper", "Impervious", "Defend", "True Grit+", "Defend"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 299046, "card": "Offering", "hand": ["Reaper", "Impervious", "Defend", "True Grit+", "Defend"], "floor": 38, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 299302, "card": "Evolve+", "hand": ["Impervious", "Defend", "True Grit", "Defend", "Anger"], "floor": 38, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 299428, "card": "Rampage", "hand": ["Impervious", "Defend", "True Grit+", "Defend", "Warcry", "Reaper", "True Grit"], "floor": 38, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 299574, "card": "Defend", "hand": ["Impervious", "True Grit+", "Reaper", "Ascender's Bane", "True Grit"], "floor": 38, "hp": 70, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 299828, "card": "True Grit+", "hand": ["True Grit"], "floor": 38, "hp": 70, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 299856, "card": "True Grit+", "hand": ["Panacea", "True Grit"], "floor": 38, "hp": -1, "maxhp": -1, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 299884, "card": "True Grit+", "hand": ["True Grit"], "floor": 38, "hp": -1, "maxhp": -1, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 299910, "card": "True Grit+", "hand": ["Dazed", "True Grit"], "floor": 38, "hp": 70, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 300042, "card": "True Grit+", "hand": ["Warcry", "True Grit"], "floor": 38, "hp": 70, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 300094, "card": "True Grit+", "hand": ["Warcry", "True Grit", "Defend", "Dropkick"], "floor": 38, "hp": 70, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 300278, "card": "Bloodletting+", "hand": ["Impervious", "Defend", "True Grit", "Dropkick"], "floor": 38, "hp": 70, "maxhp": 75, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 300480, "card": "Juggernaut", "hand": ["Impervious", "Warcry", "True Grit", "Dropkick"], "floor": 38, "hp": 68, "maxhp": 75, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 300680, "card": "Bash+", "hand": ["Impervious", "Defend", "True Grit", "Barricade+", "Reaper", "Dropkick"], "floor": 38, "hp": 68, "maxhp": 75, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 300782, "card": "Barricade+", "hand": ["Impervious", "Defend", "True Grit", "Shrug It Off", "Reaper", "Dropkick"], "floor": 38, "hp": 68, "maxhp": 75, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 301282, "card": "Shrug It Off", "hand": ["Reaper", "Impervious", "Defend", "True Grit", "Shrug It Off"], "floor": 38, "hp": 68, "maxhp": 75, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 301418, "card": "Seeing Red", "hand": ["Impervious", "Defend", "True Grit", "Reaper"], "floor": 38, "hp": 68, "maxhp": 75, "block": 25, "energy": 1, "v2.0": false}
+{"frame": 301668, "card": "Bash+", "hand": ["Impervious", "Defend", "True Grit", "Shrug It Off", "Defend"], "floor": 38, "hp": 68, "maxhp": 75, "block": 25, "energy": 3, "v2.0": false}
+{"frame": 301708, "card": "Shrug It Off", "hand": ["Impervious", "Defend", "True Grit", "Defend", "Shrug It Off", "Reaper", "Burning Pact"], "floor": 38, "hp": 68, "maxhp": 75, "block": 25, "energy": 1, "v2.0": false}
+{"frame": 301842, "card": "Dropkick", "hand": ["Impervious", "Defend", "True Grit", "Defend", "Shrug It Off", "Burning Pact"], "floor": 38, "hp": 68, "maxhp": 75, "block": 34, "energy": 1, "v2.0": false}
+{"frame": 302018, "card": "Reaper", "hand": ["True Grit", "Defend", "Shrug It Off", "Defend", "Burning Pact+"], "floor": 38, "hp": 68, "maxhp": 75, "block": 34, "energy": 1, "v2.0": false}
+{"frame": 302186, "card": "Defend", "hand": ["Decay"], "floor": 38, "hp": 75, "maxhp": 75, "block": 34, "energy": 1, "v2.0": false}
+{"frame": 302290, "card": "Defend", "hand": ["True Grit", "Shrug It Off", "Defend"], "floor": 38, "hp": 75, "maxhp": 75, "block": 40, "energy": 1, "v2.0": false}
+{"frame": 302402, "card": "Shockwave", "hand": ["True Grit", "Shrug It Off"], "floor": 38, "hp": 75, "maxhp": 75, "block": 46, "energy": 1, "v2.0": false}
+{"frame": 302798, "card": "Rampage", "hand": ["True Grit", "Shrug It Off", "Impervious", "Burning Pact+"], "floor": 38, "hp": 75, "maxhp": 75, "block": 46, "energy": 1, "v2.0": false}
+{"frame": 303300, "card": "Rampage", "hand": ["True Grit", "Shrug It Off", "Bash+", "Impervious", "Dropkick"], "floor": 38, "hp": 75, "maxhp": 75, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 303352, "card": "Dropkick", "hand": ["True Grit", "Shrug It Off", "Bash+", "Impervious", "Burning Pact+"], "floor": 38, "hp": -1, "maxhp": -1, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 303480, "card": "Rampage", "hand": [], "floor": 38, "hp": 75, "maxhp": 75, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 307028, "card": "Barricade", "hand": [], "floor": 39, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 308086, "card": "Dark Embrace", "hand": ["True Grit+", "Bloodletting+", "Burning Pact", "Burning Pact"], "floor": 39, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 308282, "card": "Burning Pact", "hand": ["True Grit+", "Bloodletting+"], "floor": 39, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 308454, "card": "Burning Pact", "hand": ["True Grit+", "Bloodletting+"], "floor": 39, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 308616, "card": "Burning Pact", "hand": ["True Grit+", "Bloodletting+", "Burning Pact"], "floor": 39, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 308696, "card": "Bloodletting+", "hand": ["True Grit+", "Warcry", "Defend", "Burning Pact"], "floor": 39, "hp": 75, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 308990, "card": "Burning Pact", "hand": ["True Grit+", "Warcry", "Ascender's Bane"], "floor": 39, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 309268, "card": "True Grit", "hand": ["True Grit+", "Warcry", "Defend", "Defend", "Entrench"], "floor": 39, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 309488, "card": "Defend", "hand": ["Warcry", "Ascender's Bane", "Reaper"], "floor": 39, "hp": -1, "maxhp": -1, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 310426, "card": "Corruption", "hand": ["Reaper", "Offering", "Shame", "Juggernaut", "Warcry"], "floor": 39, "hp": 60, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 310590, "card": "Armaments+", "hand": ["Offering", "Juggernaut", "Reaper", "Shrug It Off"], "floor": 39, "hp": 60, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 310720, "card": "Juggernaut+", "hand": ["Warcry+", "Offering+", "Seeing Red+", "Shrug It Off+", "Entrench"], "floor": 39, "hp": 60, "maxhp": 75, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 310808, "card": "Shockwave", "hand": [], "floor": 39, "hp": 60, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 311018, "card": "Seeing Red+", "hand": ["Warcry+", "Reaper+", "Offering+", "Shrug It Off+"], "floor": 39, "hp": 60, "maxhp": 75, "block": 6, "energy": 0, "v2.0": false}
+{"frame": 311220, "card": "Offering+", "hand": ["Shrug It Off+", "Bash+", "Reaper+", "Entrench"], "floor": 39, "hp": 60, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 311582, "card": "Metallicize", "hand": ["Reaper+", "Shrug It Off+", "Warcry+", "Burning Pact+", "Shame"], "floor": 39, "hp": 55, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 311658, "card": "Dark Embrace", "hand": ["Shrug It Off+", "Shame", "Warcry+", "Reaper+", "Rampage"], "floor": 39, "hp": 55, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 311708, "card": "Shockwave", "hand": ["Warcry+", "Reaper+", "Shrug It Off+", "Bash+"], "floor": 39, "hp": 55, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 311870, "card": "Bash+", "hand": ["Shrug It Off+", "Barricade+", "Warcry", "Warcry+", "Reaper+", "Burning Pact+", "Rampage"], "floor": 39, "hp": -1, "maxhp": -1, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 312674, "card": "Rampage", "hand": ["Shrug It Off+", "Barricade+", "Warcry+", "Shrug It Off", "Defend", "Warcry+"], "floor": 39, "hp": 75, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 312758, "card": "Barricade+", "hand": ["Warcry+", "Warcry+", "Shrug It Off", "Defend"], "floor": 39, "hp": 75, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 312784, "card": "Barricade+", "hand": ["Warcry+", "Shrug It Off+", "Carnage+", "Shrug It Off", "Defend"], "floor": 39, "hp": 75, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 312876, "card": "Shrug It Off", "hand": ["Warcry+", "Shrug It Off+", "Barricade+", "Warcry+", "Defend", "Entrench"], "floor": 39, "hp": 75, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 313018, "card": "Shockwave", "hand": ["Shrug It Off+", "Barricade+", "Warcry+", "Defend", "Bash", "Impervious"], "floor": 39, "hp": 75, "maxhp": 75, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 313410, "card": "Rampage", "hand": ["Shrug It Off+", "Warcry", "Defend", "Shrug It Off", "Impervious", "Bloodletting+"], "floor": 39, "hp": 75, "maxhp": 75, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 313464, "card": "Shrug It Off", "hand": ["Impervious"], "floor": 39, "hp": 75, "maxhp": 75, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 313612, "card": "Bloodletting+", "hand": ["Shrug It Off+", "Barricade+", "Warcry+", "Impervious", "Entrench"], "floor": 39, "hp": 75, "maxhp": 75, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 313770, "card": "Bash+", "hand": ["Shrug It Off+", "Warcry", "Defend", "Impervious", "Defend", "Defend"], "floor": 39, "hp": 73, "maxhp": 75, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 313810, "card": "Defend", "hand": ["Shrug It Off+", "Warcry+", "Impervious", "Defend", "Defend"], "floor": 39, "hp": 73, "maxhp": 75, "block": 24, "energy": 3, "v2.0": false}
+{"frame": 313924, "card": "Defend", "hand": ["Shrug It Off+", "Warcry+", "Impervious", "True Grit"], "floor": 39, "hp": 73, "maxhp": 75, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 314130, "card": "Defend", "hand": ["Mayhem", "Impervious", "True Grit", "Warcry+", "Burning Pact"], "floor": 39, "hp": -1, "maxhp": -1, "block": 36, "energy": 3, "v2.0": false}
+{"frame": 314250, "card": "Rampage", "hand": ["Warcry+", "Impervious", "True Grit"], "floor": 39, "hp": 73, "maxhp": 75, "block": 42, "energy": 3, "v2.0": false}
+{"frame": 317180, "card": "Warcry+", "hand": [], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 317402, "card": "Evolve+", "hand": ["Shrug It Off", "Armaments+", "Dark Embrace"], "floor": 40, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 317612, "card": "Armaments+", "hand": ["Shrug It Off", "Dark Embrace"], "floor": 40, "hp": 75, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 317634, "card": "Armaments+", "hand": ["Shrug It Off", "Dark Embrace"], "floor": 40, "hp": 75, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 317758, "card": "Dark Embrace+", "hand": ["Shrug It Off+", "Dark Embrace+", "Metallicize+"], "floor": 40, "hp": 75, "maxhp": 75, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 317802, "card": "Dark Embrace+", "hand": ["Shrug It Off+", "Metallicize+"], "floor": 40, "hp": 75, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 317858, "card": "Shrug It Off+", "hand": ["Metallicize+"], "floor": 40, "hp": 75, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 318508, "card": "True Grit+", "hand": ["Defend", "True Grit", "Shrug It Off", "Defend"], "floor": 40, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 318674, "card": "Shockwave+", "hand": [], "floor": 40, "hp": 75, "maxhp": 75, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 318854, "card": "Warcry", "hand": ["Defend", "True Grit", "Shrug It Off", "Reaper", "Burn"], "floor": 40, "hp": 75, "maxhp": 7, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 319084, "card": "Seeing Red", "hand": ["True Grit", "Shrug It Off", "Reaper", "Defend"], "floor": 40, "hp": 75, "maxhp": 75, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 319254, "card": "Corruption", "hand": ["Shrug It Off", "Reaper", "Defend"], "floor": 40, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 319392, "card": "Shockwave", "hand": ["True Grit", "Shrug It Off", "Reaper", "Defend", "Defend", "Entrench"], "floor": 40, "hp": -1, "maxhp": -1, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 319734, "card": "Bloodletting+", "hand": [], "floor": 40, "hp": 75, "maxhp": 75, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 320106, "card": "Defend", "hand": ["Shrug It Off", "Reaper", "Defend", "Offering"], "floor": 40, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 320224, "card": "Shockwave", "hand": ["Shrug It Off", "Reaper", "Defend", "Bash+", "Entrench"], "floor": 40, "hp": 75, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 320326, "card": "Defend", "hand": ["Shrug It Off", "Purity", "Reaper", "Bash", "Offering", "Bloodletting+"], "floor": 40, "hp": 75, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 320434, "card": "Bloodletting+", "hand": ["Shrug It Off", "Reaper", "Defend", "Bash+", "Shrug It Off", "Bite"], "floor": 40, "hp": -1, "maxhp": -1, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 320648, "card": "Barricade+", "hand": ["Shrug It Off", "Reaper", "Defend", "Bash+", "Offering"], "floor": 40, "hp": 73, "maxhp": 75, "block": 12, "energy": 6, "v2.0": false}
+{"frame": 320692, "card": "Defend", "hand": ["Shrug It Off", "Reaper", "Bandage Up", "Offering", "Shrug It Off", "True Grit"], "floor": 40, "hp": 73, "maxhp": 75, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 321038, "card": "Bash+", "hand": ["Shrug It Off", "Reaper", "Offering", "Shrug It Off", "Burning Pact", "Burning Pact+"], "floor": 40, "hp": 73, "maxhp": 75, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 321074, "card": "Shrug It Off", "hand": ["Shrug It Off", "Reaper", "Offering", "Fire Breathing", "Burning Pact"], "floor": 40, "hp": 73, "maxhp": 75, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 321212, "card": "Juggernaut", "hand": ["Shrug It Off", "Reaper", "Offering", "Burning Pact"], "floor": 40, "hp": 73, "maxhp": 75, "block": 27, "energy": 4, "v2.0": false}
+{"frame": 321324, "card": "Rampage", "hand": ["Shrug It Off", "Reaper", "Offering", "True Grit", "Burning Pact", "Burning Pact+"], "floor": 40, "hp": -1, "maxhp": -1, "block": 27, "energy": 2, "v2.0": false}
+{"frame": 321448, "card": "Dropkick", "hand": ["Shrug It Off", "Reaper", "Offering", "Burning Pact", "Burning Pact+"], "floor": 40, "hp": 73, "maxhp": 75, "block": 27, "energy": 2, "v2.0": false}
+{"frame": 321574, "card": "Impervious", "hand": ["Shrug It Off", "Burning Pact", "Reaper", "Offering", "True Grit", "Burning Pact", "Burning Pact+"], "floor": 40, "hp": 73, "maxhp": 75, "block": 27, "energy": 2, "v2.0": false}
+{"frame": 321814, "card": "Offering", "hand": ["Shrug It Off", "Burn", "Reaper", "Warcry+", "Ascender's Bane", "Entrench"], "floor": 40, "hp": 73, "maxhp": 75, "block": 58, "energy": 2, "v2.0": false}
+{"frame": 321942, "card": "Shrug It Off+", "hand": ["Shrug It Off", "Reaper", "Warcry+", "Burning Pact"], "floor": 40, "hp": 68, "maxhp": 75, "block": 58, "energy": 4, "v2.0": false}
+{"frame": 322048, "card": "True Grit+", "hand": ["Shrug It Off", "Reaper", "Warcry+", "Burning Pact"], "floor": 40, "hp": 6, "maxhp": 75, "block": 70, "energy": 4, "v2.0": false}
+{"frame": 322766, "card": "Rampage", "hand": ["Shrug It Off+", "Burning Pact+", "Reaper+", "Warcry+", "True Grit+", "Burning Pact+"], "floor": 40, "hp": 68, "maxhp": 75, "block": 86, "energy": 3, "v2.0": false}
+{"frame": 322810, "card": "Reaper+", "hand": ["Shrug It Off+", "Warcry", "True Grit+", "Pain+", "Burning Pact+"], "floor": 40, "hp": 68, "maxhp": 75, "block": 86, "energy": 2, "v2.0": false}
+{"frame": 323430, "card": "Rampage", "hand": ["Shrug It Off+", "Warcry+", "True Grit+", "Dropkick+"], "floor": 40, "hp": 75, "maxhp": 75, "block": 90, "energy": 3, "v2.0": false}
+{"frame": 323470, "card": "Dropkick+", "hand": ["True Grit+", "Shrug It Off+", "Warcry+"], "floor": 40, "hp": -1, "maxhp": -1, "block": 90, "energy": 2, "v2.0": false}
+{"frame": 323630, "card": "Rampage", "hand": ["True Grit+", "Shrug It Off+", "Warcry+"], "floor": 40, "hp": -1, "maxhp": -1, "block": 90, "energy": 2, "v2.0": false}
+{"frame": 324004, "card": "Rampage", "hand": ["True Grit+", "Shrug It Off+", "Warcry+", "Burning Pact+"], "floor": 40, "hp": -1, "maxhp": -1, "block": 90, "energy": 1, "v2.0": false}
+{"frame": 336100, "card": "Shockwave", "hand": [], "floor": 42, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 336866, "card": "Brutality+", "hand": ["Defend", "Offering", "Burning Pact", "Burning Pact+"], "floor": 42, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 336922, "card": "Offering", "hand": ["Defend", "Burning Pact", "Burning Pact+", "Entrench"], "floor": 42, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 337278, "card": "Burning Pact+", "hand": ["Burning Pact", "Bash"], "floor": 42, "hp": 70, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 337760, "card": "Barricade+", "hand": ["Defend", "Shrug It Off", "Seeing Red"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 337848, "card": "Defend", "hand": ["Defend", "Warcry+", "Burning Pact", "Shrug It Off", "Seeing Red"], "floor": 42, "hp": 70, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 337918, "card": "Burning Pact", "hand": ["Defend", "Warcry+", "True Grit", "Shrug It Off", "Seeing Red"], "floor": 42, "hp": 70, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 337996, "card": "Burning Pact", "hand": ["Defend", "Warcry+", "Shrug It Off", "Seeing Red"], "floor": 42, "hp": 70, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 338282, "card": "Shrug It Off", "hand": ["Defend", "Warcry+", "Seeing Red", "Evolve+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 338912, "card": "Evolve+", "hand": ["Defend", "Warcry+", "Armaments+", "Seeing Red", "Entrench"], "floor": 42, "hp": 70, "maxhp": 75, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 339164, "card": "Armaments+", "hand": ["Warcry+", "Defend", "Seeing Red", "Ascender's Bane"], "floor": 42, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 340054, "card": "Corruption", "hand": ["Defend+", "Impervious", "Juggernaut"], "floor": 42, "hp": 70, "maxhp": 75, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 340256, "card": "Juggernaut", "hand": ["Shrug It Off", "Defend+", "Warcry+", "Seeing Red+"], "floor": 42, "hp": 70, "maxhp": 75, "block": 13, "energy": 0, "v2.0": false}
+{"frame": 340330, "card": "Dark Embrace", "hand": ["Shrug It Off", "Impervious", "Dark Embrace"], "floor": 42, "hp": 70, "maxhp": 75, "block": 13, "energy": 0, "v2.0": false}
+{"frame": 340458, "card": "Seeing Red+", "hand": ["Defend", "Warcry+", "Impervious", "Shrug It Off", "Dark Embrace"], "floor": 42, "hp": 70, "maxhp": 75, "block": 13, "energy": 0, "v2.0": false}
+{"frame": 340640, "card": "Shrug It Off", "hand": ["Defend+", "Impervious", "Defend", "Burning Pact"], "floor": 42, "hp": 70, "maxhp": 75, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 340766, "card": "Dark Embrace", "hand": ["Impervious", "Defend", "Reaper", "Shrug It Off", "Defend+"], "floor": 42, "hp": 70, "maxhp": 75, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 340994, "card": "Impervious", "hand": ["Warcry+", "Defend", "Reaper", "Shrug It Off", "Burning Pact+"], "floor": 42, "hp": 70, "maxhp": 75, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 341158, "card": "Shrug It Off", "hand": ["Warcry+", "Flex", "Reaper", "Defend+", "Entrench"], "floor": 42, "hp": 70, "maxhp": 75, "block": 53, "energy": 2, "v2.0": false}
+{"frame": 341374, "card": "Metallicize", "hand": ["Warcry+", "Defend", "Reaper", "Warcry", "Bloodletting+"], "floor": 42, "hp": 70, "maxhp": 75, "block": 62, "energy": 2, "v2.0": false}
+{"frame": 341564, "card": "Bloodletting+", "hand": ["Warcry+", "Defend", "Reaper", "Trip", "True Grit+", "Defend+"], "floor": 42, "hp": 70, "maxhp": 75, "block": 62, "energy": 1, "v2.0": false}
+{"frame": 341736, "card": "Shockwave", "hand": ["Defend", "Reaper", "True Grit+", "Defend+"], "floor": 42, "hp": 68, "maxhp": 75, "block": 62, "energy": 4, "v2.0": false}
+{"frame": 342086, "card": "Armaments+", "hand": ["Warcry+", "Defend", "Reaper", "Warcry", "True Grit+", "Sentinel+"], "floor": 42, "hp": 68, "maxhp": 75, "block": 62, "energy": 4, "v2.0": false}
+{"frame": 342486, "card": "Burning Pact", "hand": ["Defend+", "Burning Pact+"], "floor": 42, "hp": 68, "maxhp": 75, "block": 68, "energy": 3, "v2.0": false}
+{"frame": 342532, "card": "Defend+", "hand": ["Reaper", "Warcry+", "True Grit+", "Burning Pact+", "Burning Pact"], "floor": 42, "hp": 68, "maxhp": 75, "block": 68, "energy": 3, "v2.0": false}
+{"frame": 342814, "card": "Defend", "hand": ["Warcry+", "Reaper", "Warcry+", "True Grit+"], "floor": 42, "hp": 68, "maxhp": 75, "block": 83, "energy": 3, "v2.0": false}
+{"frame": 342936, "card": "Bash", "hand": ["Warcry+", "Reaper+", "Warcry", "True Grit+"], "floor": 42, "hp": 68, "maxhp": 75, "block": 89, "energy": 3, "v2.0": false}
+{"frame": 343324, "card": "Rampage", "hand": ["Warcry+", "Reaper", "Warcry", "True Grit+", "Shrug It Off"], "floor": 42, "hp": 68, "maxhp": 75, "block": 89, "energy": 3, "v2.0": false}
+{"frame": 343392, "card": "Reaper+", "hand": ["Burning Pact+", "True Grit+", "Shrug It Off"], "floor": 42, "hp": 68, "maxhp": 75, "block": 89, "energy": 2, "v2.0": false}
+{"frame": 343662, "card": "Dropkick+", "hand": ["Warcry+", "Warcry+", "True Grit+", "Shrug It Off", "Rampage"], "floor": 42, "hp": 75, "maxhp": 75, "block": 80, "energy": 3, "v2.0": false}
+{"frame": 347402, "card": "Brutality+", "hand": ["Armaments+", "Corruption", "Impervious", "Barricade+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 347684, "card": "Corruption", "hand": ["Armaments+", "Impervious", "Barricade+", "Burning Pact+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 348260, "card": "Barricade+", "hand": ["Armaments+", "Impervious", "Burning Pact+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 348332, "card": "Impervious", "hand": ["Armaments+", "Burning Pact+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 349168, "card": "Armaments+", "hand": ["Warcry+", "Juggernaut", "Defend", "Evolve+", "Bloodletting+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 349320, "card": "Dark Embrace+", "hand": ["Juggernaut+", "Defend+", "Burning Pact+", "Bloodletting+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 349458, "card": "Evolve+", "hand": ["Juggernaut+", "Defend+", "Burning Pact+", "Bloodletting+", "Warcry+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 349652, "card": "Juggernaut+", "hand": ["Defend+", "Burning Pact+", "Bloodletting+", "Warcry+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 349778, "card": "Defend+", "hand": ["Burning Pact+", "Warcry+", "Bloodletting+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 350002, "card": "Bloodletting+", "hand": ["Burning Pact+", "Warcry+", "True Grit+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 350212, "card": "True Grit+", "hand": ["Warcry+", "Burning Pact+", "Ascender's Bane"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 350416, "card": "Shockwave", "hand": [], "floor": 45, "hp": -1, "maxhp": -1, "block": 38, "energy": 5, "v2.0": false}
+{"frame": 350696, "card": "Burning Pact+", "hand": [], "floor": 45, "hp": 73, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 350788, "card": "Burning Pact+", "hand": ["Warcry+", "True Grit+", "Burning Pact"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 350980, "card": "Shockwave", "hand": ["Burning Pact", "Chrysalis", "Rampage", "Burning Pact", "Defend"], "floor": 45, "hp": 73, "maxhp": 75, "block": 38, "energy": 5, "v2.0": false}
+{"frame": 351326, "card": "Defend", "hand": ["Burning Pact", "True Grit", "Bash", "Warcry+", "Burn"], "floor": 45, "hp": -1, "maxhp": -1, "block": 38, "energy": 5, "v2.0": false}
+{"frame": 351456, "card": "Rampage", "hand": ["Burning Pact", "True Grit", "Feed", "Reaper", "Bash+", "Offering", "Warcry+"], "floor": 45, "hp": 73, "maxhp": 75, "block": 44, "energy": 5, "v2.0": false}
+{"frame": 351604, "card": "Warcry", "hand": ["True Grit", "Offering", "Warcry+", "Burning Pact"], "floor": 45, "hp": 73, "maxhp": 75, "block": 44, "energy": 5, "v2.0": false}
+{"frame": 351850, "card": "Seeing Red", "hand": ["True Grit", "Bash+", "Offering", "Warcry+", "Burning Pact"], "floor": 45, "hp": 73, "maxhp": 75, "block": 44, "energy": 5, "v2.0": false}
+{"frame": 351984, "card": "Shrug It Off", "hand": ["True Grit", "Offering", "Warcry+", "Burning Pact"], "floor": 45, "hp": -1, "maxhp": -1, "block": 44, "energy": 7, "v2.0": false}
+{"frame": 352628, "card": "Rampage", "hand": ["True Grit", "Bash", "Shrug It Off"], "floor": 45, "hp": 75, "maxhp": 75, "block": 53, "energy": 5, "v2.0": false}
+{"frame": 352770, "card": "Defend", "hand": ["True Grit", "Bash+", "Offering", "Shrug It Off"], "floor": 45, "hp": 75, "maxhp": 75, "block": 53, "energy": 5, "v2.0": false}
+{"frame": 352904, "card": "Burning Pact", "hand": [], "floor": 45, "hp": 75, "maxhp": 75, "block": 59, "energy": 6, "v2.0": false}
+{"frame": 352986, "card": "Burning Pact", "hand": ["True Grit", "Bash", "Smite", "Shrug It Off", "Shrug It Off+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 353126, "card": "Burning Pact", "hand": [], "floor": 45, "hp": 75, "maxhp": 75, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 353214, "card": "Burning Pact", "hand": ["Shrug It Off", "Shrug It Off", "Warcry+", "True Grit", "Bash+", "Offering", "Blind"], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 353420, "card": "Rampage", "hand": ["Bash+", "Offering", "Shrug It Off", "Shrug It Off", "Defend", "Dropkick"], "floor": 45, "hp": 75, "maxhp": 75, "block": 59, "energy": 6, "v2.0": false}
+{"frame": 353560, "card": "Rampage", "hand": ["Bash+", "Offering", "Shrug It Off", "Defend", "Dropkick"], "floor": 45, "hp": 75, "maxhp": 75, "block": 59, "energy": -1, "v2.0": false}
+{"frame": 353736, "card": "Rampage", "hand": ["True Grit", "Bash+", "Offering", "Shrug It Off", "Shrug It Off", "Defend", "Warcry+"], "floor": 45, "hp": 75, "maxhp": 75, "block": 59, "energy": 5, "v2.0": false}
+{"frame": 353774, "card": "Shrug It Off", "hand": ["True Grit", "Bash", "Offering", "Shrug It Off", "Defend", "Warcry+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 59, "energy": 4, "v2.0": false}
+{"frame": 353934, "card": "Rampage", "hand": ["True Grit", "Bash+", "Offering", "Shrug It Off", "Defend"], "floor": 45, "hp": 75, "maxhp": 75, "block": 68, "energy": 4, "v2.0": false}
+{"frame": 354202, "card": "Dark Embrace", "hand": ["True Grit", "Offering", "Insight", "Defend", "Warcry+", "Rampage"], "floor": 45, "hp": 75, "maxhp": 75, "block": 68, "energy": 3, "v2.0": false}
+{"frame": 354304, "card": "True Grit", "hand": ["Warcry+", "Bash+", "Offering", "Shrug It Off", "Defend", "Rampage"], "floor": 45, "hp": 75, "maxhp": 75, "block": 68, "energy": 1, "v2.0": false}
+{"frame": 354464, "card": "Defend", "hand": ["Warcry+", "Bash+", "Offering", "Rampage"], "floor": 45, "hp": 75, "maxhp": 75, "block": 76, "energy": 1, "v2.0": false}
+{"frame": 359584, "card": "Defend", "hand": [], "floor": 47, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 359938, "card": "Brutality+", "hand": ["Impervious", "Corruption", "Defend", "Defend"], "floor": 47, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 360006, "card": "Corruption", "hand": ["Impervious", "Defend", "Defend"], "floor": 47, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 361426, "card": "Burning Pact", "hand": ["Defend", "Bash+"], "floor": 47, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 361506, "card": "Burning Pact", "hand": ["Defend", "Defend", "Reaper", "Burn", "Warcry+"], "floor": 47, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 361578, "card": "Burning Pact", "hand": ["Defend", "Reaper", "Barricade+", "Warcry+"], "floor": 47, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 361962, "card": "Armaments+", "hand": ["Defend", "Reaper", "Barricade", "Warcry+", "True Grit", "Impervious", "Dark Embrace"], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 362014, "card": "Dark Embrace+", "hand": ["Defend+", "Defend+", "Barricade+", "Warcry+", "True Grit+"], "floor": 47, "hp": 75, "maxhp": 75, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 362374, "card": "Burning Pact+", "hand": [], "floor": 47, "hp": 75, "maxhp": 75, "block": 47, "energy": 2, "v2.0": false}
+{"frame": 362714, "card": "Defend+", "hand": ["Reaper+", "Barricade+", "Warcry+", "True Grit+"], "floor": 47, "hp": 75, "maxhp": 75, "block": 47, "energy": 2, "v2.0": false}
+{"frame": 362754, "card": "Warcry+", "hand": ["Defend+", "Rage", "Barricade+", "Defend+", "Burning Pact"], "floor": 47, "hp": 75, "maxhp": 75, "block": 47, "energy": 2, "v2.0": false}
+{"frame": 363190, "card": "Dropkick", "hand": ["Reaper+", "True Grit+", "Defend+", "Burning Pact", "Evolve+"], "floor": 47, "hp": 75, "maxhp": 75, "block": 47, "energy": 2, "v2.0": false}
+{"frame": 363256, "card": "Evolve+", "hand": ["Defend+", "Reaper+", "True Grit+", "Defend+", "Juggernaut"], "floor": 47, "hp": 75, "maxhp": 75, "block": 47, "energy": 1, "v2.0": false}
+{"frame": 363328, "card": "Barricade+", "hand": ["Defend+", "Reaper+", "True Grit+"], "floor": 47, "hp": 75, "maxhp": 75, "block": 47, "energy": 0, "v2.0": false}
+{"frame": 363396, "card": "Juggernaut", "hand": ["Defend+", "Defend+", "True Grit+", "Reaper+", "Burning Pact"], "floor": 47, "hp": 75, "maxhp": 75, "block": 47, "energy": 0, "v2.0": false}
+{"frame": 363468, "card": "Bloodletting+", "hand": [], "floor": 47, "hp": 75, "maxhp": 75, "block": 47, "energy": 0, "v2.0": false}
+{"frame": 363612, "card": "Bloodletting+", "hand": [], "floor": 47, "hp": 75, "maxhp": 75, "block": 47, "energy": 0, "v2.0": false}
+{"frame": 364102, "card": "Metallicize", "hand": ["Defend+", "Reaper+", "True Grit+"], "floor": 47, "hp": 75, "maxhp": 75, "block": 2, "energy": 3, "v2.0": false}
+{"frame": 364178, "card": "Shockwave", "hand": ["Reaper+", "True Grit+", "Burning Pact+"], "floor": 47, "hp": 75, "maxhp": 75, "block": 2, "energy": 2, "v2.0": false}
+{"frame": 364306, "card": "Bloodletting+", "hand": ["Reaper+", "True Grit", "Shrug It Off"], "floor": 47, "hp": -1, "maxhp": -1, "block": 2, "energy": 2, "v2.0": false}
+{"frame": 364438, "card": "Defend+", "hand": ["True Grit+", "Warcry", "Shrug It Off", "Shrug It Off", "Burning Pact+"], "floor": 47, "hp": 73, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 364512, "card": "Defend+", "hand": ["Reaper+", "True Grit+", "Warcry", "Shrug It Off", "Shrug It Off", "Offering", "Burning Pact"], "floor": 47, "hp": -1, "maxhp": -1, "block": 11, "energy": 5, "v2.0": false}
+{"frame": 364706, "card": "Shrug It Off", "hand": ["True Grit+", "Warcry", "Offering", "Reaper+", "Burning Pact"], "floor": 47, "hp": 73, "maxhp": 75, "block": 20, "energy": 4, "v2.0": false}
+{"frame": 364824, "card": "Shockwave", "hand": ["True Grit+", "Warcry", "Shrug It Off"], "floor": 47, "hp": -1, "maxhp": -1, "block": 29, "energy": 4, "v2.0": false}
+{"frame": 364940, "card": "Defend", "hand": ["True Grit+", "Warcry", "Shrug It Off", "Offering", "Bash"], "floor": 47, "hp": -1, "maxhp": -1, "block": 29, "energy": 4, "v2.0": false}
+{"frame": 365062, "card": "Seeing Red", "hand": ["Shrug It Off+", "Warcry", "Shrug It Off", "Offering", "Bash"], "floor": 47, "hp": 73, "maxhp": 75, "block": 35, "energy": 4, "v2.0": false}
+{"frame": 365184, "card": "Shrug It Off", "hand": ["True Grit+", "Warcry", "Offering", "Entrench"], "floor": 47, "hp": 73, "maxhp": 75, "block": 35, "energy": 6, "v2.0": false}
+{"frame": 365356, "card": "Defend", "hand": ["True Grit+", "Warcry", "Shrug It Off", "Offering"], "floor": 47, "hp": 73, "maxhp": 75, "block": 44, "energy": 6, "v2.0": false}
+{"frame": 365486, "card": "Burning Pact", "hand": ["True Grit", "Burning Pact+", "Warcry", "Shrug It Off", "Bloodletting", "True Grit", "Burn"], "floor": 47, "hp": 73, "maxhp": 75, "block": 50, "energy": 6, "v2.0": false}
+{"frame": 365582, "card": "Burning Pact", "hand": ["Shrug It Off", "True Grit", "Feel No Pain+"], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 366296, "card": "Rampage", "hand": ["Shrug It Off", "True Grit", "Burn", "Dark Embrace", "Burn"], "floor": 47, "hp": -1, "maxhp": -1, "block": 60, "energy": 6, "v2.0": false}
+{"frame": 366430, "card": "Burning Pact+", "hand": ["Offering", "True Grit", "Warcry", "Shrug It Off", "Dark Embrace", "Burn"], "floor": 47, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 366564, "card": "Rampage", "hand": ["Shrug It Off", "Offering", "True Grit", "Warcry", "Dark Embrace", "Dropkick"], "floor": 47, "hp": 75, "maxhp": 75, "block": 60, "energy": 5, "v2.0": false}
+{"frame": 366600, "card": "Dropkick", "hand": ["Shrug It Off", "Offering", "True Grit", "Warcry", "Dark Embrace", "Burn"], "floor": 47, "hp": 75, "maxhp": 75, "block": 60, "energy": 4, "v2.0": false}
+{"frame": 366746, "card": "Rampage", "hand": ["Shrug It Off", "Offering", "True Grit", "Warcry", "Dark Embrace", "Burn"], "floor": 47, "hp": 75, "maxhp": 75, "block": 60, "energy": 4, "v2.0": false}
+{"frame": 366836, "card": "Shrug It Off", "hand": ["Warcry", "Offering", "True Grit", "Dark Embrace", "Burn"], "floor": 47, "hp": 75, "maxhp": 75, "block": 60, "energy": 3, "v2.0": false}
+{"frame": 367030, "card": "Rampage", "hand": [], "floor": 47, "hp": 75, "maxhp": 75, "block": 69, "energy": 3, "v2.0": false}
+{"frame": 369244, "card": "Warcry", "hand": [], "floor": 48, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 369624, "card": "Brutality+", "hand": ["Juggernaut", "True Grit+", "Offering", "Dark Embrace"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 369686, "card": "Juggernaut", "hand": ["True Grit+", "Offering", "Dark Embrace"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 369856, "card": "Dark Embrace", "hand": ["True Grit+", "Offering", "Metallicize"], "floor": 48, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 369926, "card": "Burning Pact", "hand": [], "floor": 48, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 369996, "card": "Offering", "hand": ["True Grit+", "Metallicize", "Entrench"], "floor": 48, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 370308, "card": "Evolve+", "hand": ["Shrug It Off", "Burning Pact"], "floor": 48, "hp": 70, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 370438, "card": "Shrug It Off", "hand": ["True Grit+", "Shockwave", "Burning Pact"], "floor": 48, "hp": 70, "maxhp": 75, "block": 7, "energy": 4, "v2.0": false}
+{"frame": 370540, "card": "True Grit+", "hand": ["True Grit", "Shockwave", "Burning Pact"], "floor": 48, "hp": -1, "maxhp": -1, "block": 9, "energy": 4, "v2.0": false}
+{"frame": 370956, "card": "Shockwave", "hand": ["Armaments+", "Burning Pact"], "floor": 48, "hp": 70, "maxhp": 75, "block": 19, "energy": 4, "v2.0": false}
+{"frame": 371152, "card": "Dark Embrace", "hand": [], "floor": 48, "hp": -1, "maxhp": -1, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 371826, "card": "Armaments+", "hand": ["Defend", "Defend", "Defend", "Burning Pact"], "floor": 48, "hp": 70, "maxhp": 75, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 371904, "card": "Dark Embrace+", "hand": ["Defend+", "Defend+", "Burning Pact+", "Burning Pact+"], "floor": 48, "hp": 70, "maxhp": 75, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 372010, "card": "Defend+", "hand": ["Defend+", "Defend+", "Bloodletting+", "Burning Pact+", "Entrench"], "floor": 48, "hp": 70, "maxhp": 75, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 372094, "card": "Intimidate+", "hand": ["Defend", "Defend+", "Burning Pact+", "Bloodletting+", "Burning Pact+"], "floor": 48, "hp": 70, "maxhp": 75, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 372390, "card": "Defend+", "hand": ["Defend", "Burning Pact+", "Burning Pact+", "Burning Pact+"], "floor": 48, "hp": 70, "maxhp": 75, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 373050, "card": "Corruption", "hand": ["Bandage Up+"], "floor": 48, "hp": 70, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 373136, "card": "Seeing Red", "hand": ["Defend+"], "floor": 48, "hp": 70, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 373318, "card": "Impervious", "hand": ["Defend+", "Shrug It Off"], "floor": 48, "hp": 70, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 373554, "card": "Barricade+", "hand": ["Bash+", "Defend", "Searing Blow+", "Rage"], "floor": 48, "hp": 70, "maxhp": 75, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 373658, "card": "Bloodletting+", "hand": ["Bash+", "Defend", "Shrug It Off", "Rage", "Defend+"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 373936, "card": "Bash+", "hand": ["Defend", "Shrug It Off", "Reaper", "Shrug It Off", "Brutality", "Carnage", "Burning Pact+", "Ascender's Bane"], "floor": 48, "hp": 68, "maxhp": 75, "block": 40, "energy": 4, "v2.0": false}
+{"frame": 374012, "card": "Infernal Blade", "hand": ["Defend", "Shrug It Off", "Reaper", "Armaments+", "Burning Pact+"], "floor": 48, "hp": 68, "maxhp": 75, "block": 40, "energy": 4, "v2.0": false}
+{"frame": 374142, "card": "Armaments+", "hand": ["Defend", "Shrug It Off", "Shrug It Off", "Burning Pact+", "Entrench"], "floor": 48, "hp": 68, "maxhp": 75, "block": 40, "energy": 4, "v2.0": false}
+{"frame": 374264, "card": "Dropkick+", "hand": ["Defend+", "Shrug It Off+", "Reaper+", "Shrug It Off+", "Defend+", "Burning Pact+", "Rampage"], "floor": 48, "hp": 68, "maxhp": 75, "block": 46, "energy": 4, "v2.0": false}
+{"frame": 374412, "card": "Rampage", "hand": ["Defend+", "Shrug It Off+", "Reaper+", "Shrug It Off+", "Defend+", "Burning Pact+"], "floor": 48, "hp": 68, "maxhp": 75, "block": 46, "energy": 4, "v2.0": false}
+{"frame": 374506, "card": "Shrug It Off+", "hand": ["Defend+", "Shrug It Off+", "Reaper+", "Burning Pact+", "Warcry"], "floor": 48, "hp": 68, "maxhp": 75, "block": 46, "energy": 3, "v2.0": false}
+{"frame": 374840, "card": "Warcry", "hand": ["Defend+", "Shrug It Off+", "Reaper+", "Defend", "Burning Pact+"], "floor": 48, "hp": 68, "maxhp": 75, "block": 58, "energy": 3, "v2.0": false}
+{"frame": 375116, "card": "Defend+", "hand": ["Defend+", "Shrug It Off+", "Reaper+"], "floor": 48, "hp": 68, "maxhp": 75, "block": 58, "energy": 3, "v2.0": false}
+{"frame": 375238, "card": "Reaper+", "hand": ["Shrug It Off+", "True Grit+", "Burning Pact+", "Defend+"], "floor": 48, "hp": 68, "maxhp": 75, "block": 67, "energy": 3, "v2.0": false}
+{"frame": 375478, "card": "Defend+", "hand": ["Defend+", "Shrug It Off+", "Warcry+", "True Grit", "Shrug It Off", "Burning Pact+"], "floor": 48, "hp": -1, "maxhp": -1, "block": 67, "energy": 3, "v2.0": false}
+{"frame": 375600, "card": "Rampage", "hand": ["Defend+", "Shrug It Off+", "Warcry+", "True Grit+", "Shrug It Off", "Bash+"], "floor": 48, "hp": -1, "maxhp": -1, "block": 76, "energy": 3, "v2.0": false}
+{"frame": 375706, "card": "True Grit+", "hand": ["Burning Pact+", "Defend+", "Shrug It Off+", "Warcry+", "Bash"], "floor": 48, "hp": 75, "maxhp": 75, "block": 76, "energy": 2, "v2.0": false}
+{"frame": 376258, "card": "Rampage", "hand": ["Defend+", "Shrug It Off+", "Warcry+", "Shrug It Off", "Burning Pact+", "Burning Pact+"], "floor": 48, "hp": 75, "maxhp": 75, "block": 86, "energy": 1, "v2.0": false}
+{"frame": 376692, "card": "Rampage", "hand": ["Defend+", "Shrug It Off+", "Warcry+", "Shrug It Off", "Burning Pact+", "Dropkick+"], "floor": 48, "hp": 75, "maxhp": 75, "block": 92, "energy": 3, "v2.0": false}
+{"frame": 376884, "card": "Rampage", "hand": ["Defend+", "Shrug It Off+", "Warcry+", "Shrug It Off", "Burning Pact+", "Burning Pact+"], "floor": 48, "hp": 75, "maxhp": 75, "block": 92, "energy": 2, "v2.0": false}
+{"frame": 376934, "card": "Shrug It Off", "hand": ["Defend+", "Shrug It Off+", "Warcry+", "Burning Pact+", "Burning Pact+"], "floor": 48, "hp": -1, "maxhp": -1, "block": 92, "energy": 1, "v2.0": false}
+{"frame": 377354, "card": "Rampage", "hand": ["Defend+", "Shrug It Off+", "Warcry+", "Burning Pact+"], "floor": 48, "hp": -1, "maxhp": -1, "block": 101, "energy": 1, "v2.0": false}
+{"frame": 377800, "card": "Rampage", "hand": ["Defend+", "Shrug It Off+", "Warcry+", "Burning Pact+", "Burning Pact+", "Dropkick+"], "floor": 48, "hp": 75, "maxhp": 75, "block": 104, "energy": 3, "v2.0": false}
+{"frame": 378014, "card": "Rampage", "hand": ["Defend+", "Shrug It Off+", "Warcry+", "Burning Pact+", "Burning Pact+"], "floor": 48, "hp": -1, "maxhp": -1, "block": 104, "energy": 2, "v2.0": false}
+{"frame": 378082, "card": "Shrug It Off+", "hand": ["Defend+", "Warcry+"], "floor": 48, "hp": 75, "maxhp": 75, "block": 104, "energy": 1, "v2.0": false}
+{"frame": 378318, "card": "Dropkick+", "hand": ["Defend+", "Warcry+", "Burning Pact+", "Rampage"], "floor": 48, "hp": -1, "maxhp": -1, "block": 116, "energy": 1, "v2.0": false}
+{"frame": 378388, "card": "Rampage", "hand": ["Defend+", "Warcry+", "Burning Pact+", "Burning Pact+"], "floor": 48, "hp": 75, "maxhp": 75, "block": 116, "energy": 1, "v2.0": false}
+{"frame": 378776, "card": "Rampage", "hand": ["Defend+", "Warcry+", "Burning Pact+", "Dropkick+"], "floor": 48, "hp": -1, "maxhp": -1, "block": 119, "energy": 3, "v2.0": false}
+{"frame": 384562, "card": "Dropkick", "hand": [], "floor": 50, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 385072, "card": "Brutality+", "hand": ["Ascender's Bane", "Bloodletting+", "Intimidate+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 385188, "card": "Dark Embrace", "hand": ["Ascender's Bane", "Defend", "Bloodletting+", "Intimidate+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 385258, "card": "Intimidate+", "hand": ["Ascender's Bane", "Bloodletting+", "Evolve"], "floor": 50, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 385280, "card": "Intimidate+", "hand": ["Ascender's Bane", "Defend", "Bloodletting+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 385676, "card": "Impervious+", "hand": ["Ascender's Bane", "Bloodletting+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 385966, "card": "Offering", "hand": ["Defend", "Bloodletting+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 41, "energy": 3, "v2.0": false}
+{"frame": 386288, "card": "Armaments+", "hand": ["Combust", "Warcry+"], "floor": 50, "hp": 70, "maxhp": 75, "block": 41, "energy": 5, "v2.0": false}
+{"frame": 386396, "card": "Defend+", "hand": ["Barricade+", "Corruption+", "Warcry+", "Bloodletting+", "Shockwave+"], "floor": 50, "hp": 70, "maxhp": 75, "block": 47, "energy": 4, "v2.0": false}
+{"frame": 386608, "card": "Corruption+", "hand": ["Warcry+"], "floor": 50, "hp": 70, "maxhp": 75, "block": 56, "energy": 4, "v2.0": false}
+{"frame": 386914, "card": "Shockwave+", "hand": ["Barricade+", "Warcry+"], "floor": 50, "hp": 70, "maxhp": 75, "block": 36, "energy": 2, "v2.0": false}
+{"frame": 387144, "card": "Shockwave", "hand": ["Barricade+", "Warcry+", "Bloodletting+"], "floor": 50, "hp": 70, "maxhp": 75, "block": 56, "energy": 2, "v2.0": false}
+{"frame": 387444, "card": "Shrug It Off", "hand": [], "floor": 50, "hp": 70, "maxhp": 75, "block": 56, "energy": 2, "v2.0": false}
+{"frame": 387462, "card": "Shrug It Off", "hand": [], "floor": 50, "hp": 70, "maxhp": 75, "block": 56, "energy": 2, "v2.0": false}
+{"frame": 387696, "card": "Seeing Red", "hand": ["Warcry+"], "floor": 50, "hp": 70, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 388066, "card": "Bloodletting+", "hand": ["Warcry", "Reaper", "Warcry+", "Rampage"], "floor": 50, "hp": 70, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 388316, "card": "Reaper", "hand": ["Warcry+", "Rampage", "Warcry"], "floor": 50, "hp": 68, "maxhp": 75, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 388748, "card": "Rampage", "hand": ["Juggernaut", "Defend", "Bash+", "Defend", "Burning Pact"], "floor": 50, "hp": 75, "maxhp": 75, "block": 74, "energy": 6, "v2.0": false}
+{"frame": 388894, "card": "Evolve+", "hand": ["Warcry+", "Juggernaut", "Defend", "Defend", "Burning Pact"], "floor": 50, "hp": 75, "maxhp": 75, "block": 74, "energy": 6, "v2.0": false}
+{"frame": 388986, "card": "Juggernaut", "hand": ["Warcry+", "Defend", "Bash+", "Defend", "Burning Pact"], "floor": 50, "hp": -1, "maxhp": -1, "block": 4, "energy": 5, "v2.0": false}
+{"frame": 389086, "card": "Dark Embrace", "hand": ["Warcry+", "Defend", "Defend", "Burning Pact"], "floor": 50, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 389212, "card": "Bash+", "hand": ["Warcry+", "Defend", "Defend", "Burning Pact"], "floor": 50, "hp": 75, "maxhp": 75, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 389268, "card": "Defend", "hand": ["Warcry+", "Defend"], "floor": 50, "hp": 75, "maxhp": 75, "block": 74, "energy": 5, "v2.0": false}
+{"frame": 389396, "card": "Shrug It Off", "hand": ["Warcry+", "Defend", "Defend"], "floor": 50, "hp": -1, "maxhp": -1, "block": 80, "energy": 5, "v2.0": false}
+{"frame": 389594, "card": "Dropkick", "hand": ["Defend", "Defend", "True Grit+", "True Grit"], "floor": 50, "hp": 75, "maxhp": 75, "block": 89, "energy": 5, "v2.0": false}
+{"frame": 389734, "card": "True Grit+", "hand": ["Warcry+", "Defend", "Defend", "Body Slam+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 89, "energy": 5, "v2.0": false}
+{"frame": 389760, "card": "True Grit+", "hand": ["Warcry+", "Defend", "Defend", "Body Slam+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 390116, "card": "Armaments+", "hand": ["Defend", "True Grit", "Defend+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 99, "energy": 5, "v2.0": false}
+{"frame": 390488, "card": "Body Slam+", "hand": ["Defend+", "True Grit+", "Defend+", "Bash+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 105, "energy": 5, "v2.0": false}
+{"frame": 390570, "card": "Defend+", "hand": ["Defend+", "Defend+", "True Grit+", "Bash"], "floor": 50, "hp": 75, "maxhp": 75, "block": 105, "energy": 5, "v2.0": false}
+{"frame": 390794, "card": "Body Slam+", "hand": ["Defend+", "True Grit+", "Bash", "Burning Pact+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 114, "energy": 5, "v2.0": false}
+{"frame": 391042, "card": "True Grit+", "hand": ["Bash+", "Burning Pact+", "Rampage+"], "floor": 50, "hp": -1, "maxhp": -1, "block": 132, "energy": 6, "v2.0": false}
+{"frame": 391218, "card": "Dropkick", "hand": ["Body Slam+", "Burning Pact+", "Burning Pact+", "Rampage+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 142, "energy": 6, "v2.0": false}
+{"frame": 391418, "card": "Burning Pact+", "hand": ["Body Slam+", "Burning Pact+"], "floor": 50, "hp": 75, "maxhp": 75, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 391530, "card": "Burning Pact+", "hand": [], "floor": 50, "hp": -1, "maxhp": -1, "block": 142, "energy": 6, "v2.0": false}
+{"frame": 391588, "card": "Body Slam+", "hand": [], "floor": 50, "hp": 75, "maxhp": 75, "block": 142, "energy": 6, "v2.0": false}
+{"frame": 392532, "card": "Rampage", "hand": [], "floor": 51, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 393178, "card": "Brutality+", "hand": ["Shrug It Off", "Offering", "Barricade+", "Dark Embrace"], "floor": 51, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 393432, "card": "Dark Embrace", "hand": ["Barricade+", "Shrug It Off", "Offering", "Juggernaut"], "floor": 51, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 393602, "card": "Barricade+", "hand": ["Shrug It Off", "Offering", "Juggernaut"], "floor": 51, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 393778, "card": "Shrug It Off", "hand": ["Offering", "The Bomb"], "floor": 51, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 394498, "card": "Armaments+", "hand": ["Reaper", "Anger", "Juggernaut", "Defend"], "floor": 51, "hp": 70, "maxhp": 75, "block": 9, "energy": 5, "v2.0": false}
+{"frame": 394688, "card": "Juggernaut+", "hand": ["Seeing Red+", "Defend+", "Dropkick+", "Reaper+"], "floor": 51, "hp": 70, "maxhp": 75, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 396246, "card": "Corruption", "hand": ["Reaper", "Body Slam+", "Warcry+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 396544, "card": "Defend", "hand": ["Body Slam", "Warcry", "Burn"], "floor": 51, "hp": 855, "maxhp": 75, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 396764, "card": "Second Wind", "hand": ["Body Slam+", "Warcry", "Warcry+", "Seeing Red+", "Dropkick+"], "floor": 51, "hp": 65, "maxhp": 75, "block": 2, "energy": 1, "v2.0": false}
+{"frame": 396910, "card": "Bloodletting+", "hand": ["Warcry+", "Defend"], "floor": 51, "hp": 65, "maxhp": 75, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 397236, "card": "Seeing Red+", "hand": ["Reaper+", "Body Slam+", "Warcry", "Warcry+", "Intimidate+"], "floor": 51, "hp": 63, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 397342, "card": "Intimidate+", "hand": ["Body Slam+", "Warcry"], "floor": 51, "hp": 63, "maxhp": 75, "block": 18, "energy": 6, "v2.0": false}
+{"frame": 397558, "card": "Shrug It Off", "hand": ["Body Slam+", "Warcry", "Dropkick+"], "floor": 51, "hp": 63, "maxhp": 75, "block": 18, "energy": 6, "v2.0": false}
+{"frame": 397738, "card": "Shockwave", "hand": ["Body Slam+", "Warcry", "Warcry+", "Reaper"], "floor": 51, "hp": 63, "maxhp": 75, "block": 27, "energy": 6, "v2.0": false}
+{"frame": 397922, "card": "Metallicize", "hand": [], "floor": 51, "hp": 63, "maxhp": 75, "block": 27, "energy": 6, "v2.0": false}
+{"frame": 399064, "card": "Metallicize", "hand": ["Warcry+", "True Grit", "Entrench"], "floor": 51, "hp": 75, "maxhp": 75, "block": 37, "energy": 6, "v2.0": false}
+{"frame": 399084, "card": "Mayhem", "hand": ["Warcry+", "Injury", "True Grit", "Body Slam+", "Entrench"], "floor": 51, "hp": 75, "maxhp": 75, "block": 37, "energy": 5, "v2.0": false}
+{"frame": 399370, "card": "Shockwave", "hand": ["Warcry", "Defend", "True Grit"], "floor": 51, "hp": 75, "maxhp": 75, "block": 37, "energy": 5, "v2.0": false}
+{"frame": 399468, "card": "Body Slam+", "hand": ["Defend", "True Grit", "Impervious+", "Burning Pact", "Burning Pact+", "Shrug It Off"], "floor": 51, "hp": 75, "maxhp": 75, "block": 37, "energy": 5, "v2.0": false}
+{"frame": 399566, "card": "Impervious+", "hand": ["Warcry+", "True Grit", "Shrug It Off", "Burning Pact"], "floor": 51, "hp": 75, "maxhp": 75, "block": 37, "energy": 5, "v2.0": false}
+{"frame": 399878, "card": "Burning Pact", "hand": ["True Grit", "Shrug It Off", "Bash", "Burning Pact", "Burning Pact+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 78, "energy": 4, "v2.0": false}
+{"frame": 399960, "card": "Burning Pact", "hand": ["True Grit", "Shrug It Off", "Burning Pact", "Warcry+", "Defend"], "floor": 51, "hp": 75, "maxhp": 75, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 400206, "card": "Body Slam+", "hand": ["Defend", "True Grit", "Shrug It Off", "Armaments+", "Defend+", "Burning Pact", "Shrug It Off"], "floor": 51, "hp": 75, "maxhp": 75, "block": 78, "energy": 4, "v2.0": false}
+{"frame": 400452, "card": "Defend+", "hand": ["Defend", "True Grit", "Armaments+", "Shrug It Off", "Burning Pact"], "floor": 51, "hp": -1, "maxhp": -1, "block": 78, "energy": 4, "v2.0": false}
+{"frame": 400792, "card": "Body Slam+", "hand": ["Defend", "True Grit", "Shrug It Off", "Armaments+", "Shrug It Off", "Burn", "Rampage"], "floor": 51, "hp": -1, "maxhp": -1, "block": 87, "energy": 4, "v2.0": false}
+{"frame": 401456, "card": "Body Slam+", "hand": ["Defend", "True Grit", "Shrug It Off", "Armaments+", "Shrug It Off", "Burning Pact", "Rampage"], "floor": 51, "hp": 75, "maxhp": 75, "block": 85, "energy": 3, "v2.0": false}
+{"frame": 401690, "card": "Body Slam+", "hand": ["True Grit", "Shrug It Off", "Armaments+", "Shrug It Off"], "floor": 51, "hp": 75, "maxhp": 75, "block": 91, "energy": 3, "v2.0": false}
+{"frame": 401780, "card": "Shrug It Off", "hand": ["True Grit", "Shrug It Off", "Armaments+", "Burning Pact", "Dropkick+"], "floor": 51, "hp": 75, "maxhp": 75, "block": 91, "energy": 3, "v2.0": false}
+{"frame": 401946, "card": "Body Slam+", "hand": ["True Grit", "Shrug It Off", "Armaments+", "Burning Pact", "Dropkick+"], "floor": 51, "hp": 75, "maxhp": 75, "block": 100, "energy": 3, "v2.0": false}
+{"frame": 402086, "card": "Armaments+", "hand": ["Warcry+", "True Grit", "Shrug It Off", "Dropkick+", "Burning Pact", "Entrench"], "floor": 51, "hp": 75, "maxhp": 75, "block": 100, "energy": 3, "v2.0": false}
+done

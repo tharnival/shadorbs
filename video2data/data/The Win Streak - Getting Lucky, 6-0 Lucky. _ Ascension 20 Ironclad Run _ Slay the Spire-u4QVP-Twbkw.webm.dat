@@ -1,0 +1,534 @@
+{"frame": 5168, "card": "Defend", "hand": ["Strike", "Strike", "Strike", "Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 5206, "card": "Strike", "hand": ["Strike", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 5228, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 1, "hp": 68, "maxhp": 75, "block": 5, "energy": 1, "v2.0": true}
+{"frame": 5496, "card": "Bash", "hand": ["Strike", "Strike", "Defend"], "floor": 1, "hp": 66, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 5628, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 1, "hp": 66, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 6374, "card": "Bash", "hand": ["Defend", "Strike", "Strike", "Strike"], "floor": 1, "hp": 64, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 6444, "card": "Defend", "hand": ["Strike", "Strike", "Strike"], "floor": 1, "hp": 64, "maxhp": 75, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 6724, "card": "Strike", "hand": ["Defend", "Defend", "Strike", "Defend"], "floor": 1, "hp": 57, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 6878, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 1, "hp": 57, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 7218, "card": "Strike", "hand": ["Defend", "Strike", "Defend", "Bash"], "floor": 1, "hp": 55, "maxhp": 75, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 7280, "card": "Strike", "hand": [], "floor": 1, "hp": 55, "maxhp": 75, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 8244, "card": "Defend", "hand": ["Strike", "Defend", "Bash"], "floor": 3, "hp": 66, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 8288, "card": "Defend", "hand": ["Strike", "Bash", "Ascender's Bane"], "floor": 3, "hp": 66, "maxhp": 80, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 8338, "card": "Strike", "hand": ["Bash"], "floor": 3, "hp": 66, "maxhp": 80, "block": 10, "energy": 1, "v2.0": true}
+{"frame": 9062, "card": "Strike", "hand": ["Strike", "Anger", "Defend", "Strike"], "floor": 3, "hp": 58, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 9476, "card": "Defend", "hand": ["Strike", "Anger", "Strike"], "floor": 3, "hp": 58, "maxhp": 80, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 9558, "card": "Anger", "hand": ["Strike", "Strike"], "floor": 3, "hp": 58, "maxhp": 80, "block": 5, "energy": 1, "v2.0": true}
+{"frame": 10002, "card": "Defend", "hand": ["Strike", "Mind Blast", "Shame", "Defend"], "floor": 3, "hp": 55, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 10042, "card": "Defend", "hand": ["Strike", "Bash", "Slimed"], "floor": 3, "hp": 55, "maxhp": 80, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 10094, "card": "Strike", "hand": ["Bash", "Slimed"], "floor": 3, "hp": 55, "maxhp": 80, "block": 10, "energy": 1, "v2.0": true}
+{"frame": 10382, "card": "Anger", "hand": ["Strike", "Strike", "Defend", "Anger"], "floor": 3, "hp": 53, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 10496, "card": "Anger", "hand": [], "floor": 3, "hp": 53, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 14284, "card": "Strike", "hand": ["Defend", "Strike", "Defend", "Strike"], "floor": 4, "hp": 59, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 14316, "card": "Strike", "hand": ["Defend", "Defend", "Strike"], "floor": 4, "hp": 59, "maxhp": 80, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 14348, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 4, "hp": 5, "maxhp": 80, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 14808, "card": "Bash", "hand": ["Cleave", "Defend", "Strike", "Strike"], "floor": 4, "hp": 59, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 14898, "card": "Strike", "hand": ["Cleave", "Defend", "Strike"], "floor": 4, "hp": 59, "maxhp": 80, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 15420, "card": "Anger", "hand": [], "floor": 4, "hp": 53, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 18122, "card": "Strike", "hand": ["Bash", "Defend", "Strike", "Inflame+"], "floor": 7, "hp": 51, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 18238, "card": "Strike", "hand": ["Defend", "Bash"], "floor": 7, "hp": 51, "maxhp": 80, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 18316, "card": "Defend", "hand": ["Bash", "Inflame+"], "floor": 7, "hp": 51, "maxhp": 80, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 18812, "card": "Cleave", "hand": ["Defend", "Defend"], "floor": 7, "hp": 44, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 19184, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 7, "hp": 44, "maxhp": 80, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 19352, "card": "Defend", "hand": ["Defend", "Ascender's Bane"], "floor": 7, "hp": 44, "maxhp": 80, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 19976, "card": "Anger", "hand": ["Strike", "Defend", "Strike", "Strike"], "floor": 7, "hp": 33, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 20046, "card": "Strike", "hand": ["Strike", "Defend", "Strike"], "floor": 7, "hp": 33, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 20158, "card": "Strike", "hand": ["Defend"], "floor": 7, "hp": 33, "maxhp": 80, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 20400, "card": "Strike", "hand": [], "floor": 7, "hp": 33, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 22070, "card": "Inflame+", "hand": ["Strike", "Ascender's Bane", "Trip"], "floor": 8, "hp": 39, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 23282, "card": "Bash", "hand": ["Strike", "Defend", "Defend", "Strike"], "floor": 8, "hp": 39, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 23366, "card": "Strike", "hand": ["Strike", "Defend", "Defend"], "floor": 8, "hp": 39, "maxhp": 80, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 23932, "card": "Cleave", "hand": ["Defend", "Strike", "Defend"], "floor": 8, "hp": 39, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 24072, "card": "Strike", "hand": ["Defend", "Strike", "Defend"], "floor": 8, "hp": 39, "maxhp": 80, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 24292, "card": "Defend", "hand": ["Strike", "Defend"], "floor": 8, "hp": 39, "maxhp": 80, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 24862, "card": "Defend", "hand": ["Bash", "Strike", "Defend", "Anger"], "floor": 8, "hp": 36, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 24900, "card": "Defend", "hand": ["Bash", "Strike", "Anger"], "floor": 8, "hp": 36, "maxhp": 80, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 24974, "card": "Strike", "hand": ["Bash"], "floor": 8, "hp": 36, "maxhp": 80, "block": 20, "energy": 1, "v2.0": true}
+{"frame": 25292, "card": "Iron Wave", "hand": ["Strike", "Strike", "Defend", "Defend"], "floor": 8, "hp": 36, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 25370, "card": "Strike", "hand": ["Strike", "Defend", "Defend"], "floor": 8, "hp": 36, "maxhp": 80, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 25706, "card": "Cleave", "hand": ["Strike", "Anger"], "floor": 8, "hp": 36, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 25744, "card": "Cleave", "hand": ["Strike", "Anger"], "floor": 8, "hp": 36, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 25766, "card": "Cleave", "hand": ["Strike"], "floor": 8, "hp": 36, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 25898, "card": "Strike", "hand": ["Anger", "Cleave", "Strike", "Strike"], "floor": 8, "hp": 36, "maxhp": 80, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 27202, "card": "Bash", "hand": ["Strike", "Defend", "Defend", "Ascender's Bane"], "floor": 10, "hp": 49, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 27250, "card": "Strike", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 10, "hp": 49, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 27592, "card": "Anger", "hand": ["Defend", "Strike", "True Grit", "Strike"], "floor": 10, "hp": 49, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 27746, "card": "Strike", "hand": ["Defend", "True Grit", "Strike"], "floor": 10, "hp": 49, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 28094, "card": "Strike", "hand": ["Defend", "True Grit"], "floor": 10, "hp": 49, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 28126, "card": "True Grit", "hand": ["Defend"], "floor": 10, "hp": 49, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 28684, "card": "Cleave", "hand": ["Strike", "Defend", "Iron Wave", "Strike"], "floor": 10, "hp": 38, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 28852, "card": "Strike", "hand": ["Strike", "Defend", "Iron Wave"], "floor": 10, "hp": 38, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 28900, "card": "Strike", "hand": ["Defend", "Iron Wave"], "floor": 10, "hp": 38, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 29484, "card": "Inflame+", "hand": ["True Grit", "Strike", "Defend", "Strike"], "floor": 10, "hp": 38, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 29614, "card": "Strike", "hand": ["True Grit", "Defend", "Strike"], "floor": 10, "hp": 38, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 29656, "card": "Strike", "hand": [], "floor": 10, "hp": 38, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 31354, "card": "Cleave", "hand": ["Strike", "Defend", "Defend", "Defend"], "floor": 11, "hp": 44, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 31398, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 11, "hp": 44, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 32070, "card": "Inflame+", "hand": ["Strike", "Bash", "Defend"], "floor": 11, "hp": 44, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 32146, "card": "Defend", "hand": ["Strike", "Bash"], "floor": 11, "hp": 44, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 32196, "card": "Strike", "hand": ["Ascender's Bane", "Bash"], "floor": 11, "hp": 44, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 32742, "card": "Strike", "hand": ["Strike", "True Grit", "Iron Wave", "Strike"], "floor": 11, "hp": 29, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 33338, "card": "Anger", "hand": ["True Grit", "Strike", "Strike", "Iron Wave"], "floor": 11, "hp": 29, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 33424, "card": "Strike", "hand": ["True Grit", "Iron Wave"], "floor": 11, "hp": 29, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 33458, "card": "Iron Wave", "hand": ["True Grit"], "floor": 11, "hp": 29, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 33786, "card": "Cleave", "hand": ["Strike", "Defend", "Bash", "Defend"], "floor": 11, "hp": 29, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 40648, "card": "Inflame+", "hand": ["Defend", "Thunderclap"], "floor": 12, "hp": 35, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 41122, "card": "Thunderclap", "hand": ["Bash"], "floor": 12, "hp": 35, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 41350, "card": "Strike", "hand": ["Defend", "Bash"], "floor": 12, "hp": 35, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 41864, "card": "Cleave", "hand": ["True Grit", "Chrysalis", "Iron Wave", "Anger"], "floor": 12, "hp": 25, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 42048, "card": "Iron Wave", "hand": ["True Grit", "Strike", "Anger"], "floor": 12, "hp": 25, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 42408, "card": "Anger", "hand": ["True Grit", "Strike"], "floor": 12, "hp": 25, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 42488, "card": "True Grit", "hand": ["Strike"], "floor": 12, "hp": 25, "maxhp": 87, "block": 5, "energy": 1, "v2.0": true}
+{"frame": 43038, "card": "Strike", "hand": ["Defend", "True Grit", "Defend", "Defend"], "floor": 12, "hp": 25, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 43078, "card": "Defend", "hand": ["Defend", "True Grit"], "floor": 12, "hp": 25, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 43432, "card": "Strike", "hand": ["True Grit"], "floor": 12, "hp": 25, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 43462, "card": "Strike", "hand": [], "floor": 12, "hp": 25, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 46136, "card": "Inflame+", "hand": ["Iron Wave", "Thunderclap", "Defend", "Anger"], "floor": 14, "hp": 31, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 46244, "card": "Thunderclap", "hand": ["Iron Wave", "Anger", "Defend"], "floor": 14, "hp": 31, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 46640, "card": "Anger", "hand": ["Iron Wave", "Defend"], "floor": 14, "hp": 31, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 46694, "card": "Iron Wave", "hand": ["Defend"], "floor": 14, "hp": 31, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 47050, "card": "Strike", "hand": [], "floor": 14, "hp": 31, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 49678, "card": "Thunderclap", "hand": ["Sword Boomerang+", "Rage", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 49718, "card": "Thunderclap", "hand": ["Sword Boomerang+", "Rage", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 49760, "card": "Sword Boomerang+", "hand": ["Anger", "Reaper", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 49896, "card": "Anger", "hand": ["Strike", "Reaper"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 49944, "card": "Strike", "hand": ["Reaper"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 50280, "card": "Inflame+", "hand": ["Cleave", "Smite"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 50312, "card": "Inflame+", "hand": ["Cleave", "Ascender's Bane"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 50432, "card": "Strike", "hand": ["Cleave", "Strike", "Ascender's Bane"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 50486, "card": "Cleave", "hand": ["Strike", "Ascender's Bane"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 50876, "card": "Metallicize", "hand": ["True Grit", "True Grit", "Defend", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 51082, "card": "Defend", "hand": ["True Grit", "True Grit", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 51172, "card": "True Grit", "hand": ["True Grit", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 5, "energy": 1, "v2.0": true}
+{"frame": 51500, "card": "Defend", "hand": ["Strike", "Defend", "Defend"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 7, "v2.0": true}
+{"frame": 51580, "card": "Defend", "hand": ["Strike", "Iron Wave", "Defend", "Defend"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 51644, "card": "Defend", "hand": ["Strike", "Iron Wave", "Defend"], "floor": 16, "hp": 63, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 51662, "card": "Defend", "hand": ["Strike", "Iron Wave", "Defend"], "floor": 16, "hp": 63, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 53398, "card": "Cleave", "hand": ["Bash", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 53504, "card": "Strike", "hand": ["Bash", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 53542, "card": "Sword Boomerang+", "hand": ["Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 54092, "card": "Iron Wave", "hand": ["Defend", "Anger", "True Grit", "Defend"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 54174, "card": "Defend", "hand": ["Defend"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 54730, "card": "Defend", "hand": ["Strike", "True Grit", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 54804, "card": "True Grit", "hand": ["Strike", "Reaper", "Strike"], "floor": 16, "hp": 63, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 55300, "card": "Thunderclap", "hand": ["Anger", "Defend", "Iron Wave"], "floor": 16, "hp": 62, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 55396, "card": "Anger", "hand": ["Defend", "Iron Wave", "Sword Boomerang+"], "floor": 16, "hp": 62, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 55460, "card": "Sword Boomerang+", "hand": ["Defend"], "floor": 16, "hp": 62, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 55614, "card": "Iron Wave", "hand": ["Defend"], "floor": 16, "hp": 62, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 55978, "card": "Defend", "hand": ["Bash", "Strike", "Strike", "Anger"], "floor": 16, "hp": 62, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 56394, "card": "Defend", "hand": ["Strike", "Defend", "Cleave", "True Grit"], "floor": 16, "hp": 60, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 56474, "card": "True Grit", "hand": ["Strike", "Cleave"], "floor": 16, "hp": 60, "maxhp": 87, "block": 10, "energy": 1, "v2.0": true}
+{"frame": 57380, "card": "Anger", "hand": ["True Grit", "Reaper", "Defend", "Bash"], "floor": 16, "hp": 60, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 57902, "card": "Bash", "hand": ["True Grit", "Reaper", "Defend"], "floor": 16, "hp": 60, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 57958, "card": "True Grit", "hand": ["Defend"], "floor": 16, "hp": 60, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 58574, "card": "Strike", "hand": ["Defend", "Iron Wave", "Cleave", "Defend"], "floor": 16, "hp": 50, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 58618, "card": "Cleave", "hand": ["Defend", "Iron Wave", "Defend"], "floor": 16, "hp": 50, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 58644, "card": "Cleave", "hand": ["Defend", "Iron Wave", "Defend"], "floor": 16, "hp": 50, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 58680, "card": "Cleave", "hand": ["Defend", "Iron Wave", "Defend"], "floor": 16, "hp": 50, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 58698, "card": "Cleave", "hand": ["Defend", "Iron Wave", "Defend"], "floor": 16, "hp": 50, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 58716, "card": "Cleave", "hand": ["Defend", "Iron Wave", "Defend"], "floor": 16, "hp": 50, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 58736, "card": "Cleave", "hand": ["Defend", "Iron Wave", "Defend"], "floor": 16, "hp": 50, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 58754, "card": "Cleave", "hand": ["Defend", "Iron Wave", "Defend"], "floor": 16, "hp": 50, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 59548, "card": "Sword Boomerang+", "hand": ["True Grit", "Anger", "Anger", "Defend"], "floor": 16, "hp": 50, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 64102, "card": "Strike", "hand": ["Defend", "Anger", "Reaper", "Iron Wave", "True Grit", "Strike"], "floor": 18, "hp": 79, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 64224, "card": "Iron Wave", "hand": ["Defend", "Anger", "Reaper", "True Grit", "Strike"], "floor": 18, "hp": 79, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 64302, "card": "Defend", "hand": ["Anger", "Insight", "Reaper", "Strike"], "floor": 18, "hp": 79, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 64334, "card": "True Grit", "hand": ["Anger", "Reaper", "Strike"], "floor": 18, "hp": 79, "maxhp": 87, "block": 1, "energy": 1, "v2.0": true}
+{"frame": 65070, "card": "Inflame+", "hand": ["Cleave", "Reaper", "Sword Boomerang+", "Thunderclap", "Defend"], "floor": 18, "hp": 78, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 65842, "card": "Thunderclap", "hand": ["Cleave", "Sword Boomerang+", "Defend", "Reaper", "Metallicize", "Entrench"], "floor": 18, "hp": 78, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 66022, "card": "Reaper", "hand": ["Cleave", "Defend", "Metallicize"], "floor": 18, "hp": 78, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 66110, "card": "Cleave", "hand": ["Defend"], "floor": 18, "hp": 87, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 67848, "card": "Strike", "hand": ["Defend", "Strike", "Strike", "Bash", "Defend", "True Grit"], "floor": 18, "hp": 75, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 67942, "card": "Strike", "hand": ["Defend", "Strike", "Bash", "True Grit", "Defend"], "floor": 18, "hp": 75, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 68080, "card": "True Grit", "hand": ["Strike", "Bash", "Defend"], "floor": 18, "hp": 75, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 68768, "card": "Reaper", "hand": ["Cleave", "Defend", "Anger", "Defend", "True Grit"], "floor": 18, "hp": 72, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 69140, "card": "True Grit", "hand": ["Anger", "Ascender's Bane", "Defend"], "floor": 18, "hp": 78, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 70006, "card": "Strike", "hand": ["Strike", "Strike", "Defend", "True Grit", "Defend", "Thunderclap"], "floor": 18, "hp": 78, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 70088, "card": "Strike", "hand": ["Defend", "True Grit", "Defend", "Thunderclap", "Strike"], "floor": 18, "hp": 78, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 70164, "card": "Defend", "hand": ["Defend", "True Grit", "Thunderclap"], "floor": 18, "hp": 78, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 70202, "card": "Defend", "hand": ["True Grit", "Thunderclap", "Strike"], "floor": 18, "hp": 78, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 70234, "card": "Thunderclap", "hand": ["True Grit", "Strike"], "floor": 18, "hp": 78, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 70292, "card": "True Grit", "hand": ["Strike"], "floor": 18, "hp": 78, "maxhp": 87, "block": 10, "energy": 1, "v2.0": true}
+{"frame": 71570, "card": "Metallicize", "hand": ["Reaper", "Thunderclap", "Strike", "Defend", "True Grit", "Strike", "Entrench"], "floor": 19, "hp": 84, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 71826, "card": "Thunderclap", "hand": ["Reaper", "Strike", "True Grit", "Strike", "Defend"], "floor": 19, "hp": 84, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 71918, "card": "Strike", "hand": ["Reaper", "Strike", "Strike", "True Grit", "Defend"], "floor": 19, "hp": 84, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 72264, "card": "Reaper", "hand": ["Strike", "True Grit"], "floor": 19, "hp": 84, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 72328, "card": "True Grit", "hand": ["Defend"], "floor": 19, "hp": 84, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 74070, "card": "Iron Wave", "hand": ["Strike", "Cleave"], "floor": 19, "hp": 75, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 75204, "card": "True Grit", "hand": ["Anger", "Defend", "Inflame+", "Sword Boomerang+", "Strike"], "floor": 19, "hp": 66, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 77404, "card": "Iron Wave", "hand": ["Strike", "Defend", "True Grit", "Defend", "Anger"], "floor": 19, "hp": 49, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 77514, "card": "Anger", "hand": ["Strike", "Defend", "True Grit", "Defend", "Blood for Blood"], "floor": 19, "hp": 49, "maxhp": 87, "block": 5, "energy": 3, "v2.0": true}
+{"frame": 77588, "card": "Blood for Blood", "hand": ["Strike", "Defend", "True Grit", "Defend"], "floor": 19, "hp": 49, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 78124, "card": "Strike", "hand": ["Defend", "Cleave", "Strike", "Strike", "Defend"], "floor": 19, "hp": 49, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 78158, "card": "Strike", "hand": ["Defend", "Cleave", "Strike", "Defend"], "floor": 19, "hp": 49, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 84782, "card": "Thunderclap", "hand": ["Bash", "Defend", "Sword Boomerang+", "Strike", "Reaper"], "floor": 21, "hp": 55, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 85128, "card": "Bash", "hand": ["Defend", "Sword Boomerang+", "Strike", "Strike", "Reaper"], "floor": 21, "hp": 55, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 85278, "card": "Reaper", "hand": ["Sword Boomerang+"], "floor": 21, "hp": 55, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 85296, "card": "Reaper", "hand": ["Sword Boomerang+", "Defend", "Strike"], "floor": 21, "hp": 55, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 85564, "card": "Strike", "hand": ["Strike", "Defend", "Sword Boomerang+"], "floor": 21, "hp": 67, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 85608, "card": "Strike", "hand": ["Defend", "Sword Boomerang+"], "floor": 21, "hp": 67, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 86288, "card": "Inflame+", "hand": ["Strike", "Iron Wave", "Reaper", "Reaper"], "floor": 21, "hp": 36, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 86486, "card": "Strike", "hand": ["Iron Wave", "Hand of Greed", "Strike", "Reaper"], "floor": 21, "hp": 36, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 87214, "card": "Reaper", "hand": ["Iron Wave"], "floor": 21, "hp": 36, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 88058, "card": "Reaper", "hand": ["Iron Wave", "Hand of Greed", "Strike", "Feel No Pain"], "floor": 21, "hp": 36, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 88302, "card": "Hand of Greed", "hand": [], "floor": 21, "hp": 67, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 88982, "card": "Sword Boomerang+", "hand": ["True Grit", "Strike", "Defend"], "floor": 22, "hp": 73, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 89094, "card": "Strike", "hand": ["True Grit", "Strike", "Strike", "Defend"], "floor": 22, "hp": 73, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 89734, "card": "Inflame+", "hand": ["Headbutt", "Cleave", "Defend", "Defend", "Reaper", "Blood for Blood"], "floor": 22, "hp": 73, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 89894, "card": "Blood for Blood", "hand": ["Hand of Greed", "Defend", "Cleave", "Defend", "Reaper"], "floor": 22, "hp": 73, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 89956, "card": "Hand of Greed", "hand": ["Defend", "Cleave", "Defend"], "floor": 22, "hp": 73, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 89998, "card": "Defend", "hand": ["Cleave", "Reaper", "Reaper"], "floor": 22, "hp": 73, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 90418, "card": "The Bomb", "hand": [], "floor": 22, "hp": 66, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 90646, "card": "Thunderclap", "hand": ["Bash", "True Grit", "Iron Wave", "Defend"], "floor": 22, "hp": 66, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 90748, "card": "Iron Wave", "hand": ["Bash", "True Grit", "Defend", "Metallicize", "Dazed"], "floor": 22, "hp": 66, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 90830, "card": "Defend", "hand": ["Bash", "Metallicize", "True Grit", "Dazed"], "floor": 22, "hp": 66, "maxhp": 87, "block": 5, "energy": 1, "v2.0": true}
+{"frame": 91396, "card": "Feel No Pain", "hand": ["Strike", "Strike"], "floor": 22, "hp": 58, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 91502, "card": "Metallicize", "hand": ["Reaper", "Dazed"], "floor": 22, "hp": 58, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 91528, "card": "Metallicize", "hand": [], "floor": 22, "hp": 58, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 92258, "card": "Reaper", "hand": ["Hand of Greed", "Iron Wave", "True Grit", "Panache", "Defend"], "floor": 22, "hp": 65, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 93060, "card": "Reaper", "hand": ["Hand of Greed", "Iron Wave", "True Grit", "Bash", "Defend", "Safety"], "floor": 22, "hp": 65, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 93204, "card": "Iron Wave", "hand": ["Hand of Greed", "Strike", "True Grit", "Defend"], "floor": 22, "hp": 75, "maxhp": 87, "block": 3, "energy": 0, "v2.0": true}
+{"frame": 93318, "card": "Strike", "hand": ["Hand of Greed", "True Grit", "Bash", "Defend"], "floor": 22, "hp": 75, "maxhp": 87, "block": 8, "energy": 0, "v2.0": true}
+{"frame": 93368, "card": "Hand of Greed", "hand": ["True Grit", "Bash", "Bash", "Defend"], "floor": 22, "hp": 75, "maxhp": 87, "block": 8, "energy": 0, "v2.0": true}
+{"frame": 93988, "card": "Cleave", "hand": ["Sword Boomerang", "Sentinel", "Defend", "Defend"], "floor": 22, "hp": 68, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 94126, "card": "Sword Boomerang+", "hand": ["Strike", "Defend", "Dazed", "Defend", "Defend"], "floor": 22, "hp": 68, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 94892, "card": "Strike", "hand": ["Thunderclap", "True Grit", "Strike", "Defend", "Blood for Blood"], "floor": 22, "hp": 68, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 94936, "card": "Blood for Blood", "hand": [], "floor": 22, "hp": 68, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 96826, "card": "Inflame+", "hand": ["Defend", "Defend", "Hand of Greed", "Strike", "Strike", "Metallicize"], "floor": 23, "hp": 74, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 97062, "card": "Hand of Greed", "hand": ["Strike", "Defend", "Defend", "Strike", "Metallicize"], "floor": 23, "hp": 74, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 97098, "card": "Strike", "hand": ["Defend", "Defend", "Strike", "Metallicize"], "floor": 23, "hp": 74, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 97982, "card": "Feel No Pain", "hand": ["Cleave", "Strike", "True Grit", "Sword Boomerang+", "Defend"], "floor": 23, "hp": 74, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 100898, "card": "Reaper", "hand": ["Defend", "Bash", "Purity", "Strike", "Thunderclap"], "floor": 23, "hp": 74, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 101974, "card": "Bash", "hand": ["True Grit", "Defend"], "floor": 23, "hp": 87, "maxhp": 87, "block": 3, "energy": 1, "v2.0": true}
+{"frame": 102040, "card": "True Grit", "hand": ["Defend", "Strike", "Thunderclap"], "floor": 23, "hp": 87, "maxhp": 87, "block": 3, "energy": 1, "v2.0": true}
+{"frame": 104022, "card": "Reaper", "hand": ["Strike", "Hand of Greed", "Sword Boomerang+", "Iron Wave", "Blood for Blood"], "floor": 23, "hp": 87, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 104046, "card": "Reaper", "hand": ["Strike", "Iron Wave", "Hand of Greed", "Sword Boomerang+"], "floor": 23, "hp": 87, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 105276, "card": "Sword Boomerang+", "hand": ["Strike", "Iron Wave"], "floor": 23, "hp": 87, "maxhp": 87, "block": 3, "energy": 3, "v2.0": true}
+{"frame": 105542, "card": "Hand of Greed", "hand": ["Strike", "Iron Wave", "Blood for Blood"], "floor": 23, "hp": 87, "maxhp": 87, "block": 3, "energy": 2, "v2.0": true}
+{"frame": 105606, "card": "Iron Wave", "hand": ["Strike", "Blood for Blood"], "floor": 23, "hp": 87, "maxhp": 87, "block": 3, "energy": 2, "v2.0": true}
+{"frame": 105684, "card": "Strike", "hand": ["Blood for Blood"], "floor": 23, "hp": 87, "maxhp": 87, "block": 8, "energy": 0, "v2.0": true}
+{"frame": 105970, "card": "Metallicize", "hand": ["Cleave", "Strike", "True Grit", "Strike"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 106158, "card": "Bash", "hand": ["Defend", "Cleave", "Strike", "True Grit", "Strike"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 106210, "card": "Cleave", "hand": ["Defend", "Strike"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 106868, "card": "True Grit", "hand": ["Defend", "Strike", "Strike"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 107834, "card": "Strike", "hand": ["Defend", "True Grit", "Defend", "Defend", "Strike", "Strike"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 107936, "card": "Strike", "hand": ["Defend", "True Grit", "Defend", "Defend", "Strike"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 107980, "card": "True Grit", "hand": ["Defend", "Defend", "Defend", "Strike"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 108934, "card": "Iron Wave", "hand": ["Cleave", "True Grit", "Sword Boomerang+", "Strike", "Bash"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 109368, "card": "Bash", "hand": ["Cleave", "Sword Boomerang+", "True Grit", "Blood for Blood"], "floor": 23, "hp": 47, "maxhp": 87, "block": 5, "energy": 3, "v2.0": true}
+{"frame": 109426, "card": "Blood for Blood", "hand": ["Cleave", "True Grit", "Sword Boomerang+"], "floor": 23, "hp": 47, "maxhp": 87, "block": 5, "energy": 3, "v2.0": true}
+{"frame": 109568, "card": "True Grit", "hand": ["Cleave", "Sword Boomerang+"], "floor": 23, "hp": 47, "maxhp": 87, "block": 5, "energy": 3, "v2.0": true}
+{"frame": 110060, "card": "Strike", "hand": ["Thunderclap", "Defend", "Strike", "Hand of Greed"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 110232, "card": "Strike", "hand": ["Hand of Greed", "Defend", "True Grit", "Thunderclap"], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 110280, "card": "Hand of Greed", "hand": [], "floor": 23, "hp": 47, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 111830, "card": "Inflame+", "hand": ["Defend", "Defend", "Clothesline", "Strike", "Blood for Blood"], "floor": 24, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 112794, "card": "Reaper", "hand": ["Hand of Greed", "True Grit"], "floor": 24, "hp": 53, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 113080, "card": "Reaper", "hand": ["Hand of Greed", "True Grit", "Strike", "Iron Wave"], "floor": 24, "hp": 53, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 114132, "card": "Iron Wave", "hand": ["Hand of Greed", "True Grit", "Thunderclap", "Feel No Pain", "Strike"], "floor": 24, "hp": 74, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 114244, "card": "Hand of Greed", "hand": ["True Grit", "Feel No Pain", "Thunderclap"], "floor": 24, "hp": 74, "maxhp": 87, "block": 5, "energy": 1, "v2.0": true}
+{"frame": 115318, "card": "Bash", "hand": ["Defend", "Strike", "Strike", "Sword Boomerang+", "Metallicize"], "floor": 24, "hp": 67, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 115356, "card": "Sword Boomerang+", "hand": ["Defend", "Strike", "Metallicize", "Strike"], "floor": 24, "hp": 67, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 115482, "card": "Defend", "hand": ["Strike", "Metallicize"], "floor": 24, "hp": 67, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 115912, "card": "Feel No Pain", "hand": ["True Grit", "Defend", "Reaper", "Cleave", "Strike"], "floor": 24, "hp": 48, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 116298, "card": "Defend", "hand": ["Bash", "Strike", "Strike", "Defend", "True Grit"], "floor": 24, "hp": 48, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 116402, "card": "Bash", "hand": ["Strike", "Strike", "Defend", "True Grit"], "floor": 24, "hp": 48, "maxhp": 87, "block": 5, "energy": 4, "v2.0": true}
+{"frame": 116566, "card": "True Grit", "hand": ["Strike", "Strike", "Defend"], "floor": 24, "hp": 48, "maxhp": 87, "block": 5, "energy": 3, "v2.0": true}
+{"frame": 118986, "card": "Thunderclap", "hand": ["Hand of Greed", "Clothesline", "Iron Wave", "Defend", "Strike"], "floor": 24, "hp": 42, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 119060, "card": "Safety", "hand": [], "floor": 24, "hp": 42, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 119502, "card": "Blood for Blood", "hand": ["Hand of Greed", "Clothesline", "Iron Wave", "Thunderclap", "Strike", "Defend"], "floor": 24, "hp": 42, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 119666, "card": "Strike", "hand": ["Hand of Greed", "Clothesline", "Iron Wave", "Thunderclap", "Defend"], "floor": 24, "hp": 42, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 119884, "card": "Hand of Greed", "hand": [], "floor": 24, "hp": 42, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 122468, "card": "Metallicize", "hand": ["Defend", "True Grit", "Clothesline", "Reaper", "Sword Boomerang+"], "floor": 27, "hp": 48, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 122656, "card": "Inflame+", "hand": ["Defend", "Clothesline", "Rage"], "floor": 27, "hp": 48, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 122812, "card": "Reaper", "hand": ["Sword Boomerang+"], "floor": 27, "hp": 48, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 123008, "card": "Clothesline", "hand": ["Defend", "True Grit", "Sword Boomerang+"], "floor": 27, "hp": 62, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 124490, "card": "Feel No Pain", "hand": ["Reaper", "Strike", "Strike", "Iron Wave", "True Grit", "Entrench"], "floor": 27, "hp": 62, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 124648, "card": "Reaper", "hand": ["Iron Wave"], "floor": 27, "hp": 62, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 124682, "card": "Reaper", "hand": ["Iron Wave"], "floor": 27, "hp": 62, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 124860, "card": "Reaper", "hand": ["Iron Wave", "Strike"], "floor": 27, "hp": 62, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 124986, "card": "Iron Wave", "hand": ["Strike", "Strike", "Bash", "True Grit", "True Grit"], "floor": 27, "hp": 67, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 125626, "card": "Defend", "hand": ["Defend", "Strike"], "floor": 27, "hp": 58, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 125706, "card": "Defend", "hand": ["Strike", "Strike", "Hand of Greed", "Defend"], "floor": 27, "hp": 58, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 125776, "card": "Strike", "hand": ["Strike", "Ascender's Bane", "Hand of Greed", "Defend"], "floor": 27, "hp": 58, "maxhp": 87, "block": 6, "energy": 0, "v2.0": true}
+{"frame": 126370, "card": "Bash", "hand": ["Thunderclap", "Strike", "Strike", "Blood for Blood"], "floor": 27, "hp": 46, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 126542, "card": "Blood for Blood", "hand": ["Cleave", "Strike", "Strike", "Strike"], "floor": 27, "hp": 46, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 127114, "card": "Clothesline", "hand": [], "floor": 27, "hp": 46, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 129674, "card": "Cleave", "hand": ["Strike", "Hand of Greed", "Strike"], "floor": 28, "hp": 52, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 129842, "card": "Metallicize", "hand": ["Strike", "Defend", "Hand of Greed", "Strike"], "floor": 28, "hp": 52, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 129904, "card": "Hand of Greed", "hand": ["Strike", "Defend", "Strike", "Strike"], "floor": 28, "hp": 52, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 130746, "card": "Inflame+", "hand": ["Thunderclap", "Doubt", "Strike"], "floor": 28, "hp": 52, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 131248, "card": "Inflame+", "hand": ["Sword Boomerang+", "Defend", "Clothesline", "Clash", "Defend"], "floor": 28, "hp": 42, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 131802, "card": "Defend", "hand": ["Sword Boomerang+", "Defend", "Clothesline"], "floor": 28, "hp": 42, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 131854, "card": "Defend", "hand": ["Sword Boomerang+", "Clothesline", "Clothesline+", "Blood for Blood"], "floor": 28, "hp": 42, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 131966, "card": "Clothesline+", "hand": ["Sword Boomerang+", "Clothesline", "Blood for Blood"], "floor": 28, "hp": 42, "maxhp": 87, "block": 10, "energy": 1, "v2.0": true}
+{"frame": 132460, "card": "Reaper", "hand": ["Strike", "Bash", "True Grit", "Iron Wave", "Cleave"], "floor": 28, "hp": 42, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 132856, "card": "Cleave", "hand": ["True Grit", "Iron Wave", "Bash"], "floor": 28, "hp": 52, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 132896, "card": "True Grit", "hand": ["Bash", "Ascender's Bane"], "floor": 28, "hp": 52, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 133744, "card": "Thunderclap", "hand": ["Regret", "Defend", "Defend", "Feel No Pain"], "floor": 28, "hp": 52, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 133796, "card": "Reaper", "hand": ["Defend", "Strike", "Defend"], "floor": 28, "hp": 52, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 133880, "card": "Defend", "hand": ["Strike", "Defend", "Feel No Pain"], "floor": 28, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 133920, "card": "Defend", "hand": ["Strike", "Feel No Pain", "Blood for Blood"], "floor": 28, "hp": 63, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 134386, "card": "Hand of Greed", "hand": [], "floor": 28, "hp": 63, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 141052, "card": "Armaments+", "hand": ["Bash", "Strike", "Violence", "Clothesline"], "floor": 30, "hp": 69, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 141082, "card": "Armaments+", "hand": ["Bash", "Strike", "Clothesline", "True Grit", "Iron Wave"], "floor": 30, "hp": 69, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 141232, "card": "Inflame+", "hand": ["Bash", "Strike", "Clothesline+"], "floor": 30, "hp": 69, "maxhp": 87, "block": 5, "energy": 3, "v2.0": true}
+{"frame": 141342, "card": "Iron Wave+", "hand": ["Bash", "Clothesline+"], "floor": 30, "hp": 69, "maxhp": 87, "block": 5, "energy": 0, "v2.0": true}
+{"frame": 141418, "card": "Strike", "hand": ["Bash+", "True Grit+", "Clothesline+"], "floor": 30, "hp": 69, "maxhp": 87, "block": 12, "energy": 0, "v2.0": true}
+{"frame": 143048, "card": "Inflame+", "hand": ["True Grit", "Strike", "Strike", "Defend", "Blood for Blood"], "floor": 30, "hp": 69, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 143364, "card": "Blood for Blood", "hand": ["True Grit", "Strike", "Feel No Pain", "Strike", "Defend"], "floor": 30, "hp": 69, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 143424, "card": "True Grit", "hand": ["Strike", "Feel No Pain", "Strike", "Defend"], "floor": 30, "hp": 69, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 144360, "card": "Cleave", "hand": ["Hand of Greed", "Strike", "Defend", "Clothesline+", "Strike"], "floor": 30, "hp": 58, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 144754, "card": "Clothesline+", "hand": ["Defend", "Thunderclap", "Strike", "Hand of Greed"], "floor": 30, "hp": 58, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 144794, "card": "Defend", "hand": ["Thunderclap", "Strike", "Hand of Greed"], "floor": 30, "hp": 58, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 145172, "card": "Reaper", "hand": ["Defend", "Sword Boomerang+"], "floor": 30, "hp": 51, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 145292, "card": "Reaper", "hand": ["Defend", "Cleave", "Sword Boomerang+"], "floor": 30, "hp": 51, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 145454, "card": "Defend", "hand": ["Metallicize", "Dazed"], "floor": 30, "hp": 62, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 145522, "card": "Metallicize", "hand": ["Sword Boomerang+", "Dazed", "Dazed"], "floor": 30, "hp": 62, "maxhp": 87, "block": 5, "energy": 3, "v2.0": true}
+{"frame": 145546, "card": "Metallicize", "hand": ["Sword Boomerang+", "Dazed", "Dazed"], "floor": 30, "hp": 62, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 145984, "card": "Reaper", "hand": ["Strike", "Disarm", "Dazed"], "floor": 30, "hp": 57, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 146074, "card": "Bash+", "hand": [], "floor": 30, "hp": 68, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 148622, "card": "Inflame+", "hand": ["Cleave", "Clothesline", "Defend"], "floor": 31, "hp": 74, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 148642, "card": "Inflame+", "hand": ["Cleave", "Smite", "Defend", "Clothesline"], "floor": 31, "hp": 74, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 148820, "card": "Strike", "hand": ["Feel No Pain", "Metallicize", "Clothesline", "Defend"], "floor": 31, "hp": 74, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 149470, "card": "Armaments+", "hand": ["Reaper", "Strike", "Sword Boomerang+", "True Grit", "Blood for Blood"], "floor": 31, "hp": 60, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 150072, "card": "Blood for Blood+", "hand": ["Reaper+", "Sword Boomerang+", "True Grit+", "Strike", "Armaments"], "floor": 31, "hp": 60, "maxhp": 87, "block": 5, "energy": 3, "v2.0": true}
+{"frame": 150156, "card": "Reaper+", "hand": ["True Grit+"], "floor": 31, "hp": 60, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 150234, "card": "Reaper+", "hand": ["Sword Boomerang+", "True Grit+", "Strike", "Ascender's Bane"], "floor": 31, "hp": 60, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 151948, "card": "Reaper", "hand": ["Defend", "Clothesline+", "Strike"], "floor": 31, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 152692, "card": "Clothesline+", "hand": ["Defend", "Defend", "Bash", "Strike", "Inflame+"], "floor": 31, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 152754, "card": "Reaper", "hand": ["Defend", "Bash", "Strike", "Strike"], "floor": 31, "hp": 53, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 152774, "card": "Reaper", "hand": ["Defend", "Bash", "Inflame+", "Strike"], "floor": 31, "hp": 53, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 152828, "card": "Defend", "hand": ["Strike"], "floor": 31, "hp": 61, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 153318, "card": "Thunderclap", "hand": ["Headbutt", "Defend", "Strike", "Strike", "Iron Wave"], "floor": 31, "hp": 48, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 153462, "card": "Strike", "hand": ["Hand of Greed", "Defend", "Strike", "True Grit", "Iron Wave"], "floor": 31, "hp": 48, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 153998, "card": "Hand of Greed", "hand": ["Defend", "True Grit", "Strike", "Iron Wave"], "floor": 31, "hp": 48, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 154192, "card": "True Grit", "hand": ["Defend", "Strike", "Iron Wave"], "floor": 31, "hp": 48, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 154838, "card": "Strike", "hand": [], "floor": 31, "hp": 30, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 162390, "card": "Feel No Pain", "hand": ["Reaper", "Spot Weakness+", "Strike", "Defend"], "floor": 33, "hp": 36, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 163292, "card": "Armaments+", "hand": ["Headbutt", "Defend", "True Grit", "Strike", "Blood for Blood"], "floor": 33, "hp": 36, "maxhp": 87, "block": 6, "energy": 4, "v2.0": true}
+{"frame": 164282, "card": "Blood for Blood+", "hand": ["Hand of Greed+", "Defend+", "True Grit+", "Strike+"], "floor": 33, "hp": 36, "maxhp": 87, "block": 11, "energy": 1, "v2.0": true}
+{"frame": 164380, "card": "Hand of Greed+", "hand": ["Defend+", "Ascender's Bane", "True Grit+", "Strike+"], "floor": 33, "hp": 36, "maxhp": 87, "block": 11, "energy": 1, "v2.0": true}
+{"frame": 165482, "card": "Inflame+", "hand": ["Cleave", "Sword Boomerang+", "Defend", "Defend", "Clothesline+", "Metallicize", "Entrench"], "floor": 33, "hp": 26, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 165600, "card": "Metallicize", "hand": ["Sword Boomerang+", "Defend", "Clothesline+", "Defend"], "floor": 33, "hp": 26, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 169528, "card": "Clothesline", "hand": ["True Grit", "Strike", "Strike", "Reaper", "Disarm"], "floor": 33, "hp": 26, "maxhp": 87, "block": 1, "energy": 4, "v2.0": true}
+{"frame": 170544, "card": "Strike", "hand": ["True Grit", "Disarm", "Strike", "Inflame+"], "floor": 33, "hp": 86, "maxhp": 87, "block": 4, "energy": 0, "v2.0": true}
+{"frame": 171428, "card": "Armaments+", "hand": ["Clothesline+", "Strike", "Defend"], "floor": 33, "hp": 69, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 171450, "card": "Armaments+", "hand": ["Clothesline+", "Strike", "Strike", "Defend"], "floor": 33, "hp": 69, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 172798, "card": "Thunderclap", "hand": ["Reaper", "Bash", "Hand of Greed+"], "floor": 33, "hp": 69, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 173222, "card": "Bash", "hand": ["Reaper", "Strike", "Thunderclap", "Hand of Greed+", "Disarm", "Blood for Blood+"], "floor": 33, "hp": 69, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 173878, "card": "Disarm", "hand": ["Reaper", "Strike", "Thunderclap", "Hand of Greed+", "Blood for Blood+"], "floor": 33, "hp": 69, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 174456, "card": "Strike", "hand": ["Thunderclap", "Hand of Greed+", "Iron Wave", "Blood for Blood+"], "floor": 33, "hp": 87, "maxhp": 87, "block": 6, "energy": 3, "v2.0": true}
+{"frame": 174628, "card": "Iron Wave", "hand": ["Thunderclap", "Blood for Blood+"], "floor": 33, "hp": 87, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 174702, "card": "Hand of Greed+", "hand": ["Thunderclap", "Blood for Blood+"], "floor": 33, "hp": 87, "maxhp": 87, "block": 11, "energy": 2, "v2.0": true}
+{"frame": 176068, "card": "Cleave", "hand": ["Defend", "Sword Boomerang+", "True Grit", "Inflame+", "Defend"], "floor": 33, "hp": 45, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 176116, "card": "Offering+", "hand": ["Defend", "True Grit"], "floor": 33, "hp": 45, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 176192, "card": "Defend", "hand": ["True Grit", "Inflame", "Defend"], "floor": 33, "hp": 45, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 176222, "card": "True Grit", "hand": ["Defend+"], "floor": 33, "hp": 45, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 177032, "card": "Armaments+", "hand": ["True Grit+", "Strike", "Clothesline", "Defend+", "Safety"], "floor": 33, "hp": 45, "maxhp": 87, "block": 18, "energy": 3, "v2.0": true}
+{"frame": 177140, "card": "Clothesline+", "hand": ["Strike", "Defend+", "True Grit+", "Strike", "Hand of Greed+"], "floor": 33, "hp": 45, "maxhp": 87, "block": 23, "energy": 2, "v2.0": true}
+{"frame": 177190, "card": "Strike", "hand": ["Defend+", "True Grit+", "Hand of Greed+"], "floor": 33, "hp": 45, "maxhp": 87, "block": 23, "energy": 2, "v2.0": true}
+{"frame": 177238, "card": "Defend+", "hand": ["True Grit+", "Strike+", "Hand of Greed+"], "floor": 33, "hp": 45, "maxhp": 87, "block": 23, "energy": 1, "v2.0": true}
+{"frame": 177992, "card": "Strike+", "hand": ["Defend+", "Sword Boomerang+", "Bash", "Thunderclap", "Strike"], "floor": 33, "hp": 45, "maxhp": 87, "block": 8, "energy": 3, "v2.0": true}
+{"frame": 178196, "card": "Thunderclap", "hand": ["Defend+", "Sword Boomerang+", "Bash", "Strike"], "floor": 33, "hp": 45, "maxhp": 87, "block": 8, "energy": 1, "v2.0": true}
+{"frame": 178268, "card": "Bash", "hand": [], "floor": 33, "hp": 45, "maxhp": 87, "block": 8, "energy": 1, "v2.0": true}
+{"frame": 184028, "card": "Strike", "hand": ["Defend", "Bash", "Hand of Greed", "Blood for Blood"], "floor": 35, "hp": 78, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 184276, "card": "Bash", "hand": ["Blood for Blood", "Defend", "Hand of Greed"], "floor": 35, "hp": 78, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 184576, "card": "Hand of Greed", "hand": ["Defend", "Blood for Blood"], "floor": 35, "hp": 78, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 184634, "card": "Blood for Blood", "hand": ["Defend"], "floor": 35, "hp": 78, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 185734, "card": "Defend+", "hand": ["Disarm+"], "floor": 35, "hp": 78, "maxhp": 87, "block": 13, "energy": 2, "v2.0": true}
+{"frame": 186760, "card": "Sword Boomerang+", "hand": ["True Grit", "Strike", "Ascender's Bane", "True Grit"], "floor": 35, "hp": 87, "maxhp": 87, "block": 3, "energy": 4, "v2.0": true}
+{"frame": 187370, "card": "True Grit", "hand": ["Strike", "True Grit", "Reaper"], "floor": 35, "hp": 87, "maxhp": 87, "block": 3, "energy": 3, "v2.0": true}
+{"frame": 187528, "card": "Strike", "hand": ["Reaper", "Ascender's Bane"], "floor": 35, "hp": 87, "maxhp": 87, "block": 13, "energy": 3, "v2.0": true}
+{"frame": 188204, "card": "Iron Wave", "hand": ["Strike", "Strike", "Demon Form", "Defend", "Clothesline+", "Inflame+"], "floor": 35, "hp": 87, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 191788, "card": "Demon Form", "hand": ["Armaments+", "Cleave", "Defend"], "floor": 38, "hp": 87, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 192122, "card": "Bash", "hand": ["Strike", "True Grit", "Cleave"], "floor": 38, "hp": 87, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 192224, "card": "Strike", "hand": ["True Grit", "Cleave", "Defend", "Armaments+", "Clothesline+"], "floor": 38, "hp": 87, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 192298, "card": "Defend", "hand": ["True Grit"], "floor": 38, "hp": 87, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 192344, "card": "True Grit", "hand": ["Cleave", "Armaments+", "Clothesline+"], "floor": 38, "hp": 87, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 193782, "card": "Inflame+", "hand": ["Sword Boomerang+", "Clothesline", "Reaper", "Defend", "Defend", "Entrench"], "floor": 38, "hp": 85, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 194068, "card": "Clothesline", "hand": ["Sword Boomerang+", "Reaper", "Defend", "Defend"], "floor": 38, "hp": 85, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 194540, "card": "Inflame+", "hand": ["Iron Wave", "Strike", "Strike", "True Grit", "Defend", "Blood for Blood"], "floor": 38, "hp": 85, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 194634, "card": "True Grit", "hand": ["Iron Wave", "Defend", "Blood for Blood", "Smite", "Strike", "Entrench"], "floor": 38, "hp": 85, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 195804, "card": "Metallicize", "hand": ["Strike", "Rage", "Ascender's Bane"], "floor": 38, "hp": 83, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 195980, "card": "Disarm", "hand": ["Strike", "Hand of Greed", "Ascender's Bane", "Reaper"], "floor": 38, "hp": 83, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 196766, "card": "Armaments+", "hand": ["Thunderclap", "True Grit", "Clothesline+", "Sword Boomerang+"], "floor": 38, "hp": 83, "maxhp": 87, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 196832, "card": "Feel No Pain+", "hand": ["Thunderclap+", "True Grit+", "Clothesline+", "Sword Boomerang+"], "floor": 38, "hp": 83, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 196890, "card": "True Grit+", "hand": ["Thunderclap+", "Sword Boomerang+", "Dual Wield+", "Clothesline+"], "floor": 38, "hp": 83, "maxhp": 87, "block": 5, "energy": 0, "v2.0": true}
+{"frame": 199880, "card": "Reaper", "hand": ["Reaper", "Defend", "Bash", "Iron Wave", "Defend", "Blood for Blood"], "floor": 38, "hp": 83, "maxhp": 87, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 204750, "card": "Inflame+", "hand": ["Defend", "Iron Wave", "True Grit", "Dual Wield", "Disarm"], "floor": 40, "hp": 77, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 204918, "card": "Dual Wield", "hand": ["Defend", "Blood for Blood", "Disarm"], "floor": 40, "hp": 77, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 205240, "card": "Blood for Blood", "hand": ["Bash", "Iron Wave", "Defend", "True Grit", "Disarm", "Blood for Blood"], "floor": 40, "hp": 77, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 205388, "card": "Blood for Blood", "hand": ["Bash", "Iron Wave", "Defend", "Ascender's Bane"], "floor": 40, "hp": 77, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 205446, "card": "Disarm", "hand": ["Bash", "Iron Wave", "Defend", "Ascender's Bane", "True Grit"], "floor": 40, "hp": 77, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 206364, "card": "Armaments+", "hand": ["Hand of Greed", "Smite", "Defend"], "floor": 40, "hp": 77, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 206820, "card": "Sword Boomerang+", "hand": ["Hand of Greed+", "Strike", "True Grit+", "Defend+", "Metallicize+"], "floor": 40, "hp": 77, "maxhp": 87, "block": 5, "energy": 4, "v2.0": true}
+{"frame": 207286, "card": "True Grit+", "hand": ["Defend+"], "floor": 40, "hp": 77, "maxhp": 87, "block": 5, "energy": 2, "v2.0": true}
+{"frame": 207492, "card": "Defend+", "hand": ["Strike", "Hand of Greed+"], "floor": 40, "hp": 77, "maxhp": 87, "block": 14, "energy": 1, "v2.0": true}
+{"frame": 208264, "card": "Inflame+", "hand": ["Defend", "Strike", "Reaper", "Reaper", "Clothesline", "Feel No Pain", "Entrench"], "floor": 40, "hp": 53, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 208612, "card": "Feel No Pain", "hand": ["Defend", "Reaper", "Clothesline"], "floor": 40, "hp": 53, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 208844, "card": "Reaper", "hand": ["Defend", "Clothesline"], "floor": 40, "hp": 53, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 208872, "card": "Reaper", "hand": ["Defend", "Clothesline"], "floor": 40, "hp": 53, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 209092, "card": "Reaper", "hand": ["Defend", "Clothesline"], "floor": 40, "hp": 77, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 209246, "card": "Clothesline", "hand": ["Defend", "Strike"], "floor": 40, "hp": 87, "maxhp": 87, "block": 6, "energy": 1, "v2.0": true}
+{"frame": 210092, "card": "Demon Form", "hand": ["Clothesline+", "Defend", "Strike", "Cleave", "Thunderclap"], "floor": 40, "hp": 61, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 210256, "card": "Thunderclap", "hand": ["Clothesline+", "Defend", "Strike", "Cleave", "Spot Weakness+"], "floor": 40, "hp": 61, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 210386, "card": "Clothesline+", "hand": ["Defend", "Strike", "Cleave", "Spot Weakness+"], "floor": 40, "hp": 61, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 210448, "card": "Cleave", "hand": ["Defend", "Strike", "Spot Weakness+"], "floor": 40, "hp": 61, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 211458, "card": "Thunderclap", "hand": ["Strike", "Defend", "Strike", "Defend"], "floor": 40, "hp": 61, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 211668, "card": "Blood for Blood", "hand": ["Defend", "Strike", "Strike", "Wound", "Defend"], "floor": 40, "hp": 61, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 212666, "card": "Blood for Blood", "hand": ["Cleave", "Armaments+", "Strike", "Defend", "Dual Wield", "Wound"], "floor": 40, "hp": 61, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 212712, "card": "Cleave", "hand": ["Armaments+", "Strike", "Defend", "Dual Wield", "Wound"], "floor": 40, "hp": 61, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 215468, "card": "Armaments+", "hand": ["Clothesline", "True Grit", "Bash", "Iron Wave"], "floor": 41, "hp": 67, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 215594, "card": "Inflame+", "hand": ["Bash+", "Iron Wave+"], "floor": 41, "hp": 67, "maxhp": 87, "block": 6, "energy": 4, "v2.0": true}
+{"frame": 215618, "card": "Inflame+", "hand": ["True Grit", "Bash+", "Iron Wave+", "Clothesline+", "Metallicize+"], "floor": 41, "hp": 67, "maxhp": 87, "block": 6, "energy": 4, "v2.0": true}
+{"frame": 216088, "card": "Bash+", "hand": ["Defend+", "Clothesline+", "True Grit+", "Iron Wave+", "Feel No Pain+", "Metallicize+"], "floor": 41, "hp": 67, "maxhp": 87, "block": 6, "energy": 4, "v2.0": true}
+{"frame": 217778, "card": "Metallicize+", "hand": ["Defend+", "Clothesline+", "True Grit+", "Iron Wave+"], "floor": 41, "hp": 67, "maxhp": 87, "block": 6, "energy": 3, "v2.0": true}
+{"frame": 218592, "card": "Hand of Greed", "hand": ["Defend", "Clothesline+", "Strike", "Defend", "Strike", "Demon Form"], "floor": 41, "hp": 58, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 218736, "card": "Strike", "hand": ["Defend", "Clothesline+", "Defend", "Strike", "Demon Form"], "floor": 41, "hp": 58, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 218786, "card": "Demon Form", "hand": ["Defend", "Clothesline+", "Defend"], "floor": 41, "hp": 58, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 220006, "card": "Reaper", "hand": ["Reaper", "Strike", "Sword Boomerang+"], "floor": 41, "hp": 58, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 220516, "card": "Sword Boomerang+", "hand": ["Reaper", "Reaper", "Strike", "Blood for Blood"], "floor": 41, "hp": 58, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 221380, "card": "Reaper", "hand": ["Reaper"], "floor": 41, "hp": 58, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 221400, "card": "Reaper", "hand": ["Strike", "Reaper", "Inflame+", "Ascender's Bane", "Blood for Blood"], "floor": 41, "hp": 58, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 222112, "card": "Dual Wield", "hand": ["Thunderclap", "Cleave"], "floor": 41, "hp": 73, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 222890, "card": "Evolve", "hand": ["True Grit", "Defend", "Disarm"], "floor": 41, "hp": 73, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 222956, "card": "Disarm", "hand": ["True Grit"], "floor": 41, "hp": 73, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 227456, "card": "Iron Wave+", "hand": ["Strike", "Spot Weakness+", "Blood for Blood", "Feel No Pain+"], "floor": 41, "hp": 73, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 227552, "card": "Reaper", "hand": ["Strike", "Spot Weakness+", "Inflame+", "Feel No Pain+"], "floor": 41, "hp": 73, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 228264, "card": "Bash", "hand": ["True Grit+", "Strike", "Armaments+", "Sword Boomerang+", "Defend"], "floor": 41, "hp": 67, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 228308, "card": "Sword Boomerang+", "hand": ["Strike", "Defend", "True Grit+", "Armaments+", "Dual Wield"], "floor": 41, "hp": 67, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 228508, "card": "Strike", "hand": ["True Grit+", "Armaments+", "Dual Wield", "Defend"], "floor": 41, "hp": 67, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 230054, "card": "Dual Wield+", "hand": ["Strike", "Clothesline", "Defend", "Reaper", "Reaper", "Reaper", "Clothesline+", "Strike"], "floor": 42, "hp": 73, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 230504, "card": "Clothesline+", "hand": ["Strike+", "Defend+", "Reaper+", "Reaper+", "Reaper+", "Clothesline+", "Ascender's Bane"], "floor": 42, "hp": 73, "maxhp": 87, "block": 6, "energy": 2, "v2.0": true}
+{"frame": 230652, "card": "Defend+", "hand": ["Clothesline+", "Strike", "Reaper+", "Reaper+", "Reaper+", "Anger+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 6, "energy": 2, "v2.0": true}
+{"frame": 230696, "card": "Clothesline+", "hand": ["Reaper", "Reaper+", "Reaper+", "Strike+"], "floor": 42, "hp": 73, "maxhp": 87, "block": 15, "energy": 1, "v2.0": true}
+{"frame": 231066, "card": "Demon Form", "hand": ["Defend", "Thunderclap", "Hand of Greed", "Iron Wave", "True Grit", "Bash"], "floor": 42, "hp": 73, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 231688, "card": "Hand of Greed", "hand": ["Defend", "Thunderclap", "Bash", "Iron Wave", "True Grit"], "floor": 42, "hp": 73, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 232450, "card": "Inflame+", "hand": ["Defend", "Rage", "Sword Boomerang+", "Disarm", "Inflame+"], "floor": 42, "hp": 70, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 232596, "card": "Inflame+", "hand": ["Defend", "Sword Boomerang+"], "floor": 42, "hp": 70, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 232700, "card": "Sword Boomerang+", "hand": ["Defend", "Rage"], "floor": 42, "hp": 70, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 232988, "card": "Disarm", "hand": ["Defend", "Sword Boomerang+", "Reaper", "Feel No Pain"], "floor": 42, "hp": 70, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 233058, "card": "Reaper", "hand": ["Defend", "Sword Boomerang+", "Feel No Pain"], "floor": 42, "hp": 70, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 233750, "card": "Evolve", "hand": ["Defend", "True Grit"], "floor": 42, "hp": 86, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 233826, "card": "Metallicize", "hand": ["Defend", "Strike", "True Grit", "Blood for Blood"], "floor": 42, "hp": 86, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 234072, "card": "Blood for Blood", "hand": ["True Grit", "Defend"], "floor": 42, "hp": 86, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 234108, "card": "True Grit", "hand": ["Defend", "Strike"], "floor": 42, "hp": 86, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 235356, "card": "Dual Wield+", "hand": ["Cleave", "Strike", "Sword Boomerang+", "Iron Wave"], "floor": 42, "hp": 69, "maxhp": 87, "block": 6, "energy": 3, "v2.0": true}
+{"frame": 235476, "card": "Sword Boomerang+", "hand": ["Cleave", "Iron Wave+", "Sword Boomerang+", "Sword Boomerang+"], "floor": 42, "hp": 69, "maxhp": 87, "block": 6, "energy": 3, "v2.0": true}
+{"frame": 236464, "card": "Defend+", "hand": ["Clothesline+", "Defend", "Thunderclap", "Reaper+"], "floor": 42, "hp": 46, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 236514, "card": "Defend", "hand": ["Clothesline+"], "floor": 42, "hp": 46, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 236690, "card": "Clothesline+", "hand": ["Thunderclap", "Strike"], "floor": 42, "hp": 46, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 236722, "card": "Feed+", "hand": ["Reaper"], "floor": 42, "hp": 46, "maxhp": 87, "block": 15, "energy": 2, "v2.0": true}
+{"frame": 237754, "card": "Reaper+", "hand": ["Defend", "Bash", "Strike+", "True Grit"], "floor": 42, "hp": 67, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 237996, "card": "Reaper+", "hand": ["Defend", "Defend", "Bash", "Strike", "True Grit", "Blood for Blood"], "floor": 42, "hp": 67, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 238410, "card": "Blood for Blood", "hand": ["Defend", "Defend", "Bash", "Strike+", "True Grit"], "floor": 42, "hp": 87, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 238924, "card": "Reaper+", "hand": ["Clothesline+", "True Grit", "Sword Boomerang+", "Iron Wave+", "Cleave+"], "floor": 42, "hp": 57, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 242584, "card": "Feel No Pain", "hand": ["Defend", "Strike", "True Grit", "Hand of Greed"], "floor": 46, "hp": 87, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 242976, "card": "Strike", "hand": ["Defend", "Clothesline", "True Grit", "Hand of Greed", "Iron Wave", "Strike", "Blood for Blood"], "floor": 46, "hp": 87, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 243058, "card": "Hand of Greed", "hand": ["Iron Wave", "Defend", "Clothesline", "True Grit", "Strike"], "floor": 46, "hp": 87, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 243252, "card": "Blood for Blood", "hand": ["Clothesline", "True Grit", "Defend"], "floor": 46, "hp": 87, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 243308, "card": "Clothesline", "hand": ["Iron Wave", "Strike", "Defend", "True Grit"], "floor": 46, "hp": 87, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 245472, "card": "Inflame+", "hand": ["Clothesline+", "Sword Boomerang", "Bash+", "Thunderclap+", "Defend+"], "floor": 46, "hp": 87, "maxhp": 87, "block": 6, "energy": 3, "v2.0": true}
+{"frame": 245622, "card": "Thunderclap+", "hand": ["Clothesline+", "Doubt", "Bash+", "Defend+"], "floor": 46, "hp": 87, "maxhp": 87, "block": 6, "energy": 3, "v2.0": true}
+{"frame": 246128, "card": "Bash+", "hand": ["Defend+", "Clothesline+"], "floor": 46, "hp": 87, "maxhp": 87, "block": 6, "energy": 2, "v2.0": true}
+{"frame": 246190, "card": "Defend+", "hand": ["Clothesline+"], "floor": 46, "hp": 87, "maxhp": 87, "block": 6, "energy": 1, "v2.0": true}
+{"frame": 247554, "card": "Inflame+", "hand": ["Defend", "Dual Wield"], "floor": 46, "hp": 70, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 247688, "card": "Disarm", "hand": ["Dark Embrace", "Cleave", "Dual Wield"], "floor": 46, "hp": 70, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 249330, "card": "Armaments+", "hand": ["Strike"], "floor": 46, "hp": 70, "maxhp": 87, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 249552, "card": "Cleave", "hand": ["Strike", "Armaments"], "floor": 46, "hp": 70, "maxhp": 87, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 249894, "card": "Armaments+", "hand": ["Strike", "Strike", "Ascender's Bane"], "floor": 46, "hp": 70, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 250122, "card": "Strike+", "hand": ["Metallicize+", "Strike+", "Ascender's Bane"], "floor": 46, "hp": 70, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 250168, "card": "Metallicize+", "hand": ["Strike+", "Ascender's Bane"], "floor": 46, "hp": 70, "maxhp": 87, "block": 6, "energy": 2, "v2.0": true}
+{"frame": 251824, "card": "Bash+", "hand": ["Iron Wave", "Defend", "Thunderclap+", "Defend+", "Blood for Blood"], "floor": 46, "hp": 42, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 252470, "card": "Blood for Blood", "hand": ["Iron Wave", "Defend", "Thunderclap+", "Defend+"], "floor": 46, "hp": 42, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 256438, "card": "Demon Form+", "hand": ["Sword Boomerang+", "Disarm+", "Blood for Blood"], "floor": 48, "hp": 48, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 256488, "card": "Disarm+", "hand": ["Defend", "Inflame", "True Grit", "True Grit"], "floor": 48, "hp": 48, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 257358, "card": "Armaments+", "hand": ["Strike", "Iron Wave", "Bash"], "floor": 48, "hp": 48, "maxhp": 87, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 257434, "card": "Armaments+", "hand": ["Strike", "Iron Wave", "Bash", "Defend"], "floor": 48, "hp": 48, "maxhp": 87, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 257650, "card": "Inflame+", "hand": ["Strike", "Iron Wave+", "Bash", "Defend+", "Thunderclap+"], "floor": 48, "hp": 48, "maxhp": 87, "block": 6, "energy": 4, "v2.0": true}
+{"frame": 258176, "card": "Iron Wave+", "hand": ["Strike", "Bash+", "Defend+", "Thunderclap+"], "floor": 48, "hp": 48, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 258988, "card": "Bash+", "hand": ["Strike+", "Thunderclap+"], "floor": 48, "hp": 48, "maxhp": 87, "block": 14, "energy": 2, "v2.0": true}
+{"frame": 259034, "card": "Strike", "hand": ["Defend+", "Thunderclap+"], "floor": 48, "hp": 48, "maxhp": 87, "block": 14, "energy": 1, "v2.0": true}
+{"frame": 262500, "card": "Dark Embrace", "hand": ["Cleave"], "floor": 48, "hp": 28, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 262572, "card": "Metallicize", "hand": ["Cleave"], "floor": 48, "hp": 28, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 262762, "card": "Cleave", "hand": ["Evolve"], "floor": 48, "hp": 28, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 262784, "card": "Cleave", "hand": ["Strike", "Evolve"], "floor": 48, "hp": 28, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 262836, "card": "Strike", "hand": ["Defend", "Evolve"], "floor": 48, "hp": 28, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 263404, "card": "Dual Wield", "hand": ["True Grit", "Pommel Strike", "Reaper", "Hand of Greed", "Strike", "Strike"], "floor": 48, "hp": 10, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 263642, "card": "Reaper", "hand": ["Clothesline", "Hand of Greed", "Strike", "Strike", "Reaper"], "floor": 48, "hp": 10, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 263708, "card": "Reaper", "hand": ["Clothesline", "Hand of Greed", "Strike", "Strike", "True Grit", "Reaper"], "floor": 48, "hp": 10, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 263776, "card": "Reaper", "hand": ["Strike", "True Grit", "Clothesline", "Hand of Greed", "Strike"], "floor": 48, "hp": 10, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 263818, "card": "Reaper", "hand": ["Strike", "True Grit", "Defend", "Clothesline", "Hand of Greed", "Strike"], "floor": 48, "hp": 46, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 266814, "card": "Demon Form+", "hand": ["Strike", "Strike", "Dark Shackles", "Shrug It Off"], "floor": 50, "hp": 80, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 266848, "card": "Demon Form+", "hand": ["Strike", "Dark Shackles", "Shrug It Off", "Spot Weakness+", "Reaper", "Defend"], "floor": 50, "hp": 80, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 267144, "card": "Feel No Pain", "hand": ["Strike", "Defend", "Strike", "Disarm"], "floor": 50, "hp": 80, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 267190, "card": "Defend", "hand": ["Strike", "Armaments+", "Shrug It Off"], "floor": 50, "hp": 80, "maxhp": 87, "block": 0, "energy": 0, "v2.0": true}
+{"frame": 267366, "card": "Strike", "hand": ["Strike", "Reaper", "Armaments+", "Shrug It Off"], "floor": 50, "hp": 80, "maxhp": 87, "block": 6, "energy": 0, "v2.0": true}
+{"frame": 269864, "card": "Blood for Blood", "hand": ["Strike", "Hand of Greed", "Clothesline+", "Clothesline", "True Grit", "Thunderclap"], "floor": 50, "hp": 67, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 269928, "card": "Clothesline", "hand": ["Clothesline+", "True Grit", "Strike", "Hand of Greed", "Thunderclap"], "floor": 50, "hp": 67, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 269970, "card": "Clothesline+", "hand": ["True Grit", "Strike", "Hand of Greed", "Thunderclap"], "floor": 50, "hp": 67, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 272172, "card": "Defend", "hand": ["Strike", "Dual Wield", "Iron Wave", "Inflame+"], "floor": 50, "hp": 48, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 272252, "card": "Iron Wave", "hand": ["Strike", "Strike", "Dual Wield", "Ascender's Bane", "Inflame+"], "floor": 50, "hp": 48, "maxhp": 87, "block": 6, "energy": 4, "v2.0": true}
+{"frame": 273506, "card": "Disarm+", "hand": ["Bash", "True Grit", "Hand of Greed", "Evolve", "Dual Wield"], "floor": 50, "hp": 20, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 274054, "card": "Bash", "hand": ["True Grit", "Hand of Greed", "Dark Embrace", "Dual Wield"], "floor": 50, "hp": 20, "maxhp": 87, "block": 3, "energy": 3, "v2.0": true}
+{"frame": 274212, "card": "True Grit", "hand": ["Dual Wield"], "floor": 50, "hp": 20, "maxhp": 87, "block": 3, "energy": 2, "v2.0": true}
+{"frame": 277478, "card": "Clothesline+", "hand": ["Strike", "Sword Boomerang+", "Defend", "Strike", "Strike", "Metallicize"], "floor": 50, "hp": 19, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 277538, "card": "Sword Boomerang+", "hand": ["Strike", "Strike", "Strike"], "floor": 50, "hp": 19, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 277562, "card": "Sword Boomerang+", "hand": ["Strike", "Defend", "Strike", "Strike"], "floor": 50, "hp": 19, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 278264, "card": "Sword Boomerang+", "hand": ["Strike", "Strike", "Strike"], "floor": 50, "hp": 19, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 278800, "card": "Strike", "hand": ["Strike", "Sword Boomerang+", "Defend", "Strike", "Metallicize"], "floor": 50, "hp": 19, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 278984, "card": "Strike", "hand": ["Sword Boomerang+", "Defend", "Strike", "Metallicize"], "floor": 50, "hp": 19, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 279146, "card": "Sword Boomerang+", "hand": ["Metallicize", "Defend"], "floor": 50, "hp": 19, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 279170, "card": "Sword Boomerang+", "hand": ["Defend", "Metallicize"], "floor": 50, "hp": 15, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 279238, "card": "Metallicize", "hand": ["Defend"], "floor": 50, "hp": 19, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 280284, "card": "Shrug It Off", "hand": ["Thunderclap", "Cleave", "Spot Weakness+"], "floor": 50, "hp": 19, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 280648, "card": "Inflame+", "hand": ["Thunderclap", "Defend", "Reaper"], "floor": 50, "hp": 19, "maxhp": 87, "block": 9, "energy": 2, "v2.0": true}
+{"frame": 280778, "card": "Defend", "hand": ["Thunderclap", "Reaper"], "floor": 50, "hp": 19, "maxhp": 87, "block": 9, "energy": 2, "v2.0": true}
+{"frame": 280874, "card": "Defend", "hand": ["Thunderclap", "Reaper", "Cleave", "Spot Weakness+", "Inflame+"], "floor": 50, "hp": 19, "maxhp": 87, "block": 9, "energy": 2, "v2.0": true}
+{"frame": 280948, "card": "Reaper", "hand": ["Thunderclap", "Spot Weakness+", "Inflame+"], "floor": 50, "hp": 19, "maxhp": 87, "block": 15, "energy": 2, "v2.0": true}
+{"frame": 280966, "card": "Reaper", "hand": ["Thunderclap", "Cleave", "Spot Weakness+", "Inflame+"], "floor": 50, "hp": 19, "maxhp": 87, "block": 15, "energy": 2, "v2.0": true}
+{"frame": 286364, "card": "Reaper", "hand": ["Defend", "Clothesline", "Armaments+", "Iron Wave"], "floor": 50, "hp": 27, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 286702, "card": "Blood for Blood", "hand": ["Defend", "Clothesline", "True Grit", "Armaments+", "Iron Wave"], "floor": 50, "hp": 27, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 286866, "card": "Clothesline", "hand": ["Defend", "True Grit", "Armaments+", "Iron Wave", "Reaper"], "floor": 50, "hp": 27, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 287088, "card": "Iron Wave", "hand": ["Defend", "True Grit"], "floor": 50, "hp": 27, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 287202, "card": "Defend", "hand": [], "floor": 50, "hp": 27, "maxhp": 87, "block": 6, "energy": 0, "v2.0": true}
+{"frame": 288232, "card": "Strike", "hand": ["Defend", "Sword Boomerang+", "Strike", "Strike", "Disarm"], "floor": 50, "hp": 60, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 288276, "card": "Strike", "hand": ["Defend", "Sword Boomerang+", "Strike", "Disarm"], "floor": 50, "hp": 60, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 288328, "card": "Strike", "hand": ["Defend", "Sword Boomerang+", "Disarm"], "floor": 50, "hp": 60, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 288438, "card": "Sword Boomerang+", "hand": ["Defend", "Disarm", "Void"], "floor": 50, "hp": 60, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 290680, "card": "Disarm+", "hand": ["Clothesline", "True Grit"], "floor": 51, "hp": 66, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 290744, "card": "Clothesline", "hand": ["True Grit", "Defend"], "floor": 51, "hp": 66, "maxhp": 87, "block": 3, "energy": 0, "v2.0": true}
+{"frame": 290848, "card": "Blood for Blood", "hand": ["True Grit"], "floor": 51, "hp": 66, "maxhp": 87, "block": 3, "energy": 0, "v2.0": true}
+{"frame": 290892, "card": "True Grit", "hand": ["Defend", "Defend"], "floor": 51, "hp": 66, "maxhp": 87, "block": 3, "energy": 0, "v2.0": true}
+{"frame": 291464, "card": "Inflame+", "hand": ["Safety", "Cleave", "Strike", "Hand of Greed"], "floor": 51, "hp": 66, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 291526, "card": "Inflame+", "hand": ["Strike", "Cleave", "Strike", "Hand of Greed"], "floor": 51, "hp": 66, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 291714, "card": "Hand of Greed", "hand": ["Strike", "Cleave"], "floor": 51, "hp": 66, "maxhp": 87, "block": 0, "energy": 2, "v2.0": true}
+{"frame": 292638, "card": "Shrug It Off", "hand": ["Sword Boomerang+", "Reaper", "Spot Weakness+", "Disarm"], "floor": 51, "hp": 66, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 292994, "card": "Disarm", "hand": ["Sword Boomerang+", "Defend", "Reaper"], "floor": 51, "hp": 66, "maxhp": 87, "block": 9, "energy": 2, "v2.0": true}
+{"frame": 293134, "card": "Demon Form+", "hand": ["Defend", "Reaper", "Defend"], "floor": 51, "hp": 66, "maxhp": 87, "block": 12, "energy": 1, "v2.0": true}
+{"frame": 293254, "card": "Defend", "hand": ["Sword Boomerang+"], "floor": 51, "hp": 66, "maxhp": 87, "block": 12, "energy": 1, "v2.0": true}
+{"frame": 293812, "card": "Shrug It Off", "hand": ["Armaments+", "Iron Wave", "Defend"], "floor": 51, "hp": 65, "maxhp": 87, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 293948, "card": "Inflame+", "hand": ["Armaments+", "Iron Wave", "Slimed", "Defend", "Hand of Greed"], "floor": 51, "hp": 65, "maxhp": 87, "block": 9, "energy": 3, "v2.0": true}
+{"frame": 294164, "card": "Armaments+", "hand": ["Iron Wave", "Defend", "Hand of Greed", "Slimed"], "floor": 51, "hp": 65, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 294276, "card": "Hand of Greed+", "hand": ["Defend+", "Iron Wave+", "Slimed", "Entrench"], "floor": 51, "hp": 65, "maxhp": 87, "block": 15, "energy": 0, "v2.0": true}
+{"frame": 295030, "card": "Defend", "hand": ["Bash", "True Grit", "Sword Boomerang+", "Defend"], "floor": 51, "hp": 65, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 295078, "card": "Defend", "hand": ["Bash", "True Grit", "Sword Boomerang+"], "floor": 51, "hp": 65, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 295118, "card": "True Grit", "hand": ["Sword Boomerang+", "Bash"], "floor": 51, "hp": 65, "maxhp": 87, "block": 12, "energy": 1, "v2.0": true}
+{"frame": 295736, "card": "Clothesline", "hand": ["True Grit", "Reaper", "Strike", "Strike"], "floor": 51, "hp": 59, "maxhp": 87, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 295780, "card": "Evolve", "hand": ["True Grit", "Reaper", "Strike", "Strike"], "floor": 51, "hp": 59, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 297246, "card": "Thunderclap", "hand": ["Clothesline+", "Shame", "Cleave", "Defend"], "floor": 51, "hp": 58, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 297270, "card": "Thunderclap", "hand": ["Clothesline+", "Shame", "Cleave", "Defend"], "floor": 51, "hp": 58, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 297614, "card": "Clothesline+", "hand": ["Reaper", "Cleave", "Blood for Blood", "Slimed"], "floor": 51, "hp": 58, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 297778, "card": "Cleave", "hand": ["Reaper"], "floor": 51, "hp": 58, "maxhp": 87, "block": 0, "energy": 1, "v2.0": true}
+{"frame": 298710, "card": "Reaper", "hand": ["Strike", "Shrug It Off", "Strike"], "floor": 51, "hp": 56, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 298798, "card": "Reaper", "hand": ["Strike", "Strike", "Hand of Greed+", "Strike", "Bash", "Shrug It Off", "Metallicize"], "floor": 51, "hp": 56, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 298982, "card": "Shrug It Off", "hand": ["Strike", "Strike", "Hand of Greed+", "Slimed", "Defend"], "floor": 51, "hp": 87, "maxhp": 87, "block": 3, "energy": 4, "v2.0": true}
+{"frame": 299448, "card": "Hand of Greed+", "hand": ["Metallicize", "Strike", "Strike", "Strike"], "floor": 51, "hp": 87, "maxhp": 87, "block": 12, "energy": 1, "v2.0": true}
+{"frame": 301396, "card": "Sword Boomerang+", "hand": ["Slimed", "Strike", "Shame", "Defend+", "True Grit"], "floor": 51, "hp": 76, "maxhp": 87, "block": 0, "energy": 5, "v2.0": true}
+{"frame": 301610, "card": "Strike", "hand": ["Shame", "Shame", "Reaper", "Defend+", "True Grit", "Spot Weakness+"], "floor": 51, "hp": 76, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 301688, "card": "Reaper", "hand": ["Shame", "Shame", "Defend", "True Grit", "Spot Weakness+"], "floor": 51, "hp": 76, "maxhp": 87, "block": 0, "energy": 3, "v2.0": true}
+{"frame": 301940, "card": "True Grit", "hand": ["Shame", "Shame", "Defend+", "Armaments+", "Spot Weakness+"], "floor": 51, "hp": 87, "maxhp": 87, "block": 3, "energy": 3, "v2.0": true}
+{"frame": 302408, "card": "Sword Boomerang+", "hand": ["True Grit", "Defend", "Clothesline+", "The Bomb", "Armaments+", "Defend"], "floor": 51, "hp": 69, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+{"frame": 302672, "card": "Sword Boomerang+", "hand": ["True Grit", "Defend", "Clothesline+", "Slimed", "Armaments+", "Defend"], "floor": 51, "hp": 69, "maxhp": 87, "block": 0, "energy": 4, "v2.0": true}
+done

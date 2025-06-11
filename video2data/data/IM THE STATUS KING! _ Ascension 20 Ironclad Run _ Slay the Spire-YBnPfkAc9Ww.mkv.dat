@@ -1,0 +1,491 @@
+{"frame": 5852, "card": "Battle Trance", "hand": ["Strike", "Defend", "Ascender's Bane", "Strike"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6010, "card": "Defend", "hand": ["Strike", "Strike", "Strike", "Strike", "Defend"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6068, "card": "Strike", "hand": ["Strike", "Strike", "Defend", "Battle Trance"], "floor": 1, "hp": 50, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 6096, "card": "Strike", "hand": ["Strike", "Ascender's Bane", "Strike"], "floor": 1, "hp": 50, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 6554, "card": "Defend", "hand": ["Bash", "Immolate", "Defend", "Strike"], "floor": 1, "hp": 47, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6624, "card": "Secret Weapon", "hand": ["Bash", "Immolate"], "floor": 1, "hp": 47, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 6916, "card": "Battle Trance", "hand": ["Strike", "Defend", "Shame", "Safety"], "floor": 1, "hp": 45, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 7064, "card": "Bash", "hand": ["Strike", "Slimed", "Strike", "Defend", "Strike", "Strike"], "floor": 1, "hp": 45, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 7422, "card": "Immolate", "hand": ["Defend", "Defend", "Bash", "Defend"], "floor": 1, "hp": 45, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14266, "card": "Battle Trance", "hand": ["Strike", "Immolate", "Ascender's Bane", "Strike"], "floor": 3, "hp": 51, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14460, "card": "Armaments", "hand": ["Strike", "Immolate", "Defend", "Ascender's Bane", "Strike", "Bash", "Entrench"], "floor": 3, "hp": 51, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14562, "card": "Defend+", "hand": ["Strike", "Strike", "Immolate", "Bash", "Ascender's Bane"], "floor": 3, "hp": 51, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 14600, "card": "Strike", "hand": ["Strike", "Immolate", "Bash", "Reaper"], "floor": 3, "hp": -1, "maxhp": -1, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 15140, "card": "Armaments", "hand": ["Strike", "Defend", "Immolate", "Defend"], "floor": 3, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15224, "card": "Immolate+", "hand": ["Strike", "Defend", "Defend"], "floor": 3, "hp": 51, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 15624, "card": "Battle Trance", "hand": ["Bash", "Defend+", "Secret Weapon", "Strike"], "floor": 3, "hp": 51, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15778, "card": "Immolate+", "hand": ["Bash", "Defend+", "Strike", "Strike", "Strike"], "floor": 3, "hp": 51, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 17024, "card": "Immolate", "hand": ["Defend", "Strike", "Bash", "Armaments"], "floor": 4, "hp": 57, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26904, "card": "Brutality", "hand": ["Defend", "Pommel Strike"], "floor": 7, "hp": 63, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26928, "card": "Brutality", "hand": ["Defend", "Pommel Strike", "Armaments"], "floor": 7, "hp": 63, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27598, "card": "Pommel Strike", "hand": ["Defend", "Strike", "Defend", "Armaments", "Brutality"], "floor": 7, "hp": 63, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27718, "card": "Armaments", "hand": ["Defend", "Strike", "Brutality", "Defend"], "floor": 7, "hp": 63, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 27818, "card": "Strike+", "hand": ["Brutality", "Defend", "Defend", "Anger"], "floor": 7, "hp": 63, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 27846, "card": "Brutality", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 7, "hp": 63, "maxhp": 75, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 28454, "card": "Strike", "hand": ["Defend", "Strike", "Bash", "Battle Trance"], "floor": 7, "hp": 62, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 28482, "card": "Immolate+", "hand": ["Defend", "Strike", "Bash", "Battle Trance"], "floor": 7, "hp": 62, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 28882, "card": "Immolate+", "hand": ["Defend", "Strike", "Bash", "Strike"], "floor": 7, "hp": 53, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32662, "card": "Armaments+", "hand": [], "floor": 10, "hp": 59, "maxhp": 75, "block": 1, "energy": 3, "v2.0": false}
+{"frame": 33144, "card": "Battle Trance", "hand": ["Immolate+", "Defend", "Bash", "Ascender's Bane"], "floor": 10, "hp": 54, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33488, "card": "Feel No Pain", "hand": ["Immolate+", "Defend", "Dazed", "Strike", "Bash"], "floor": 10, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34134, "card": "Battle Trance", "hand": ["Defend", "Strike+", "Strike+", "Strike"], "floor": 10, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34300, "card": "Pommel Strike+", "hand": ["Defend", "Strike", "Strike+", "Strike+", "Burn"], "floor": 10, "hp": 59, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34464, "card": "Strike+", "hand": ["Defend", "Strike", "Strike+", "Burn"], "floor": 10, "hp": 59, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 34866, "card": "Strike+", "hand": ["Defend", "Strike", "Burn", "Bash"], "floor": 10, "hp": 59, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 41278, "card": "Battle Trance+", "hand": ["Strike"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 41314, "card": "Battle Trance+", "hand": ["Strike", "Shockwave", "Ascender's Bane"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 42920, "card": "Feel No Pain", "hand": ["Defend", "Strike", "Shockwave", "Second Wind"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 42962, "card": "Shockwave", "hand": ["Strike", "Bash", "Defend", "Strike"], "floor": 12, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 43624, "card": "Immolate+", "hand": ["Defend", "Pommel Strike", "Armaments+", "Strike"], "floor": 12, "hp": 44, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 43802, "card": "Strike", "hand": ["Defend", "Pommel Strike", "Armaments+"], "floor": 12, "hp": 44, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 44466, "card": "Strike", "hand": [], "floor": 12, "hp": 44, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 46996, "card": "Battle Trance+", "hand": ["Shockwave"], "floor": 13, "hp": 50, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47964, "card": "Feel No Pain", "hand": ["Strike", "Defend", "Pommel Strike", "Bash", "Shockwave"], "floor": 13, "hp": 50, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 48820, "card": "Immolate+", "hand": ["Armaments+", "Strike"], "floor": 13, "hp": 46, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 55052, "card": "Battle Trance+", "hand": ["Defend", "Immolate+"], "floor": 16, "hp": 52, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 55094, "card": "Battle Trance+", "hand": ["Defend", "Immolate+"], "floor": 16, "hp": 52, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 56270, "card": "Immolate+", "hand": ["Defend", "Immolate+", "Feel No Pain", "Pommel Strike"], "floor": 16, "hp": 52, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 56678, "card": "Pommel Strike+", "hand": ["Defend", "Strike", "Strike", "Second Wind"], "floor": 16, "hp": 52, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 56902, "card": "Bash", "hand": ["Defend", "Strike", "Strike", "Strike", "Second Wind"], "floor": 16, "hp": 52, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 57308, "card": "Battle Trance+", "hand": ["Armaments+", "Slimed", "Strike", "Defend+"], "floor": 16, "hp": 52, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 57914, "card": "Immolate+", "hand": ["Slimed", "Defend", "Strike", "Smite", "Armaments+", "Pommel Strike+", "Blood for Blood"], "floor": 16, "hp": 52, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58392, "card": "Feel No Pain", "hand": [], "floor": 16, "hp": 52, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 58748, "card": "Strike", "hand": ["Dual Wield", "Shame"], "floor": 16, "hp": 52, "maxhp": 68, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 59326, "card": "Bash", "hand": ["Shame", "Pommel Strike", "Second Wind", "Feel No Pain"], "floor": 16, "hp": 44, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 59834, "card": "Shockwave", "hand": ["Shame"], "floor": 16, "hp": 26, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 59898, "card": "Second Wind", "hand": ["Burn", "Slimed"], "floor": 16, "hp": 26, "maxhp": 68, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 65286, "card": "Offering", "hand": ["Heavy Blade", "Sword Boomerang", "Entrench", "Feel No Pain"], "floor": 18, "hp": 59, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 65554, "card": "Battle Trance+", "hand": ["Heavy Blade", "Sword Boomerang", "Demon Form", "Entrench", "Entrench"], "floor": 18, "hp": 53, "maxhp": 68, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 66770, "card": "Armaments", "hand": ["Sword Boomerang", "Demon Form", "Entrench"], "floor": 18, "hp": 53, "maxhp": 68, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 66930, "card": "Demon Form+", "hand": ["Sword Boomerang", "Entrench", "Second Wind"], "floor": 18, "hp": 53, "maxhp": 68, "block": 5, "energy": 4, "v2.0": false}
+{"frame": 66968, "card": "Feel No Pain", "hand": ["Entrench", "Heavy Blade", "Sword Boomerang+", "Dual Wield"], "floor": 18, "hp": 53, "maxhp": 68, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 67382, "card": "Pommel Strike+", "hand": ["Bash", "Pommel Strike", "Armaments+", "Ascender's Bane"], "floor": 18, "hp": 53, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 67540, "card": "Battle Trance+", "hand": ["Bash", "Pommel Strike", "Armaments+", "Immolate+", "Ascender's Bane"], "floor": 18, "hp": 53, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 67728, "card": "Armaments+", "hand": ["Immolate+", "Armaments", "Pommel Strike", "Shockwave"], "floor": 18, "hp": 53, "maxhp": 68, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 67892, "card": "Armaments+", "hand": ["Pommel Strike+", "Bash+"], "floor": 18, "hp": 53, "maxhp": 68, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 69596, "card": "Flame Barrier", "hand": ["Entrench", "Second Wind", "Sword Boomerang+", "Entrench"], "floor": 18, "hp": 53, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 69616, "card": "Flame Barrier", "hand": [], "floor": 18, "hp": 53, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 70234, "card": "Battle Trance+", "hand": ["Pommel Strike+", "Armaments+"], "floor": 18, "hp": 52, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 70692, "card": "Heavy Blade+", "hand": ["Pommel Strike+", "Armaments+", "Pommel Strike+", "Armaments+", "Dual Wield+", "Immolate+", "Bash+"], "floor": 18, "hp": 52, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 70756, "card": "Pommel Strike+", "hand": [], "floor": 18, "hp": 52, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 77398, "card": "Battle Trance+", "hand": ["Armaments+", "Flame Barrier", "Demon Form"], "floor": 20, "hp": 58, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 77864, "card": "Armaments+", "hand": ["Demon Form", "Shrug It Off", "Pommel Strike+", "Feel No Pain", "Dual Wield"], "floor": 20, "hp": 58, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 78014, "card": "Feel No Pain+", "hand": ["Shrug It Off+", "Pommel Strike+", "Flame Barrier+", "Shrug It Off+", "Entrench"], "floor": 20, "hp": 58, "maxhp": 68, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 78044, "card": "Shrug It Off+", "hand": ["Pommel Strike+", "Flame Barrier+", "Entrench"], "floor": 20, "hp": 58, "maxhp": 68, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 78514, "card": "Offering", "hand": ["Pommel Strike", "Second Wind", "Fire Breathing", "Entrench"], "floor": 20, "hp": 56, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79058, "card": "Bash", "hand": ["Immolate+", "Pommel Strike", "Armaments", "Fire Breathing", "Entrench"], "floor": 20, "hp": 50, "maxhp": 68, "block": 4, "energy": 5, "v2.0": false}
+{"frame": 79110, "card": "Immolate+", "hand": ["Pommel Strike", "Armaments", "Second Wind", "Entrench"], "floor": 20, "hp": 50, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79296, "card": "Slimed", "hand": ["Pommel Strike", "Fire Breathing", "Entrench"], "floor": 20, "hp": 50, "maxhp": 68, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 79318, "card": "Second Wind", "hand": ["Pommel Strike", "Fire Breathing", "Entrench", "Armaments"], "floor": 20, "hp": 50, "maxhp": 68, "block": 4, "energy": 0, "v2.0": false}
+{"frame": 79740, "card": "Immolate+", "hand": ["Armaments+", "Sword Boomerang", "Shockwave", "Burn"], "floor": 20, "hp": 50, "maxhp": 68, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 90646, "card": "Offering", "hand": ["Pommel Strike+", "Shrug It Off", "Pommel Strike", "Second Wind", "Entrench"], "floor": 23, "hp": 62, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 90850, "card": "Offering", "hand": ["Shrug It Off", "Pommel Strike", "Entrench"], "floor": 23, "hp": 56, "maxhp": 74, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 91310, "card": "Pommel Strike+", "hand": ["Shrug It Off", "Pommel Strike", "Armaments", "Sword Boomerang", "Bash"], "floor": 23, "hp": 50, "maxhp": 74, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 91608, "card": "Feel No Pain", "hand": ["Sword Boomerang", "Bash"], "floor": 23, "hp": 50, "maxhp": 74, "block": 0, "energy": 6, "v2.0": false}
+{"frame": 92068, "card": "Flame Barrier+", "hand": [], "floor": 23, "hp": 50, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92356, "card": "Battle Trance+", "hand": ["Pommel Strike", "Armaments", "Sword Boomerang", "Shrug It Off", "Second Wind"], "floor": 23, "hp": 50, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92462, "card": "Armaments+", "hand": ["Pommel Strike", "Armaments", "Sword Boomerang", "Shrug It Off", "Entrench"], "floor": 23, "hp": 50, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 92594, "card": "Blood for Blood+", "hand": ["Pommel Strike+", "Armaments+", "Sword Boomerang+", "Shrug It Off+", "Flame Barrier+"], "floor": 23, "hp": 50, "maxhp": 74, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 92756, "card": "Sword Boomerang+", "hand": ["Pommel Strike+"], "floor": 23, "hp": 50, "maxhp": 74, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 93498, "card": "Second Wind+", "hand": ["Sword Boomerang+", "Entrench"], "floor": 23, "hp": 50, "maxhp": 74, "block": 11, "energy": 2, "v2.0": false}
+{"frame": 93634, "card": "Sword Boomerang+", "hand": [], "floor": 23, "hp": 50, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 94116, "card": "Blood for Blood+", "hand": ["Armaments+", "Pommel Strike+", "Demon Form", "Fire Breathing"], "floor": 23, "hp": 50, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 117454, "card": "Battle Trance+", "hand": ["Sword Boomerang", "Ascender's Bane", "Deep Breath", "Feel No Pain"], "floor": 25, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119672, "card": "Feel No Pain", "hand": ["Offering", "Immolate+"], "floor": 25, "hp": 56, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 119874, "card": "Shockwave", "hand": ["Pummel", "Offering", "Immolate+"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 120022, "card": "Immolate+", "hand": ["Sword Boomerang", "Pommel Strike", "Fire Breathing"], "floor": 25, "hp": 50, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 121952, "card": "Pommel Strike+", "hand": ["Armaments+", "Demon Form", "Flame Barrier", "Entrench"], "floor": 25, "hp": 45, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 122408, "card": "Armaments+", "hand": ["Armaments+", "Bash", "Flame Barrier+", "Entrench"], "floor": 25, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 122458, "card": "Armaments+", "hand": ["Demon Form+", "Entrench+", "Bash+"], "floor": 25, "hp": 45, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 122802, "card": "Blood for Blood", "hand": [], "floor": 25, "hp": 45, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 125738, "card": "Feel No Pain", "hand": ["Offering", "Bash"], "floor": 27, "hp": 51, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 126334, "card": "Bash", "hand": ["Immolate+", "Sword Boomerang", "Pommel Strike", "Fire Breathing", "Dual Wield"], "floor": 27, "hp": 45, "maxhp": 74, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 126374, "card": "Pommel Strike", "hand": ["Immolate+", "Sword Boomerang", "Fire Breathing+", "Dual Wield"], "floor": 27, "hp": 45, "maxhp": 74, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 126494, "card": "Shrug It Off", "hand": ["Immolate+", "Sword Boomerang", "Fire Breathing", "Dual Wield"], "floor": 27, "hp": 45, "maxhp": 74, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 127844, "card": "Second Wind", "hand": ["Fire Breathing", "Immolate+", "Sword Boomerang"], "floor": 27, "hp": 45, "maxhp": 74, "block": 1, "energy": 1, "v2.0": false}
+{"frame": 127866, "card": "Second Wind", "hand": ["Fire Breathing", "Immolate+", "Sword Boomerang"], "floor": 27, "hp": 45, "maxhp": 74, "block": 11, "energy": 0, "v2.0": false}
+{"frame": 127896, "card": "Second Wind", "hand": [], "floor": 27, "hp": 45, "maxhp": 74, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 128298, "card": "Pommel Strike+", "hand": ["Armaments+", "Entrench", "Battle Trance+", "Shockwave"], "floor": 27, "hp": 45, "maxhp": 74, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 128516, "card": "Battle Trance+", "hand": ["Armaments+", "Shockwave", "Flame Barrier", "Blood for Blood"], "floor": 27, "hp": 45, "maxhp": 74, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 128542, "card": "Battle Trance+", "hand": ["Entrench", "Armaments+", "Exhume"], "floor": 27, "hp": 45, "maxhp": 74, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 129012, "card": "Offering+", "hand": ["Bash+", "Defend", "Blood for Blood+", "Entrench"], "floor": 27, "hp": -1, "maxhp": -1, "block": 1, "energy": 1, "v2.0": false}
+{"frame": 129716, "card": "Shockwave+", "hand": ["Armaments+", "Exhume+", "Demon Form+", "Flame Barrier+"], "floor": 27, "hp": 39, "maxhp": 74, "block": 2, "energy": 3, "v2.0": false}
+{"frame": 129894, "card": "Blood for Blood+", "hand": ["Exhume+", "Flame Barrier+", "Demon Form+"], "floor": 27, "hp": 39, "maxhp": 74, "block": 25, "energy": 1, "v2.0": false}
+{"frame": 131626, "card": "Battle Trance+", "hand": ["Exhume+", "Armaments+", "Armaments+", "Flame Barrier+"], "floor": 27, "hp": 37, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 131648, "card": "Battle Trance+", "hand": ["Armaments+", "Armaments+", "Exhume+", "Flame Barrier+", "Bash", "Strike"], "floor": 27, "hp": 37, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 132596, "card": "Flame Barrier+", "hand": ["Armaments+", "Pommel Strike+", "Shrug It Off"], "floor": 27, "hp": 31, "maxhp": 74, "block": 6, "energy": -1, "v2.0": false}
+{"frame": 132790, "card": "Pommel Strike+", "hand": ["Armaments+", "Armaments+", "Bash", "Shrug It Off"], "floor": 27, "hp": 31, "maxhp": 74, "block": 44, "energy": 1, "v2.0": false}
+{"frame": 133154, "card": "Blood for Blood+", "hand": [], "floor": 27, "hp": 31, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 141912, "card": "Battle Trance+", "hand": ["Pommel Strike+", "Shockwave", "Fire Breathing"], "floor": 30, "hp": 36, "maxhp": 74, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 142234, "card": "Shockwave", "hand": ["Pommel Strike+", "Flame Barrier", "Offering", "Dual Wield"], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 142464, "card": "Pommel Strike+", "hand": ["Offering", "Exhume", "Fire Breathing", "Dual Wield"], "floor": 30, "hp": 36, "maxhp": 74, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 143770, "card": "Pommel Strike+", "hand": ["Offering", "Pommel Strike", "Bash", "Armaments+"], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 144046, "card": "Pommel Strike", "hand": ["Offering", "Bash", "Armaments+", "Dual Wield", "Second Wind"], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 144340, "card": "Battle Trance+", "hand": [], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 144438, "card": "Second Wind", "hand": ["Offering", "Armaments+", "Dual Wield"], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 144458, "card": "Second Wind", "hand": ["Offering", "Armaments+", "Dual Wield+"], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 145174, "card": "Immolate+", "hand": ["Armaments+"], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 145196, "card": "Immolate+", "hand": ["Armaments+"], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 145238, "card": "Immolate+", "hand": ["Armaments+", "Entrench"], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 145446, "card": "Fire Breathing", "hand": ["Entrench", "Feel No Pain+", "Armaments+"], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 145800, "card": "Blood for Blood+", "hand": [], "floor": 30, "hp": 36, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 155090, "card": "Pommel Strike+", "hand": ["Flame Barrier", "Fire Breathing", "Disarm", "Blood for Blood"], "floor": 31, "hp": 47, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 155314, "card": "Disarm", "hand": ["Exhume", "Flame Barrier", "Fire Breathing", "Blood for Blood"], "floor": 31, "hp": 17, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 155348, "card": "Fire Breathing", "hand": ["Flame Barrier", "Blood for Blood", "Blood for Blood", "Exhume"], "floor": 31, "hp": 47, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 155872, "card": "Armaments+", "hand": ["Bash", "Immolate+", "Demon Form", "Dual Wield"], "floor": 31, "hp": 47, "maxhp": 74, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 156004, "card": "Demon Form+", "hand": ["Bash+", "Dual Wield+"], "floor": 31, "hp": 47, "maxhp": 74, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 156040, "card": "Demon Form+", "hand": ["Dual Wield+"], "floor": 31, "hp": 47, "maxhp": 74, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 156058, "card": "Demon Form+", "hand": ["Bash", "Immolate+", "Dual Wield+"], "floor": 31, "hp": 47, "maxhp": 74, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 156116, "card": "Dual Wield+", "hand": ["Bash+", "Immolate+"], "floor": 31, "hp": 47, "maxhp": 74, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 156214, "card": "Bash", "hand": ["Bash+", "Immolate+", "Bash+"], "floor": 31, "hp": 47, "maxhp": 74, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 156678, "card": "Feel No Pain+", "hand": ["Shrug It Off", "Shockwave+", "Body Slam+"], "floor": 31, "hp": 47, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 156806, "card": "Offering", "hand": ["Offering", "Shrug It Off", "Shockwave", "Entrench"], "floor": 31, "hp": 47, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 157440, "card": "Feel No Pain", "hand": ["Shrug It Off", "Armaments+", "Entrench", "Second Wind", "Entrench"], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 157496, "card": "Shockwave", "hand": ["Armaments+"], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 157562, "card": "Second Wind", "hand": ["Offering", "Shrug It Off", "Armaments+", "Entrench+"], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 157592, "card": "Second Wind", "hand": ["Entrench", "Offering", "Armaments+"], "floor": 31, "hp": 41, "maxhp": 74, "block": 3, "energy": 0, "v2.0": false}
+{"frame": 157630, "card": "Second Wind", "hand": ["Entrench"], "floor": 31, "hp": 41, "maxhp": 74, "block": 3, "energy": 0, "v2.0": false}
+{"frame": 157664, "card": "Second Wind", "hand": [], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 158218, "card": "Immolate+", "hand": ["Bash+", "Battle Trance+"], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 158494, "card": "Second Wind", "hand": ["Bash+", "Shockwave", "Battle Trance+"], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 158650, "card": "Second Wind", "hand": ["Battle Trance+", "Shockwave", "Bash+"], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 158672, "card": "Second Wind", "hand": ["Whirlwind+", "Shockwave", "Bash+"], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 158694, "card": "Second Wind", "hand": ["Bash+"], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 158976, "card": "Pommel Strike", "hand": [], "floor": 31, "hp": 41, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 165382, "card": "Offering", "hand": ["Offering"], "floor": 33, "hp": 52, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 165408, "card": "Offering", "hand": ["Offering", "Shockwave", "Entrench"], "floor": 33, "hp": 52, "maxhp": 74, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 165830, "card": "Offering+", "hand": ["Immolate+"], "floor": 33, "hp": 46, "maxhp": 74, "block": 5, "energy": 5, "v2.0": false}
+{"frame": 166574, "card": "Pommel Strike", "hand": ["Immolate+", "Bash", "Shockwave+", "Disarm+", "Entrench", "Blood for Blood"], "floor": 33, "hp": -1, "maxhp": -1, "block": 5, "energy": 6, "v2.0": false}
+{"frame": 166762, "card": "Shockwave+", "hand": ["Exhume", "Disarm+", "Entrench", "Bash"], "floor": 33, "hp": 40, "maxhp": 74, "block": 5, "energy": 5, "v2.0": false}
+{"frame": 167176, "card": "Offering+", "hand": ["Bash", "Entrench", "Blood for Blood", "Flame Barrier", "Entrench"], "floor": 33, "hp": 40, "maxhp": 74, "block": 17, "energy": 2, "v2.0": false}
+{"frame": 167780, "card": "Pommel Strike+", "hand": ["Bash", "The Bomb", "Blood for Blood", "Flame Barrier", "Fire Breathing"], "floor": 33, "hp": 34, "maxhp": 74, "block": 21, "energy": 4, "v2.0": false}
+{"frame": 167998, "card": "Armaments+", "hand": ["Bash", "Flame Barrier"], "floor": 33, "hp": 34, "maxhp": 74, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 168188, "card": "Shockwave+", "hand": ["Bash+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 26, "energy": 2, "v2.0": false}
+{"frame": 168306, "card": "Blood for Blood+", "hand": ["Immolate+", "Entrench+", "Bash+", "Flame Barrier+", "Fire Breathing+", "Second Wind+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 30, "energy": 0, "v2.0": false}
+{"frame": 168750, "card": "Battle Trance+", "hand": ["Demon Form", "Shame", "Pommel Strike+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 169182, "card": "Demon Form", "hand": ["Shrug It Off", "Pommel Strike+", "Armaments+", "Pommel Strike", "Strike"], "floor": 33, "hp": 34, "maxhp": 74, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 172980, "card": "Bash+", "hand": ["Armaments+", "Blood for Blood+", "Second Wind+", "Entrench+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 173064, "card": "Blood for Blood+", "hand": ["Armaments+", "Second Wind+", "Entrench+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 173868, "card": "Battle Trance+", "hand": ["Armaments+", "Shrug It Off", "Pommel Strike"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 174172, "card": "Armaments+", "hand": ["Pommel Strike+", "Bash"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 174352, "card": "Dual Wield+", "hand": ["Pommel Strike+", "Pommel Strike+", "Fire Breathing+", "Bash+", "Shrug It Off+", "Blood for Blood+", "Bite+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 174718, "card": "Shrug It Off+", "hand": ["Pummel", "Pommel Strike+", "Fire Breathing+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 175176, "card": "Blood for Blood+", "hand": ["Pommel Strike+", "Fire Breathing+", "Pommel Strike+", "Bash+", "Blood for Blood+", "Blood for Blood+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 175242, "card": "Blood for Blood+", "hand": ["Pommel Strike+", "Fire Breathing+", "Pommel Strike+", "Bash+", "Blood for Blood+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 175318, "card": "Blood for Blood+", "hand": ["Pommel Strike+", "Fire Breathing+", "Pommel Strike+", "Bash+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 175938, "card": "Pommel Strike+", "hand": ["Bash+", "Second Wind+", "Blood for Blood+", "Fire Breathing+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 176324, "card": "Blood for Blood+", "hand": ["Bash", "Immolate+", "Second Wind+", "Fire Breathing+", "Armaments+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 176410, "card": "Bash+", "hand": ["Immolate+", "Armaments+", "Second Wind+", "Fire Breathing+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 176962, "card": "Battle Trance+", "hand": ["Pommel Strike+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 177016, "card": "Battle Trance+", "hand": ["Shrug It Off+", "Pommel Strike+", "Blood for Blood+", "Blood for Blood+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 177150, "card": "Pommel Strike+", "hand": ["Shrug It Off+", "Blood for Blood+", "Blood for Blood+", "Battle Trance+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 177300, "card": "Dual Wield+", "hand": ["Shrug It Off+", "Battle Trance+", "Purity"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 177438, "card": "Blood for Blood+", "hand": ["Blood for Blood+", "Shrug It Off+", "Fire Breathing+", "Battle Trance+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 177464, "card": "Body Slam+", "hand": ["Shrug It Off+", "Blood for Blood+", "Fire Breathing+", "Battle Trance+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 177516, "card": "Blood for Blood+", "hand": ["Shrug It Off+", "Fire Breathing+", "Battle Trance+"], "floor": 33, "hp": 34, "maxhp": 74, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 189276, "card": "Shockwave", "hand": ["Sentinel", "Entrench"], "floor": 35, "hp": 73, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 189570, "card": "Second Wind", "hand": ["Entrench", "Sentinel"], "floor": 35, "hp": 73, "maxhp": 75, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 189590, "card": "Second Wind", "hand": ["Sentinel"], "floor": 35, "hp": 73, "maxhp": 75, "block": 4, "energy": 0, "v2.0": false}
+{"frame": 191004, "card": "Armaments+", "hand": ["Shrug It Off", "Demon Form"], "floor": 35, "hp": 73, "maxhp": 79, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 191158, "card": "Exhume", "hand": ["Shrug It Off"], "floor": 35, "hp": 73, "maxhp": 79, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 191296, "card": "Armaments+", "hand": ["Shrug It Off"], "floor": 35, "hp": 73, "maxhp": 79, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 191590, "card": "Disarm+", "hand": ["Shrug It Off+", "Dual Wield+", "Ascender's Bane"], "floor": 35, "hp": 73, "maxhp": 79, "block": 39, "energy": 1, "v2.0": false}
+{"frame": 192252, "card": "Flame Barrier", "hand": ["Offering", "Immolate+"], "floor": 35, "hp": 73, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 192272, "card": "Flame Barrier", "hand": ["Dazed", "Offering", "Dazed", "Immolate+"], "floor": 35, "hp": 73, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 192370, "card": "Offering", "hand": ["Immolate+", "Dazed", "Dazed", "Entrench"], "floor": 35, "hp": 73, "maxhp": 79, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 192632, "card": "Shockwave", "hand": ["Immolate+", "Pommel Strike", "Dazed", "Blood for Blood", "Entrench"], "floor": 35, "hp": 67, "maxhp": 79, "block": 20, "energy": 5, "v2.0": false}
+{"frame": 193688, "card": "Fire Breathing+", "hand": ["Bash+", "Offering+", "Pommel Strike+"], "floor": 35, "hp": 67, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 194142, "card": "Shrug It Off+", "hand": ["Blood for Blood", "Battle Trance+"], "floor": 35, "hp": 66, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 194280, "card": "Battle Trance+", "hand": ["Offering", "Pommel Strike+", "Blood for Blood"], "floor": 35, "hp": 66, "maxhp": 79, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 194404, "card": "Second Wind", "hand": ["Offering+", "Pommel Strike+", "Immolate+", "Burn", "Pommel Strike"], "floor": 35, "hp": 66, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 194500, "card": "Second Wind", "hand": ["Pommel Strike+", "Blood for Blood"], "floor": 35, "hp": 66, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 194554, "card": "Immolate+", "hand": [], "floor": 35, "hp": 66, "maxhp": 79, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 196174, "card": "Pommel Strike+", "hand": ["Demon Form", "Corruption+", "Disarm", "Entrench"], "floor": 36, "hp": 77, "maxhp": 79, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 196404, "card": "Corruption+", "hand": ["Demon Form"], "floor": 36, "hp": 77, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 196498, "card": "Fire Breathing", "hand": [], "floor": 36, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 196572, "card": "Disarm", "hand": ["Demon Form", "Entrench", "Dual Wield"], "floor": 36, "hp": 77, "maxhp": 79, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 197064, "card": "Dark Embrace+", "hand": ["Bash+", "Offering", "Immolate+", "Blood for Blood"], "floor": 36, "hp": 77, "maxhp": 79, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 197102, "card": "Offering", "hand": ["Bash+", "Immolate+", "Blood for Blood"], "floor": 36, "hp": 77, "maxhp": 79, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 197292, "card": "Feel No Pain+", "hand": ["Bash+", "Immolate+", "Pommel Strike", "Second Wind"], "floor": 36, "hp": 71, "maxhp": 79, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 197338, "card": "Sentinel", "hand": ["Bash+", "Immolate+", "Pommel Strike", "Blood for Blood", "Second Wind"], "floor": 36, "hp": 71, "maxhp": 79, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 197688, "card": "Sentinel", "hand": ["Bash+", "Immolate+", "Blood for Blood", "Second Wind", "Pommel Strike", "Entrench"], "floor": 36, "hp": 71, "maxhp": 79, "block": 27, "energy": 5, "v2.0": false}
+{"frame": 197944, "card": "Shockwave", "hand": ["Bash+", "Immolate+", "Pummel", "Blood for Blood"], "floor": 36, "hp": -1, "maxhp": -1, "block": 40, "energy": 7, "v2.0": false}
+{"frame": 198354, "card": "Pommel Strike", "hand": ["Bash+", "Immolate+", "Blood for Blood", "Second Wind", "Ascender's Bane", "Offering"], "floor": 36, "hp": 71, "maxhp": 79, "block": 44, "energy": 7, "v2.0": false}
+{"frame": 198488, "card": "Armaments+", "hand": ["Bash+", "Immolate+", "Offering", "Blood for Blood", "Second Wind"], "floor": 36, "hp": 71, "maxhp": 79, "block": 44, "energy": 6, "v2.0": false}
+{"frame": 198626, "card": "Shrug It Off", "hand": ["Bash+", "Immolate+", "Blood for Blood+", "Second Wind+", "Offering+"], "floor": 36, "hp": -1, "maxhp": -1, "block": 53, "energy": 6, "v2.0": false}
+{"frame": 198784, "card": "Immolate+", "hand": ["Offering+", "Armaments+", "Bash", "Second Wind+", "Battle Trance+"], "floor": 36, "hp": 71, "maxhp": 79, "block": 65, "energy": 6, "v2.0": false}
+{"frame": 199056, "card": "Flame Barrier", "hand": ["Bash+", "Offering+"], "floor": 36, "hp": 71, "maxhp": 79, "block": 74, "energy": 4, "v2.0": false}
+{"frame": 199460, "card": "Entrench", "hand": ["Bash+", "Offering"], "floor": 36, "hp": 71, "maxhp": 75, "block": 90, "energy": 4, "v2.0": false}
+{"frame": 199614, "card": "Pommel Strike", "hand": ["Bash+", "Offering"], "floor": 36, "hp": 71, "maxhp": 75, "block": 184, "energy": 4, "v2.0": false}
+{"frame": 199816, "card": "Second Wind+", "hand": ["Bash+", "Ascender's Bane", "Battle Trance+", "Burn"], "floor": 36, "hp": 71, "maxhp": 759, "block": 184, "energy": 3, "v2.0": false}
+{"frame": 200314, "card": "Immolate+", "hand": ["Bash+", "Demon Form", "Pommel Strike+", "Pommel Strike", "Blood for Blood+", "Blood for Blood+"], "floor": 36, "hp": 71, "maxhp": 79, "block": 238, "energy": 3, "v2.0": false}
+{"frame": 211962, "card": "Dark Embrace+", "hand": ["Offering", "Pommel Strike", "Cleave"], "floor": 39, "hp": 79, "maxhp": 79, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 212014, "card": "Offering", "hand": ["Pommel Strike", "Sever Soul", "Disarm", "Entrench"], "floor": 39, "hp": 74, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 212350, "card": "Dark Embrace+", "hand": ["Pommel Strike", "Immolate+", "Sever Soul", "Shockwave", "Entrench"], "floor": 39, "hp": 73, "maxhp": 79, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 212384, "card": "Shockwave", "hand": ["Pommel Strike", "Immolate+", "Sever Soul", "Disarm", "Battle Trance+"], "floor": 39, "hp": 73, "maxhp": 79, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 212594, "card": "Battle Trance+", "hand": ["Pommel Strike", "Pommel Strike+"], "floor": 39, "hp": 73, "maxhp": 79, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 213266, "card": "Shrug It Off", "hand": ["Immolate+", "Pummel", "Pommel Strike+", "Bite"], "floor": 39, "hp": 73, "maxhp": 79, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 213386, "card": "Fire Breathing", "hand": ["Pommel Strike", "Disarm", "Immolate+", "Demon Form"], "floor": 39, "hp": 73, "maxhp": 79, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 214222, "card": "Offering", "hand": ["Exhume", "Flame Barrier", "Shockwave", "Sentinel", "Dual Wield"], "floor": 39, "hp": 73, "maxhp": 79, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 214598, "card": "Corruption+", "hand": ["Exhume", "Disarm+", "Armaments+"], "floor": 39, "hp": 67, "maxhp": 79, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 214660, "card": "Armaments+", "hand": ["Exhume", "Bloodletting"], "floor": 39, "hp": 67, "maxhp": 79, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 214696, "card": "Armaments+", "hand": ["Armaments+"], "floor": 39, "hp": 67, "maxhp": 79, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 214722, "card": "Armaments+", "hand": ["Exhume", "Armaments+"], "floor": 39, "hp": 67, "maxhp": 79, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 214938, "card": "Sentinel+", "hand": ["Exhume+", "Armaments+", "Shockwave+", "Combust"], "floor": 39, "hp": 67, "maxhp": 79, "block": 2, "energy": 2, "v2.0": false}
+{"frame": 215022, "card": "Shockwave+", "hand": ["Exhume+", "Armaments+", "Pommel Strike", "Dual Wield+", "Demon Form"], "floor": 39, "hp": 67, "maxhp": 79, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 215624, "card": "Entrench", "hand": ["Armaments+", "Demon Form", "Burn"], "floor": 39, "hp": 67, "maxhp": 79, "block": 63, "energy": 5, "v2.0": false}
+{"frame": 216046, "card": "Dual Wield+", "hand": ["Exhume+", "Armaments+"], "floor": 39, "hp": 67, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 216132, "card": "Blood for Blood+", "hand": ["Pommel Strike+", "Exhume+", "Armaments+", "Reaper", "Pummel", "Battle Trance+"], "floor": 39, "hp": 67, "maxhp": 79, "block": 125, "energy": 3, "v2.0": false}
+{"frame": 216236, "card": "Blood for Blood+", "hand": ["Pommel Strike+", "Exhume+", "Armaments+", "Battle Trance+", "Pommel Strike", "Second Wind+"], "floor": 39, "hp": 67, "maxhp": 79, "block": 125, "energy": 2, "v2.0": false}
+{"frame": 216326, "card": "Blood for Blood+", "hand": [], "floor": 39, "hp": 67, "maxhp": 79, "block": 125, "energy": 1, "v2.0": false}
+{"frame": 218170, "card": "Feel No Pain+", "hand": ["Offering", "Battle Trance+", "Flame Barrier", "Shockwave"], "floor": 40, "hp": 78, "maxhp": 79, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 218208, "card": "Offering", "hand": ["Shockwave", "Entrench"], "floor": 40, "hp": 78, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 218412, "card": "Dark Embrace+", "hand": ["Immolate+", "Battle Trance+", "Flame Barrier", "Shockwave"], "floor": 40, "hp": 72, "maxhp": 79, "block": 4, "energy": 5, "v2.0": false}
+{"frame": 218564, "card": "Battle Trance+", "hand": ["Immolate+", "Second Wind", "Flame Barrier", "Blood for Blood"], "floor": 40, "hp": 72, "maxhp": 79, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 219158, "card": "Exhume", "hand": [], "floor": 40, "hp": 72, "maxhp": 79, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 220498, "card": "Shrug It Off", "hand": ["Pummel", "Shockwave"], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 221124, "card": "Corruption+", "hand": ["Armaments+", "Doubt", "Fire Breathing", "Sever Soul"], "floor": 40, "hp": 72, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 221240, "card": "Armaments+", "hand": ["Offering", "Offering"], "floor": 40, "hp": 72, "maxhp": 79, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 221590, "card": "Fire Breathing+", "hand": ["Offering+", "Offering+", "Entrench+", "Sentinel"], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 221682, "card": "Shrug It Off", "hand": ["Offering+", "Offering+", "Entrench+", "Sever Soul+", "Sentinel", "Entrench"], "floor": 40, "hp": -1, "maxhp": -1, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 222232, "card": "Armaments+", "hand": ["Offering+"], "floor": 40, "hp": 72, "maxhp": 79, "block": 25, "energy": 0, "v2.0": false}
+{"frame": 222252, "card": "Armaments+", "hand": ["Offering+", "Offering+", "Sentinel", "Dual Wield"], "floor": 40, "hp": 72, "maxhp": 79, "block": 25, "energy": 0, "v2.0": false}
+{"frame": 222858, "card": "Dual Wield+", "hand": ["Offering+"], "floor": 40, "hp": 72, "maxhp": 79, "block": 34, "energy": 0, "v2.0": false}
+{"frame": 223116, "card": "Second Wind", "hand": [], "floor": 40, "hp": 72, "maxhp": 79, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 223222, "card": "Flame Barrier+", "hand": ["Offering+", "Offering"], "floor": 40, "hp": 72, "maxhp": 79, "block": 38, "energy": 0, "v2.0": false}
+{"frame": 223458, "card": "Shockwave", "hand": ["Offering+", "Doubt", "Blood for Blood+"], "floor": 40, "hp": 72, "maxhp": 79, "block": 66, "energy": 3, "v2.0": false}
+{"frame": 223498, "card": "Shockwave", "hand": ["Offering+", "Offering+", "Blood for Blood+"], "floor": 40, "hp": 72, "maxhp": 79, "block": 66, "energy": 3, "v2.0": false}
+{"frame": 223688, "card": "Offering+", "hand": ["Offering+", "Entrench"], "floor": 40, "hp": 72, "maxhp": 79, "block": 70, "energy": 3, "v2.0": false}
+{"frame": 224702, "card": "Power Through+", "hand": ["Offering+", "Sever Soul+", "Entrench"], "floor": 40, "hp": 66, "maxhp": 79, "block": 74, "energy": 3, "v2.0": false}
+{"frame": 224926, "card": "Entrench+", "hand": ["Offering+", "Blood for Blood+", "Second Wind", "Wound"], "floor": 40, "hp": 66, "maxhp": 79, "block": 93, "energy": 3, "v2.0": false}
+{"frame": 225096, "card": "Second Wind", "hand": ["Offering+", "Sever Soul+", "Battle Trance+", "Wound", "Pummel"], "floor": 40, "hp": 66, "maxhp": 79, "block": 190, "energy": 3, "v2.0": false}
+{"frame": 225134, "card": "Second Wind", "hand": ["Offering+", "Panacea", "Pummel", "Sever Soul+", "Blood for Blood+"], "floor": 40, "hp": 66, "maxhp": 79, "block": 190, "energy": 3, "v2.0": false}
+{"frame": 225218, "card": "Second Wind", "hand": ["Sever Soul+", "Blood for Blood+", "Blood for Blood+"], "floor": 40, "hp": 66, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 226332, "card": "Blood for Blood+", "hand": ["Pommel Strike", "Immolate+", "Sever Soul+", "Pommel Strike+", "Blood for Blood+", "Blood for Blood+", "Burn"], "floor": 40, "hp": 66, "maxhp": 79, "block": 230, "energy": 3, "v2.0": false}
+{"frame": 226602, "card": "Blood for Blood+", "hand": ["Sever Soul+", "Pommel Strike+", "Strike", "Immolate+", "Burn"], "floor": 40, "hp": 66, "maxhp": 79, "block": 230, "energy": 1, "v2.0": false}
+{"frame": 227098, "card": "Blood for Blood+", "hand": ["Sever Soul+", "Pommel Strike+", "Pommel Strike", "Burn"], "floor": 40, "hp": 66, "maxhp": 79, "block": 230, "energy": 0, "v2.0": false}
+{"frame": 228000, "card": "Pommel Strike+", "hand": ["Pommel Strike", "Immolate+", "Blood for Blood+", "Sever Soul+"], "floor": 40, "hp": 66, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 228104, "card": "Blood for Blood+", "hand": ["Pommel Strike", "Sever Soul+", "Immolate+", "Blood for Blood+", "Burn"], "floor": 40, "hp": 66, "maxhp": 79, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 228148, "card": "Blood for Blood+", "hand": [], "floor": 40, "hp": 66, "maxhp": 79, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 228950, "card": "Feel No Pain+", "hand": ["Pommel Strike", "Armaments+", "Entrench"], "floor": 41, "hp": 77, "maxhp": 79, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 228988, "card": "Armaments+", "hand": ["Pommel Strike", "Pommel Strike+", "Entrench"], "floor": 41, "hp": 77, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 229040, "card": "Entrench+", "hand": ["Pommel Strike+", "Pommel Strike+"], "floor": 41, "hp": 77, "maxhp": 79, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 229676, "card": "Shockwave", "hand": ["Exhume", "Dark Embrace+", "Fire Breathing", "Flame Barrier"], "floor": 41, "hp": 75, "maxhp": 7, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 230080, "card": "Corruption+", "hand": ["Shockwave", "Offering", "Disarm"], "floor": 41, "hp": 63, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 230182, "card": "Shockwave", "hand": ["Offering", "Disarm", "Ascender's Bane", "Entrench"], "floor": 41, "hp": 63, "maxhp": 79, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 230324, "card": "Offering", "hand": ["Disarm", "Battle Trance+", "Entrench"], "floor": 41, "hp": 63, "maxhp": 79, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 230506, "card": "Dark Embrace+", "hand": ["Disarm", "Battle Trance+", "Offering", "Blood for Blood", "Dual Wield"], "floor": 41, "hp": 57, "maxhp": 79, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 230822, "card": "Disarm", "hand": ["Offering", "Ascender's Bane", "Battle Trance+", "Blood for Blood", "Dual Wield"], "floor": 41, "hp": 57, "maxhp": 79, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 231088, "card": "Dual Wield+", "hand": ["Blood for Blood+", "Immolate+"], "floor": 41, "hp": 57, "maxhp": 7, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 231178, "card": "Dual Wield+", "hand": ["Offering+", "Shrug It Off", "Evolve+", "Immolate+", "Blood for Blood+"], "floor": 41, "hp": 57, "maxhp": 79, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 231370, "card": "Sever Soul", "hand": [], "floor": 41, "hp": 57, "maxhp": 79, "block": 25, "energy": 2, "v2.0": false}
+{"frame": 231650, "card": "Blood for Blood+", "hand": ["Battle Trance+", "Offering+", "Shrug It Off", "Immolate+", "Blood for Blood+", "Blood for Blood+"], "floor": 41, "hp": 57, "maxhp": 7, "block": 25, "energy": 1, "v2.0": false}
+{"frame": 231764, "card": "Blood for Blood+", "hand": ["Battle Trance+", "Blood for Blood+", "Demon Form"], "floor": 41, "hp": 57, "maxhp": 79, "block": 25, "energy": 1, "v2.0": false}
+{"frame": 232348, "card": "Armaments+", "hand": ["Second Wind", "Sentinel"], "floor": 41, "hp": 57, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 232580, "card": "Blood for Blood+", "hand": ["Exhume+", "Shrug It Off+", "Pommel Strike+", "Second Wind+", "Power Through+"], "floor": 41, "hp": 57, "maxhp": 79, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 232680, "card": "Sentinel+", "hand": ["Exhume+", "Shrug It Off+", "Pommel Strike+", "Second Wind+", "Sever Soul+"], "floor": 41, "hp": 57, "maxhp": 79, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 232900, "card": "Blood for Blood+", "hand": ["Shrug It Off+", "Pommel Strike+", "Demon Form", "Second Wind+", "Power Through+"], "floor": 41, "hp": 57, "maxhp": 79, "block": 21, "energy": 6, "v2.0": false}
+{"frame": 232984, "card": "Exhume+", "hand": ["Demon Form"], "floor": 41, "hp": 57, "maxhp": 79, "block": 21, "energy": 6, "v2.0": false}
+{"frame": 233330, "card": "Immolate+", "hand": ["Demon Form", "Offering+"], "floor": 41, "hp": 57, "maxhp": 79, "block": 25, "energy": 6, "v2.0": false}
+{"frame": 233350, "card": "Immolate+", "hand": ["Demon Form", "Second Wind+"], "floor": 41, "hp": 57, "maxhp": 79, "block": 25, "energy": 6, "v2.0": false}
+{"frame": 233512, "card": "Sentinel+", "hand": ["Demon Form", "Offering", "Second Wind+", "Power Through+"], "floor": 41, "hp": 57, "maxhp": 7, "block": 25, "energy": 4, "v2.0": false}
+{"frame": 233698, "card": "Blood for Blood+", "hand": ["Shrug It Off+", "Pommel Strike+", "Demon Form", "Offering+", "Second Wind+", "Entrench+"], "floor": 41, "hp": 57, "maxhp": 79, "block": 37, "energy": 7, "v2.0": false}
+{"frame": 233860, "card": "Sever Soul+", "hand": ["Shrug It Off+", "Pommel Strike+", "Demon Form", "Offering+", "Entrench+", "Second Wind+", "Power Through+"], "floor": 41, "hp": 57, "maxhp": 79, "block": 37, "energy": 7, "v2.0": false}
+{"frame": 236936, "card": "Corruption+", "hand": [], "floor": 42, "hp": 68, "maxhp": 79, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 237094, "card": "Shrug It Off", "hand": ["Reckless Charge", "Entrench"], "floor": 42, "hp": 68, "maxhp": 79, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 237300, "card": "Flame Barrier", "hand": ["Reckless Charge", "Sentinel"], "floor": 42, "hp": 68, "maxhp": 79, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 237898, "card": "Sentinel", "hand": ["Fire Breathing", "Reckless Charge", "Dual Wield"], "floor": 42, "hp": 68, "maxhp": 79, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 238086, "card": "Dual Wield", "hand": ["Fire Breathing", "Reckless Charge", "Blood for Blood"], "floor": 42, "hp": 68, "maxhp": 79, "block": 25, "energy": 3, "v2.0": false}
+{"frame": 238282, "card": "Armaments+", "hand": ["Bite", "Reckless Charge", "Blood for Blood", "Fire Breathing"], "floor": 42, "hp": 68, "maxhp": 79, "block": 25, "energy": 3, "v2.0": false}
+{"frame": 239812, "card": "Fire Breathing+", "hand": ["Reckless Charge+", "Blood for Blood+", "Fire Breathing+", "Sentinel"], "floor": 42, "hp": 68, "maxhp": 79, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 239844, "card": "Fire Breathing+", "hand": ["Blood for Blood+", "Sentinel", "Entrench"], "floor": 42, "hp": 68, "maxhp": 79, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 240164, "card": "Armaments+", "hand": ["Reckless Charge+", "Blood for Blood+", "Sever Soul"], "floor": 42, "hp": 68, "maxhp": 79, "block": 35, "energy": 3, "v2.0": false}
+{"frame": 240300, "card": "Disarm", "hand": ["Reckless Charge+", "Blood for Blood+", "Sever Soul+"], "floor": 42, "hp": 68, "maxhp": 79, "block": 40, "energy": 3, "v2.0": false}
+{"frame": 240540, "card": "Reckless Charge+", "hand": ["Pommel Strike+", "Blood for Blood+", "Sever Soul+"], "floor": 42, "hp": 68, "maxhp": 79, "block": 40, "energy": 3, "v2.0": false}
+{"frame": 240608, "card": "Shockwave+", "hand": [], "floor": 42, "hp": 68, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 240672, "card": "Pommel Strike+", "hand": ["Blood for Blood+", "Sever Soul+"], "floor": 42, "hp": 68, "maxhp": 79, "block": 40, "energy": 3, "v2.0": false}
+{"frame": 240830, "card": "Shockwave", "hand": ["Blood for Blood+", "Sever Soul+", "Dazed"], "floor": 42, "hp": 68, "maxhp": 79, "block": 40, "energy": 2, "v2.0": false}
+{"frame": 241506, "card": "Sever Soul+", "hand": ["Blood for Blood+", "Dazed", "Shockwave"], "floor": 42, "hp": 68, "maxhp": 79, "block": 40, "energy": 2, "v2.0": false}
+{"frame": 242218, "card": "Double Tap", "hand": [], "floor": 42, "hp": 68, "maxhp": 79, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 242384, "card": "Dark Embrace+", "hand": ["Pummel", "Offering", "Battle Trance+", "Demon Form"], "floor": 42, "hp": 68, "maxhp": 79, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 242442, "card": "Offering", "hand": ["Pommel Strike", "Battle Trance+", "Demon Form", "Entrench"], "floor": 42, "hp": 68, "maxhp": 7, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 242796, "card": "Immolate+", "hand": ["Demon Form", "Pommel Strike", "Offering", "Battle Trance+", "Entrench", "Ascender's Bane"], "floor": 42, "hp": 62, "maxhp": 79, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 243064, "card": "Battle Trance+", "hand": ["Pommel Strike", "Offering", "Entrench", "Ascender's Bane"], "floor": 42, "hp": 62, "maxhp": 79, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 243086, "card": "Battle Trance+", "hand": ["Pommel Strike", "Offering", "Demon Form", "Entrench", "Expunger"], "floor": 42, "hp": 62, "maxhp": 79, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 243128, "card": "Battle Trance+", "hand": ["Pommel Strike", "Offering", "Demon Form", "Second Wind"], "floor": 42, "hp": 62, "maxhp": 79, "block": 18, "energy": 1, "v2.0": false}
+{"frame": 243274, "card": "Pommel Strike+", "hand": ["Offering", "Demon Form", "Pommel Strike", "Second Wind", "Immolate+", "Blood for Blood+"], "floor": 42, "hp": 62, "maxhp": 79, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 248092, "card": "Flame Barrier", "hand": ["Second Wind", "Disarm", "Fire Breathing"], "floor": 45, "hp": 75, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 248120, "card": "Flame Barrier", "hand": [], "floor": 45, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 248196, "card": "Second Wind", "hand": [], "floor": 45, "hp": 75, "maxhp": 81, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 249158, "card": "Feel No Pain+", "hand": ["Entrench+", "Sever Soul+"], "floor": 45, "hp": 68, "maxhp": 81, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 249188, "card": "Entrench+", "hand": ["Demon Form+", "Sever Soul+"], "floor": 45, "hp": 68, "maxhp": 8, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 250752, "card": "Offering", "hand": ["Corruption+", "Pummel+", "Shockwave", "Reckless Charge"], "floor": 45, "hp": 55, "maxhp": 81, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 251074, "card": "Corruption+", "hand": ["Shockwave", "Dual Wield"], "floor": 45, "hp": 49, "maxhp": 81, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 251172, "card": "Shockwave", "hand": [], "floor": 45, "hp": 49, "maxhp": 81, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 251434, "card": "Pommel Strike+", "hand": ["Reckless Charge", "Sentinel", "Power Through", "Dual Wield"], "floor": 45, "hp": 49, "maxhp": 81, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 251602, "card": "Battle Trance+", "hand": [], "floor": 45, "hp": 49, "maxhp": 81, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 251876, "card": "Shockwave+", "hand": ["Pommel Strike+", "Blood for Blood+"], "floor": 45, "hp": 49, "maxhp": 81, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 252034, "card": "Dual Wield+", "hand": ["Pommel Strike+", "Blood for Blood+", "Reckless Charge+", "Blood for Blood+"], "floor": 45, "hp": 45, "maxhp": 81, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 252418, "card": "Blood for Blood+", "hand": ["Pommel Strike+"], "floor": 45, "hp": -1, "maxhp": -1, "block": 29, "energy": 1, "v2.0": false}
+{"frame": 252496, "card": "Blood for Blood+", "hand": ["Power Through+"], "floor": 45, "hp": 49, "maxhp": 81, "block": 29, "energy": 1, "v2.0": false}
+{"frame": 252638, "card": "Reckless Charge+", "hand": ["Pommel Strike+", "Sentinel+", "Power Through+"], "floor": 45, "hp": 49, "maxhp": 81, "block": 29, "energy": 1, "v2.0": false}
+{"frame": 252676, "card": "Pummel+", "hand": [], "floor": 45, "hp": 45, "maxhp": 81, "block": 29, "energy": 1, "v2.0": false}
+{"frame": 255848, "card": "Battle Trance+", "hand": ["Immolate+", "Shockwave", "Dark Embrace+", "Evolve+"], "floor": 46, "hp": 62, "maxhp": 83, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 256088, "card": "Corruption+", "hand": ["Immolate+", "Shockwave"], "floor": 46, "hp": 62, "maxhp": 83, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 256310, "card": "Dark Embrace+", "hand": ["Shrug It Off", "Shockwave"], "floor": 46, "hp": 62, "maxhp": 83, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 256366, "card": "Shockwave", "hand": ["Shrug It Off", "Immolate+", "Entrench"], "floor": 46, "hp": 62, "maxhp": 83, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 256422, "card": "Shrug It Off", "hand": ["Anger", "Evolve+", "Entrench"], "floor": 46, "hp": 62, "maxhp": 83, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 256458, "card": "Entrench", "hand": ["Evolve+"], "floor": 46, "hp": 62, "maxhp": 83, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 256880, "card": "Armaments+", "hand": ["Power Through", "Exhume"], "floor": 46, "hp": 62, "maxhp": 83, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 257164, "card": "Flame Barrier+", "hand": ["Exhume+"], "floor": 46, "hp": 62, "maxhp": 83, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 257526, "card": "Pommel Strike", "hand": ["Exhume+", "Power Through+", "Sever Soul", "Blood for Blood", "Reckless Charge"], "floor": 46, "hp": 62, "maxhp": 83, "block": 35, "energy": 3, "v2.0": false}
+{"frame": 258170, "card": "Offering", "hand": ["Flex"], "floor": 46, "hp": 62, "maxhp": 83, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 258362, "card": "Armaments+", "hand": ["Pommel Strike+"], "floor": 46, "hp": 56, "maxhp": 83, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 258478, "card": "Armaments+", "hand": ["Offering", "Second Wind", "Trip"], "floor": 46, "hp": 56, "maxhp": 83, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 259548, "card": "Blood for Blood+", "hand": [], "floor": 46, "hp": 56, "maxhp": 83, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 260076, "card": "Disarm+", "hand": ["Safety", "Feel No Pain+", "Dual Wield+"], "floor": 46, "hp": 56, "maxhp": 83, "block": 5, "energy": 5, "v2.0": false}
+{"frame": 260336, "card": "Feel No Pain+", "hand": ["Pommel Strike+"], "floor": 46, "hp": 56, "maxhp": 83, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 260654, "card": "Sentinel+", "hand": ["Battle Trance+", "Pommel Strike+", "Offering+"], "floor": 46, "hp": 56, "maxhp": 83, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 261798, "card": "Evolve+", "hand": [], "floor": 46, "hp": 56, "maxhp": 83, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 261824, "card": "Evolve+", "hand": ["Immolate", "Exhume+", "Power Through"], "floor": 46, "hp": 56, "maxhp": 83, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 261888, "card": "Power Through+", "hand": ["Immolate+", "Anger+"], "floor": 46, "hp": 56, "maxhp": 83, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 262136, "card": "Second Wind+", "hand": ["Immolate+", "Pommel Strike"], "floor": 46, "hp": 6, "maxhp": 83, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 262480, "card": "Shockwave+", "hand": ["Immolate+", "Reckless Charge", "Hemokinesis"], "floor": 46, "hp": 56, "maxhp": 83, "block": 61, "energy": 2, "v2.0": false}
+{"frame": 262720, "card": "Reckless Charge", "hand": ["Pommel Strike", "Dual Wield+"], "floor": 46, "hp": 56, "maxhp": 83, "block": 65, "energy": 2, "v2.0": false}
+{"frame": 264336, "card": "Pommel Strike", "hand": ["Battle Trance+", "Offering+", "Blood for Blood"], "floor": 46, "hp": 56, "maxhp": 83, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 264472, "card": "Offering+", "hand": ["Burn", "Dazed", "Burn", "Burn"], "floor": 46, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 264806, "card": "Immolate+", "hand": [], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 264826, "card": "Immolate+", "hand": [], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 264844, "card": "Immolate+", "hand": [], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 264866, "card": "Immolate+", "hand": [], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 264886, "card": "Immolate+", "hand": [], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 264918, "card": "Immolate+", "hand": [], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 264936, "card": "Immolate+", "hand": [], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 264956, "card": "Immolate+", "hand": [], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 264974, "card": "Immolate+", "hand": [], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 264992, "card": "Immolate+", "hand": ["Battle Trance+", "Blood for Blood", "Burn"], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 265168, "card": "Blood for Blood", "hand": ["Burn", "Battle Trance+", "Burn", "Dual Wield+"], "floor": 46, "hp": 50, "maxhp": 83, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 265230, "card": "Battle Trance+", "hand": ["Burn", "Burn", "Dual Wield+"], "floor": 46, "hp": 50, "maxhp": 83, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 265362, "card": "Reckless Charge", "hand": ["Burn", "Dual Wield+", "Burn", "Pommel Strike+"], "floor": 46, "hp": -1, "maxhp": -1, "block": 8, "energy": 0, "v2.0": false}
+{"frame": 265746, "card": "Dual Wield+", "hand": ["Sever Soul", "Burn", "Burn", "Pommel Strike"], "floor": 46, "hp": 50, "maxhp": 83, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 270930, "card": "Offering+", "hand": ["Demon Form+", "Power Through+", "Sentinel+"], "floor": 47, "hp": 63, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 271684, "card": "Shrug It Off", "hand": ["Chrysalis", "Armaments+", "Power Through+", "Sentinel+"], "floor": 47, "hp": 57, "maxhp": 85, "block": 5, "energy": 5, "v2.0": false}
+{"frame": 273886, "card": "Armaments+", "hand": ["Exhume", "Power Through+", "Sentinel+"], "floor": 47, "hp": 57, "maxhp": 85, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 273946, "card": "Exhume+", "hand": ["Demon Form+", "Power Through+", "Sentinel+"], "floor": 47, "hp": 57, "maxhp": 85, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 274282, "card": "Shockwave+", "hand": ["Demon Form+"], "floor": 47, "hp": 57, "maxhp": 85, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 274922, "card": "Fire Breathing", "hand": ["Safety"], "floor": 47, "hp": 51, "maxhp": 85, "block": 18, "energy": 5, "v2.0": false}
+{"frame": 274954, "card": "Fire Breathing", "hand": ["Anger", "Power Through+", "Entrench"], "floor": 47, "hp": 51, "maxhp": 85, "block": 18, "energy": 5, "v2.0": false}
+{"frame": 275136, "card": "Pommel Strike+", "hand": ["Power Through+", "Entrench"], "floor": 47, "hp": 51, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 275548, "card": "Second Wind+", "hand": ["Power Through+", "Shockwave+", "Sever Soul", "Battle Trance", "Immolate+"], "floor": 47, "hp": 51, "maxhp": 85, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 276050, "card": "Immolate+", "hand": ["Feel No Pain+", "Flame Barrier", "Disarm"], "floor": 47, "hp": 51, "maxhp": 85, "block": 60, "energy": 4, "v2.0": false}
+{"frame": 276220, "card": "Sever Soul+", "hand": ["Dark Embrace+", "Feel No Pain+", "Dual Wield", "Ascender's Bane", "Disarm"], "floor": 47, "hp": 51, "maxhp": 85, "block": 60, "energy": 2, "v2.0": false}
+{"frame": 279306, "card": "Corruption+", "hand": ["Defend", "Pommel Strike+", "Shockwave"], "floor": 48, "hp": 62, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 279384, "card": "Shockwave", "hand": ["Demon Form", "Entrench"], "floor": 48, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 279592, "card": "Armaments+", "hand": ["Shockwave", "Demon Form", "Dual Wield"], "floor": 48, "hp": 62, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 279776, "card": "Shockwave+", "hand": ["Demon Form+", "Dual Wield+"], "floor": 48, "hp": 62, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 280474, "card": "Dark Embrace+", "hand": ["Flame Barrier"], "floor": 48, "hp": 53, "maxhp": 85, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 280720, "card": "Fire Breathing", "hand": ["Offering", "Flame Barrier", "Second Wind"], "floor": 48, "hp": 53, "maxhp": 85, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 280774, "card": "Flame Barrier", "hand": ["Second Wind"], "floor": 48, "hp": 53, "maxhp": 85, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 281500, "card": "Feel No Pain+", "hand": ["Shrug It Off"], "floor": 48, "hp": 53, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 281588, "card": "Shrug It Off", "hand": ["Shrug It Off", "Battle Trance+", "Blood for Blood"], "floor": 48, "hp": 53, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 281718, "card": "Shrug It Off", "hand": ["Blood for Blood", "Offering"], "floor": 48, "hp": 53, "maxhp": 85, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 281884, "card": "Disarm", "hand": ["Offering", "Exhume"], "floor": 48, "hp": 53, "maxhp": 8, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 282172, "card": "Battle Trance+", "hand": ["Offering", "Exhume", "Blood for Blood", "Sever Soul"], "floor": 48, "hp": 53, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 282346, "card": "Evolve+", "hand": ["Exhume", "Blood for Blood", "Reckless Charge"], "floor": 48, "hp": 53, "maxhp": 85, "block": 32, "energy": 2, "v2.0": false}
+{"frame": 282396, "card": "Dark Embrace+", "hand": ["Offering", "Exhume", "Blood for Blood", "Reckless Charge"], "floor": 48, "hp": 53, "maxhp": 85, "block": 32, "energy": 1, "v2.0": false}
+{"frame": 282444, "card": "Sentinel", "hand": ["Offering", "Exhume", "Blood for Blood", "Reckless Charge"], "floor": 48, "hp": -1, "maxhp": -1, "block": 32, "energy": 0, "v2.0": false}
+{"frame": 282844, "card": "Reckless Charge", "hand": ["Offering", "Exhume", "Blood for Blood", "Sever Soul"], "floor": 48, "hp": 53, "maxhp": 85, "block": 41, "energy": 2, "v2.0": false}
+{"frame": 283160, "card": "Sever Soul", "hand": ["Offering", "Blood for Blood", "Ascender's Bane", "Exhume"], "floor": 48, "hp": 53, "maxhp": 8, "block": 32, "energy": 2, "v2.0": false}
+{"frame": 283954, "card": "Immolate+", "hand": ["Demon Form+", "Pommel Strike+", "Blood for Blood+", "Second Wind", "Dual Wield+"], "floor": 48, "hp": 53, "maxhp": 85, "block": 33, "energy": 3, "v2.0": false}
+{"frame": 294260, "card": "Corruption+", "hand": ["Pommel Strike+", "Shrug It Off"], "floor": 50, "hp": 66, "maxhp": 87, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 294330, "card": "Shrug It Off", "hand": [], "floor": 50, "hp": 66, "maxhp": 87, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 294532, "card": "Flame Barrier+", "hand": ["Pommel Strike+", "Shockwave+", "Dual Wield"], "floor": 50, "hp": -1, "maxhp": -1, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 294748, "card": "Pommel Strike+", "hand": ["Flame Barrier+", "Shockwave", "Dual Wield"], "floor": 50, "hp": 66, "maxhp": 87, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 295062, "card": "Flame Barrier+", "hand": ["Shockwave", "Dual Wield"], "floor": 50, "hp": 66, "maxhp": 87, "block": 8, "energy": 0, "v2.0": false}
+{"frame": 296020, "card": "Dark Embrace+", "hand": ["Armaments+", "Evolve+", "Second Wind", "Disarm"], "floor": 50, "hp": 66, "maxhp": 87, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 296342, "card": "Armaments+", "hand": ["Evolve+", "Second Wind", "Disarm"], "floor": 50, "hp": 66, "maxhp": 87, "block": 14, "energy": 2, "v2.0": false}
+{"frame": 297452, "card": "Evolve+", "hand": ["Pommel Strike", "Armaments+", "Offering", "Exhume", "Entrench"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 297790, "card": "Pommel Strike+", "hand": ["Offering+", "Exhume+", "Second Wind+", "Entrench+", "Shockwave", "Battle Trance+"], "floor": 50, "hp": 6, "maxhp": 87, "block": 40, "energy": 2, "v2.0": false}
+{"frame": 298324, "card": "Reckless Charge", "hand": ["Exhume+", "Shrug It Off", "Second Wind+", "Entrench+"], "floor": 50, "hp": 60, "maxhp": 87, "block": 40, "energy": 1, "v2.0": false}
+{"frame": 299458, "card": "Sentinel", "hand": ["Immolate+", "Demon Form", "Fire Breathing", "Entrench"], "floor": 50, "hp": 60, "maxhp": 87, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 299684, "card": "Power Through", "hand": ["Demon Form", "Immolate+", "Fire Breathing", "Entrench"], "floor": 50, "hp": 60, "maxhp": 87, "block": 9, "energy": 5, "v2.0": false}
+{"frame": 300026, "card": "Exhume+", "hand": ["Demon Form", "Shrug It Off"], "floor": 50, "hp": 60, "maxhp": 87, "block": 28, "energy": 5, "v2.0": false}
+{"frame": 300048, "card": "Shockwave+", "hand": [], "floor": 50, "hp": 60, "maxhp": 87, "block": 28, "energy": 5, "v2.0": false}
+{"frame": 301416, "card": "Demon Form", "hand": ["Shrug It Off", "Dazed"], "floor": 50, "hp": 60, "maxhp": 87, "block": 36, "energy": 5, "v2.0": false}
+{"frame": 301466, "card": "Shrug It Off", "hand": ["Immolate", "Ascender's Bane", "Sever Soul", "Wound"], "floor": 50, "hp": 60, "maxhp": 87, "block": 36, "energy": 2, "v2.0": false}
+{"frame": 301800, "card": "Reckless Charge", "hand": ["Pride"], "floor": 50, "hp": 60, "maxhp": 87, "block": 48, "energy": 2, "v2.0": false}
+{"frame": 301864, "card": "Pommel Strike+", "hand": ["Immolate+", "Fire Breathing", "Sever Soul", "Wound", "Wound", "Blood for Blood"], "floor": 50, "hp": 60, "maxhp": 87, "block": 48, "energy": 2, "v2.0": false}
+{"frame": 302128, "card": "Pommel Strike+", "hand": [], "floor": 50, "hp": 60, "maxhp": 87, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 304052, "card": "Shockwave", "hand": ["Offering+", "Second Wind+", "Fire Breathing", "Blood for Blood", "Sever Soul"], "floor": 50, "hp": 60, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 304670, "card": "Offering+", "hand": ["Second Wind+", "Wound", "Fire Breathing", "Pain", "Dual Wield"], "floor": 50, "hp": 60, "maxhp": 87, "block": 4, "energy": 0, "v2.0": false}
+{"frame": 305180, "card": "Pommel Strike+", "hand": ["Safety", "Entrench+", "Fire Breathing", "Sever Soul"], "floor": 50, "hp": 54, "maxhp": 87, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 305392, "card": "Pommel Strike+", "hand": ["Entrench+", "Fire Breathing", "Wound", "Dual Wield"], "floor": 50, "hp": 54, "maxhp": 87, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 305610, "card": "Dual Wield", "hand": ["Fire Breathing", "Reckless Charge"], "floor": 50, "hp": 54, "maxhp": 87, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 305854, "card": "Reckless Charge", "hand": ["Carnage", "Deep Breath", "Immolate+", "Entrench+", "Pummel", "Wound"], "floor": 50, "hp": 54, "maxhp": 87, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 305914, "card": "Reckless Charge", "hand": ["Immolate+", "Entrench+", "Second Wind+", "Wound"], "floor": 50, "hp": 54, "maxhp": 87, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 306652, "card": "Reckless Charge", "hand": ["Immolate+", "Battle Trance+", "Fire Breathing", "Wound", "Pommel Strike"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 306876, "card": "Sever Soul", "hand": ["Pommel Strike+", "Battle Trance+", "Immolate+", "Fire Breathing", "Wound"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 307328, "card": "Reckless Charge", "hand": ["Reckless Charge", "Pommel Strike+"], "floor": 50, "hp": 53, "maxhp": 87, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 307420, "card": "Reckless Charge", "hand": ["Pommel Strike+", "Immolate+", "Pommel Strike+", "Second Wind+", "Blood for Blood"], "floor": 50, "hp": 53, "maxhp": 87, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 307900, "card": "Blood for Blood", "hand": ["Immolate+", "Pommel Strike+", "Pommel Strike+", "Dazed"], "floor": 50, "hp": 53, "maxhp": 87, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 308388, "card": "Reckless Charge", "hand": ["Pommel Strike", "Pommel Strike+", "Dazed", "Blood for Blood", "Second Wind+", "Entrench+", "Sever Soul"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 308512, "card": "Reckless Charge", "hand": ["Pommel Strike+", "Pommel Strike+", "Dazed", "Blood for Blood", "Second Wind+", "Entrench+"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 308596, "card": "Pommel Strike+", "hand": ["Pommel Strike+", "Dazed", "Dazed", "Blood for Blood", "Entrench+", "Sever Soul"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 309090, "card": "Blood for Blood", "hand": ["Pommel Strike+", "Second Wind+", "Immolate+", "Dazed", "Dazed"], "floor": 50, "hp": -1, "maxhp": -1, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 309202, "card": "Pommel Strike+", "hand": ["Immolate+", "Dazed", "Second Wind+", "Sever Soul", "Dazed"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 309366, "card": "Reckless Charge", "hand": ["Dazed", "Second Wind+", "Entrench+", "Blood for Blood"], "floor": 50, "hp": 53, "maxhp": 87, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 309766, "card": "Entrench+", "hand": ["Dazed", "Dazed", "Second Wind+"], "floor": 50, "hp": 53, "maxhp": 87, "block": 8, "energy": 0, "v2.0": false}
+{"frame": 309936, "card": "Reckless Charge", "hand": ["Dazed", "Second Wind+", "Dazed", "Dazed"], "floor": 50, "hp": 53, "maxhp": 87, "block": 20, "energy": 0, "v2.0": false}
+{"frame": 310640, "card": "Reckless Charge", "hand": ["Pommel Strike+", "Pommel Strike+", "Sever Soul", "Blood for Blood", "Immolate+"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 310880, "card": "Pommel Strike+", "hand": ["Pommel Strike+", "Immolate+", "Dazed", "Sever Soul", "Blood for Blood"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 311124, "card": "Reckless Charge", "hand": ["Pommel Strike+", "Immolate+", "Pommel Strike", "Sever Soul"], "floor": 50, "hp": 53, "maxhp": 87, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 311294, "card": "Pommel Strike+", "hand": ["Pommel Strike+", "Immolate+", "Sever Soul", "Dazed"], "floor": 50, "hp": 53, "maxhp": 87, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 311442, "card": "Reckless Charge", "hand": ["Pommel Strike+", "Immolate+", "Sever Soul", "Dazed"], "floor": 50, "hp": 53, "maxhp": 87, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 311730, "card": "Pommel Strike+", "hand": ["Immolate+", "Sever Soul", "Blood for Blood", "Second Wind+", "Dazed"], "floor": 50, "hp": 53, "maxhp": 87, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 311910, "card": "Reckless Charge", "hand": ["Sever Soul", "Blood for Blood+", "Second Wind+", "Dazed"], "floor": 50, "hp": 53, "maxhp": 87, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 312226, "card": "Blood for Blood", "hand": ["Sever Soul", "Second Wind+", "Dazed"], "floor": 50, "hp": 53, "maxhp": 87, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 312310, "card": "Second Wind+", "hand": ["Sever Soul", "Immolate", "Dazed", "Dazed"], "floor": 50, "hp": 53, "maxhp": 87, "block": 12, "energy": 0, "v2.0": false}
+{"frame": 312656, "card": "Reckless Charge", "hand": ["Sever Soul", "Immolate+", "Pommel Strike+", "Reckless Charge", "Pommel Strike+", "Blood for Blood"], "floor": 50, "hp": 53, "maxhp": 87, "block": 71, "energy": 0, "v2.0": false}
+{"frame": 313200, "card": "Reckless Charge", "hand": ["Immolate+", "Pommel Strike+", "Feed", "Dazed", "Blood for Blood"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 313258, "card": "Reckless Charge", "hand": ["Immolate+", "Pommel Strike", "Dazed", "Dazed", "Sever Soul"], "floor": 50, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 313378, "card": "Pommel Strike+", "hand": ["Immolate+", "Pommel Strike+", "Dazed", "Sever Soul"], "floor": 50, "hp": 53, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 313612, "card": "Reckless Charge", "hand": ["Immolate+", "Pommel Strike+", "Pommel Strike", "Dazed", "Sever Soul"], "floor": 50, "hp": 53, "maxhp": 87, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 314324, "card": "Blood for Blood", "hand": ["Immolate+", "Pummel", "Dazed", "Pommel Strike+", "Sever Soul"], "floor": 50, "hp": 53, "maxhp": 87, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 314382, "card": "Pommel Strike+", "hand": ["Immolate+", "Pommel Strike", "Dazed", "Dazed", "Sever Soul"], "floor": 50, "hp": 53, "maxhp": 87, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 314506, "card": "Reckless Charge", "hand": ["Pommel Strike", "Dazed", "Immolate+", "Sever Soul"], "floor": 50, "hp": 53, "maxhp": 87, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 314710, "card": "Blood for Blood", "hand": [], "floor": 50, "hp": 53, "maxhp": 87, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 315364, "card": "Flame Barrier+", "hand": ["Reckless Charge"], "floor": 51, "hp": 59, "maxhp": 87, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 315652, "card": "Sentinel", "hand": ["Exhume", "Reckless Charge", "Shockwave"], "floor": 51, "hp": 59, "maxhp": 87, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 316130, "card": "Corruption+", "hand": ["Demon Form", "Shrug It Off", "Dual Wield", "Power Through"], "floor": 51, "hp": 56, "maxhp": 87, "block": 14, "energy": 3, "v2.0": false}
+{"frame": 316204, "card": "Shrug It Off", "hand": [], "floor": 51, "hp": 56, "maxhp": 87, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 316334, "card": "Evolve+", "hand": ["Demon Form", "Dual Wield"], "floor": 51, "hp": 56, "maxhp": 87, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 316368, "card": "Power Through", "hand": ["Demon Form", "Dual Wield"], "floor": 51, "hp": 56, "maxhp": 87, "block": 22, "energy": 0, "v2.0": false}
+{"frame": 316860, "card": "Dark Embrace+", "hand": ["Armaments+", "Shockwave", "Pommel Strike", "Battle Trance+"], "floor": 51, "hp": 56, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 317048, "card": "Shockwave+", "hand": ["Pommel Strike+", "Battle Trance+", "Disarm"], "floor": 51, "hp": 56, "maxhp": 87, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 317372, "card": "Disarm", "hand": ["Pommel Strike+", "Immolate+", "Battle Trance+"], "floor": 51, "hp": 56, "maxhp": 87, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 317492, "card": "Pommel Strike+", "hand": ["Immolate+", "Pommel Strike+", "Battle Trance+"], "floor": 51, "hp": 56, "maxhp": 87, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 317706, "card": "Feel No Pain+", "hand": ["Battle Trance+", "Immolate+", "Pummel+", "Entrench"], "floor": 51, "hp": 56, "maxhp": 87, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 317750, "card": "Entrench", "hand": ["Battle Trance+"], "floor": 51, "hp": 56, "maxhp": 87, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 317820, "card": "Battle Trance+", "hand": ["Immolate+", "Pommel Strike+", "Entrench"], "floor": 51, "hp": 56, "maxhp": 87, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 317982, "card": "Armaments+", "hand": ["Shrug It Off", "Immolate+", "The Bomb+", "Entrench"], "floor": 51, "hp": 56, "maxhp": 87, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 318192, "card": "Shrug It Off+", "hand": ["Immolate+", "Pummel+", "Entrench+", "Blood for Blood+"], "floor": 51, "hp": 56, "maxhp": 87, "block": 18, "energy": 0, "v2.0": false}
+{"frame": 318716, "card": "Dark Embrace+", "hand": ["Offering", "Sever Soul", "Fire Breathing", "Offering"], "floor": 51, "hp": 56, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 318784, "card": "Fire Breathing", "hand": ["Offering", "Sever Soul"], "floor": 51, "hp": 56, "maxhp": 87, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 318894, "card": "Offering", "hand": ["Offering", "Second Wind", "Sever Soul", "Entrench"], "floor": 51, "hp": 56, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 319262, "card": "Defend+", "hand": [], "floor": 51, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 319630, "card": "Flame Barrier+", "hand": ["Pommel Strike", "Entrench+"], "floor": 51, "hp": 50, "maxhp": 87, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 319836, "card": "Reckless Charge", "hand": ["Pommel Strike+", "Entrench+", "Dazed"], "floor": 51, "hp": 50, "maxhp": 87, "block": 28, "energy": 3, "v2.0": false}
+{"frame": 319912, "card": "Blood for Blood+", "hand": ["Pommel Strike+", "Wound", "Second Wind", "Offering", "Entrench+", "Dazed"], "floor": 51, "hp": 50, "maxhp": 87, "block": 28, "energy": 3, "v2.0": false}
+{"frame": 320002, "card": "Pommel Strike+", "hand": ["Second Wind", "Sever Soul", "Entrench+", "Wound", "Wound", "Dazed"], "floor": 51, "hp": 50, "maxhp": 87, "block": 28, "energy": 2, "v2.0": false}
+{"frame": 321362, "card": "Sentinel", "hand": ["Exhume", "Immolate+", "Demon Form", "Pommel Strike"], "floor": 51, "hp": 50, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 322202, "card": "Sever Soul", "hand": ["Exhume"], "floor": 51, "hp": 50, "maxhp": 87, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 322648, "card": "Reckless Charge", "hand": ["Wound", "Blood for Blood+", "Burn", "Immolate+", "Pommel Strike+", "Sever Soul"], "floor": 51, "hp": 50, "maxhp": 87, "block": 45, "energy": 0, "v2.0": false}
+{"frame": 323514, "card": "Reckless Charge", "hand": ["Pommel Strike+", "Dazed", "Immolate+", "Blood for Blood+", "Dazed"], "floor": 51, "hp": 50, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 323690, "card": "Immolate+", "hand": ["Pommel Strike+", "Burn", "Blood for Blood+", "Dazed"], "floor": 51, "hp": 50, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 324600, "card": "Reckless Charge", "hand": ["Pommel Strike", "Immolate", "Entrench+", "Sever Soul", "Blood for Blood+"], "floor": 51, "hp": 50, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 324784, "card": "Sever Soul", "hand": ["Pommel Strike+", "Pommel Strike+", "Entrench+", "Blood for Blood+", "Wound", "Burn"], "floor": 51, "hp": 50, "maxhp": 87, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 325196, "card": "Reckless Charge", "hand": ["Pommel Strike+", "Blood for Blood+", "Pommel Strike+", "Dazed", "Sever Soul"], "floor": 51, "hp": 50, "maxhp": 87, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 325410, "card": "Pommel Strike+", "hand": ["Pommel Strike+", "Blood for Blood+", "Dazed", "Sever Soul"], "floor": 51, "hp": 50, "maxhp": 87, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 325610, "card": "Reckless Charge", "hand": ["Dazed", "Pummel", "Pommel Strike+", "Burn", "Dazed"], "floor": 51, "hp": 50, "maxhp": 87, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 325688, "card": "Blood for Blood+", "hand": [], "floor": 51, "hp": 50, "maxhp": 87, "block": 20, "energy": 1, "v2.0": false}
+done

@@ -1,0 +1,634 @@
+{"frame": 1476, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 1, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 1524, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2100, "card": "Bash", "hand": ["Strike", "Defend", "Ascender's Bane"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2138, "card": "Strike", "hand": ["Strike", "Defend", "Ascender's Bane"], "floor": 1, "hp": 68, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 2494, "card": "Strike", "hand": ["Strike", "Defend", "Defend", "Strike"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2526, "card": "Strike", "hand": ["Strike", "Defend", "Defend"], "floor": 1, "hp": 61, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2574, "card": "Strike", "hand": [], "floor": 1, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 3400, "card": "Strike", "hand": ["Defend", "Strike", "Strike", "Wild Strike"], "floor": 2, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3438, "card": "Strike", "hand": ["Defend", "Strike", "Wild Strike"], "floor": 2, "hp": 67, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 3470, "card": "Wild Strike", "hand": ["Defend", "Strike"], "floor": 2, "hp": 67, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 3766, "card": "Bash", "hand": ["Strike", "Ascender's Bane", "Wound"], "floor": 2, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 4152, "card": "Strike", "hand": [], "floor": 2, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5726, "card": "Anger", "hand": ["Wild Strike", "Defend", "Defend"], "floor": 5, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5764, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 5, "hp": 75, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5790, "card": "Wild Strike", "hand": ["Defend", "Defend"], "floor": 5, "hp": 75, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 6016, "card": "Bash", "hand": ["Strike", "Defend"], "floor": 5, "hp": 75, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 6048, "card": "Blind", "hand": ["Strike", "Wound", "Defend"], "floor": 5, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 6388, "card": "Strike", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 5, "hp": 64, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 6464, "card": "Defend", "hand": ["Ascender's Bane", "Wound"], "floor": 5, "hp": 64, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 6710, "card": "Strike", "hand": [], "floor": 5, "hp": 68, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 7684, "card": "Wild Strike", "hand": ["Defend", "Strike", "Defend", "Defend"], "floor": 6, "hp": 74, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 7722, "card": "Strike", "hand": ["Defend", "Defend", "Defend"], "floor": 6, "hp": 74, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 7754, "card": "Defend", "hand": ["Defend", "Defend"], "floor": 6, "hp": 74, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 8278, "card": "Anger", "hand": ["Bash", "Wound", "Ascender's Bane", "Whirlwind"], "floor": 6, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 8902, "card": "Strike", "hand": ["Strike", "Defend", "Strike", "Dazed"], "floor": 6, "hp": 48, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 8942, "card": "Defend", "hand": ["Strike", "Strike", "Dazed"], "floor": 6, "hp": 48, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 8984, "card": "Strike", "hand": ["Strike", "Dazed"], "floor": 6, "hp": 48, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 9448, "card": "Anger", "hand": ["Dazed", "Dazed", "Dazed", "Dazed"], "floor": 6, "hp": 44, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10000, "card": "Defend", "hand": ["Dazed", "Dazed", "Bash"], "floor": 6, "hp": 34, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10438, "card": "Wild Strike", "hand": ["Defend", "Dazed"], "floor": 6, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10474, "card": "Strike", "hand": ["Defend", "Wound"], "floor": 6, "hp": 29, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 10810, "card": "Defend", "hand": ["Anger", "Dazed", "Wound", "Dazed"], "floor": 6, "hp": 29, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 10844, "card": "Anger", "hand": ["Dazed", "Wound", "Dazed"], "floor": 6, "hp": 29, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 11092, "card": "Strike", "hand": [], "floor": 6, "hp": 24, "maxhp": 75, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 12650, "card": "Bash", "hand": ["Strike", "Wild Strike", "Defend", "Strike"], "floor": 8, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13240, "card": "Anger", "hand": ["Whirlwind", "Defend", "Strike"], "floor": 8, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13326, "card": "Strike", "hand": ["Defend", "Strike", "Whirlwind"], "floor": 8, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13384, "card": "Strike", "hand": ["Defend"], "floor": 8, "hp": 67, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 13424, "card": "Whirlwind", "hand": ["Defend"], "floor": 8, "hp": 67, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 13790, "card": "Strike", "hand": ["Reaper", "Defend", "Defend"], "floor": 8, "hp": 67, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13824, "card": "Defend", "hand": ["Reaper", "Defend", "Ascender's Bane"], "floor": 8, "hp": 67, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 14262, "card": "Bash", "hand": ["Defend", "Wild Strike", "Strike", "Whirlwind"], "floor": 8, "hp": 57, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 14532, "card": "Anger", "hand": ["Defend", "Strike"], "floor": 8, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14572, "card": "Anger", "hand": ["Defend", "Strike"], "floor": 8, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14960, "card": "Wild Strike", "hand": ["Strike", "Defend", "Anger", "Anger"], "floor": 8, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14998, "card": "Anger", "hand": ["Strike", "Defend"], "floor": 8, "hp": 37, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 15038, "card": "Anger", "hand": [], "floor": 8, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 16754, "card": "Defend", "hand": ["Defend", "Defend", "Strike"], "floor": 10, "hp": 53, "maxhp": 8, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16784, "card": "Defend", "hand": ["Defend", "Strike"], "floor": 10, "hp": 53, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 16822, "card": "Strike", "hand": ["Ascender's Bane", "Defend"], "floor": 10, "hp": 53, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 17978, "card": "Wild Strike", "hand": ["Strike", "Strike", "Rupture", "Whirlwind", "Blood for Blood"], "floor": 10, "hp": 65, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 18636, "card": "Armaments", "hand": ["Bash", "Anger"], "floor": 10, "hp": 45, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 19026, "card": "Anger+", "hand": ["Bash", "Defend", "Wound"], "floor": 10, "hp": -1, "maxhp": -1, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 19102, "card": "Defend", "hand": ["Bash", "Wound"], "floor": 10, "hp": 45, "maxhp": 85, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 19638, "card": "Strike", "hand": ["Dazed", "Dazed", "Dazed", "Dazed"], "floor": 10, "hp": 45, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20180, "card": "Rage", "hand": ["Defend", "Brutality", "Dazed", "Dazed"], "floor": 10, "hp": 25, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20354, "card": "Reckless Charge", "hand": ["Brutality", "Defend", "Carnage"], "floor": 10, "hp": 25, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 20554, "card": "Carnage", "hand": ["Brutality", "Defend"], "floor": 10, "hp": -1, "maxhp": -1, "block": 3, "energy": 3, "v2.0": false}
+{"frame": 21160, "card": "Seeing Red", "hand": ["Bludgeon", "Strike", "Anger", "Defend", "Strike"], "floor": 10, "hp": 25, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21392, "card": "Bludgeon", "hand": ["Strike", "Anger+", "Defend", "Strike", "Thunderclap"], "floor": 10, "hp": 25, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 21856, "card": "Pommel Strike", "hand": ["Bash", "Wound", "Dazed", "Whirlwind"], "floor": 10, "hp": 25, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22030, "card": "Whirlwind", "hand": [], "floor": 10, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 22482, "card": "Wild Strike", "hand": [], "floor": 10, "hp": 20, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23620, "card": "Bash", "hand": ["Strike", "Strike", "Anger"], "floor": 11, "hp": 26, "maxhp": 85, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 23650, "card": "Anger", "hand": ["Strike", "Strike"], "floor": 11, "hp": 26, "maxhp": 85, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 24102, "card": "Defend", "hand": ["Defend", "Reaper", "Strike"], "floor": 11, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 24172, "card": "Smite", "hand": ["Reaper"], "floor": 11, "hp": 26, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 24468, "card": "Wild Strike", "hand": ["Defend", "Strike", "Ascender's Bane", "Disarm"], "floor": 11, "hp": 23, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 24504, "card": "Strike", "hand": [], "floor": 11, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 27704, "card": "Armaments", "hand": ["Defend", "Strike", "Anger", "Whirlwind"], "floor": 13, "hp": 29, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 27728, "card": "Whirlwind", "hand": [], "floor": 13, "hp": 259, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 28020, "card": "Anger", "hand": ["Defend", "Smite", "Strike"], "floor": 13, "hp": -1, "maxhp": -1, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 28540, "card": "Strike", "hand": ["Defend", "Strike", "Defend", "Ascender's Bane"], "floor": 13, "hp": 29, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 28596, "card": "Strike", "hand": ["Defend", "Defend", "Ascender's Bane"], "floor": 13, "hp": 25, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 28840, "card": "Reaper", "hand": ["Wild Strike", "Defend", "Shrug It Off", "Disarm"], "floor": 13, "hp": 29, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 30404, "card": "Anger", "hand": ["Defend", "Strike", "Shrug It Off"], "floor": 14, "hp": 37, "maxhp": 85, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 30676, "card": "Intimidate", "hand": ["Dazed", "Armaments"], "floor": 14, "hp": 36, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 30790, "card": "Armaments", "hand": ["Defend", "Iron Wave"], "floor": 14, "hp": 36, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31004, "card": "Iron Wave", "hand": ["Defend", "Strike", "Strike"], "floor": 14, "hp": -1, "maxhp": -1, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 31080, "card": "Strike", "hand": ["Defend", "Strike"], "floor": 14, "hp": -1, "maxhp": -1, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 31416, "card": "Reaper", "hand": ["Bash", "Defend", "Wild Strike", "Disarm"], "floor": 14, "hp": 36, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 31522, "card": "Wild Strike", "hand": [], "floor": 14, "hp": 40, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 34414, "card": "Strike", "hand": ["Strike", "Wild Strike", "Whirlwind", "Ascender's Bane"], "floor": 16, "hp": 465, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 34460, "card": "Strike", "hand": ["Wild Strike", "Whirlwind", "Ascender's Bane"], "floor": 16, "hp": 45, "maxhp": 85, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 34888, "card": "Inflame", "hand": ["Defend", "Reaper", "Defend", "Intimidate", "Disarm+"], "floor": 16, "hp": 46, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35002, "card": "Intimidate", "hand": ["Defend", "Defend"], "floor": 16, "hp": 46, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35230, "card": "Shrug It Off", "hand": ["Defend", "Reaper", "Defend", "Sentinel", "Entrench"], "floor": 16, "hp": 46, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35890, "card": "Shrug It Off", "hand": ["Anger", "Defend", "Strike"], "floor": 16, "hp": 35, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35984, "card": "Bash", "hand": ["Anger", "Defend", "Strike", "Defend"], "floor": 16, "hp": 35, "maxhp": 85, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 36466, "card": "Defend", "hand": ["Wild Strike", "Reaper"], "floor": 16, "hp": 35, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 36926, "card": "Shrug It Off", "hand": ["Strike", "Armaments", "Limit Break+", "Strike"], "floor": 16, "hp": 35, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37008, "card": "Limit Break+", "hand": ["Strike", "Defend", "Armaments"], "floor": 16, "hp": 35, "maxhp": 85, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 37216, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 16, "hp": 35, "maxhp": 85, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 37644, "card": "Shrug It Off", "hand": ["Bash", "Anger"], "floor": 16, "hp": 35, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37738, "card": "Bash", "hand": ["Anger", "Strike", "Whirlwind", "Sentinel"], "floor": 16, "hp": 35, "maxhp": 85, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 38094, "card": "Shrug It Off", "hand": ["Defend", "Defend", "Defend", "Reaper"], "floor": 16, "hp": 35, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38190, "card": "Defend", "hand": ["Defend", "Defend", "Rage", "Defend"], "floor": 16, "hp": 35, "maxhp": 85, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 38222, "card": "Defend", "hand": ["Defend", "Defend"], "floor": 16, "hp": 35, "maxhp": 85, "block": 1, "energy": 1, "v2.0": false}
+{"frame": 38522, "card": "Armaments", "hand": ["Anger", "Strike", "Whirlwind"], "floor": 16, "hp": 35, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 38880, "card": "Shrug It Off", "hand": ["Strike", "Mind Blast", "Bash", "Strike"], "floor": 16, "hp": 30, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38960, "card": "Bash", "hand": ["Strike", "Wild Strike", "Strike", "Sentinel"], "floor": 16, "hp": 30, "maxhp": 85, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 39364, "card": "Limit Break+", "hand": ["Anger", "Reaper"], "floor": 16, "hp": 30, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 39648, "card": "Reaper", "hand": ["Strike", "Wild Strike", "Anger"], "floor": 16, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 39936, "card": "Anger", "hand": ["Strike", "Wild Strike", "Burning Pact"], "floor": 16, "hp": 35, "maxhp": 85, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 40204, "card": "Defend", "hand": ["Defend", "Defend", "Whirlwind+"], "floor": 16, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 40242, "card": "Whirlwind+", "hand": ["Armaments", "Defend", "Defend"], "floor": 16, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 43424, "card": "Anger+", "hand": ["Defend", "Defend", "Defend"], "floor": 18, "hp": 85, "maxhp": 85, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 43462, "card": "Defend", "hand": ["Defend"], "floor": 18, "hp": 85, "maxhp": 85, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 43494, "card": "Defend", "hand": ["Defend"], "floor": 18, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 44420, "card": "Bash", "hand": ["Reaper", "Wild Strike", "Headbutt"], "floor": 18, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 45152, "card": "Corruption+", "hand": ["Reaper+", "Shrug It Off", "Whirlwind", "Whirlwind", "Intimidate+"], "floor": 18, "hp": 65, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 45314, "card": "Intimidate", "hand": ["Shrug It Off", "Whirlwind", "Impervious+"], "floor": 18, "hp": 65, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 45844, "card": "Disarm+", "hand": ["Shrug It Off", "Impervious", "Whirlwind+", "Impervious+", "Whirlwind"], "floor": 18, "hp": 65, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 46898, "card": "Bloodletting+", "hand": ["Defend", "Searing Blow+", "Writhe"], "floor": 18, "hp": 65, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47588, "card": "Shrug It Off", "hand": ["Impervious", "Impervious+", "Anger+", "Defend"], "floor": 18, "hp": 62, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47754, "card": "Reaper", "hand": ["Impervious", "Impervious+", "Anger+", "Defend", "Rage", "Entrench"], "floor": 18, "hp": 62, "maxhp": 85, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 48012, "card": "Anger+", "hand": ["Impervious", "Impervious+", "Defend", "Limit Break", "Rage"], "floor": 18, "hp": 74, "maxhp": 85, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 48060, "card": "Defend", "hand": ["Impervious"], "floor": 18, "hp": 74, "maxhp": 85, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 48176, "card": "Reckless Charge", "hand": ["Impervious", "Impervious+", "Limit Break"], "floor": 18, "hp": 74, "maxhp": 85, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 48380, "card": "Limit Break", "hand": ["Impervious", "Impervious+", "Rupture"], "floor": 18, "hp": 74, "maxhp": 85, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 48468, "card": "Intimidate", "hand": ["Impervious", "Impervious+", "Rupture"], "floor": 18, "hp": 74, "maxhp": 85, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 48664, "card": "Impervious+", "hand": ["Double Tap", "Clothesline"], "floor": 18, "hp": 74, "maxhp": 85, "block": 43, "energy": 1, "v2.0": false}
+{"frame": 48806, "card": "Double Tap", "hand": ["Iron Wave"], "floor": 18, "hp": 74, "maxhp": 85, "block": 83, "energy": 1, "v2.0": false}
+{"frame": 48898, "card": "Pummel", "hand": ["Iron Wave"], "floor": 18, "hp": 74, "maxhp": 85, "block": 83, "energy": 1, "v2.0": false}
+{"frame": 50140, "card": "Shrug It Off", "hand": ["Defend", "Intimidate", "Searing Blow+", "Anger"], "floor": 19, "hp": 80, "maxhp": 8, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 50216, "card": "Intimidate", "hand": ["Defend", "Disarm+", "Anger", "Impervious+"], "floor": 19, "hp": 80, "maxhp": 8, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 50388, "card": "Searing Blow+", "hand": ["Defend", "Anger", "Impervious+", "Shrug It Off"], "floor": 19, "hp": 80, "maxhp": 85, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 50428, "card": "Anger", "hand": ["Impervious+", "Shrug It Off"], "floor": 19, "hp": 80, "maxhp": 85, "block": 18, "energy": 0, "v2.0": false}
+{"frame": 50804, "card": "Corruption+", "hand": ["Bash", "Ascender's Bane", "Whirlwind", "Disarm+"], "floor": 19, "hp": 80, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 50904, "card": "Disarm+", "hand": ["Whirlwind", "Bash", "Bash", "Entrench"], "floor": 19, "hp": 80, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 51342, "card": "Impervious", "hand": ["Defend", "Wild Strike", "Reaper", "Armaments", "Defend"], "floor": 19, "hp": 80, "maxhp": 8, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 52344, "card": "Shrug It Off", "hand": ["Defend", "Bludgeon", "Rupture"], "floor": 19, "hp": 805, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 52688, "card": "Shockwave", "hand": ["Anger", "Defend", "Bludgeon+", "Sword Boomerang", "Whirlwind"], "floor": 19, "hp": 80, "maxhp": 85, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 52890, "card": "Bludgeon+", "hand": ["Anger", "Defend", "Anger", "Immolate", "Sword Boomerang", "Whirlwind"], "floor": 19, "hp": 80, "maxhp": 8, "block": 13, "energy": 3, "v2.0": false}
+{"frame": 52954, "card": "Anger", "hand": ["Anger", "Defend", "Rupture", "Whirlwind", "Entrench"], "floor": 19, "hp": 80, "maxhp": 85, "block": 13, "energy": 0, "v2.0": false}
+{"frame": 53012, "card": "Anger", "hand": ["Defend", "Clash", "Sword Boomerang", "Rupture", "Whirlwind", "Immolate"], "floor": 19, "hp": 80, "maxhp": 85, "block": 13, "energy": 0, "v2.0": false}
+{"frame": 53340, "card": "Bash", "hand": ["Defend", "Defend", "Wild Strike", "Anger"], "floor": 19, "hp": 80, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 53378, "card": "Anger", "hand": [], "floor": 19, "hp": 80, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 54522, "card": "Whirlwind", "hand": ["Ascender's Bane", "Reaper", "Wild Strike"], "floor": 20, "hp": 82, "maxhp": 85, "block": 10, "energy": 6, "v2.0": false}
+{"frame": 55640, "card": "Offering", "hand": ["Body Slam", "Defend", "Anger", "Searing Blow+", "Armaments"], "floor": 20, "hp": 8, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 56006, "card": "Shrug It Off", "hand": ["Anger", "Armaments", "Bash", "Havoc", "Body Slam", "Searing Blow+"], "floor": 20, "hp": 76, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 56380, "card": "Bash", "hand": ["Anger", "Armaments", "Defend", "Headbutt", "Body Slam", "Searing Blow+", "Defend"], "floor": 20, "hp": 76, "maxhp": 85, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 56446, "card": "Armaments", "hand": ["Defend", "Headbutt", "Defend", "Body Slam", "Searing Blow+"], "floor": 20, "hp": 76, "maxhp": 85, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 56598, "card": "Defend", "hand": ["Defend", "Defend", "Body Slam+", "Anger", "Searing Blow+"], "floor": 20, "hp": -1, "maxhp": -1, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 56656, "card": "Body Slam+", "hand": ["Anger", "Defend", "Searing Blow+", "Headbutt"], "floor": 20, "hp": 76, "maxhp": 85, "block": 12, "energy": 0, "v2.0": false}
+{"frame": 56764, "card": "Anger", "hand": ["Defend", "Searing Blow+", "Headbutt", "Defend"], "floor": 20, "hp": 76, "maxhp": 85, "block": 12, "energy": 0, "v2.0": false}
+{"frame": 57202, "card": "Corruption+", "hand": ["Defend", "Impervious+", "Anger", "Disarm+"], "floor": 20, "hp": 76, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 57276, "card": "Impervious+", "hand": ["Defend", "Anger"], "floor": 20, "hp": 76, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 57492, "card": "Intimidate", "hand": ["Defend", "Anger", "Disarm+"], "floor": 20, "hp": 76, "maxhp": 85, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 57682, "card": "Anger", "hand": ["Defend", "Anger", "Disarm+"], "floor": 20, "hp": 76, "maxhp": 85, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 57718, "card": "Anger", "hand": ["Defend", "Disarm+"], "floor": 20, "hp": 76, "maxhp": 85, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 57836, "card": "Shockwave", "hand": ["Defend"], "floor": 20, "hp": -1, "maxhp": -1, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 57938, "card": "Demon Form", "hand": ["Defend"], "floor": 20, "hp": -1, "maxhp": -1, "block": 30, "energy": 3, "v2.0": false}
+{"frame": 57986, "card": "Defend", "hand": [], "floor": 20, "hp": 76, "maxhp": 85, "block": 30, "energy": 0, "v2.0": false}
+{"frame": 59408, "card": "Anger", "hand": [], "floor": 20, "hp": 76, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 60206, "card": "Intimidate", "hand": ["Bash", "Anger", "Wild Strike"], "floor": 21, "hp": 82, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 60542, "card": "Bash", "hand": ["Anger", "Wild Strike", "Impervious"], "floor": 21, "hp": 82, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 60720, "card": "Wild Strike", "hand": ["Anger", "Ascender's Bane", "Impervious"], "floor": 21, "hp": 82, "maxhp": 85, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 61458, "card": "Corruption+", "hand": ["Reaper", "Defend", "Armaments", "Searing Blow", "Whirlwind"], "floor": 21, "hp": 82, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 61516, "card": "Sentinel", "hand": [], "floor": 21, "hp": 82, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 61704, "card": "Impervious", "hand": ["Defend+", "Searing Blow", "Reaper", "Whirlwind+"], "floor": 21, "hp": 82, "maxhp": 85, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 61880, "card": "Whirlwind", "hand": ["Reaper", "Defend"], "floor": 21, "hp": 82, "maxhp": 85, "block": 35, "energy": 1, "v2.0": false}
+{"frame": 61992, "card": "Bloodletting", "hand": ["Defend+", "Searing Blow", "Reaper"], "floor": 21, "hp": 82, "maxhp": 85, "block": 35, "energy": 0, "v2.0": false}
+{"frame": 62060, "card": "Reaper", "hand": ["Defend+", "Fiend Fire", "Searing Blow"], "floor": 21, "hp": 79, "maxhp": 85, "block": 35, "energy": 2, "v2.0": false}
+{"frame": 62558, "card": "Impervious+", "hand": ["Defend", "Searing Blow+", "Bloodletting+", "Wound"], "floor": 21, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 62848, "card": "Searing Blow+", "hand": ["Defend", "Bloodletting+"], "floor": 21, "hp": 85, "maxhp": 85, "block": 40, "energy": 3, "v2.0": false}
+{"frame": 62892, "card": "Iron Wave", "hand": ["Defend", "Bloodletting+", "Wound"], "floor": 21, "hp": 85, "maxhp": 85, "block": 40, "energy": 1, "v2.0": false}
+{"frame": 63286, "card": "Shrug It Off", "hand": ["Defend", "Defend", "Disarm+", "Whirlwind"], "floor": 21, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 63480, "card": "Defend", "hand": ["Defend", "Anger", "Metallicize"], "floor": 21, "hp": 85, "maxhp": 85, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 63582, "card": "Defend", "hand": ["Whirlwind", "Anger", "Pummel", "Dark Embrace"], "floor": 21, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 63934, "card": "Anger", "hand": ["Pummel"], "floor": 21, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 63964, "card": "Metallicize", "hand": ["Dark Embrace", "Rupture"], "floor": 21, "hp": 85, "maxhp": 85, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 63998, "card": "Whirlwind", "hand": [], "floor": 21, "hp": 85, "maxhp": 85, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 64478, "card": "Body Slam+", "hand": ["Impervious", "Headbutt", "Searing Blow", "Bloodletting+"], "floor": 21, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 64516, "card": "Headbutt", "hand": [], "floor": 21, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 69560, "card": "Armaments", "hand": ["Impervious+", "Bash", "Defend", "Intimidate"], "floor": 23, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 69600, "card": "Intimidate", "hand": [], "floor": 23, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 69660, "card": "Intimidate+", "hand": ["Defend", "Bash", "Impervious+"], "floor": 23, "hp": 85, "maxhp": 85, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 69706, "card": "Intimidate+", "hand": ["Defend", "Bash", "Impervious+"], "floor": 23, "hp": 85, "maxhp": 85, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 69862, "card": "Bash", "hand": ["Defend", "Impervious+", "Combust"], "floor": 23, "hp": 85, "maxhp": 85, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 70146, "card": "Shrug It Off", "hand": ["Defend", "Reaper", "Wild Strike", "Bloodletting+"], "floor": 23, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 70310, "card": "Bloodletting+", "hand": ["Defend", "Reaper", "Whirlwind"], "floor": 23, "hp": 85, "maxhp": 85, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 70378, "card": "Reaper", "hand": ["Defend", "Wild Strike"], "floor": 23, "hp": 82, "maxhp": 85, "block": 8, "energy": -1, "v2.0": false}
+{"frame": 70516, "card": "Seeing Red", "hand": ["Defend", "Wild Strike"], "floor": 23, "hp": -1, "maxhp": -1, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 70622, "card": "Flex", "hand": ["Defend", "Wild Strike"], "floor": 23, "hp": 85, "maxhp": 85, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 70666, "card": "Defend", "hand": [], "floor": 23, "hp": 85, "maxhp": 85, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 71092, "card": "Corruption+", "hand": ["Demon Form", "Anger", "Defend", "Defend", "Disarm+"], "floor": 23, "hp": 80, "maxhp": 8, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 71266, "card": "Defend", "hand": ["Anger"], "floor": 23, "hp": 80, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 71382, "card": "Defend", "hand": ["Anger"], "floor": 23, "hp": -1, "maxhp": -1, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 71576, "card": "Metallicize", "hand": ["Anger"], "floor": 23, "hp": -1, "maxhp": -1, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 72298, "card": "Armaments", "hand": ["Whirlwind+", "Searing Blow+", "Evolve+", "Wound"], "floor": 23, "hp": 80, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 72350, "card": "Searing Blow+", "hand": [], "floor": 23, "hp": 80, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 72510, "card": "Metallicize", "hand": ["Whirlwind", "Searing Blow+", "Evolve+", "Wound"], "floor": 23, "hp": 80, "maxhp": 85, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 72546, "card": "Evolve+", "hand": ["Whirlwind", "Searing Blow+", "Wound"], "floor": 23, "hp": 80, "maxhp": 85, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 72984, "card": "Defend", "hand": ["Bash", "Anger", "Wild Strike"], "floor": 23, "hp": 71, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 73194, "card": "Bash", "hand": ["Wild Strike", "Anger", "Searing Blow"], "floor": 23, "hp": 71, "maxhp": 85, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 73266, "card": "Anger", "hand": ["Wild Strike", "Combust", "Searing Blow"], "floor": 23, "hp": 71, "maxhp": 85, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 73312, "card": "Combust", "hand": ["Wild Strike", "Searing Blow"], "floor": 23, "hp": 71, "maxhp": 85, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 73770, "card": "Shrug It Off", "hand": ["Bloodletting+", "Impervious+", "Flame Barrier+", "Entrench"], "floor": 23, "hp": 60, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 73884, "card": "Seeing Red", "hand": ["Bloodletting+", "Impervious+", "Flex", "Flame Barrier+", "Entrench"], "floor": 23, "hp": 60, "maxhp": 85, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 73984, "card": "Cleave", "hand": ["Flex", "Warcry"], "floor": 23, "hp": -1, "maxhp": -1, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 74102, "card": "Warcry", "hand": ["Impervious+", "Flex", "Bludgeon", "Bloodletting+", "Strike", "Entrench"], "floor": 23, "hp": 60, "maxhp": 85, "block": 20, "energy": 5, "v2.0": false}
+{"frame": 74754, "card": "Flex", "hand": ["Bludgeon", "Demon Form", "Bludgeon", "Entrench"], "floor": 23, "hp": 60, "maxhp": 8, "block": 20, "energy": 5, "v2.0": false}
+{"frame": 74928, "card": "Feel No Pain", "hand": ["Bludgeon", "Demon Form", "Bludgeon"], "floor": 23, "hp": 50, "maxhp": 85, "block": 2, "energy": 5, "v2.0": false}
+{"frame": 75034, "card": "Bludgeon", "hand": ["Demon Form", "Bludgeon", "Bloodletting+", "Entrench"], "floor": 23, "hp": 60, "maxhp": 85, "block": 20, "energy": 4, "v2.0": false}
+{"frame": 75134, "card": "Entrench", "hand": ["Bloodletting+", "Demon Form", "Bludgeon"], "floor": 23, "hp": 60, "maxhp": 85, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 76110, "card": "Bludgeon", "hand": ["Bash", "Warcry", "Wound", "Wound"], "floor": 23, "hp": 59, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 79522, "card": "Bloodletting+", "hand": ["Corruption+", "Defend", "Reaper"], "floor": 24, "hp": -1, "maxhp": -1, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 79582, "card": "Corruption+", "hand": ["Defend", "Reaper", "Disarm+"], "floor": 24, "hp": 62, "maxhp": 85, "block": 16, "energy": 6, "v2.0": false}
+{"frame": 79666, "card": "Disarm+", "hand": ["Defend"], "floor": 24, "hp": 62, "maxhp": 85, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 79786, "card": "Reaper", "hand": ["Defend"], "floor": 24, "hp": 64, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 80244, "card": "Shrug It Off", "hand": ["Defend", "Anger", "Defend", "Wild Strike"], "floor": 24, "hp": 66, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 80448, "card": "Defend", "hand": ["Anger", "Defend", "Bash", "Thunderclap", "Wild Strike"], "floor": 24, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 80866, "card": "Corruption", "hand": ["Anger", "Wild Strike", "Bash", "Thunderclap", "Corruption", "Entrench"], "floor": 24, "hp": 66, "maxhp": 85, "block": 2, "energy": 3, "v2.0": false}
+{"frame": 81326, "card": "Armaments", "hand": ["Defend", "Second Wind", "Intimidate"], "floor": 24, "hp": 66, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 81368, "card": "Second Wind", "hand": [], "floor": 24, "hp": 66, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 81536, "card": "Infernal Blade", "hand": ["Defend", "Intimidate", "Second Wind+", "Ascender's Bane"], "floor": 24, "hp": 66, "maxhp": 85, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 81642, "card": "Second Wind+", "hand": ["Defend", "Intimidate", "Hemokinesis"], "floor": 24, "hp": 66, "maxhp": 85, "block": 11, "energy": 3, "v2.0": false}
+{"frame": 82166, "card": "Second Wind", "hand": ["Limit Break", "Hemokinesis", "Uppercut", "Entrench", "Armaments"], "floor": 24, "hp": 66, "maxhp": 85, "block": 54, "energy": 3, "v2.0": false}
+{"frame": 82210, "card": "Second Wind", "hand": [], "floor": 24, "hp": 66, "maxhp": 85, "block": 54, "energy": 3, "v2.0": false}
+{"frame": 82436, "card": "Shockwave", "hand": ["Thunderclap", "Hemokinesis", "Uppercut"], "floor": 24, "hp": 66, "maxhp": 85, "block": 81, "energy": 3, "v2.0": false}
+{"frame": 83102, "card": "Flex", "hand": ["Thunderclap", "Ghostly Armor"], "floor": 24, "hp": -1, "maxhp": -1, "block": 130, "energy": 1, "v2.0": false}
+{"frame": 83196, "card": "Ghostly Armor", "hand": ["Thunderclap", "Hemokinesis+"], "floor": 24, "hp": 656, "maxhp": 85, "block": 133, "energy": 1, "v2.0": false}
+{"frame": 83540, "card": "Dual Wield", "hand": ["Uppercut", "Thunderclap", "Hemokinesis", "Hemokinesis", "Perfected Strike"], "floor": 24, "hp": 66, "maxhp": 85, "block": 149, "energy": 1, "v2.0": false}
+{"frame": 83758, "card": "Thunderclap", "hand": ["Perfected Strike", "Hemokinesis", "Carnage"], "floor": 24, "hp": -1, "maxhp": -1, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 84340, "card": "Bloodletting", "hand": ["Juggernaut", "Perfected Strike", "Corruption"], "floor": 24, "hp": 66, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 84368, "card": "Bloodletting", "hand": ["Juggernaut", "Perfected Strike", "Whirlwind", "Corruption"], "floor": 24, "hp": 66, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 84492, "card": "Double Tap", "hand": ["Juggernaut", "Perfected Strike", "Whirlwind"], "floor": 24, "hp": 63, "maxhp": 85, "block": 3, "energy": 5, "v2.0": false}
+{"frame": 84588, "card": "Impervious", "hand": ["Juggernaut", "Perfected Strike", "Whirlwind+"], "floor": 24, "hp": 63, "maxhp": 85, "block": 6, "energy": 5, "v2.0": false}
+{"frame": 86370, "card": "Corruption+", "hand": ["Impervious+", "Defend", "Whirlwind", "Reaper"], "floor": 25, "hp": 65, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 86526, "card": "Impervious+", "hand": ["Defend", "Whirlwind", "Reaper"], "floor": 25, "hp": 69, "maxhp": 85, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 86636, "card": "Bloodletting", "hand": ["Defend", "Whirlwind", "Reaper"], "floor": 25, "hp": 69, "maxhp": 85, "block": 50, "energy": 1, "v2.0": false}
+{"frame": 86754, "card": "Reaper", "hand": ["Defend", "Whirlwind", "Clash"], "floor": 25, "hp": 66, "maxhp": 85, "block": 50, "energy": 3, "v2.0": false}
+{"frame": 86900, "card": "Whirlwind", "hand": ["Defend", "Clash", "Perfected Strike"], "floor": 25, "hp": 78, "maxhp": 85, "block": 50, "energy": 1, "v2.0": false}
+{"frame": 87424, "card": "Armaments", "hand": ["Bash", "Defend", "Defend"], "floor": 25, "hp": 83, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 87726, "card": "Burning Pact", "hand": ["Defend", "Defend", "Bash+"], "floor": 25, "hp": 831, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 88090, "card": "Second Wind", "hand": ["Defend", "Defend", "Bash+", "Immolate", "Ghostly Armor"], "floor": 25, "hp": -1, "maxhp": -1, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 88114, "card": "Second Wind", "hand": ["Defend", "Bash+", "Immolate"], "floor": 25, "hp": -1, "maxhp": -1, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 88396, "card": "Flex", "hand": ["Bash+", "Immolate", "Second Wind"], "floor": 25, "hp": -1, "maxhp": -1, "block": 20, "energy": 3, "v2.0": false}
+{"frame": 88598, "card": "Immolate", "hand": ["Bash+", "Decay", "Immolate", "Immolate", "Headbutt"], "floor": 25, "hp": -1, "maxhp": -1, "block": 20, "energy": 3, "v2.0": false}
+{"frame": 88790, "card": "Headbutt", "hand": [], "floor": 25, "hp": 83, "maxhp": 85, "block": 20, "energy": 1, "v2.0": false}
+{"frame": 89264, "card": "Immolate", "hand": ["Defend", "Intimidate", "Searing Blow+", "Bloodletting+"], "floor": 25, "hp": 84, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 91674, "card": "Corruption+", "hand": [], "floor": 27, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 91706, "card": "Corruption+", "hand": ["Immolate", "Armaments", "Bloodletting+"], "floor": 27, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 91816, "card": "Armaments", "hand": ["Evolve+", "Immolate", "Bloodletting+", "Entrench"], "floor": 27, "hp": 85, "maxhp": 85, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 91942, "card": "Evolve+", "hand": ["Bloodletting+", "Immolate+", "Battle Trance"], "floor": 27, "hp": 85, "maxhp": 85, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 92114, "card": "Battle Trance", "hand": ["Immolate+", "Spot Weakness"], "floor": 27, "hp": 82, "maxhp": 85, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 92278, "card": "Inflame", "hand": ["Immolate+", "Reaper", "Impervious+", "Spot Weakness", "Whirlwind"], "floor": 27, "hp": 82, "maxhp": 85, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 92432, "card": "Immolate+", "hand": ["Reaper", "Impervious+", "Spot Weakness", "Whirlwind"], "floor": 27, "hp": 82, "maxhp": 85, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 92938, "card": "Shrug It Off", "hand": ["Defend", "Defend", "Intimidate", "Second Wind"], "floor": 27, "hp": 82, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 93456, "card": "Shrug It Off", "hand": ["Defend", "Defend", "Second Wind"], "floor": 27, "hp": 82, "maxhp": 85, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 93584, "card": "Disarm+", "hand": ["Defend", "Defend", "Bash", "Carnage", "Clash"], "floor": 27, "hp": 82, "maxhp": 85, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 93678, "card": "Defend", "hand": ["Defend", "Bash", "Bash", "Second Wind", "Carnage"], "floor": 27, "hp": 82, "maxhp": 85, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 93776, "card": "Defend", "hand": ["Bash", "Carnage", "Sever Soul"], "floor": 27, "hp": 82, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 93998, "card": "Second Wind", "hand": ["Bash", "Second Wind", "Sever Soul"], "floor": 27, "hp": 82, "maxhp": 85, "block": 26, "energy": 3, "v2.0": false}
+{"frame": 94236, "card": "Shrug It Off", "hand": ["Bash", "Carnage", "Sever Soul"], "floor": 27, "hp": 82, "maxhp": 85, "block": 36, "energy": 3, "v2.0": false}
+{"frame": 94640, "card": "Bash", "hand": ["Carnage", "Sever Soul", "Rampage", "Twin Strike"], "floor": 27, "hp": 79, "maxhp": 85, "block": 44, "energy": 5, "v2.0": false}
+{"frame": 94678, "card": "Whirlwind", "hand": ["Carnage", "Sever Soul", "Rampage", "Twin Strike"], "floor": 27, "hp": 79, "maxhp": 85, "block": 44, "energy": 3, "v2.0": false}
+{"frame": 95372, "card": "Disarm", "hand": ["Defend", "Reckless Charge+", "Intimidate"], "floor": 27, "hp": 79, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 95500, "card": "Seeing Red", "hand": [], "floor": 27, "hp": 79, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 95580, "card": "Reckless Charge", "hand": ["Defend", "Intimidate"], "floor": 27, "hp": 75, "maxhp": 85, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 95780, "card": "Intimidate", "hand": ["Defend", "Dazed", "Dazed", "Sword Boomerang"], "floor": 27, "hp": 75, "maxhp": 85, "block": 0, "energy": 5, "v2.0": false}
+{"frame": 95960, "card": "Shockwave", "hand": ["Defend", "Sword Boomerang", "Dazed", "Clash"], "floor": 27, "hp": 8, "maxhp": 85, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 96082, "card": "Sword Boomerang", "hand": ["Defend", "Dazed", "Dazed"], "floor": 27, "hp": 79, "maxhp": 85, "block": 8, "energy": 5, "v2.0": false}
+{"frame": 96170, "card": "Carnage", "hand": ["Defend", "Dazed", "Dazed", "Dazed", "Clash", "Shame"], "floor": 27, "hp": 9, "maxhp": 5, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 98324, "card": "Evolve+", "hand": ["Bash", "Searing Blow+", "Ascender's Bane"], "floor": 28, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 98418, "card": "Bash", "hand": ["Reaper", "Searing Blow+"], "floor": 28, "hp": 85, "maxhp": 85, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 99004, "card": "Impervious+", "hand": ["Defend", "Armaments", "Defend", "Armaments", "Metallicize"], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 99118, "card": "Intimidate", "hand": ["Metallicize", "Defend", "Armaments", "Defend", "Armaments"], "floor": 28, "hp": 85, "maxhp": 85, "block": 40, "energy": 0, "v2.0": false}
+{"frame": 99566, "card": "Intimidate", "hand": ["Defend"], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 99736, "card": "Rage+", "hand": ["Defend", "Wild Strike"], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 99906, "card": "Anger", "hand": ["Defend", "Wild Strike", "Immolate"], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 99984, "card": "Immolate", "hand": ["Defend", "Wild Strike"], "floor": 28, "hp": 85, "maxhp": 85, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 100048, "card": "Wild Strike", "hand": ["Defend"], "floor": 28, "hp": 85, "maxhp": 85, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 100434, "card": "Corruption+", "hand": ["Immolate", "Immolate", "Blood for Blood+", "Wound", "Second Wind"], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 100530, "card": "Second Wind", "hand": [], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 100576, "card": "Second Wind", "hand": [], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 100728, "card": "Ghostly Armor", "hand": ["Immolate", "Wild Strike", "Flex"], "floor": 28, "hp": 85, "maxhp": 85, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 100858, "card": "Flex", "hand": ["Cleave"], "floor": 28, "hp": 85, "maxhp": 85, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 100998, "card": "Wild Strike", "hand": ["Cleave", "Immolate", "Immolate", "Uppercut"], "floor": 28, "hp": -1, "maxhp": -1, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 101376, "card": "Armaments", "hand": ["Defend", "Defend", "Armaments", "Metallicize"], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 101560, "card": "Metallicize+", "hand": ["Defend", "Defend", "Armaments", "Sentinel"], "floor": 28, "hp": 85, "maxhp": 85, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 101634, "card": "Armaments", "hand": ["Defend", "Defend", "Sentinel"], "floor": 28, "hp": 85, "maxhp": 85, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 101666, "card": "Sentinel", "hand": [], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 101802, "card": "Smite+", "hand": ["Defend", "Defend", "Pommel Strike"], "floor": 28, "hp": 85, "maxhp": 85, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 101916, "card": "Pommel Strike", "hand": ["Defend", "Defend", "Dropkick"], "floor": 28, "hp": 85, "maxhp": 85, "block": 21, "energy": 5, "v2.0": false}
+{"frame": 102046, "card": "Defend", "hand": ["Defend", "Reaper"], "floor": 28, "hp": 85, "maxhp": 85, "block": 21, "energy": 4, "v2.0": false}
+{"frame": 102096, "card": "Defend", "hand": ["Defend", "Reaper", "Dropkick"], "floor": 28, "hp": 85, "maxhp": 85, "block": 2, "energy": 4, "v2.0": false}
+{"frame": 102134, "card": "Reaper", "hand": ["Defend", "Defend", "Dropkick"], "floor": 28, "hp": -1, "maxhp": -1, "block": 21, "energy": 4, "v2.0": false}
+{"frame": 102268, "card": "Double Tap", "hand": ["Defend", "Defend+", "Dropkick"], "floor": 28, "hp": 85, "maxhp": 85, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 102350, "card": "Dropkick", "hand": ["Defend", "Defend", "Demon Form", "Demon Form"], "floor": 28, "hp": 85, "maxhp": 85, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 102922, "card": "Shrug It Off", "hand": ["Defend", "Defend", "Whirlwind", "Bash"], "floor": 28, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 103056, "card": "Defend", "hand": ["Defend", "Barricade", "Whirlwind", "Entrench"], "floor": 28, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 103154, "card": "Limit Break", "hand": ["Defend", "Anger", "Sword Boomerang", "Whirlwind", "Bash"], "floor": 28, "hp": 85, "maxhp": 85, "block": 17, "energy": 3, "v2.0": false}
+{"frame": 103268, "card": "Bash", "hand": ["Defend", "Barricade", "Anger", "Burn", "Evolve"], "floor": 28, "hp": 85, "maxhp": 85, "block": 17, "energy": 3, "v2.0": false}
+{"frame": 103316, "card": "Anger", "hand": ["Defend", "Sword Boomerang", "Whirlwind", "Barricade", "Evolve"], "floor": 28, "hp": 85, "maxhp": 85, "block": 17, "energy": 1, "v2.0": false}
+{"frame": 103400, "card": "Anger", "hand": [], "floor": 28, "hp": 85, "maxhp": 85, "block": 17, "energy": 1, "v2.0": false}
+{"frame": 109012, "card": "Battle Trance+", "hand": ["Armaments+", "Bloodletting+", "Intimidate+"], "floor": 30, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 109306, "card": "Corruption+", "hand": ["Defend", "Bloodletting+", "Whirlwind", "Disarm+"], "floor": 30, "hp": 85, "maxhp": 85, "block": 1, "energy": 3, "v2.0": false}
+{"frame": 109466, "card": "Bloodletting+", "hand": ["Armaments+", "Defend", "Whirlwind", "Intimidate"], "floor": 30, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 109688, "card": "Armaments+", "hand": [], "floor": 30, "hp": 82, "maxhp": 85, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 109706, "card": "Armaments+", "hand": ["Whirlwind", "Intimidate", "Inflame"], "floor": 30, "hp": 82, "maxhp": 85, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 109822, "card": "Intimidate+", "hand": ["Bash+", "Defend+", "Blood for Blood"], "floor": 30, "hp": -1, "maxhp": -1, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 109846, "card": "Intimidate+", "hand": ["Bash+", "Defend+", "Rage+", "Blood for Blood"], "floor": 30, "hp": 82, "maxhp": 85, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 110006, "card": "Defend+", "hand": ["Iron Wave", "Whirlwind+", "Rage+", "Blood for Blood"], "floor": 30, "hp": -1, "maxhp": 85, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 110258, "card": "Inflame+", "hand": ["Iron Wave", "Whirlwind+", "Bash+", "Rage+", "Fiend Fire"], "floor": 30, "hp": 82, "maxhp": 85, "block": 23, "energy": 4, "v2.0": false}
+{"frame": 110426, "card": "Fiend Fire", "hand": ["The Bomb", "Iron Wave", "Whirlwind+"], "floor": 30, "hp": 82, "maxhp": 85, "block": 23, "energy": 3, "v2.0": false}
+{"frame": 110824, "card": "Double Tap", "hand": ["Impervious", "Combust+", "Whirlwind", "Whirlwind"], "floor": 30, "hp": 2, "maxhp": 85, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 110914, "card": "Whirlwind", "hand": ["Impervious", "Combust", "Whirlwind", "Inflame", "Entrench"], "floor": 30, "hp": 82, "maxhp": 85, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 111396, "card": "Shrug It Off", "hand": ["Impervious+", "Reaper", "Searing Blow+"], "floor": 30, "hp": 2, "maxhp": 5, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 111556, "card": "Reaper", "hand": ["Void", "Ascender's Bane", "Searing Blow+", "Impervious+"], "floor": 30, "hp": 82, "maxhp": 85, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 111690, "card": "Wild Strike", "hand": ["Impervious+", "Ascender's Bane", "Searing Blow+", "Blood for Blood", "Immolate"], "floor": 30, "hp": 85, "maxhp": 85, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 112058, "card": "Anger", "hand": [], "floor": 30, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 113406, "card": "Battle Trance+", "hand": ["Bash", "Wild Strike", "Intimidate+", "Searing Blow+"], "floor": 31, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 113714, "card": "Bloodletting+", "hand": ["Bash", "Wild Strike", "Second Wind", "Intimidate"], "floor": 31, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 113844, "card": "Second Wind", "hand": ["Bash", "Combust", "Shrug It Off", "Intimidate"], "floor": 31, "hp": 82, "maxhp": 85, "block": 16, "energy": 6, "v2.0": false}
+{"frame": 114204, "card": "Bash", "hand": ["Wild Strike", "Limit Break", "Searing Blow+", "Hemokinesis"], "floor": 31, "hp": -1, "maxhp": -1, "block": 25, "energy": 5, "v2.0": false}
+{"frame": 114900, "card": "Corruption+", "hand": ["Impervious+", "Immolate", "Defend", "Disarm+"], "floor": 31, "hp": 80, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 114984, "card": "Disarm+", "hand": ["Impervious+", "Defend"], "floor": 31, "hp": 80, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 115096, "card": "Impervious+", "hand": ["Immolate", "Defend", "Dropkick"], "floor": 31, "hp": 80, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 115220, "card": "Iron Wave", "hand": ["Defend", "Immolate", "Dropkick"], "floor": 31, "hp": 80, "maxhp": 85, "block": 41, "energy": 1, "v2.0": false}
+{"frame": 115838, "card": "Armaments+", "hand": ["Reaper", "Defend", "Bash", "Whirlwind"], "floor": 31, "hp": 80, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 116018, "card": "Dark Embrace+", "hand": ["Reaper+", "Defend+", "Offering", "Whirlwind+"], "floor": 31, "hp": 80, "maxhp": 85, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 116092, "card": "Offering", "hand": ["Reaper+", "Defend+", "Whirlwind+", "Entrench"], "floor": 31, "hp": 80, "maxhp": 85, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 116434, "card": "Defend+", "hand": ["Whirlwind+", "Limit Break", "Whirlwind", "Defend"], "floor": 31, "hp": 71, "maxhp": 85, "block": 6, "energy": -1, "v2.0": false}
+{"frame": 116614, "card": "Anger", "hand": ["Defend", "Infernal Blade"], "floor": 31, "hp": 71, "maxhp": 85, "block": 15, "energy": 7, "v2.0": false}
+{"frame": 116826, "card": "Defend", "hand": ["Reaper+", "Battle Trance+"], "floor": 31, "hp": 71, "maxhp": 85, "block": 20, "energy": 7, "v2.0": false}
+{"frame": 117110, "card": "Reaper+", "hand": ["Whirlwind+", "Evolve"], "floor": 31, "hp": 71, "maxhp": 85, "block": 31, "energy": 5, "v2.0": false}
+{"frame": 117388, "card": "Infernal Blade", "hand": ["Battle Trance+", "Limit Break+", "Whirlwind", "Power Through"], "floor": 31, "hp": -1, "maxhp": -1, "block": 1, "energy": 0, "v2.0": false}
+{"frame": 117476, "card": "Blood for Blood", "hand": ["Juggernaut", "Iron Wave"], "floor": 31, "hp": -1, "maxhp": -1, "block": 41, "energy": 0, "v2.0": false}
+{"frame": 125186, "card": "Bloodletting+", "hand": ["Shrug It Off", "Defend"], "floor": 33, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 125278, "card": "Shrug It Off", "hand": ["Defend", "Battle Trance+"], "floor": 33, "hp": 82, "maxhp": 85, "block": 10, "energy": 6, "v2.0": false}
+{"frame": 125370, "card": "Battle Trance+", "hand": ["Disarm+", "Defend", "Evolve+"], "floor": 33, "hp": 82, "maxhp": 85, "block": 18, "energy": 5, "v2.0": false}
+{"frame": 125392, "card": "Battle Trance+", "hand": ["Defend", "Armaments+", "Corruption", "Disarm+"], "floor": 33, "hp": 82, "maxhp": 85, "block": 18, "energy": 5, "v2.0": false}
+{"frame": 125610, "card": "Corruption+", "hand": ["Defend", "Armaments+", "Disarm", "Defend", "Disarm+"], "floor": 33, "hp": 82, "maxhp": 85, "block": 18, "energy": 5, "v2.0": false}
+{"frame": 126158, "card": "Armaments+", "hand": ["Defend", "Immolate", "Evolve+", "Defend", "Rupture"], "floor": 33, "hp": 82, "maxhp": 85, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 126276, "card": "Rupture+", "hand": ["Defend+", "Immolate+", "Headbutt"], "floor": 33, "hp": 82, "maxhp": 85, "block": 23, "energy": 3, "v2.0": false}
+{"frame": 126328, "card": "Evolve+", "hand": ["Defend+", "Defend+", "Headbutt"], "floor": 33, "hp": 82, "maxhp": 85, "block": 23, "energy": 2, "v2.0": false}
+{"frame": 126424, "card": "Headbutt", "hand": ["Defend+", "Defend"], "floor": 33, "hp": 82, "maxhp": 85, "block": 23, "energy": 1, "v2.0": false}
+{"frame": 127244, "card": "Dark Embrace", "hand": ["Defend", "Bloodletting+", "Searing Blow+"], "floor": 33, "hp": 82, "maxhp": 85, "block": 40, "energy": 3, "v2.0": false}
+{"frame": 127284, "card": "Bloodletting+", "hand": ["Defend", "Searing Blow+", "Ascender's Bane"], "floor": 33, "hp": 82, "maxhp": 85, "block": 40, "energy": 1, "v2.0": false}
+{"frame": 127488, "card": "Rupture", "hand": ["Defend", "Anger", "Searing Blow+", "Bandage Up"], "floor": 33, "hp": 79, "maxhp": 85, "block": 40, "energy": 4, "v2.0": false}
+{"frame": 127560, "card": "Defend", "hand": ["Searing Blow+", "Ascender's Bane", "Anger"], "floor": 33, "hp": 79, "maxhp": 85, "block": 40, "energy": 3, "v2.0": false}
+{"frame": 127722, "card": "Intimidate", "hand": ["Anger", "Searing Blow+"], "floor": 33, "hp": 79, "maxhp": 85, "block": 45, "energy": 3, "v2.0": false}
+{"frame": 127904, "card": "Combust", "hand": ["Searing Blow+", "Void", "Wild Strike"], "floor": 33, "hp": 79, "maxhp": 85, "block": 45, "energy": 3, "v2.0": false}
+{"frame": 128316, "card": "Searing Blow+", "hand": ["Anger", "Wild Strike", "Wild Strike", "Ascender's Bane"], "floor": 33, "hp": 79, "maxhp": 85, "block": 45, "energy": 2, "v2.0": false}
+{"frame": 128402, "card": "Anger", "hand": ["Ascender's Bane", "Wild Strike", "Wild Strike"], "floor": 33, "hp": 79, "maxhp": 85, "block": 45, "energy": 0, "v2.0": false}
+{"frame": 129208, "card": "Whirlwind+", "hand": ["Shrug It Off", "Anger", "Rage+", "Second Wind"], "floor": 33, "hp": 78, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 129776, "card": "Battle Trance+", "hand": ["Bash", "Immolate+", "Defend+", "Flame Barrier+"], "floor": 33, "hp": 77, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 129798, "card": "Battle Trance+", "hand": ["Bash", "Immolate+", "Defend+", "Flame Barrier+", "Searing Blow"], "floor": 33, "hp": 77, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 129930, "card": "Bash", "hand": ["Immolate+", "Anger", "Defend+", "Wild Strike", "Flame Barrier+", "Wild Strike"], "floor": 33, "hp": 77, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 130086, "card": "Wild Strike", "hand": ["Defend+", "Defend+", "Immolate+", "Wild Strike"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 130196, "card": "Anger", "hand": ["Defend+", "Defend+", "Immolate+", "Flame Barrier+", "Searing Blow+", "Wild Strike"], "floor": 33, "hp": 77, "maxhp": 85, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 130912, "card": "Defend", "hand": ["Whirlwind", "Headbutt", "Bash", "Wild Strike"], "floor": 33, "hp": 76, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 131142, "card": "Infernal Blade", "hand": ["Headbutt", "Anger", "Bash", "Wild Strike", "Wild Strike"], "floor": 33, "hp": 76, "maxhp": 85, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 131274, "card": "Thunderclap", "hand": ["Headbutt", "Anger", "Bash", "Whirlwind+", "Entrench"], "floor": 33, "hp": 76, "maxhp": 85, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 131354, "card": "Defend+", "hand": ["Headbutt", "Anger", "Bash", "Wild Strike", "Wild Strike"], "floor": 33, "hp": 76, "maxhp": 85, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 131488, "card": "Impervious", "hand": ["Headbutt", "Anger", "Bash", "Wild Strike", "Shrug It Off"], "floor": 33, "hp": 76, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 131604, "card": "Dropkick", "hand": ["Headbutt", "Anger", "Bash", "Wild Strike", "Shrug It Off", "Wound", "Whirlwind+"], "floor": 33, "hp": 76, "maxhp": 85, "block": 33, "energy": 3, "v2.0": false}
+{"frame": 131780, "card": "Anger", "hand": ["Headbutt", "Bash", "Wild Strike", "Shrug It Off"], "floor": 33, "hp": 76, "maxhp": 85, "block": 33, "energy": 3, "v2.0": false}
+{"frame": 132156, "card": "Bash", "hand": ["Headbutt", "Wild Strike", "Immolate+"], "floor": 33, "hp": 76, "maxhp": 85, "block": 40, "energy": 3, "v2.0": false}
+{"frame": 132396, "card": "Wild Strike", "hand": ["Headbutt", "Wild Strike", "Whirlwind+", "Entrench"], "floor": 33, "hp": 76, "maxhp": 85, "block": 40, "energy": 1, "v2.0": false}
+{"frame": 132882, "card": "Reaper", "hand": ["Whirlwind", "Anger", "Clash"], "floor": 33, "hp": 75, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 133076, "card": "Reckless Charge", "hand": ["Anger", "Defend+", "Wild Strike", "Bash", "Second Wind", "Wound", "Searing Blow+"], "floor": 33, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 133184, "card": "Anger", "hand": [], "floor": 33, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 138782, "card": "Flame Barrier+", "hand": [], "floor": 35, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 139020, "card": "Defend", "hand": ["Bash", "Impervious+", "Second Wind", "Evolve+"], "floor": 35, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 139068, "card": "Battle Trance+", "hand": ["Impervious+", "Intimidate", "Second Wind", "Evolve+"], "floor": 35, "hp": 85, "maxhp": 85, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 139270, "card": "Barricade+", "hand": ["Intimidate", "Second Wind", "Bloodletting"], "floor": 35, "hp": 85, "maxhp": 85, "block": 15, "energy": 3, "v2.0": false}
+{"frame": 139312, "card": "Bloodletting+", "hand": ["Intimidate", "Bash", "Impervious+", "Second Wind", "Evolve+", "Wild Strike", "Defend"], "floor": 35, "hp": 85, "maxhp": 85, "block": 15, "energy": 1, "v2.0": false}
+{"frame": 139364, "card": "Impervious+", "hand": ["Wild Strike", "Bash", "Second Wind", "Defend"], "floor": 35, "hp": 82, "maxhp": 85, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 139478, "card": "Intimidate", "hand": ["Defend", "Iron Wave", "Second Wind", "Evolve+"], "floor": 35, "hp": 82, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 140062, "card": "Corruption+", "hand": ["Immolate", "Anger", "Demon Form", "Whirlwind+", "Searing Blow+"], "floor": 35, "hp": 82, "maxhp": 85, "block": 55, "energy": 3, "v2.0": false}
+{"frame": 140226, "card": "Reaper", "hand": ["Whirlwind+", "Immolate", "Anger", "Searing Blow+"], "floor": 35, "hp": 82, "maxhp": 85, "block": 55, "energy": 1, "v2.0": false}
+{"frame": 140348, "card": "Shockwave", "hand": ["Immolate", "Whirlwind+", "Ascender's Bane", "Anger", "Searing Blow+"], "floor": 35, "hp": 85, "maxhp": 85, "block": 55, "energy": 0, "v2.0": false}
+{"frame": 140816, "card": "Shrug It Off", "hand": ["Iron Wave", "Entrench", "Rage", "Burn", "Wild Strike"], "floor": 35, "hp": 85, "maxhp": 85, "block": 43, "energy": 3, "v2.0": false}
+{"frame": 141444, "card": "Impervious", "hand": ["Iron Wave", "Brutality", "Smite", "Entrench", "Searing Blow+", "Bloodletting+"], "floor": 35, "hp": 85, "maxhp": 85, "block": 51, "energy": 3, "v2.0": false}
+{"frame": 141612, "card": "Entrench", "hand": ["Iron Wave", "Brutality", "Searing Blow+", "Bloodletting+", "Entrench"], "floor": 35, "hp": 85, "maxhp": 85, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 141716, "card": "Entrench", "hand": ["Brutality", "Searing Blow+", "Bloodletting+"], "floor": 35, "hp": 85, "maxhp": 85, "block": 172, "energy": 3, "v2.0": false}
+{"frame": 141838, "card": "Seeing Red", "hand": ["Brutality"], "floor": 35, "hp": 85, "maxhp": 85, "block": 344, "energy": 3, "v2.0": false}
+{"frame": 141994, "card": "Second Wind", "hand": ["Searing Blow+", "Brutality"], "floor": 35, "hp": 85, "maxhp": 85, "block": 344, "energy": 5, "v2.0": false}
+{"frame": 142016, "card": "Second Wind", "hand": ["Searing Blow+", "Bloodletting+", "Brutality", "Pummel"], "floor": 35, "hp": 85, "maxhp": 85, "block": 344, "energy": 5, "v2.0": false}
+{"frame": 142438, "card": "Seeing Red", "hand": ["Bludgeon", "Pummel", "Disarm", "Uppercut"], "floor": 35, "hp": 85, "maxhp": 85, "block": 374, "energy": 5, "v2.0": false}
+{"frame": 142544, "card": "Disarm", "hand": ["Bludgeon", "Iron Wave", "Clash", "Reckless Charge"], "floor": 35, "hp": 85, "maxhp": 85, "block": 374, "energy": 7, "v2.0": false}
+{"frame": 142664, "card": "Bludgeon", "hand": ["Searing Blow+", "Clash"], "floor": 35, "hp": 85, "maxhp": 85, "block": 374, "energy": 7, "v2.0": false}
+{"frame": 142754, "card": "Carnage", "hand": ["Iron Wave", "Doubt", "Searing Blow+", "Pummel", "Metallicize", "Uppercut"], "floor": 35, "hp": 85, "maxhp": 85, "block": 384, "energy": 1, "v2.0": false}
+{"frame": 142820, "card": "Pummel+", "hand": ["Searing Blow+", "Iron Wave"], "floor": 35, "hp": 85, "maxhp": 85, "block": 89, "energy": 1, "v2.0": false}
+{"frame": 143712, "card": "Second Wind", "hand": [], "floor": 36, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 144068, "card": "Shrug It Off", "hand": ["Defend", "Corruption+", "Bite+", "Evolve+", "Searing Blow+"], "floor": 36, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 144158, "card": "Corruption+", "hand": ["Defend", "Battle Trance+", "Rage+"], "floor": 36, "hp": 85, "maxhp": 85, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 144294, "card": "Ritual Dagger+", "hand": ["Defend"], "floor": 36, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 144552, "card": "Immolate", "hand": ["Defend"], "floor": 36, "hp": 85, "maxhp": 85, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 144728, "card": "Rage+", "hand": ["Reaper", "Defend", "Defend", "Searing Blow+", "Disarm+", "Pummel"], "floor": 36, "hp": 85, "maxhp": 85, "block": 11, "energy": 3, "v2.0": false}
+{"frame": 145210, "card": "Defend", "hand": ["Reaper", "Thunderclap", "Evolve+", "Pummel"], "floor": 36, "hp": 85, "maxhp": 85, "block": 27, "energy": 3, "v2.0": false}
+{"frame": 145526, "card": "Seeing Red", "hand": ["Reaper", "Thunderclap", "Wild Strike"], "floor": 36, "hp": 5, "maxhp": 8, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 145606, "card": "Defend", "hand": ["Reaper", "Thunderclap", "Wild Strike", "Exhume"], "floor": 36, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 146040, "card": "Metallicize", "hand": ["Thunderclap", "Wild Strike", "Clothesline"], "floor": 36, "hp": 85, "maxhp": 85, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 146210, "card": "Flame Barrier", "hand": ["Reaper", "Thunderclap", "Clothesline"], "floor": 36, "hp": 85, "maxhp": 85, "block": 14, "energy": 5, "v2.0": false}
+{"frame": 146318, "card": "Searing Blow+", "hand": ["Reaper", "Thunderclap", "Wild Strike", "Clothesline", "Blood for Blood", "Burning Pact"], "floor": 36, "hp": 5, "maxhp": 85, "block": 26, "energy": 5, "v2.0": false}
+{"frame": 146654, "card": "Evolve", "hand": ["Wild Strike", "Defend"], "floor": 36, "hp": 45, "maxhp": 85, "block": 3, "energy": 4, "v2.0": false}
+{"frame": 146718, "card": "Thunderclap", "hand": ["Twin Strike", "Defend", "Sentinel", "Power Through"], "floor": 36, "hp": 85, "maxhp": 85, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 146846, "card": "Reaper", "hand": ["Wild Strike", "Defend", "Blood for Blood", "Power Through"], "floor": 36, "hp": 85, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 146992, "card": "Defend", "hand": ["Feed", "Wild Strike", "Evolve+", "Uppercut"], "floor": 36, "hp": 85, "maxhp": 85, "block": 27, "energy": 1, "v2.0": false}
+{"frame": 147060, "card": "Wild Strike", "hand": [], "floor": 36, "hp": 85, "maxhp": 85, "block": 33, "energy": 1, "v2.0": false}
+{"frame": 153388, "card": "Corruption+", "hand": ["Armaments+", "Barricade+", "Defend", "Defend", "Purity+", "Searing Blow+"], "floor": 38, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 153466, "card": "Reaper+", "hand": ["Purity+", "Entrench"], "floor": 38, "hp": -1, "maxhp": -1, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 153510, "card": "Armaments+", "hand": ["Defend", "Defend", "Purity+", "Entrench"], "floor": 38, "hp": 5, "maxhp": 85, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 153632, "card": "Defend+", "hand": ["Defend+", "Sentinel+"], "floor": 38, "hp": -1, "maxhp": -1, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 153690, "card": "Defend+", "hand": ["Flex", "Purity+", "Searing Blow+", "Infernal Blade"], "floor": 38, "hp": 85, "maxhp": 85, "block": 23, "energy": 0, "v2.0": false}
+{"frame": 153774, "card": "Infernal Blade", "hand": ["Searing Blow+", "Flex", "Purity+"], "floor": 38, "hp": 85, "maxhp": 85, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 153910, "card": "Battle Trance", "hand": ["Searing Blow+", "Flex", "Cleave", "Purity+", "Second Wind"], "floor": 38, "hp": 85, "maxhp": 85, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 154034, "card": "Cleave", "hand": ["Impervious+", "Purity+", "Second Wind", "Intimidate"], "floor": 38, "hp": 85, "maxhp": 85, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 154194, "card": "Flex", "hand": ["Defend", "Impervious+", "Searing Blow+", "Second Wind", "Intimidate", "Sever Soul"], "floor": 38, "hp": 85, "maxhp": 85, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 154294, "card": "Impervious+", "hand": ["Defend", "Burn", "Reckless Charge", "Shrug It Off"], "floor": 38, "hp": 85, "maxhp": 85, "block": 31, "energy": 0, "v2.0": false}
+{"frame": 154416, "card": "Shrug It Off", "hand": ["Defend", "Purity+", "Searing Blow+", "Intimidate", "Sever Soul"], "floor": 38, "hp": 85, "maxhp": 85, "block": 71, "energy": 0, "v2.0": false}
+{"frame": 154612, "card": "Defend", "hand": [], "floor": 38, "hp": 85, "maxhp": 85, "block": 79, "energy": 0, "v2.0": false}
+{"frame": 154666, "card": "Intimidate", "hand": [], "floor": 38, "hp": 85, "maxhp": 85, "block": 4, "energy": 0, "v2.0": false}
+{"frame": 154690, "card": "Intimidate", "hand": ["Purity+", "Second Wind", "Sever Soul", "Sword Boomerang", "Whirlwind+", "True Grit"], "floor": 38, "hp": 85, "maxhp": 85, "block": 84, "energy": 0, "v2.0": false}
+{"frame": 155010, "card": "Entrench", "hand": [], "floor": 38, "hp": 85, "maxhp": 85, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 155052, "card": "Burning Pact", "hand": ["Purity+", "Searing Blow+", "Second Wind", "Sword Boomerang", "True Grit"], "floor": 38, "hp": 85, "maxhp": 85, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 155306, "card": "Double Tap", "hand": ["True Grit", "Purity+", "Whirlwind+"], "floor": 38, "hp": 85, "maxhp": 85, "block": 84, "energy": 0, "v2.0": false}
+{"frame": 155434, "card": "Reckless Charge", "hand": ["True Grit", "Whirlwind+"], "floor": 38, "hp": 85, "maxhp": 85, "block": 84, "energy": 0, "v2.0": false}
+{"frame": 155964, "card": "Flame Barrier", "hand": [], "floor": 38, "hp": 85, "maxhp": 85, "block": 84, "energy": 0, "v2.0": false}
+{"frame": 156082, "card": "Havoc", "hand": ["Ascender's Bane", "Battle Trance"], "floor": 38, "hp": 85, "maxhp": 85, "block": 97, "energy": 0, "v2.0": false}
+{"frame": 156224, "card": "Disarm", "hand": ["Second Wind", "Dark Embrace", "Battle Trance", "Combust", "Rage"], "floor": 38, "hp": -1, "maxhp": -1, "block": 97, "energy": 0, "v2.0": false}
+{"frame": 156346, "card": "True Grit", "hand": ["Second Wind+", "True Grit", "Dark Embrace", "Battle Trance", "Rage"], "floor": 38, "hp": 85, "maxhp": 85, "block": 97, "energy": 0, "v2.0": false}
+{"frame": 156532, "card": "Second Wind", "hand": ["Safety", "Dark Embrace", "Battle Trance", "Corruption", "Body Slam"], "floor": 38, "hp": 85, "maxhp": 85, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 156552, "card": "Second Wind", "hand": ["Dark Embrace", "Battle Trance", "Combust", "Corruption", "Body Slam"], "floor": 38, "hp": 85, "maxhp": 85, "block": 105, "energy": 0, "v2.0": false}
+{"frame": 157020, "card": "Flex", "hand": ["Offering", "Metallicize", "Decay", "Dual Wield"], "floor": 38, "hp": 85, "maxhp": 85, "block": 147, "energy": 0, "v2.0": false}
+{"frame": 157156, "card": "Armaments", "hand": [], "floor": 38, "hp": 85, "maxhp": 85, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 157180, "card": "Armaments", "hand": ["Body Slam", "Offering", "Metallicize", "Hemokinesis"], "floor": 38, "hp": 85, "maxhp": 85, "block": 14, "energy": 0, "v2.0": false}
+{"frame": 157376, "card": "Offering", "hand": [], "floor": 38, "hp": 85, "maxhp": 85, "block": 1, "energy": 0, "v2.0": false}
+{"frame": 157664, "card": "Metallicize", "hand": ["Cleave", "Body Slam+", "Battle Trance+"], "floor": 38, "hp": -1, "maxhp": -1, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 157922, "card": "Battle Trance+", "hand": ["Cleave", "Body Slam+", "Carnage"], "floor": 38, "hp": -1, "maxhp": -1, "block": 153, "energy": 1, "v2.0": false}
+{"frame": 158064, "card": "Fire Breathing+", "hand": ["Body Slam+", "Hemokinesis", "Hemokinesis"], "floor": 38, "hp": 79, "maxhp": 85, "block": 153, "energy": 1, "v2.0": false}
+{"frame": 158112, "card": "Body Slam+", "hand": ["Body Slam+", "Twin Strike", "Hemokinesis", "Hemokinesis", "Dazed"], "floor": 38, "hp": 79, "maxhp": 85, "block": 153, "energy": 0, "v2.0": false}
+{"frame": 158176, "card": "Body Slam+", "hand": ["Twin Strike", "Hemokinesis", "Cleave", "Hemokinesis+", "Dazed"], "floor": 38, "hp": -1, "maxhp": -1, "block": 153, "energy": 0, "v2.0": false}
+{"frame": 158904, "card": "Shrug It Off", "hand": ["Wild Strike", "Cleave", "Body Slam+"], "floor": 38, "hp": 73, "maxhp": 85, "block": 187, "energy": 3, "v2.0": false}
+{"frame": 159018, "card": "Entrench", "hand": ["Wild Strike", "Cleave", "True Grit", "Pummel"], "floor": 38, "hp": 72, "maxhp": 85, "block": 196, "energy": 3, "v2.0": false}
+{"frame": 159164, "card": "Double Tap", "hand": ["Cleave", "Body Slam+", "True Grit", "Bash", "Wild Strike"], "floor": 38, "hp": 73, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 160476, "card": "Armaments+", "hand": ["Bash", "Bloodletting+", "Reaper", "Corruption+", "Whirlwind+", "Entrench"], "floor": 39, "hp": 85, "maxhp": 85, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 160552, "card": "Bloodletting+", "hand": ["Reaper+", "Corruption+", "Whirlwind+", "Searing Blow+"], "floor": 39, "hp": 85, "maxhp": 85, "block": 15, "energy": 4, "v2.0": false}
+{"frame": 160818, "card": "Bash", "hand": ["Reaper+", "Corruption+", "Whirlwind+", "Searing Blow+"], "floor": 39, "hp": 82, "maxhp": 85, "block": 15, "energy": 6, "v2.0": false}
+{"frame": 160858, "card": "Whirlwind+", "hand": ["Searing Blow+"], "floor": 39, "hp": 82, "maxhp": 85, "block": 15, "energy": 6, "v2.0": false}
+{"frame": 161028, "card": "Searing Blow+", "hand": ["Reaper+", "Corruption+"], "floor": 39, "hp": -1, "maxhp": -1, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 161510, "card": "Barricade+", "hand": ["Defend", "Defend"], "floor": 39, "hp": 82, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 161562, "card": "Wild Strike", "hand": ["Defend", "Defend", "Defend", "Ascender's Bane", "Fire Breathing+"], "floor": 39, "hp": 82, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 161622, "card": "Defend", "hand": ["Defend", "Ascender's Bane", "Fire Breathing+", "Defend"], "floor": 39, "hp": 82, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 161702, "card": "Defend", "hand": ["Defend", "Fire Breathing+"], "floor": 39, "hp": -1, "maxhp": -1, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 162952, "card": "Cleave", "hand": [], "floor": 40, "hp": 78, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 163324, "card": "Shrug It Off", "hand": ["Defend", "Evolve", "Battle Trance+", "Corruption+", "Immolate"], "floor": 40, "hp": 78, "maxhp": 85, "block": 10, "energy": 4, "v2.0": false}
+{"frame": 163420, "card": "Corruption+", "hand": ["Defend", "Battle Trance+", "Bite", "Immolate", "Defend"], "floor": 40, "hp": 78, "maxhp": 85, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 163508, "card": "Panacea+", "hand": [], "floor": 40, "hp": 78, "maxhp": 85, "block": 18, "energy": 2, "v2.0": false}
+{"frame": 164068, "card": "Barricade+", "hand": ["Defend"], "floor": 40, "hp": 78, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 164290, "card": "Defend", "hand": ["Defend"], "floor": 40, "hp": 78, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 164504, "card": "Flame Barrier+", "hand": [], "floor": 40, "hp": 78, "maxhp": 85, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 164688, "card": "Thunderclap", "hand": ["Searing Blow+", "Dual Wield+", "Bloodletting+", "Dual Wield", "Dropkick"], "floor": 40, "hp": 78, "maxhp": 85, "block": 22, "energy": 2, "v2.0": false}
+{"frame": 164784, "card": "Dual Wield+", "hand": ["Dropkick"], "floor": 40, "hp": 78, "maxhp": 85, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 164884, "card": "Dual Wield+", "hand": ["Smite", "Bloodletting+", "Dual Wield", "Dropkick", "Dropkick"], "floor": 40, "hp": 78, "maxhp": 85, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 164966, "card": "Dual Wield", "hand": ["Fiend Fire+", "Dropkick", "Dropkick", "Inflame"], "floor": 40, "hp": -1, "maxhp": -1, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 165150, "card": "Impervious", "hand": ["Searing Blow+", "Dropkick"], "floor": 40, "hp": 7, "maxhp": 85, "block": 22, "energy": 1, "v2.0": false}
+{"frame": 165266, "card": "Spot Weakness", "hand": ["Searing Blow+", "Dropkick", "Dropkick"], "floor": 40, "hp": 78, "maxhp": 85, "block": 52, "energy": 1, "v2.0": false}
+{"frame": 165568, "card": "Bloodletting+", "hand": ["Inflame", "Combust"], "floor": 40, "hp": -1, "maxhp": -1, "block": 52, "energy": 1, "v2.0": false}
+{"frame": 165650, "card": "Inflame", "hand": [], "floor": 40, "hp": 75, "maxhp": 85, "block": 5, "energy": -1, "v2.0": false}
+{"frame": 165724, "card": "Inflame", "hand": ["Searing Blow+", "Dropkick", "Dropkick", "Combust", "Spot Weakness"], "floor": 40, "hp": 75, "maxhp": 85, "block": 52, "energy": 3, "v2.0": false}
+{"frame": 165884, "card": "Dropkick", "hand": ["Searing Blow+", "Dropkick", "Dropkick", "Combust", "Sword Boomerang"], "floor": 40, "hp": 75, "maxhp": 85, "block": 52, "energy": 3, "v2.0": false}
+{"frame": 166304, "card": "Armaments+", "hand": ["Immolate"], "floor": 40, "hp": 75, "maxhp": 85, "block": 52, "energy": 3, "v2.0": false}
+{"frame": 166434, "card": "Reaper+", "hand": ["Sword Boomerang+", "Immolate"], "floor": 40, "hp": 75, "maxhp": 85, "block": 58, "energy": 3, "v2.0": false}
+{"frame": 166654, "card": "Anger", "hand": ["Sword Boomerang+", "Searing Blow+", "Combust+", "Evolve"], "floor": 40, "hp": 85, "maxhp": 85, "block": 58, "energy": 1, "v2.0": false}
+{"frame": 166702, "card": "Sword Boomerang+", "hand": [], "floor": 40, "hp": 85, "maxhp": 85, "block": 58, "energy": 1, "v2.0": false}
+{"frame": 167132, "card": "Shrug It Off", "hand": ["Thunderclap", "Wild Strike", "Intimidate", "Dropkick"], "floor": 40, "hp": 85, "maxhp": 85, "block": 58, "energy": 3, "v2.0": false}
+{"frame": 167270, "card": "Rage+", "hand": ["Wild Strike", "Impervious+", "Thunderclap", "Intimidate", "Uppercut"], "floor": 40, "hp": 85, "maxhp": 85, "block": 68, "energy": 3, "v2.0": false}
+{"frame": 167424, "card": "Impervious+", "hand": ["Wild Strike", "Safety", "Thunderclap", "Intimidate", "Entrench"], "floor": 40, "hp": 85, "maxhp": 85, "block": 68, "energy": 3, "v2.0": false}
+{"frame": 167508, "card": "Thunderclap", "hand": ["Wild Strike", "Ascender's Bane", "Intimidate", "Rampage"], "floor": 40, "hp": -1, "maxhp": -1, "block": 110, "energy": 3, "v2.0": false}
+{"frame": 167584, "card": "Intimidate", "hand": ["Dropkick", "Rampage"], "floor": 40, "hp": 85, "maxhp": 85, "block": 115, "energy": 2, "v2.0": false}
+{"frame": 167652, "card": "Intimidate", "hand": [], "floor": 40, "hp": 85, "maxhp": 85, "block": 115, "energy": 2, "v2.0": false}
+{"frame": 167706, "card": "Inflame", "hand": [], "floor": 40, "hp": 85, "maxhp": 85, "block": 115, "energy": 2, "v2.0": false}
+{"frame": 167924, "card": "True Grit", "hand": ["Bash", "Ascender's Bane", "Wild Strike", "Uppercut", "Rampage", "Entrench"], "floor": 40, "hp": -1, "maxhp": -1, "block": 120, "energy": 1, "v2.0": false}
+{"frame": 168056, "card": "Dropkick", "hand": ["Bash", "Ascender's Bane", "Uppercut", "Rampage", "Blood for Blood"], "floor": 40, "hp": 85, "maxhp": 85, "block": 129, "energy": 1, "v2.0": false}
+{"frame": 168162, "card": "Second Wind", "hand": ["Ascender's Bane", "Uppercut", "Bash"], "floor": 40, "hp": 85, "maxhp": 85, "block": 134, "energy": 1, "v2.0": false}
+{"frame": 171434, "card": "Corruption+", "hand": ["Warcry+", "Immolate"], "floor": 42, "hp": 85, "maxhp": 85, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 171524, "card": "Bloodletting+", "hand": [], "floor": 42, "hp": 85, "maxhp": 85, "block": 1, "energy": 2, "v2.0": false}
+{"frame": 171910, "card": "Flame Barrier+", "hand": ["Impervious+", "Bloodletting"], "floor": 42, "hp": 82, "maxhp": 85, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 171966, "card": "Impervious+", "hand": [], "floor": 42, "hp": -1, "maxhp": -1, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 172052, "card": "Defend", "hand": ["Limit Break", "Evolve+", "Exhume"], "floor": 42, "hp": 82, "maxhp": 85, "block": 66, "energy": 2, "v2.0": false}
+{"frame": 172528, "card": "Bloodletting+", "hand": ["Safety", "Evolve+"], "floor": 42, "hp": 82, "maxhp": 85, "block": 71, "energy": 2, "v2.0": false}
+{"frame": 172672, "card": "Bloodletting", "hand": ["Combust", "Rampage"], "floor": 42, "hp": 79, "maxhp": 85, "block": 71, "energy": 5, "v2.0": false}
+{"frame": 172756, "card": "Intimidate", "hand": ["Searing Blow", "Limit Break", "Brutality", "Evolve+"], "floor": 42, "hp": 76, "maxhp": 85, "block": 71, "energy": 7, "v2.0": false}
+{"frame": 173040, "card": "Burning Pact", "hand": ["Combust+", "Evolve", "Rampage"], "floor": 42, "hp": 7, "maxhp": 85, "block": 0, "energy": 7, "v2.0": false}
+{"frame": 173240, "card": "Armaments+", "hand": ["Doubt", "Double Tap"], "floor": 42, "hp": 76, "maxhp": 85, "block": 71, "energy": 7, "v2.0": false}
+{"frame": 173636, "card": "Evolve+", "hand": ["Headbutt+", "Double Tap+", "Headbutt"], "floor": 42, "hp": 76, "maxhp": 85, "block": 76, "energy": 6, "v2.0": false}
+{"frame": 174074, "card": "Impervious", "hand": ["Headbutt+", "Double Tap+", "Headbutt", "Rampage+", "Dual Wield+"], "floor": 42, "hp": 76, "maxhp": 85, "block": 76, "energy": 3, "v2.0": false}
+{"frame": 174318, "card": "Dual Wield+", "hand": [], "floor": 42, "hp": 76, "maxhp": 85, "block": 106, "energy": 3, "v2.0": false}
+{"frame": 174534, "card": "Flex", "hand": ["Headbutt+", "Headbutt", "Double Tap+"], "floor": 42, "hp": 76, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 174644, "card": "Power Through", "hand": ["Headbutt", "Double Tap+", "Rampage+", "Inflame"], "floor": 42, "hp": 76, "maxhp": 85, "block": 106, "energy": 3, "v2.0": false}
+{"frame": 174756, "card": "Inflame", "hand": ["Headbutt", "Double Tap+", "Inflame", "Clothesline"], "floor": 42, "hp": 76, "maxhp": 85, "block": 121, "energy": 3, "v2.0": false}
+{"frame": 174846, "card": "Inflame", "hand": ["Headbutt", "Double Tap+"], "floor": 42, "hp": -1, "maxhp": -1, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 174870, "card": "Inflame", "hand": ["Headbutt", "Double Tap+", "Clothesline", "Rampage+", "Headbutt+", "Inflame", "Wound"], "floor": 42, "hp": -1, "maxhp": -1, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 175112, "card": "Headbutt+", "hand": ["Headbutt"], "floor": 42, "hp": 76, "maxhp": 85, "block": 121, "energy": 1, "v2.0": false}
+{"frame": 175962, "card": "Disarm+", "hand": ["Bash", "Shrug It Off", "Wild Strike", "Second Wind", "Purity+", "Reaper"], "floor": 42, "hp": 74, "maxhp": 85, "block": 115, "energy": 3, "v2.0": false}
+{"frame": 176062, "card": "Reaper", "hand": ["Smite", "Shrug It Off", "Wild Strike", "Warcry", "Second Wind", "Ascender's Bane"], "floor": 42, "hp": 74, "maxhp": 85, "block": 115, "energy": 3, "v2.0": false}
+{"frame": 176210, "card": "Shrug It Off", "hand": ["Warcry", "Bludgeon", "Second Wind", "Purity+", "Bash"], "floor": 42, "hp": 85, "maxhp": 85, "block": 115, "energy": 1, "v2.0": false}
+{"frame": 176806, "card": "Feel No Pain", "hand": ["Second Wind", "Immolate", "Immolate", "Searing Blow"], "floor": 42, "hp": 85, "maxhp": 85, "block": 123, "energy": 1, "v2.0": false}
+{"frame": 176890, "card": "Ghostly Armor", "hand": ["Warcry", "Second Wind", "Carnage", "Carnage", "Decay"], "floor": 42, "hp": 85, "maxhp": 85, "block": 123, "energy": 0, "v2.0": false}
+{"frame": 177010, "card": "Second Wind", "hand": ["Warcry", "Immolate", "Dropkick", "Bludgeon"], "floor": 42, "hp": 85, "maxhp": 85, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 177224, "card": "Armaments", "hand": ["Searing Blow", "Dropkick", "Bludgeon"], "floor": 42, "hp": -1, "maxhp": -1, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 177382, "card": "Impervious", "hand": ["Pain", "Immolate", "Dropkick"], "floor": 42, "hp": 85, "maxhp": 85, "block": 163, "energy": 0, "v2.0": false}
+{"frame": 178170, "card": "Double Tap+", "hand": ["Battle Trance+", "Bludgeon", "Immolate"], "floor": 42, "hp": -1, "maxhp": -1, "block": 181, "energy": 3, "v2.0": false}
+{"frame": 178372, "card": "Seeing Red", "hand": ["Battle Trance+", "Bludgeon", "Immolate"], "floor": 42, "hp": 83, "maxhp": 85, "block": 184, "energy": 3, "v2.0": false}
+{"frame": 178500, "card": "Whirlwind+", "hand": ["Battle Trance+", "Dropkick", "Headbutt"], "floor": 42, "hp": 83, "maxhp": 85, "block": 187, "energy": 5, "v2.0": false}
+{"frame": 179804, "card": "Barricade+", "hand": ["Immolate", "Shrug It Off"], "floor": 44, "hp": -1, "maxhp": -1, "block": 1, "energy": 4, "v2.0": false}
+{"frame": 179918, "card": "Shrug It Off", "hand": ["Immolate", "Impervious+", "Burning Pact+"], "floor": 44, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 180052, "card": "Armaments+", "hand": ["Immolate", "Wild Strike", "Impervious+", "Burning Pact+"], "floor": 44, "hp": 85, "maxhp": 85, "block": 18, "energy": 3, "v2.0": false}
+{"frame": 180120, "card": "Impervious+", "hand": ["Immolate+"], "floor": 44, "hp": 85, "maxhp": 85, "block": 23, "energy": 2, "v2.0": false}
+{"frame": 180702, "card": "Defend", "hand": ["Bash", "Shrug It Off+", "Reaper"], "floor": 44, "hp": 85, "maxhp": 85, "block": 79, "energy": 3, "v2.0": false}
+{"frame": 180958, "card": "Bash", "hand": ["Shrug It Off+", "Reaper", "Battle Trance+"], "floor": 44, "hp": 85, "maxhp": 85, "block": 82, "energy": 3, "v2.0": false}
+{"frame": 181300, "card": "Corruption+", "hand": ["Defend", "Defend", "Purity"], "floor": 44, "hp": 85, "maxhp": 85, "block": 77, "energy": 3, "v2.0": false}
+{"frame": 181394, "card": "Disarm+", "hand": ["Defend", "Defend"], "floor": 44, "hp": 85, "maxhp": 85, "block": 77, "energy": 2, "v2.0": false}
+{"frame": 181448, "card": "Defend", "hand": ["Defend", "Defend"], "floor": 44, "hp": 85, "maxhp": 85, "block": 77, "energy": 2, "v2.0": false}
+{"frame": 181500, "card": "Defend", "hand": ["Defend", "Berserk", "Corruption", "Evolve+"], "floor": 44, "hp": 85, "maxhp": 85, "block": 80, "energy": 2, "v2.0": false}
+{"frame": 181556, "card": "Defend", "hand": ["Berserk"], "floor": 44, "hp": 85, "maxhp": 85, "block": 83, "energy": 2, "v2.0": false}
+{"frame": 181646, "card": "Berserk", "hand": [], "floor": 44, "hp": 85, "maxhp": 85, "block": 86, "energy": 2, "v2.0": false}
+{"frame": 181706, "card": "Evolve+", "hand": [], "floor": 44, "hp": 85, "maxhp": 85, "block": 86, "energy": 2, "v2.0": false}
+{"frame": 182218, "card": "Battle Trance+", "hand": ["Flame Barrier+", "Armaments+", "Demon Form", "Purity+"], "floor": 44, "hp": 85, "maxhp": 85, "block": 86, "energy": 5, "v2.0": false}
+{"frame": 182376, "card": "Armaments+", "hand": ["Demon Form", "Defend", "Wild Strike+", "Reaper"], "floor": 44, "hp": 85, "maxhp": 85, "block": 86, "energy": 5, "v2.0": false}
+{"frame": 182490, "card": "Demon Form+", "hand": ["Wild Strike+", "Rage"], "floor": 44, "hp": 85, "maxhp": 85, "block": 89, "energy": 5, "v2.0": false}
+{"frame": 182628, "card": "Defend+", "hand": ["Flame Barrier+", "Void+", "Reaper", "Intimidate+"], "floor": 44, "hp": 85, "maxhp": 85, "block": 89, "energy": 3, "v2.0": false}
+{"frame": 182830, "card": "Rage+", "hand": ["Wild Strike+", "Brutality"], "floor": 44, "hp": 85, "maxhp": 85, "block": 107, "energy": 3, "v2.0": false}
+{"frame": 183482, "card": "Reaper+", "hand": ["Void+", "Brutality", "Wild Strike", "Exhume"], "floor": 44, "hp": 85, "maxhp": 85, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 183842, "card": "Entrench", "hand": ["Brutality", "Wild Strike", "Exhume", "Anger"], "floor": 44, "hp": 85, "maxhp": 85, "block": 112, "energy": 3, "v2.0": false}
+{"frame": 183952, "card": "Disarm+", "hand": [], "floor": 44, "hp": 85, "maxhp": 85, "block": 224, "energy": 3, "v2.0": false}
+{"frame": 184178, "card": "Entrench", "hand": ["Second Wind+", "Brutality", "Wild Strike", "Bite", "Battle Trance", "Strike+"], "floor": 44, "hp": 85, "maxhp": 85, "block": 224, "energy": 3, "v2.0": false}
+{"frame": 184376, "card": "Body Slam", "hand": [], "floor": 44, "hp": 85, "maxhp": 85, "block": 448, "energy": 3, "v2.0": false}
+{"frame": 187604, "card": "Shrug It Off+", "hand": ["Armaments+", "Whirlwind+", "Rage+"], "floor": 47, "hp": 35, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 187798, "card": "Disarm+", "hand": ["Armaments+", "Disarm+", "Whirlwind+", "Second Wind"], "floor": 47, "hp": 85, "maxhp": 85, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 187934, "card": "Metallicize", "hand": ["Whirlwind+", "Evolve+"], "floor": 47, "hp": 85, "maxhp": 85, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 188140, "card": "Whirlwind+", "hand": ["Disarm+", "Armaments+", "Second Wind"], "floor": 47, "hp": 85, "maxhp": 85, "block": 21, "energy": 1, "v2.0": false}
+{"frame": 188904, "card": "Purity+", "hand": [], "floor": 47, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 189468, "card": "Rage", "hand": ["Battle Trance+", "Clothesline", "Perfected Strike", "Headbutt"], "floor": 47, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 189628, "card": "Battle Trance+", "hand": ["Clothesline", "Perfected Strike", "Dazed", "Headbutt"], "floor": 47, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 189794, "card": "Power Through", "hand": ["Clothesline", "Headbutt"], "floor": 47, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 190482, "card": "Corruption+", "hand": ["Impervious+", "Bash", "Good Instincts", "Dazed", "Dazed"], "floor": 47, "hp": 85, "maxhp": 85, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 190614, "card": "Defend", "hand": ["Bash", "Pommel Strike", "Dazed", "Entrench"], "floor": 47, "hp": 85, "maxhp": 85, "block": 30, "energy": 4, "v2.0": false}
+{"frame": 190740, "card": "Pommel Strike", "hand": ["Bash", "Defend", "Heavy Blade", "Iron Wave", "Dazed"], "floor": 47, "hp": 85, "maxhp": 85, "block": 33, "energy": 4, "v2.0": false}
+{"frame": 190892, "card": "Bloodletting+", "hand": ["Bash", "Defend", "Battle Trance", "Dazed"], "floor": 47, "hp": 85, "maxhp": 85, "block": 33, "energy": 3, "v2.0": false}
+{"frame": 190958, "card": "Defend", "hand": ["Bash", "Heavy Blade", "Iron Wave", "Battle Trance", "Dazed", "Infernal Blade+"], "floor": 47, "hp": -1, "maxhp": -1, "block": 33, "energy": 6, "v2.0": false}
+{"frame": 191038, "card": "Infernal Blade", "hand": ["Bash", "Heavy Blade", "Iron Wave", "Battle Trance", "Entrench"], "floor": 47, "hp": 82, "maxhp": 85, "block": 38, "energy": 6, "v2.0": false}
+{"frame": 191536, "card": "Offering", "hand": ["Exhume", "Iron Wave", "Burning Pact+", "Inflame"], "floor": 47, "hp": 82, "maxhp": 85, "block": 38, "energy": 4, "v2.0": false}
+{"frame": 192856, "card": "Burning Pact+", "hand": [], "floor": 48, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 193278, "card": "Corruption+", "hand": ["Shrug It Off+", "Defend", "Battle Trance+"], "floor": 48, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 193564, "card": "Offering", "hand": ["Defend", "Bash", "Shrug It Off", "Battle Trance+", "Fire Breathing+"], "floor": 48, "hp": 845, "maxhp": 85, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 193862, "card": "Bash", "hand": ["Battle Trance+", "Shrug It Off", "Impervious+", "Shrug It Off+", "Regret", "Defend", "Wild Strike"], "floor": 48, "hp": 79, "maxhp": 85, "block": 21, "energy": 4, "v2.0": false}
+{"frame": 193930, "card": "Dropkick", "hand": ["Battle Trance+", "Shrug It Off", "Impervious+", "Shrug It Off+", "Searing Blow+", "Defend"], "floor": 48, "hp": 79, "maxhp": 85, "block": 26, "energy": 3, "v2.0": false}
+{"frame": 194058, "card": "Bloodletting+", "hand": ["Battle Trance+", "Shrug It Off", "Impervious+", "Shame", "Wild Strike", "Searing Blow+", "Fire Breathing+"], "floor": 48, "hp": 79, "maxhp": 85, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 194146, "card": "Shrug It Off+", "hand": ["Battle Trance+", "Shrug It Off", "Impervious+", "Wild Strike", "Searing Blow+", "Metallicize"], "floor": 48, "hp": 76, "maxhp": 85, "block": 3, "energy": 6, "v2.0": false}
+{"frame": 194252, "card": "Barricade+", "hand": ["Battle Trance+", "Shrug It Off", "Impervious+", "Void", "Searing Blow+"], "floor": 48, "hp": 76, "maxhp": 85, "block": 42, "energy": 6, "v2.0": false}
+{"frame": 194298, "card": "Metallicize", "hand": ["Shrug It Off", "Impervious+", "Wild Strike", "Fire Breathing+"], "floor": 48, "hp": 76, "maxhp": 85, "block": 42, "energy": 4, "v2.0": false}
+{"frame": 194334, "card": "Impervious+", "hand": ["Defend", "Bite", "Shrug It Off", "Wild Strike", "Offering"], "floor": 48, "hp": 76, "maxhp": 85, "block": 42, "energy": 3, "v2.0": false}
+{"frame": 194408, "card": "Shrug It Off", "hand": ["Defend", "Offering", "Sword Boomerang"], "floor": 48, "hp": 76, "maxhp": 85, "block": 82, "energy": 3, "v2.0": false}
+{"frame": 194508, "card": "Defend", "hand": ["Wild Strike", "Offering", "Sword Boomerang", "Fire Breathing+", "Second Wind", "Clash"], "floor": 48, "hp": 76, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 194638, "card": "Pommel Strike", "hand": ["Battle Trance+", "Wild Strike", "Offering", "Sword Boomerang", "Searing Blow+", "Second Wind"], "floor": 48, "hp": 6, "maxhp": 85, "block": 95, "energy": 3, "v2.0": false}
+{"frame": 194780, "card": "Whirlwind+", "hand": ["Battle Trance+", "Wild Strike", "Offering", "Sword Boomerang", "Searing Blow+"], "floor": 48, "hp": 76, "maxhp": 85, "block": 100, "energy": 2, "v2.0": false}
+{"frame": 196082, "card": "Armaments+", "hand": ["Intimidate", "Reaper", "Flex+", "Evolve+"], "floor": 48, "hp": 76, "maxhp": 85, "block": 99, "energy": 3, "v2.0": false}
+{"frame": 196238, "card": "Defend+", "hand": ["Reaper+", "Wild Strike"], "floor": 48, "hp": -1, "maxhp": -1, "block": 124, "energy": 3, "v2.0": false}
+{"frame": 196292, "card": "Evolve+", "hand": ["Reaper+"], "floor": 48, "hp": 76, "maxhp": 85, "block": 131, "energy": 3, "v2.0": false}
+{"frame": 196678, "card": "Intimidate+", "hand": ["Shrug It Off", "Wild Strike", "Rage", "Juggernaut"], "floor": 48, "hp": 79, "maxhp": 85, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 196706, "card": "Intimidate+", "hand": ["Shrug It Off", "Wild Strike", "Rage", "Juggernaut"], "floor": 48, "hp": 79, "maxhp": 85, "block": 131, "energy": 0, "v2.0": false}
+{"frame": 197384, "card": "Shrug It Off", "hand": ["Wild Strike", "True Grit", "Exhume", "Bloodletting"], "floor": 48, "hp": 75, "maxhp": 85, "block": 115, "energy": 4, "v2.0": false}
+{"frame": 197558, "card": "True Grit", "hand": ["Wild Strike", "Exhume", "Pommel Strike", "Offering", "Iron Wave"], "floor": 48, "hp": 79, "maxhp": 85, "block": 124, "energy": 4, "v2.0": false}
+{"frame": 197828, "card": "Carnage", "hand": ["Wild Strike", "Exhume", "Pommel Strike", "Offering", "Iron Wave"], "floor": 48, "hp": 79, "maxhp": 85, "block": 132, "energy": 4, "v2.0": false}
+{"frame": 197916, "card": "Iron Wave", "hand": ["Wild Strike", "Exhume", "Pommel Strike", "Offering", "Offering"], "floor": 48, "hp": 75, "maxhp": 85, "block": 132, "energy": 2, "v2.0": false}
+{"frame": 197994, "card": "Pommel Strike", "hand": ["Offering", "Wild Strike", "Exhume", "Offering", "Bloodletting", "Rupture"], "floor": 48, "hp": 74, "maxhp": 85, "block": 138, "energy": 1, "v2.0": false}
+{"frame": 198416, "card": "Bash", "hand": ["Shrug It Off", "Defend"], "floor": 48, "hp": 75, "maxhp": 85, "block": 141, "energy": 3, "v2.0": false}
+{"frame": 198452, "card": "Dual Wield", "hand": ["Shrug It Off", "Defend"], "floor": 48, "hp": 75, "maxhp": 85, "block": 141, "energy": 2, "v2.0": false}
+{"frame": 198514, "card": "Dropkick", "hand": ["Shrug It Off", "Defend", "Disarm+", "Infernal Blade"], "floor": 48, "hp": 79, "maxhp": 85, "block": 141, "energy": 2, "v2.0": false}
+{"frame": 198582, "card": "Dropkick", "hand": ["Shrug It Off", "Defend", "Headbutt", "Disarm+", "Infernal Blade"], "floor": 48, "hp": 79, "maxhp": 85, "block": 141, "energy": 2, "v2.0": false}
+{"frame": 198640, "card": "Infernal Blade", "hand": ["Shrug It Off", "Defend", "Headbutt", "Disarm+"], "floor": 48, "hp": 79, "maxhp": 85, "block": 141, "energy": 2, "v2.0": false}
+{"frame": 198714, "card": "Iron Wave", "hand": ["Defend", "Headbutt", "Twin Strike", "Shrug It Off", "Second Wind"], "floor": 48, "hp": 73, "maxhp": 85, "block": 141, "energy": 2, "v2.0": false}
+{"frame": 198794, "card": "Twin Strike", "hand": [], "floor": 48, "hp": 79, "maxhp": 85, "block": 149, "energy": 2, "v2.0": false}
+{"frame": 200238, "card": "Impervious+", "hand": ["Barricade+", "Defend", "Flame Barrier+", "Entrench"], "floor": 50, "hp": 85, "maxhp": 85, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 200366, "card": "Defend", "hand": ["Barricade+", "Burning Pact+", "Dual Wield+", "Disarm+", "Corruption"], "floor": 50, "hp": 85, "maxhp": 85, "block": 50, "energy": 2, "v2.0": false}
+{"frame": 200404, "card": "Barricade+", "hand": ["Burning Pact+", "Dual Wield+", "Corruption"], "floor": 50, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 200920, "card": "Battle Trance+", "hand": ["Bash", "Fire Breathing+", "Twin Strike", "Searing Blow+", "Bloodletting+"], "floor": 50, "hp": 85, "maxhp": 85, "block": 31, "energy": 4, "v2.0": false}
+{"frame": 201044, "card": "Bloodletting+", "hand": ["Bash", "Searing Blow+", "Evolve+"], "floor": 50, "hp": 85, "maxhp": 85, "block": 31, "energy": 1, "v2.0": false}
+{"frame": 201186, "card": "Evolve+", "hand": [], "floor": 50, "hp": -1, "maxhp": -1, "block": 31, "energy": 2, "v2.0": false}
+{"frame": 201214, "card": "Shrug It Off", "hand": ["Entrench"], "floor": 50, "hp": 2, "maxhp": 85, "block": 31, "energy": 2, "v2.0": false}
+{"frame": 201302, "card": "Shrug It Off+", "hand": ["Bash", "Fire Breathing+", "Searing Blow+", "Rage+", "Entrench"], "floor": 50, "hp": 2, "maxhp": 5, "block": 39, "energy": 2, "v2.0": false}
+{"frame": 201722, "card": "Fire Breathing+", "hand": ["Wild Strike", "Searing Blow+", "Bludgeon"], "floor": 50, "hp": -1, "maxhp": -1, "block": 50, "energy": 1, "v2.0": false}
+{"frame": 201776, "card": "Ghostly Armor", "hand": ["Wild Strike", "Searing Blow+", "Bash", "Carnage", "Bludgeon"], "floor": 50, "hp": -1, "maxhp": -1, "block": 50, "energy": 0, "v2.0": false}
+{"frame": 201900, "card": "Limit Break", "hand": ["Wild Strike", "Searing Blow+", "Bash", "Carnage", "Bludgeon"], "floor": 50, "hp": 82, "maxhp": 85, "block": 60, "energy": 0, "v2.0": false}
+{"frame": 201972, "card": "Searing Blow+", "hand": ["Wild Strike", "Bash", "Carnage", "Carnage", "Bludgeon", "Wild Strike"], "floor": 50, "hp": 82, "maxhp": 85, "block": 60, "energy": 0, "v2.0": false}
+{"frame": 202548, "card": "Shrug It Off+", "hand": ["Armaments+", "Defend", "Reaper", "Disarm+"], "floor": 50, "hp": 82, "maxhp": 85, "block": 35, "energy": 3, "v2.0": false}
+{"frame": 202684, "card": "Armaments+", "hand": ["Defend", "Purity+"], "floor": 50, "hp": 82, "maxhp": 85, "block": 46, "energy": 3, "v2.0": false}
+{"frame": 202872, "card": "Defend+", "hand": ["Defend+", "Fiend Fire+", "Reaper+", "Disarm+", "Body Slam"], "floor": 50, "hp": 82, "maxhp": 85, "block": 51, "energy": 3, "v2.0": false}
+{"frame": 203042, "card": "Intimidate+", "hand": ["Fiend Fire", "Body Slam", "Cleave", "Pummel+", "Heavy Blade"], "floor": 50, "hp": 82, "maxhp": 85, "block": 67, "energy": 3, "v2.0": false}
+{"frame": 203358, "card": "Power Through", "hand": ["Fiend Fire+", "Body Slam", "Cleave", "Heavy Blade", "Entrench"], "floor": 50, "hp": 82, "maxhp": 85, "block": 67, "energy": 3, "v2.0": false}
+{"frame": 204042, "card": "Ghostly Armor", "hand": ["Evolve", "Second Wind", "Demon Form", "Fire Breathing", "Twin Strike", "Corruption"], "floor": 50, "hp": 82, "maxhp": 85, "block": 82, "energy": 0, "v2.0": false}
+{"frame": 204144, "card": "Second Wind", "hand": ["Feel No Pain", "Fire Breathing", "Twin Strike", "Corruption", "Iron Wave"], "floor": 50, "hp": 82, "maxhp": 85, "block": 92, "energy": 0, "v2.0": false}
+{"frame": 204164, "card": "Second Wind", "hand": ["Feel No Pain", "Bash", "Twin Strike"], "floor": 50, "hp": 82, "maxhp": 85, "block": 92, "energy": 0, "v2.0": false}
+{"frame": 205350, "card": "Bloodletting+", "hand": ["Twin Strike", "Searing Blow+", "Whirlwind+", "Whirlwind", "Bash"], "floor": 50, "hp": 82, "maxhp": 85, "block": 92, "energy": 3, "v2.0": false}
+{"frame": 205474, "card": "Whirlwind+", "hand": ["Bash", "Perfected Strike", "Twin Strike", "Whirlwind"], "floor": 50, "hp": 79, "maxhp": 85, "block": 92, "energy": 6, "v2.0": false}
+{"frame": 205642, "card": "Searing Blow+", "hand": ["Twin Strike", "Whirlwind", "Bash", "Perfected Strike"], "floor": 50, "hp": -1, "maxhp": -1, "block": 92, "energy": 0, "v2.0": false}
+{"frame": 206338, "card": "Defend", "hand": ["Iron Wave", "Defend", "Dazed"], "floor": 50, "hp": 79, "maxhp": 85, "block": 56, "energy": 5, "v2.0": false}
+{"frame": 206516, "card": "Dark Embrace", "hand": ["Iron Wave", "Body Slam", "Defend"], "floor": 50, "hp": 79, "maxhp": 85, "block": 62, "energy": 5, "v2.0": false}
+{"frame": 206646, "card": "Ghostly Armor", "hand": ["Iron Wave", "Body Slam", "Battle Trance+", "Metallicize"], "floor": 50, "hp": -1, "maxhp": 5, "block": 68, "energy": 3, "v2.0": false}
+{"frame": 206990, "card": "Battle Trance+", "hand": ["Dazed", "Dazed", "Searing Blow"], "floor": 50, "hp": 79, "maxhp": 85, "block": 85, "energy": 2, "v2.0": false}
+{"frame": 207828, "card": "Shrug It Off+", "hand": ["Wild Strike", "Disarm+", "Rage+", "Fire Breathing+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 207926, "card": "Disarm+", "hand": ["Strike", "Wild Strike", "Disarm+", "Purity+"], "floor": 51, "hp": 85, "maxhp": 85, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 207990, "card": "Disarm+", "hand": ["Rage+", "Purity+", "Brutality"], "floor": 51, "hp": 85, "maxhp": 85, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 208092, "card": "Fire Breathing+", "hand": ["Rage+", "Dual Wield+", "Brutality", "Carnage"], "floor": 51, "hp": 85, "maxhp": 85, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 208790, "card": "Barricade+", "hand": ["Defend", "Bash", "Shrug It Off", "Burning Pact+", "Evolve+"], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 208862, "card": "Shrug It Off", "hand": ["Defend", "Defend", "Bash", "Rampage", "Burn+"], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 209194, "card": "Defend", "hand": ["Defend", "Defend"], "floor": 51, "hp": 85, "maxhp": 85, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 209240, "card": "Defend", "hand": ["Rampage", "Defend", "Bash"], "floor": 51, "hp": 85, "maxhp": 85, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 209738, "card": "Corruption+", "hand": ["Impervious+", "Shrug It Off+", "Bloodletting+", "Battle Trance+", "Whirlwind+"], "floor": 51, "hp": -1, "maxhp": -1, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 209834, "card": "Shrug It Off+", "hand": ["Body Slam"], "floor": 51, "hp": 85, "maxhp": 85, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 209958, "card": "Impervious+", "hand": ["Battle Trance+", "Body Slam", "Dropkick"], "floor": 51, "hp": 85, "maxhp": 85, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 210098, "card": "Flame Barrier+", "hand": ["Whirlwind+"], "floor": 51, "hp": 85, "maxhp": 85, "block": 63, "energy": 2, "v2.0": false}
+{"frame": 210588, "card": "Armaments+", "hand": ["Immolate", "Second Wind", "Purity+", "Combust"], "floor": 51, "hp": 85, "maxhp": 85, "block": 51, "energy": 5, "v2.0": false}
+{"frame": 210716, "card": "Purity+", "hand": ["Searing Blow+", "Second Wind+", "Immolate+", "Combust+"], "floor": 51, "hp": 85, "maxhp": 85, "block": 56, "energy": 5, "v2.0": false}
+{"frame": 211086, "card": "Armaments", "hand": ["Perfected Strike", "Offering", "Shockwave", "Flame Barrier"], "floor": 51, "hp": 85, "maxhp": 85, "block": 56, "energy": 5, "v2.0": false}
+{"frame": 211226, "card": "Shockwave+", "hand": ["Perfected Strike", "Offering", "Flame Barrier", "Rampage", "Entrench"], "floor": 51, "hp": 85, "maxhp": 85, "block": 61, "energy": 5, "v2.0": false}
+{"frame": 211322, "card": "Flame Barrier+", "hand": ["Shame", "Offering"], "floor": 51, "hp": 85, "maxhp": 85, "block": 61, "energy": 5, "v2.0": false}
+{"frame": 211454, "card": "Offering", "hand": ["Offering", "Second Wind", "Entrench"], "floor": 51, "hp": -1, "maxhp": -1, "block": 73, "energy": 5, "v2.0": false}
+{"frame": 211636, "card": "Shrug It Off+", "hand": ["Slimed+", "Perfected Strike", "Rampage", "Second Wind"], "floor": 51, "hp": 79, "maxhp": 85, "block": 73, "energy": 7, "v2.0": false}
+{"frame": 211768, "card": "Shrug It Off", "hand": ["Shame+", "Perfected Strike"], "floor": 51, "hp": 79, "maxhp": 85, "block": 84, "energy": 7, "v2.0": false}
+{"frame": 211900, "card": "Second Wind", "hand": ["Shame", "Reaper", "Anger", "Feed", "Rampage"], "floor": 51, "hp": -1, "maxhp": 5, "block": 92, "energy": 7, "v2.0": false}
+{"frame": 211924, "card": "Second Wind", "hand": ["Clumsy", "Shame", "Rage+", "Purity", "Rampage", "Anger"], "floor": 51, "hp": -1, "maxhp": 85, "block": 92, "energy": 7, "v2.0": false}
+{"frame": 212502, "card": "Body Slam", "hand": ["Anger", "Thunderclap", "Limit Break", "Body Slam", "Perfected Strike"], "floor": 51, "hp": 79, "maxhp": 85, "block": 122, "energy": 7, "v2.0": false}
+{"frame": 212582, "card": "Body Slam", "hand": ["Anger", "Thunderclap", "Headbutt", "Perfected Strike", "Spot Weakness", "Limit Break", "Shockwave"], "floor": 51, "hp": 79, "maxhp": 85, "block": 122, "energy": 6, "v2.0": false}
+{"frame": 212626, "card": "Headbutt", "hand": ["Anger", "Thunderclap"], "floor": 51, "hp": 79, "maxhp": 85, "block": 122, "energy": 5, "v2.0": false}
+{"frame": 213290, "card": "Reaper", "hand": ["Body Slam", "Defend", "Intimidate"], "floor": 51, "hp": 75, "maxhp": 85, "block": 110, "energy": 3, "v2.0": false}
+{"frame": 213384, "card": "Body Slam", "hand": [], "floor": 51, "hp": 85, "maxhp": 85, "block": 110, "energy": 3, "v2.0": false}
+done

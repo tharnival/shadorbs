@@ -1,0 +1,569 @@
+{"frame": 1980, "card": "Strike", "hand": ["Defend", "Defend", "Defend", "Defend"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2038, "card": "Defend", "hand": ["Defend", "Defend"], "floor": 1, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 2448, "card": "Strike", "hand": ["Bash", "Strike"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2476, "card": "Strike", "hand": ["Strike", "Ascender's Bane", "Bash"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2502, "card": "Strike", "hand": ["Ascender's Bane", "Bash"], "floor": 1, "hp": 50, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 2812, "card": "Defend", "hand": ["Defend", "Defend", "Defend", "Strike"], "floor": 1, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 2860, "card": "Defend", "hand": ["Defend", "Defend", "Strike"], "floor": 1, "hp": 38, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 2892, "card": "Smite", "hand": ["Defend", "Defend"], "floor": 1, "hp": 38, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 3180, "card": "Bash", "hand": ["Strike", "Strike", "Defend"], "floor": 1, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 3244, "card": "Strike", "hand": ["Strike", "Defend", "Shame"], "floor": 1, "hp": 38, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 3612, "card": "Strike", "hand": [], "floor": 1, "hp": 38, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 4794, "card": "Bash", "hand": ["Defend", "Defend", "Strike"], "floor": 3, "hp": 26, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5038, "card": "Anger", "hand": ["Defend", "Strike", "Defend"], "floor": 3, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5162, "card": "Defend", "hand": ["Ascender's Bane"], "floor": 3, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5616, "card": "Defend", "hand": ["Bash", "Defend", "Anger", "Defend"], "floor": 3, "hp": 26, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5650, "card": "Defend", "hand": ["Bash", "Anger", "Defend"], "floor": 3, "hp": 26, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 5686, "card": "Defend", "hand": ["Bash"], "floor": 3, "hp": 26, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 5720, "card": "Anger", "hand": ["Bash"], "floor": 3, "hp": -1, "maxhp": -1, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 5948, "card": "Strike", "hand": ["Defend", "Strike", "Anger"], "floor": 3, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 5970, "card": "Strike", "hand": ["Defend", "Strike", "Anger"], "floor": 3, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 6000, "card": "Strike", "hand": [], "floor": 3, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 7486, "card": "Defend", "hand": ["Bash", "Strike", "Defend", "Strike"], "floor": 5, "hp": 32, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 7518, "card": "Defend", "hand": ["Strike", "Strike"], "floor": 5, "hp": 32, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 7554, "card": "Strike", "hand": ["Bash", "Strike"], "floor": 5, "hp": 32, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 7932, "card": "Defend", "hand": ["Defend", "Dark Embrace", "Ascender's Bane"], "floor": 5, "hp": 32, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 8160, "card": "Anger", "hand": ["Dark Embrace", "Ascender's Bane"], "floor": 5, "hp": 32, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 8938, "card": "Anger", "hand": ["Strike", "Defend", "Defend", "Dark Embrace"], "floor": 5, "hp": 28, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9082, "card": "Strike", "hand": ["Defend", "Defend"], "floor": 5, "hp": 28, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9120, "card": "Defend", "hand": ["Defend", "Dark Embrace"], "floor": 5, "hp": 28, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 9392, "card": "Defend", "hand": ["Strike", "Anger", "Defend", "Bash"], "floor": 5, "hp": 28, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 9422, "card": "Defend", "hand": ["Strike", "Anger", "Bash"], "floor": 5, "hp": 28, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 9482, "card": "Strike", "hand": ["Anger", "Bash"], "floor": 5, "hp": 28, "maxhp": 75, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 10054, "card": "Burning Pact", "hand": ["Anger", "Defend", "Anger"], "floor": 5, "hp": 28, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 10170, "card": "Defend", "hand": ["Anger", "Anger", "Defend", "Dark Embrace"], "floor": 5, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 10246, "card": "Anger", "hand": ["Anger", "Dark Embrace", "Dark Embrace"], "floor": 5, "hp": 28, "maxhp": 75, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 10286, "card": "Anger", "hand": [], "floor": 5, "hp": -1, "maxhp": -1, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 10526, "card": "Strike", "hand": [], "floor": 5, "hp": 28, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12194, "card": "Strike", "hand": ["Defend", "Defend", "Bash", "Ascender's Bane"], "floor": 7, "hp": 71, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 12514, "card": "Defend", "hand": ["Defend", "Bash", "Ascender's Bane"], "floor": 7, "hp": 71, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 12592, "card": "Defend", "hand": ["Ascender's Bane", "Bash"], "floor": 7, "hp": 71, "maxhp": 75, "block": 5, "energy": 1, "v2.0": false}
+{"frame": 13232, "card": "Defend", "hand": ["Anger", "Clothesline", "Strike", "Burning Pact"], "floor": 7, "hp": 71, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13302, "card": "Clothesline", "hand": ["Anger", "Strike", "Burning Pact"], "floor": 7, "hp": 71, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 13358, "card": "Anger", "hand": ["Burning Pact", "Strike"], "floor": 7, "hp": 71, "maxhp": 75, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 13818, "card": "Dark Embrace", "hand": ["Defend", "Strike"], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 13862, "card": "Defend", "hand": ["Strike"], "floor": 7, "hp": 56, "maxhp": 75, "block": 1, "energy": 1, "v2.0": false}
+{"frame": 14320, "card": "Anger", "hand": ["Strike", "Defend", "Clothesline", "Dazed"], "floor": 7, "hp": 51, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14412, "card": "Clothesline", "hand": ["Strike", "Dazed"], "floor": 7, "hp": 51, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 14436, "card": "Defend", "hand": ["Strike", "Dazed", "Dazed"], "floor": 7, "hp": 51, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 15066, "card": "Defend", "hand": ["Dazed", "Dazed"], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15138, "card": "Bash", "hand": ["Burning Pact", "Dazed", "Dazed"], "floor": 7, "hp": 46, "maxhp": 75, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 15758, "card": "Bash", "hand": ["Defend", "Anger", "Dazed", "Anger", "Dazed"], "floor": 7, "hp": 41, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 15840, "card": "Anger", "hand": ["Defend", "Anger", "Dazed"], "floor": 7, "hp": 41, "maxhp": 75, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 16490, "card": "Anger", "hand": ["Defend", "Defend", "Defend", "Dazed", "Dazed"], "floor": 7, "hp": 36, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16526, "card": "Defend", "hand": ["Defend", "Dazed"], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 16554, "card": "Defend", "hand": ["Dazed", "Dazed"], "floor": 7, "hp": 36, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 17062, "card": "Clothesline", "hand": ["Burning Pact", "Strike", "Anger", "Bash", "Strike"], "floor": 7, "hp": 36, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 17118, "card": "Anger", "hand": ["Strike", "Strike", "Dazed"], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 17168, "card": "Anger", "hand": ["Strike", "Dazed", "Strike", "Burning Pact"], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 17210, "card": "Strike", "hand": [], "floor": 7, "hp": -1, "maxhp": -1, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 17898, "card": "Clothesline", "hand": ["Strike", "Defend", "Anger", "Dark Embrace"], "floor": 8, "hp": 42, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18306, "card": "Battle Trance", "hand": ["Defend", "Bash", "Defend", "Ascender's Bane"], "floor": 8, "hp": 37, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18406, "card": "Bash", "hand": ["Defend", "Strike", "Burning Pact"], "floor": 8, "hp": 37, "maxhp": 75, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 18814, "card": "Anger", "hand": ["Anger", "Defend", "Defend", "Strike"], "floor": 8, "hp": 36, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 18864, "card": "Anger", "hand": ["Defend", "Defend", "Strike"], "floor": 8, "hp": 36, "maxhp": 75, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21452, "card": "Clothesline", "hand": ["Defend", "Defend", "Dark Embrace", "Burning Pact+"], "floor": 10, "hp": 49, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 21736, "card": "Burning Pact", "hand": ["Defend"], "floor": 10, "hp": 45, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 22156, "card": "Flame Barrier", "hand": ["Defend", "Battle Trance"], "floor": 10, "hp": 49, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 22220, "card": "Battle Trance", "hand": ["Strike", "Defend", "Ascender's Bane"], "floor": 10, "hp": -1, "maxhp": -1, "block": 2, "energy": 1, "v2.0": false}
+{"frame": 22336, "card": "Anger", "hand": ["Strike", "Defend", "Defend", "Strike"], "floor": 10, "hp": 49, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 22372, "card": "Defend", "hand": ["Defend"], "floor": 10, "hp": 459, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 23166, "card": "Clothesline", "hand": ["Bash", "Dark Embrace", "Burning Pact", "Flame Barrier"], "floor": 10, "hp": 47, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23288, "card": "Burning Pact", "hand": ["Bash", "Flame Barrier"], "floor": 10, "hp": 47, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 23672, "card": "Anger", "hand": ["Strike", "Defend", "Strike"], "floor": 10, "hp": 47, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23720, "card": "Strike", "hand": ["Defend"], "floor": 10, "hp": 47, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 23742, "card": "Strike", "hand": [], "floor": 10, "hp": 47, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 25668, "card": "Battle Trance", "hand": ["Burning Pact", "Anger"], "floor": 11, "hp": 53, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26000, "card": "Strike", "hand": ["Strike", "Defend"], "floor": 11, "hp": 53, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 26046, "card": "Anger", "hand": ["Strike", "Defend", "Burning Pact", "Flame Barrier+"], "floor": 11, "hp": 53, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 26108, "card": "Burning Pact", "hand": [], "floor": 11, "hp": 53, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 26638, "card": "Bash", "hand": ["Defend", "Defend", "Defend", "Dark Embrace"], "floor": 11, "hp": 53, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27062, "card": "Clothesline", "hand": ["Body Slam", "Anger", "Strike"], "floor": 11, "hp": 45, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 27112, "card": "Anger", "hand": ["Body Slam", "Strike"], "floor": 11, "hp": 45, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 28082, "card": "Bash", "hand": ["Strike"], "floor": 11, "hp": 27, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 28118, "card": "Anger", "hand": ["Defend", "Strike", "Battle Trance", "Burning Pact"], "floor": 11, "hp": 27, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 31424, "card": "Battle Trance", "hand": ["Strike", "Clothesline", "Body Slam"], "floor": 14, "hp": 33, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32410, "card": "Flame Barrier", "hand": ["Bash", "Strike", "Clothesline"], "floor": 14, "hp": 33, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 32544, "card": "Body Slam", "hand": ["Bash", "Strike", "Clothesline", "Burning Pact"], "floor": 14, "hp": 33, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 33104, "card": "Defend", "hand": ["Defend", "True Grit"], "floor": 14, "hp": 33, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33136, "card": "Defend", "hand": ["True Grit", "Ascender's Bane", "Dark Embrace"], "floor": 14, "hp": 33, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 33166, "card": "True Grit", "hand": ["Ascender's Bane", "Dark Embrace"], "floor": 14, "hp": 33, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 33756, "card": "Strike", "hand": ["Anger", "Defend", "Defend", "True Grit"], "floor": 14, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 33808, "card": "Anger", "hand": ["Defend", "Defend", "True Grit"], "floor": 14, "hp": 28, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 33858, "card": "True Grit", "hand": ["Defend", "Defend"], "floor": 14, "hp": 28, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 34230, "card": "Flame Barrier", "hand": ["Shame", "Body Slam", "Bash", "Blind"], "floor": 14, "hp": 28, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34312, "card": "Body Slam", "hand": ["Burning Pact", "Shame", "Bash", "Bash"], "floor": 14, "hp": 28, "maxhp": 82, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 34850, "card": "Battle Trance", "hand": ["Defend", "Strike", "Defend", "Dark Embrace"], "floor": 14, "hp": 26, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 34976, "card": "Clothesline", "hand": ["Defend", "Strike", "Defend", "Dark Embrace"], "floor": 14, "hp": 26, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 35000, "card": "Anger", "hand": ["Defend", "Strike", "Defend"], "floor": 14, "hp": 26, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 35038, "card": "Anger", "hand": [], "floor": 14, "hp": 26, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 36544, "card": "Battle Trance", "hand": ["Body Slam", "Clothesline", "Bash", "Defend"], "floor": 16, "hp": 32, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 37800, "card": "Strike", "hand": ["Anger"], "floor": 16, "hp": 32, "maxhp": 82, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 38466, "card": "Dark Embrace", "hand": ["True Grit+", "Defend", "Ascender's Bane", "Flame Barrier"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 38496, "card": "True Grit+", "hand": ["Defend", "Ascender's Bane", "Flame Barrier"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 39238, "card": "Burning Pact", "hand": ["Defend", "Clothesline", "Defend"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 39654, "card": "Clothesline", "hand": ["Defend", "Defend", "Anger", "Bash", "Dazed"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 40430, "card": "True Grit+", "hand": ["Defend", "Anger", "Body Slam"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 40732, "card": "Defend", "hand": ["Bash", "Body Slam", "Burning Pact"], "floor": 16, "hp": 6, "maxhp": 82, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 43170, "card": "Flame Barrier", "hand": ["Defend", "Defend", "Battle Trance"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 43224, "card": "Defend", "hand": ["Defend"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 43674, "card": "Flame Barrier", "hand": ["True Grit+"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 43692, "card": "Flame Barrier", "hand": ["Clothesline", "Defend", "Defend"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 43710, "card": "Flame Barrier", "hand": ["Clothesline", "Defend", "Defend"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 43734, "card": "True Grit+", "hand": ["Defend"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 44896, "card": "Battle Trance", "hand": ["Defend", "Body Slam", "Bash", "Burning Pact"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 45704, "card": "True Grit+", "hand": ["Body Slam", "Bash", "Clothesline", "Burning Pact", "Flash of Steel"], "floor": 16, "hp": 6, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 46578, "card": "Body Slam", "hand": ["Flame Barrier", "Burning Pact", "Clothesline"], "floor": 16, "hp": 6, "maxhp": 82, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 47146, "card": "Battle Trance", "hand": ["Defend", "True Grit+"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47184, "card": "Battle Trance", "hand": ["Defend", "True Grit+", "Flame Barrier"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47428, "card": "Flame Barrier", "hand": ["Defend", "True Grit", "Clothesline", "Body Slam"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 47500, "card": "Flame Barrier", "hand": ["True Grit", "Body Slam", "Burning Pact"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 47606, "card": "Defend", "hand": ["Defend", "True Grit+", "Body Slam", "Burning Pact"], "floor": 16, "hp": 6, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 48100, "card": "Flame Barrier", "hand": ["Defend", "Body Slam", "Battle Trance", "Defend"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 48122, "card": "Flame Barrier", "hand": ["Defend", "Body Slam", "Battle Trance", "Defend"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 48202, "card": "Defend", "hand": ["Body Slam", "Defend", "Battle Trance"], "floor": 16, "hp": 6, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 48372, "card": "Battle Trance", "hand": ["Body Slam", "Defend"], "floor": 16, "hp": 6, "maxhp": 82, "block": 17, "energy": 0, "v2.0": false}
+{"frame": 48858, "card": "Flame Barrier", "hand": ["Clothesline", "Defend", "Battle Trance", "Blind"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 49112, "card": "True Grit+", "hand": ["Defend", "Clothesline", "Battle Trance", "Blind"], "floor": 16, "hp": 6, "maxhp": 82, "block": 2, "energy": 1, "v2.0": false}
+{"frame": 51934, "card": "Battle Trance", "hand": ["Clothesline", "Burning Pact", "Body Slam", "Flame Barrier"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 52048, "card": "Defend", "hand": ["Body Slam", "Clothesline", "True Grit", "Burning Pact", "Flame Barrier", "Blind"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 52392, "card": "Body Slam", "hand": ["Clothesline", "Flame Barrier"], "floor": 16, "hp": 6, "maxhp": 82, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 53036, "card": "Battle Trance", "hand": ["Defend", "True Grit+"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 53838, "card": "Defend", "hand": ["True Grit+", "Body Slam"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 53934, "card": "True Grit+", "hand": ["Body Slam"], "floor": 16, "hp": 6, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 53970, "card": "True Grit+", "hand": ["Body Slam", "Flame Barrier", "Clothesline"], "floor": 16, "hp": 6, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 54110, "card": "True Grit+", "hand": ["Body Slam"], "floor": 16, "hp": 6, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 54364, "card": "Body Slam", "hand": ["Flame Barrier"], "floor": 16, "hp": 6, "maxhp": 82, "block": 14, "energy": 1, "v2.0": false}
+{"frame": 55622, "card": "Defend", "hand": ["True Grit+", "Body Slam", "Battle Trance"], "floor": 16, "hp": 6, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 56000, "card": "Flame Barrier", "hand": ["Defend", "True Grit+"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 56036, "card": "Flame Barrier", "hand": ["Defend", "Body Slam", "Battle Trance", "True Grit+"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 56062, "card": "Flame Barrier", "hand": ["Defend", "Body Slam", "Battle Trance", "True Grit+"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 56228, "card": "Defend", "hand": ["True Grit+"], "floor": 16, "hp": 6, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 56582, "card": "Defend", "hand": ["True Grit+", "Body Slam", "Battle Trance"], "floor": 16, "hp": 6, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 64864, "card": "Flame Barrier", "hand": ["Strike", "True Grit+"], "floor": 18, "hp": 65, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 64914, "card": "Dark Embrace", "hand": ["Smite", "True Grit+"], "floor": 18, "hp": 65, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 64974, "card": "Flame Barrier", "hand": ["Strike"], "floor": 18, "hp": 65, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 64994, "card": "True Grit+", "hand": ["Strike", "Strike", "Pride", "Burning Pact"], "floor": 18, "hp": 65, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 66428, "card": "Clothesline", "hand": ["Defend", "Anger", "Defend", "Bash", "Void", "Battle Trance"], "floor": 18, "hp": 65, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 66462, "card": "Battle Trance", "hand": ["Defend", "Anger", "Defend", "Bash", "Body Slam"], "floor": 18, "hp": 65, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 66570, "card": "Juggernaut", "hand": ["Anger", "Defend", "Bash", "Body Slam", "Defend", "Clothesline"], "floor": 18, "hp": 65, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 66624, "card": "Clothesline", "hand": ["Defend", "Anger", "Defend", "Bash", "Body Slam"], "floor": 18, "hp": 65, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 66738, "card": "Defend", "hand": ["Defend", "Anger", "Defend", "Body Slam"], "floor": 18, "hp": 65, "maxhp": 82, "block": 5, "energy": 2, "v2.0": false}
+{"frame": 66778, "card": "Defend", "hand": ["Anger", "Body Slam"], "floor": 18, "hp": 65, "maxhp": 82, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 66798, "card": "Defend", "hand": ["Anger", "Bash", "Body Slam", "Defend"], "floor": 18, "hp": 65, "maxhp": 82, "block": 10, "energy": 1, "v2.0": false}
+{"frame": 73566, "card": "Battle Trance", "hand": ["Defend", "Strike", "True Grit+", "Defend", "Flame Barrier+", "Clothesline"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 73690, "card": "Flame Barrier", "hand": ["Strike", "True Grit+", "Strike"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": -1, "v2.0": false}
+{"frame": 73736, "card": "Flame Barrier", "hand": ["Strike", "True Grit+", "Defend", "Strike", "Body Slam"], "floor": 21, "hp": 71, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 73788, "card": "Strike", "hand": ["Rupture", "Strike", "Clothesline", "Defend"], "floor": 21, "hp": 71, "maxhp": 82, "block": 12, "energy": 0, "v2.0": false}
+{"frame": 74572, "card": "Defend", "hand": ["Bash", "Defend", "Dark Embrace"], "floor": 21, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 74814, "card": "Burning Pact", "hand": ["Juggernaut", "Bash", "Defend"], "floor": 21, "hp": 62, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 74976, "card": "Defend", "hand": ["Bash", "Strike", "Ascender's Bane", "Juggernaut"], "floor": 21, "hp": 62, "maxhp": 82, "block": 3, "energy": 2, "v2.0": false}
+{"frame": 75474, "card": "Flame Barrier", "hand": ["Defend", "True Grit+", "Clothesline", "Defend"], "floor": 21, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 75496, "card": "Flame Barrier", "hand": ["Defend", "True Grit+", "Clash"], "floor": 21, "hp": 56, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 75530, "card": "Carnage", "hand": ["Strike", "Defend"], "floor": 21, "hp": 56, "maxhp": 82, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 75660, "card": "Defend", "hand": ["Body Slam", "Clothesline", "Defend"], "floor": 21, "hp": 56, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 76190, "card": "Juggernaut", "hand": ["Strike", "Burning Pact", "Clothesline", "Flame Barrier"], "floor": 21, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 76256, "card": "Flame Barrier", "hand": ["Clothesline", "Strike", "Defend", "Defend"], "floor": 21, "hp": 56, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 76276, "card": "Flame Barrier", "hand": ["Strike", "Defend"], "floor": 21, "hp": 56, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 76324, "card": "Clothesline", "hand": ["Strike", "Burning Pact", "Defend"], "floor": 21, "hp": 56, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 76354, "card": "Defend", "hand": ["Strike", "Burning Pact", "Defend"], "floor": 21, "hp": 56, "maxhp": 82, "block": 12, "energy": 0, "v2.0": false}
+{"frame": 76394, "card": "Strike", "hand": ["Burning Pact", "Defend"], "floor": 21, "hp": 56, "maxhp": 82, "block": 17, "energy": 0, "v2.0": false}
+{"frame": 76832, "card": "Defend", "hand": ["True Grit+", "Body Slam", "Bash", "Strike", "Clothesline"], "floor": 21, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 77354, "card": "Bash", "hand": ["Defend", "True Grit+", "Body Slam", "Strike", "Clothesline"], "floor": 21, "hp": 56, "maxhp": 82, "block": 5, "energy": 3, "v2.0": false}
+{"frame": 77450, "card": "Clothesline", "hand": ["True Grit+", "Strike", "Defend"], "floor": 21, "hp": 56, "maxhp": 82, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 77522, "card": "True Grit+", "hand": ["Defend", "Body Slam"], "floor": 21, "hp": 56, "maxhp": 82, "block": 5, "energy": 0, "v2.0": false}
+{"frame": 78016, "card": "Flame Barrier", "hand": ["Strike", "Defend", "True Grit+"], "floor": 21, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 78040, "card": "Flame Barrier", "hand": ["Strike", "Defend", "True Grit+"], "floor": 21, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 78118, "card": "Bash", "hand": ["Strike", "Defend", "True Grit+", "Defend", "Battle Trance"], "floor": 21, "hp": -1, "maxhp": -1, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 78176, "card": "Strike", "hand": [], "floor": 21, "hp": 56, "maxhp": 82, "block": 12, "energy": 2, "v2.0": false}
+{"frame": 82198, "card": "Juggernaut+", "hand": ["Bash", "Defend+", "Clothesline", "Defend+"], "floor": 25, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82446, "card": "Defend+", "hand": ["Defend+", "Burning Pact"], "floor": 25, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 82762, "card": "Bash", "hand": ["True Grit", "Blind+"], "floor": 25, "hp": 62, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 82790, "card": "Clothesline", "hand": ["Defend+", "Burning Pact", "Ascender's Bane"], "floor": 25, "hp": 62, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 83452, "card": "Feel No Pain+", "hand": ["True Grit+", "Defend+", "Defend+", "Flame Barrier", "Bash"], "floor": 25, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 83568, "card": "Defend+", "hand": ["Defend+", "True Grit+", "Flame Barrier", "Battle Trance"], "floor": 25, "hp": 62, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 84564, "card": "Dark Embrace", "hand": ["Combust", "Body Slam"], "floor": 25, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 84584, "card": "Dark Embrace", "hand": ["Combust", "Body Slam"], "floor": 25, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 84610, "card": "Dark Embrace", "hand": ["Combust", "Body Slam"], "floor": 25, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 84630, "card": "Dark Embrace", "hand": ["Combust", "Body Slam"], "floor": 25, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 84732, "card": "Evolve+", "hand": ["Body Slam"], "floor": 25, "hp": 62, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 84874, "card": "Body Slam", "hand": ["Clothesline", "Dazed", "Dazed"], "floor": 25, "hp": 62, "maxhp": 82, "block": 12, "energy": 0, "v2.0": false}
+{"frame": 85496, "card": "Defend+", "hand": ["Strike+", "True Grit+", "Clothesline", "Defend+", "Inflame"], "floor": 25, "hp": 53, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 85678, "card": "True Grit+", "hand": ["Clothesline", "Defend+", "Strike", "Burning Pact", "Flame Barrier"], "floor": 25, "hp": 53, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 85912, "card": "Defend+", "hand": ["Strike+", "Clothesline", "Defend+", "Battle Trance"], "floor": 25, "hp": 53, "maxhp": 82, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 86086, "card": "Clothesline", "hand": ["Defend+", "Strike+", "Burning Pact", "Dazed"], "floor": 25, "hp": 53, "maxhp": 82, "block": 29, "energy": 2, "v2.0": false}
+{"frame": 86128, "card": "Strike+", "hand": ["Defend+", "Dazed"], "floor": 25, "hp": 53, "maxhp": 82, "block": 29, "energy": 1, "v2.0": false}
+{"frame": 86508, "card": "Defend+", "hand": ["Bash", "Clothesline", "Dazed"], "floor": 25, "hp": 53, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 86618, "card": "Defend+", "hand": ["Dazed", "Dazed", "Bash"], "floor": 25, "hp": 53, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 86716, "card": "Flame Barrier", "hand": ["Dazed", "Bash", "Clothesline"], "floor": 25, "hp": 53, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 86758, "card": "Flame Barrier", "hand": ["Bash"], "floor": 25, "hp": 53, "maxhp": 82, "block": 28, "energy": 0, "v2.0": false}
+{"frame": 89834, "card": "Fire Breathing", "hand": ["Clothesline", "Defend+", "Defend+", "Defend+", "Evolve+"], "floor": 28, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 89924, "card": "Flame Barrier", "hand": ["Clothesline", "Defend+", "Body Slam"], "floor": 28, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 90336, "card": "Clothesline", "hand": ["Defend+", "Body Slam", "Evolve+"], "floor": 28, "hp": 82, "maxhp": 82, "block": 20, "energy": 2, "v2.0": false}
+{"frame": 91166, "card": "Dark Embrace", "hand": ["True Grit", "Defend+", "Clothesline", "Strike+"], "floor": 28, "hp": 72, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 91336, "card": "Burning Pact", "hand": ["Defend+", "Clothesline", "True Grit+", "Battle Trance"], "floor": 28, "hp": 72, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 91752, "card": "Feel No Pain+", "hand": ["True Grit+", "Defend+"], "floor": 28, "hp": 72, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 91790, "card": "Feel No Pain+", "hand": ["True Grit+", "Defend+", "Clothesline", "Bash", "Battle Trance"], "floor": 28, "hp": 72, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 91836, "card": "True Grit+", "hand": ["Defend+", "Clothesline", "Bash", "Battle Trance"], "floor": 28, "hp": 72, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 92028, "card": "Juggernaut+", "hand": ["Defend+", "Clothesline", "Battle Trance", "Ascender's Bane"], "floor": 28, "hp": 72, "maxhp": 82, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 92154, "card": "Clothesline", "hand": ["Battle Trance"], "floor": 28, "hp": 72, "maxhp": 82, "block": 21, "energy": 0, "v2.0": false}
+{"frame": 92926, "card": "Burning Pact", "hand": ["Defend+", "Clothesline", "True Grit+"], "floor": 28, "hp": 72, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 93026, "card": "Burning Pact", "hand": ["Defend+", "Flame Barrier", "Defend+", "Clothesline"], "floor": 28, "hp": 72, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 93696, "card": "Clothesline", "hand": ["Flame Barrier", "Evolve+", "Clothesline", "Defend+", "True Grit+", "Defend+"], "floor": 28, "hp": 72, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 94376, "card": "Clothesline", "hand": [], "floor": 28, "hp": 62, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 95436, "card": "Feel No Pain+", "hand": ["Bash", "True Grit+", "Juggernaut+", "Defend+"], "floor": 29, "hp": 68, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 95922, "card": "Defend+", "hand": ["Strike+", "Dark Embrace+", "Body Slam", "Defend+"], "floor": 29, "hp": 68, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 95988, "card": "Defend+", "hand": ["Strike+"], "floor": 29, "hp": 68, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 96442, "card": "Body Slam", "hand": ["Strike+", "Dark Embrace", "Evolve+"], "floor": 29, "hp": 68, "maxhp": 82, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 96606, "card": "Dark Embrace", "hand": ["Strike+", "Evolve+"], "floor": 29, "hp": 68, "maxhp": 82, "block": 16, "energy": 3, "v2.0": false}
+{"frame": 98122, "card": "Flame Barrier", "hand": ["Defend", "True Grit+", "Strike+", "Clothesline", "Defend+"], "floor": 29, "hp": 57, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 98142, "card": "Flame Barrier+", "hand": ["True Grit", "Strike+", "Clothesline"], "floor": 29, "hp": 57, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 98192, "card": "True Grit+", "hand": ["Defend+", "Clash", "Clothesline", "Defend+"], "floor": 29, "hp": 57, "maxhp": 82, "block": 9, "energy": 3, "v2.0": false}
+{"frame": 98360, "card": "Defend+", "hand": ["Defend+", "Defend+", "Clothesline", "Evolve+"], "floor": 29, "hp": 57, "maxhp": 82, "block": 19, "energy": 3, "v2.0": false}
+{"frame": 98488, "card": "Clothesline", "hand": ["Defend+", "Defend+", "Clothesline", "Body Slam", "Evolve+"], "floor": 29, "hp": 57, "maxhp": 82, "block": 25, "energy": 3, "v2.0": false}
+{"frame": 98542, "card": "Defend+", "hand": ["Defend+", "Clothesline", "Body Slam", "Evolve+"], "floor": 29, "hp": 57, "maxhp": 82, "block": 25, "energy": 3, "v2.0": false}
+{"frame": 98658, "card": "Body Slam", "hand": [], "floor": 29, "hp": 57, "maxhp": 82, "block": 31, "energy": 1, "v2.0": false}
+{"frame": 99692, "card": "Battle Trance", "hand": ["Defend+", "Strike+"], "floor": 30, "hp": 63, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 100074, "card": "Clothesline", "hand": ["Strike+", "Bash", "Body Slam", "Defend+", "Evolve+"], "floor": 30, "hp": 63, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 101222, "card": "Juggernaut+", "hand": [], "floor": 30, "hp": 42, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 101400, "card": "Feel No Pain+", "hand": ["Juggernaut+"], "floor": 30, "hp": 42, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 101464, "card": "Flame Barrier", "hand": ["Clothesline", "Burning Pact", "Juggernaut+", "Disarm"], "floor": 30, "hp": 42, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 101486, "card": "Flame Barrier", "hand": ["Clothesline"], "floor": 30, "hp": 42, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 101908, "card": "Clothesline", "hand": ["Defend+", "Juggernaut+", "Disarm"], "floor": 30, "hp": 42, "maxhp": 82, "block": 19, "energy": 1, "v2.0": false}
+{"frame": 102510, "card": "Dark Embrace", "hand": ["Juggernaut+", "Strike+", "Clothesline", "Battle Trance"], "floor": 30, "hp": 42, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 102594, "card": "Flame Barrier+", "hand": ["Strike+", "Clothesline", "Body Slam"], "floor": 30, "hp": 42, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 102900, "card": "Clothesline", "hand": ["Strike+", "Body Slam", "Battle Trance"], "floor": 30, "hp": 42, "maxhp": 82, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 102966, "card": "Strike+", "hand": ["Body Slam", "Battle Trance"], "floor": 30, "hp": 42, "maxhp": 82, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 103012, "card": "Body Slam", "hand": ["Battle Trance"], "floor": 30, "hp": 42, "maxhp": 82, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 103498, "card": "Defend+", "hand": ["Clothesline", "True Grit+", "Defend+", "Bash", "Defend+"], "floor": 30, "hp": 38, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 103638, "card": "True Grit+", "hand": ["Clothesline", "Defend+", "Bash"], "floor": 30, "hp": 38, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 104516, "card": "Juggernaut+", "hand": ["Clothesline", "Juggernaut+"], "floor": 31, "hp": 44, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 104586, "card": "Juggernaut+", "hand": ["Defend+", "Battle Trance", "Clothesline"], "floor": 31, "hp": 44, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 105730, "card": "Bash", "hand": ["Clothesline", "Defend+", "Defend+", "Burning Pact", "Dark Embrace"], "floor": 31, "hp": 44, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 105798, "card": "Strike+", "hand": ["Defend+", "Burning Pact", "Clothesline", "Dark Embrace", "Defend+"], "floor": 31, "hp": 44, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 105852, "card": "Flame Barrier", "hand": ["Clothesline", "Ascender's Bane"], "floor": 31, "hp": 44, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 106926, "card": "Bash", "hand": ["Defend+", "Body Slam", "Defend+", "Clothesline", "True Grit+", "Shockwave"], "floor": 31, "hp": 14, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 106970, "card": "Shockwave", "hand": ["Defend+", "Body Slam", "Clothesline"], "floor": 31, "hp": 14, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 107386, "card": "Clothesline", "hand": ["Body Slam", "True Grit+", "Defend+", "Defend+"], "floor": 31, "hp": 44, "maxhp": 82, "block": 4, "energy": 2, "v2.0": false}
+{"frame": 107476, "card": "Body Slam", "hand": ["True Grit+", "Dazed", "Defend+", "Defend+"], "floor": 31, "hp": 14, "maxhp": 82, "block": 4, "energy": 1, "v2.0": false}
+{"frame": 108006, "card": "Defend+", "hand": ["Strike", "Battle Trance"], "floor": 31, "hp": 40, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 108286, "card": "Defend+", "hand": ["Strike+", "Burning Pact", "Flame Barrier"], "floor": 31, "hp": 40, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 108332, "card": "Flame Barrier", "hand": ["Strike"], "floor": 31, "hp": 40, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 108400, "card": "Battle Trance", "hand": ["Disarm", "Strike", "Dazed"], "floor": 31, "hp": 40, "maxhp": 82, "block": 28, "energy": 0, "v2.0": false}
+{"frame": 108430, "card": "Battle Trance", "hand": ["Disarm", "Strike+"], "floor": 31, "hp": 40, "maxhp": 82, "block": 28, "energy": 0, "v2.0": false}
+{"frame": 110510, "card": "Dark Embrace", "hand": ["Defend+", "Defend+", "Burning Pact", "Flame Barrier+", "Juggernaut+"], "floor": 33, "hp": 46, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 110548, "card": "Juggernaut+", "hand": ["Defend+"], "floor": 33, "hp": 46, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 110576, "card": "Juggernaut+", "hand": ["Defend+", "Defend+", "Flame Barrier+"], "floor": 33, "hp": 46, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 111324, "card": "Shockwave", "hand": ["Ascender's Bane", "Body Slam", "Strike", "Bash", "True Grit+"], "floor": 33, "hp": 46, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 111496, "card": "Feel No Pain+", "hand": ["Strike+", "Bash"], "floor": 33, "hp": 46, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 111978, "card": "Clothesline", "hand": ["Strike", "Bash", "True Grit+", "Clothesline", "Defend+", "Body Slam"], "floor": 33, "hp": 46, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 112612, "card": "Clothesline", "hand": ["Ascender's Bane", "Body Slam", "Bash", "Battle Trance"], "floor": 33, "hp": 46, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 112662, "card": "Body Slam", "hand": ["Ascender's Bane", "Strike+", "Bash", "Battle Trance"], "floor": 33, "hp": 46, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 113346, "card": "Flame Barrier+", "hand": ["Defend", "Bash"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 113490, "card": "Clothesline", "hand": ["Bash", "Disarm", "Evolve+", "Defend+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 113536, "card": "Evolve+", "hand": ["Bash", "Defend+", "Disarm", "Defend+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 114162, "card": "True Grit+", "hand": ["Defend+", "Strike", "Clothesline", "Body Slam"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 114418, "card": "Burning Pact", "hand": ["Clothesline", "Body Slam", "Battle Trance", "Clothesline"], "floor": 33, "hp": 38, "maxhp": 82, "block": 13, "energy": 1, "v2.0": false}
+{"frame": 114694, "card": "Disarm", "hand": ["Defend", "Clothesline", "Body Slam", "Battle Trance", "Defend+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 17, "energy": 1, "v2.0": false}
+{"frame": 115942, "card": "Clothesline", "hand": ["Clothesline", "Defend+", "Defend+", "Body Slam", "Defend+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 116066, "card": "Clothesline", "hand": ["Defend+", "Defend+", "Body Slam", "Defend+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 116142, "card": "Flame Barrier+", "hand": ["Defend+", "Defend+", "Defend+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 116202, "card": "Defend+", "hand": ["True Grit+", "Defend+", "Defend+", "Body Slam"], "floor": 33, "hp": 38, "maxhp": 82, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 116332, "card": "Burning Pact", "hand": ["Defend+", "Defend+", "Body Slam", "True Grit+"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 116540, "card": "Clothesline", "hand": ["True Grit+", "Defend+", "Defend+", "Body Slam", "Defend+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 22, "energy": 3, "v2.0": false}
+{"frame": 116596, "card": "True Grit+", "hand": ["Defend+", "Defend+", "Body Slam", "Defend+"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 116830, "card": "Clothesline", "hand": ["Defend+", "Body Slam", "Defend+", "Flame Barrier+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 32, "energy": 3, "v2.0": false}
+{"frame": 116916, "card": "Body Slam", "hand": ["Defend+", "Defend+", "Flame Barrier+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 32, "energy": 3, "v2.0": false}
+{"frame": 117290, "card": "Defend+", "hand": ["Defend+", "Body Slam", "Clothesline", "True Grit+", "Burning Pact"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 117334, "card": "True Grit+", "hand": ["Defend+", "Body Slam", "Clothesline"], "floor": 33, "hp": 38, "maxhp": 82, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 117560, "card": "Flame Barrier+", "hand": ["Body Slam", "Clothesline", "Burning Pact"], "floor": 33, "hp": 38, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 117618, "card": "Body Slam", "hand": ["Defend+", "Burning Pact", "Clothesline"], "floor": 33, "hp": 38, "maxhp": 82, "block": 28, "energy": 0, "v2.0": false}
+{"frame": 118232, "card": "Burning Pact", "hand": ["Defend+", "True Grit+", "Defend+", "Defend"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 118306, "card": "Burning Pact", "hand": ["Defend+", "Flame Barrier+", "True Grit+", "Defend+", "Defend+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 118638, "card": "Burning Pact", "hand": ["Defend+", "Defend+", "True Grit+", "Body Slam"], "floor": 33, "hp": -1, "maxhp": -1, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 118732, "card": "True Grit+", "hand": ["Defend+"], "floor": 33, "hp": 38, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 124454, "card": "Battle Trance", "hand": ["Strike+", "Defend+", "Clothesline", "Evolve+"], "floor": 35, "hp": 73, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 124624, "card": "Juggernaut+", "hand": ["Defend+", "Clothesline", "Impervious", "Dark Embrace", "Discovery", "Burning Pact"], "floor": 35, "hp": 73, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 124660, "card": "Defend+", "hand": ["Strike+", "Clothesline", "Defend+", "Dark Embrace"], "floor": 35, "hp": 73, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 125012, "card": "Strike+", "hand": ["Clothesline", "Burning Pact", "Dark Embrace", "Evolve+"], "floor": 35, "hp": 73, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 125392, "card": "Clothesline", "hand": ["Dark Embrace", "Burning Pact"], "floor": 35, "hp": 73, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 126360, "card": "Shockwave", "hand": ["Defend+", "Defend+", "Body Slam", "Disarm"], "floor": 35, "hp": 73, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 126724, "card": "Defend+", "hand": ["Ascender's Bane", "Disarm"], "floor": 35, "hp": 73, "maxhp": 82, "block": 9, "energy": 2, "v2.0": false}
+{"frame": 127332, "card": "Juggernaut+", "hand": ["Bash", "Impervious", "Defend+", "Feel No Pain+"], "floor": 35, "hp": 56, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 127416, "card": "Dark Embrace", "hand": ["Bash", "Impervious", "Defend+", "Flame Barrier+"], "floor": 35, "hp": 56, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 127516, "card": "Defend+", "hand": ["Bash", "Impervious", "Burning Pact", "Flame Barrier+", "Clothesline"], "floor": 35, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 127566, "card": "Flame Barrier+", "hand": ["Bash", "Impervious", "Defend+"], "floor": 35, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 127612, "card": "Defend+", "hand": [], "floor": 35, "hp": 56, "maxhp": 82, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 128426, "card": "Disarm", "hand": ["Body Slam", "Clothesline", "True Grit+", "Defend+", "Smite"], "floor": 35, "hp": 56, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 128926, "card": "True Grit+", "hand": ["Void", "Defend+", "Strike+", "Clothesline"], "floor": 35, "hp": 56, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 129398, "card": "Clothesline", "hand": ["Body Slam", "Clothesline", "Defend+", "Strike+", "Flame Barrier+"], "floor": 35, "hp": 56, "maxhp": 82, "block": 9, "energy": 0, "v2.0": false}
+{"frame": 129866, "card": "Feel No Pain+", "hand": ["Pummel", "Impervious", "Defend+", "Strike", "Clothesline", "Entrench"], "floor": 35, "hp": 56, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 129898, "card": "Impervious", "hand": ["Defend", "Strike", "Clothesline", "True Grit", "Bash", "Burning Pact"], "floor": 35, "hp": 56, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 134288, "card": "Juggernaut+", "hand": ["Body Slam", "Defend+", "Shrug It Off", "Clothesline", "Apparition"], "floor": 38, "hp": 62, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 134380, "card": "Evolve+", "hand": ["Body Slam", "Defend+", "Shrug It Off", "Clothesline", "Dark Embrace"], "floor": 38, "hp": 62, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 134432, "card": "Shrug It Off", "hand": ["Defend+", "Clothesline"], "floor": 38, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 134562, "card": "Juggernaut+", "hand": ["Body Slam"], "floor": 38, "hp": 62, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 134590, "card": "Defend+", "hand": ["Body Slam"], "floor": 38, "hp": 62, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 134634, "card": "Body Slam", "hand": ["Clothesline"], "floor": 38, "hp": 62, "maxhp": 82, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 135172, "card": "Feel No Pain+", "hand": ["Bash", "Defend+", "Strike+", "Disarm"], "floor": 38, "hp": 62, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 135324, "card": "Disarm", "hand": ["Bash", "Defend+", "Defend+", "Impervious", "Strike+"], "floor": 38, "hp": 62, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 135384, "card": "Defend+", "hand": ["Bash", "Defend+", "Impervious", "Strike+"], "floor": 38, "hp": 62, "maxhp": 82, "block": 1, "energy": 2, "v2.0": false}
+{"frame": 135430, "card": "Impervious", "hand": ["Strike+", "Strike"], "floor": 38, "hp": 62, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 135714, "card": "Defend+", "hand": ["True Grit+", "Impervious", "Battle Trance"], "floor": 38, "hp": 62, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 139566, "card": "Defend+", "hand": ["Juggernaut+", "Bash", "Clothesline", "True Grit"], "floor": 39, "hp": -1, "maxhp": -1, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 139600, "card": "Flame Barrier+", "hand": ["Bash", "Clothesline", "True Grit+"], "floor": 39, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 139648, "card": "Clothesline", "hand": ["Bash", "Burning Pact"], "floor": 39, "hp": 68, "maxhp": 82, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 141140, "card": "Juggernaut+", "hand": ["Shrug It Off", "Impervious", "Power Through"], "floor": 39, "hp": 68, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 141190, "card": "Feel No Pain+", "hand": ["Impervious"], "floor": 39, "hp": 68, "maxhp": 82, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 141296, "card": "Impervious", "hand": ["Shrug It Off", "Battle Trance"], "floor": 39, "hp": 68, "maxhp": 82, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 141386, "card": "Defend+", "hand": ["Combust", "Shrug It Off", "Impervious", "Battle Trance", "Power Through"], "floor": 39, "hp": 68, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 141526, "card": "Clothesline", "hand": [], "floor": 39, "hp": 68, "maxhp": 82, "block": 48, "energy": 1, "v2.0": false}
+{"frame": 142124, "card": "Flame Barrier+", "hand": ["Body Slam", "Clothesline"], "floor": 39, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 142412, "card": "True Grit+", "hand": ["Body Slam", "Defend+", "Clothesline", "Evolve+", "Dark Embrace"], "floor": 39, "hp": 68, "maxhp": 82, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 142630, "card": "Defend+", "hand": ["Body Slam", "Clothesline", "Dark Embrace"], "floor": 39, "hp": 68, "maxhp": 82, "block": 29, "energy": 4, "v2.0": false}
+{"frame": 142848, "card": "Clothesline", "hand": ["Dark Embrace", "Void"], "floor": 39, "hp": 68, "maxhp": 82, "block": 37, "energy": 2, "v2.0": false}
+{"frame": 143590, "card": "Juggernaut+", "hand": ["Defend+", "Strike+", "Bash", "Disarm"], "floor": 39, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 143696, "card": "Burning Pact", "hand": ["Defend+", "Strike+", "Bash"], "floor": 39, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 143758, "card": "Defend+", "hand": ["Strike+", "Disarm", "Bash"], "floor": 39, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 143962, "card": "Burning Pact", "hand": ["Strike+", "Disarm"], "floor": 39, "hp": 68, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 144104, "card": "Defend+", "hand": ["True Grit+", "Disarm", "Strike+"], "floor": 39, "hp": 68, "maxhp": 82, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 144150, "card": "True Grit+", "hand": ["Strike+", "Disarm"], "floor": 39, "hp": 68, "maxhp": 82, "block": 26, "energy": 4, "v2.0": false}
+{"frame": 145494, "card": "Burning Pact", "hand": ["Defend+", "Juggernaut+", "Juggernaut+"], "floor": 40, "hp": 74, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 145576, "card": "Burning Pact", "hand": ["Defend+", "Juggernaut+", "Juggernaut+", "Disarm"], "floor": 40, "hp": 74, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 145684, "card": "Juggernaut+", "hand": ["Defend+", "Juggernaut+", "Clothesline", "Disarm"], "floor": 40, "hp": 74, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 145728, "card": "Defend+", "hand": ["Defend+", "Clothesline", "Impervious", "Disarm"], "floor": 40, "hp": 74, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 145772, "card": "Defend+", "hand": ["Clothesline", "Impervious", "Disarm"], "floor": 40, "hp": 74, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 145816, "card": "Disarm", "hand": ["Clothesline", "Impervious"], "floor": 40, "hp": 74, "maxhp": 82, "block": 16, "energy": 1, "v2.0": false}
+{"frame": 145850, "card": "Clothesline", "hand": ["Impervious"], "floor": 40, "hp": 74, "maxhp": 82, "block": 16, "energy": 0, "v2.0": false}
+{"frame": 146516, "card": "Defend+", "hand": ["Bash", "Dazed", "Ascender's Bane", "Dark Embrace"], "floor": 40, "hp": 74, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 146590, "card": "Defend+", "hand": ["Bash", "Dark Embrace", "Shockwave"], "floor": 40, "hp": 74, "maxhp": 82, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 146830, "card": "Shockwave", "hand": ["Bash", "Evolve+", "Dark Embrace"], "floor": 40, "hp": 74, "maxhp": 82, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 147386, "card": "Feel No Pain+", "hand": ["Clothesline", "True Grit+", "Shrug It Off", "Flame Barrier+"], "floor": 40, "hp": 72, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 147534, "card": "True Grit+", "hand": ["Body Slam"], "floor": 40, "hp": 72, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 148140, "card": "Impervious", "hand": ["Shrug It Off", "Body Slam"], "floor": 40, "hp": 72, "maxhp": 82, "block": 13, "energy": 2, "v2.0": false}
+{"frame": 148728, "card": "Body Slam", "hand": ["Shrug It Off", "Clothesline", "Battle Trance"], "floor": 40, "hp": 72, "maxhp": 82, "block": 47, "energy": 0, "v2.0": false}
+{"frame": 149162, "card": "Dark Embrace", "hand": ["Shrug It Off", "Body Slam", "Flame Barrier+"], "floor": 40, "hp": 72, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 149206, "card": "Evolve+", "hand": ["Defend+", "Shrug It Off", "Body Slam", "Burning Pact"], "floor": 40, "hp": 72, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 149250, "card": "Warcry+", "hand": ["Shrug It Off", "Body Slam", "Burning Pact"], "floor": 40, "hp": 72, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 149418, "card": "Defend+", "hand": ["Shrug It Off", "Body Slam", "Burning Pact"], "floor": 40, "hp": 72, "maxhp": 82, "block": 22, "energy": 4, "v2.0": false}
+{"frame": 150714, "card": "Defend+", "hand": ["Clothesline", "Defend+"], "floor": 40, "hp": 72, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 150750, "card": "Defend+", "hand": ["Clothesline"], "floor": 40, "hp": 72, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 151294, "card": "Defend+", "hand": ["True Grit+", "Clothesline", "Bash", "Trip"], "floor": 40, "hp": 64, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 151312, "card": "Defend+", "hand": ["True Grit+", "Clothesline", "Bash"], "floor": 40, "hp": 64, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 151330, "card": "Defend+", "hand": ["True Grit+", "Clothesline", "Bash", "Bash"], "floor": 40, "hp": 64, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 151360, "card": "Defend+", "hand": ["True Grit+", "Clothesline", "Bash"], "floor": 40, "hp": 64, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 151378, "card": "Defend+", "hand": ["True Grit+", "Clothesline", "Bash"], "floor": 40, "hp": 64, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 151448, "card": "Juggernaut+", "hand": ["Combust", "Bash"], "floor": 40, "hp": 64, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 151574, "card": "Burning Pact", "hand": ["Burn", "Defend+", "Bash"], "floor": 40, "hp": 64, "maxhp": 82, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 151620, "card": "Defend+", "hand": ["Bash", "Clothesline", "True Grit+"], "floor": 40, "hp": 64, "maxhp": 82, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 151718, "card": "Impervious", "hand": ["Bash", "Clothesline"], "floor": 40, "hp": 64, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 152372, "card": "Defend+", "hand": ["Defend+"], "floor": 40, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 152666, "card": "Flame Barrier+", "hand": ["Defend", "Defend+"], "floor": 40, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 153176, "card": "Clothesline", "hand": ["Defend+"], "floor": 40, "hp": 64, "maxhp": 82, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 153846, "card": "Burning Pact", "hand": [], "floor": 40, "hp": 64, "maxhp": 82, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 153914, "card": "Burning Pact", "hand": [], "floor": 40, "hp": 64, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 154248, "card": "Clothesline", "hand": ["Defend+", "Burn", "Burn"], "floor": 40, "hp": 64, "maxhp": 82, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 154432, "card": "Body Slam", "hand": ["Defend+"], "floor": 40, "hp": 64, "maxhp": 82, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 154508, "card": "Battle Trance", "hand": ["Defend+", "Burn", "Clothesline", "Burn", "Burn"], "floor": 40, "hp": 64, "maxhp": 82, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 154598, "card": "Flame Barrier+", "hand": [], "floor": 40, "hp": 64, "maxhp": 82, "block": 31, "energy": 3, "v2.0": false}
+{"frame": 154658, "card": "Clothesline", "hand": [], "floor": 40, "hp": 64, "maxhp": 82, "block": 47, "energy": 1, "v2.0": false}
+{"frame": 155086, "card": "Shrug It Off", "hand": ["Burning Pact", "Burn"], "floor": 40, "hp": 64, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 156464, "card": "Shockwave", "hand": ["Bash", "Impervious", "Body Slam", "Strike+"], "floor": 42, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 156482, "card": "Shockwave", "hand": ["Bash", "Impervious", "Body Slam", "Disarm", "Strike+"], "floor": 42, "hp": 70, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 156762, "card": "Impervious", "hand": ["Bash", "Body Slam", "Strike+"], "floor": 42, "hp": 70, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 156830, "card": "Body Slam", "hand": ["Bash", "Disarm", "Ascender's Bane"], "floor": 42, "hp": 70, "maxhp": 82, "block": 30, "energy": 2, "v2.0": false}
+{"frame": 157046, "card": "Bash", "hand": ["Disarm", "Ascender's Bane", "Strike+"], "floor": 42, "hp": 70, "maxhp": 82, "block": 30, "energy": 0, "v2.0": false}
+{"frame": 157552, "card": "Shrug It Off", "hand": ["Burning Pact", "Defend+", "Clothesline", "Power Through"], "floor": 42, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 157810, "card": "Burning Pact", "hand": ["Impervious", "Clothesline", "Battle Trance", "Defend+"], "floor": 42, "hp": 70, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 157978, "card": "Battle Trance", "hand": ["Power Through", "Clothesline", "Defend+", "True Grit+", "Defend+"], "floor": 42, "hp": 70, "maxhp": 82, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 158546, "card": "Clothesline", "hand": ["Defend+", "True Grit+", "Defend+", "Juggernaut+", "Impervious"], "floor": 42, "hp": 70, "maxhp": 82, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 158998, "card": "Feel No Pain+", "hand": ["Defend+", "True Grit+", "Defend+", "Juggernaut+", "Impervious", "Power Through"], "floor": 42, "hp": 70, "maxhp": 82, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 159110, "card": "Defend+", "hand": ["Impervious"], "floor": 42, "hp": 70, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 159166, "card": "True Grit+", "hand": ["Impervious", "Power Through", "Juggernaut+", "Juggernaut+"], "floor": 42, "hp": 70, "maxhp": 82, "block": 24, "energy": 1, "v2.0": false}
+{"frame": 160350, "card": "Juggernaut+", "hand": ["Clothesline"], "floor": 42, "hp": 65, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 160520, "card": "Flame Barrier+", "hand": ["Defend+", "Clothesline", "Dark Embrace", "Evolve+"], "floor": 42, "hp": 65, "maxhp": 82, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 161838, "card": "Shrug It Off", "hand": ["Strike+", "Defend+", "Impervious", "Battle Trance", "Burning Pact"], "floor": 42, "hp": 37, "maxhp": 82, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 162310, "card": "Impervious", "hand": ["Defend+", "Body Slam", "Battle Trance"], "floor": 42, "hp": 37, "maxhp": 82, "block": 21, "energy": 4, "v2.0": false}
+{"frame": 162794, "card": "Disarm", "hand": [], "floor": 42, "hp": 37, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 163416, "card": "Power Through", "hand": ["Bash", "Body Slam", "Clothesline"], "floor": 42, "hp": 37, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 163506, "card": "Defend+", "hand": ["Bash", "Body Slam", "Clothesline", "Wound"], "floor": 42, "hp": 37, "maxhp": 82, "block": 21, "energy": 4, "v2.0": false}
+{"frame": 163640, "card": "Clothesline", "hand": ["Bash", "Body Slam"], "floor": 42, "hp": 37, "maxhp": 82, "block": 29, "energy": 4, "v2.0": false}
+{"frame": 163716, "card": "Bash", "hand": ["Body Slam", "Disarm", "Wound"], "floor": 42, "hp": 37, "maxhp": 82, "block": 29, "energy": 3, "v2.0": false}
+{"frame": 163746, "card": "Body Slam", "hand": ["Disarm", "Wound", "Wound"], "floor": 42, "hp": 37, "maxhp": 82, "block": 29, "energy": 2, "v2.0": false}
+{"frame": 164182, "card": "Burning Pact", "hand": ["Defend+", "Shrug It Off", "True Grit", "Battle Trance"], "floor": 42, "hp": 37, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 164290, "card": "Evolve+", "hand": ["Defend+", "Battle Trance", "Shrug It Off", "True Grit+", "Defend+", "Flame Barrier+"], "floor": 42, "hp": 37, "maxhp": 82, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 164354, "card": "True Grit+", "hand": ["Defend+", "Shrug It Off", "Defend", "Flame Barrier+", "Battle Trance"], "floor": 42, "hp": 37, "maxhp": 82, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 164556, "card": "Defend+", "hand": ["Defend+", "Shrug It Off", "Flame Barrier+"], "floor": 42, "hp": 37, "maxhp": 82, "block": 17, "energy": 3, "v2.0": false}
+{"frame": 164596, "card": "Defend+", "hand": ["Flame Barrier+", "Shrug It Off"], "floor": 42, "hp": 37, "maxhp": 82, "block": 25, "energy": 2, "v2.0": false}
+{"frame": 165260, "card": "Shrug It Off", "hand": ["Bash", "Defend+", "Strike"], "floor": 42, "hp": 37, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 167722, "card": "True Grit+", "hand": ["Shrug It Off", "Power Through"], "floor": 44, "hp": 55, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 167840, "card": "Clothesline", "hand": ["Shrug It Off", "Burning Pact", "Flame Barrier+"], "floor": 44, "hp": 55, "maxhp": 82, "block": 9, "energy": 1, "v2.0": false}
+{"frame": 168578, "card": "Metallicize+", "hand": ["Defend+", "Defend+"], "floor": 44, "hp": 55, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 168660, "card": "Defend+", "hand": ["Impervious", "Juggernaut+", "Burning Pact", "Strike", "Trip"], "floor": 44, "hp": 55, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 169258, "card": "Dark Embrace", "hand": ["Bash", "Clothesline", "Defend+"], "floor": 44, "hp": 55, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 169486, "card": "Shockwave", "hand": ["Clothesline", "Battle Trance"], "floor": 44, "hp": 55, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 169858, "card": "Clothesline", "hand": ["Defend+", "Bash", "Ascender's Bane", "Battle Trance", "Evolve+"], "floor": 44, "hp": 55, "maxhp": 82, "block": 10, "energy": 0, "v2.0": false}
+{"frame": 171118, "card": "Burning Pact", "hand": ["Strike+", "Defend+", "Shrug It Off", "Defend+", "Body Slam", "Impervious", "Clothesline"], "floor": 44, "hp": 55, "maxhp": 82, "block": 16, "energy": 4, "v2.0": false}
+{"frame": 171200, "card": "Burning Pact", "hand": ["Defend+", "Body Slam", "Impervious", "Clothesline"], "floor": 44, "hp": 55, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 171430, "card": "Juggernaut+", "hand": ["Shrug It Off", "Defend+", "Body Slam", "Impervious"], "floor": 44, "hp": 55, "maxhp": 82, "block": 26, "energy": 4, "v2.0": false}
+{"frame": 172362, "card": "Disarm", "hand": ["Impervious", "Clothesline", "Impervious", "Defend+"], "floor": 44, "hp": 55, "maxhp": 82, "block": 34, "energy": 3, "v2.0": false}
+{"frame": 172484, "card": "Clothesline", "hand": ["Impervious", "Defend+", "Defend+", "Body Slam"], "floor": 44, "hp": 55, "maxhp": 82, "block": 38, "energy": 1, "v2.0": false}
+{"frame": 173230, "card": "True Grit+", "hand": ["Defend+", "Battle Trance", "Clothesline", "Dazed", "Burning Pact"], "floor": 44, "hp": 55, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 173544, "card": "Defend+", "hand": ["Clothesline", "Defend+", "Burning Pact", "Battle Trance"], "floor": 44, "hp": 55, "maxhp": 82, "block": 19, "energy": 2, "v2.0": false}
+{"frame": 173594, "card": "Defend+", "hand": ["Clothesline", "Burning Pact", "Battle Trance", "Bash"], "floor": 44, "hp": 55, "maxhp": 82, "block": 27, "energy": 1, "v2.0": false}
+{"frame": 173646, "card": "Clothesline", "hand": ["Burning Pact", "Battle Trance", "Bash"], "floor": 44, "hp": 55, "maxhp": 82, "block": 35, "energy": 0, "v2.0": false}
+{"frame": 174016, "card": "Flame Barrier+", "hand": ["Defend+", "Burning Pact", "Shrug It Off", "Void"], "floor": 44, "hp": 55, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 174084, "card": "True Grit+", "hand": ["Clothesline", "Defend+", "Shrug It Off", "Body Slam"], "floor": 44, "hp": 55, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 174256, "card": "Shrug It Off", "hand": ["Body Slam", "Impervious", "Burning Pact"], "floor": 44, "hp": 53, "maxhp": 82, "block": 29, "energy": 4, "v2.0": false}
+{"frame": 174490, "card": "Impervious", "hand": ["Clothesline", "Body Slam", "Impervious", "Burning Pact"], "floor": 44, "hp": 55, "maxhp": 82, "block": 37, "energy": 4, "v2.0": false}
+{"frame": 174636, "card": "Defend+", "hand": ["Clothesline", "Body Slam", "Impervious", "Burning Pact"], "floor": 44, "hp": 55, "maxhp": 82, "block": 71, "energy": 4, "v2.0": false}
+{"frame": 174712, "card": "Impervious", "hand": ["Clothesline", "Body Slam", "Burning Pact"], "floor": 44, "hp": 55, "maxhp": 82, "block": 79, "energy": 4, "v2.0": false}
+{"frame": 174910, "card": "Defend+", "hand": ["Clothesline", "Body Slam", "Burning Pact"], "floor": 44, "hp": 55, "maxhp": 82, "block": 119, "energy": 2, "v2.0": false}
+{"frame": 174978, "card": "Body Slam", "hand": [], "floor": 44, "hp": 55, "maxhp": 82, "block": 127, "energy": 2, "v2.0": false}
+{"frame": 176404, "card": "Juggernaut+", "hand": ["Exhume", "Body Slam", "Defend+", "Impervious"], "floor": 45, "hp": 61, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 176640, "card": "Metallicize+", "hand": ["Exhume", "Body Slam", "Feel No Pain+", "Impervious"], "floor": 45, "hp": 61, "maxhp": 82, "block": 8, "energy": 2, "v2.0": false}
+{"frame": 177244, "card": "Dark Embrace", "hand": ["Impervious"], "floor": 45, "hp": 61, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 177290, "card": "Evolve+", "hand": ["Impervious", "Strike+", "Flame Barrier+", "Burning Pact"], "floor": 45, "hp": 61, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 177398, "card": "Impervious", "hand": ["Strike+", "Dazed", "Flame Barrier+", "Burning Pact", "Dazed"], "floor": 45, "hp": 61, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 178288, "card": "Shockwave", "hand": ["Bash", "Warcry"], "floor": 45, "hp": 61, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 178742, "card": "Power Through", "hand": ["Shrug It Off", "Clothesline", "Clothesline", "Battle Trance", "Disarm"], "floor": 45, "hp": 61, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 179166, "card": "Shrug It Off", "hand": ["Clothesline", "Clothesline", "Battle Trance", "Dazed"], "floor": 45, "hp": 61, "maxhp": 82, "block": 1, "energy": 4, "v2.0": false}
+{"frame": 179280, "card": "Battle Trance", "hand": ["Dazed"], "floor": 45, "hp": 61, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 180212, "card": "Burning Pact", "hand": ["Clothesline", "Bash", "Defend+", "Defend+", "Strike+"], "floor": 45, "hp": 61, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 180784, "card": "Defend+", "hand": ["Clothesline"], "floor": 45, "hp": 61, "maxhp": 82, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 180816, "card": "Defend+", "hand": ["Clothesline", "Strike", "Expunger"], "floor": 45, "hp": 61, "maxhp": 82, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 180976, "card": "Defend", "hand": [], "floor": 45, "hp": 61, "maxhp": 82, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 181096, "card": "Impervious", "hand": ["Clothesline", "Defend+", "Body Slam", "Wound", "Burning Pact"], "floor": 45, "hp": 61, "maxhp": 82, "block": 6, "energy": 2, "v2.0": false}
+{"frame": 181188, "card": "Body Slam", "hand": [], "floor": 45, "hp": 61, "maxhp": 82, "block": 28, "energy": 1, "v2.0": false}
+{"frame": 183082, "card": "Juggernaut+", "hand": ["Clothesline", "Clothesline", "Impervious", "Burning Pact"], "floor": 47, "hp": 2, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 183278, "card": "Metallicize+", "hand": ["Clothesline", "Clothesline", "Impervious", "Power Through"], "floor": 47, "hp": 82, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 183364, "card": "Power Through", "hand": ["Clothesline", "Clothesline", "Burning Pact"], "floor": 47, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 183448, "card": "Clothesline", "hand": ["Clothesline", "Impervious", "Burning Pact", "Wound"], "floor": 47, "hp": 82, "maxhp": 82, "block": 15, "energy": 2, "v2.0": false}
+{"frame": 183802, "card": "Feel No Pain+", "hand": ["Shrug It Off", "Bash", "True Grit+", "Void"], "floor": 47, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 184108, "card": "True Grit+", "hand": ["Shrug It Off", "Bash", "Body Slam", "Battle Trance", "Disarm"], "floor": 47, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 184328, "card": "Shrug It Off", "hand": ["Bash", "Body Slam", "Disarm"], "floor": 47, "hp": 82, "maxhp": 82, "block": 13, "energy": 4, "v2.0": false}
+{"frame": 184450, "card": "Burning Pact", "hand": ["Bash", "Disarm", "Body Slam"], "floor": 47, "hp": 82, "maxhp": 82, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 184512, "card": "Burning Pact", "hand": ["Disarm", "Body Slam"], "floor": 47, "hp": 82, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 184620, "card": "Disarm", "hand": ["Body Slam", "Shockwave", "Defend+"], "floor": 47, "hp": 82, "maxhp": 82, "block": 25, "energy": 2, "v2.0": false}
+{"frame": 184706, "card": "Body Slam", "hand": ["Shockwave", "Defend+"], "floor": 47, "hp": 82, "maxhp": 82, "block": 29, "energy": 1, "v2.0": false}
+{"frame": 185306, "card": "Defend+", "hand": ["Strike+", "Defend+", "Defend+", "Juggernaut+", "Ascender's Bane"], "floor": 47, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 185358, "card": "Defend+", "hand": ["Strike+", "Defend+", "Juggernaut+", "Evolve+"], "floor": 47, "hp": 82, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 185400, "card": "Defend+", "hand": ["Strike"], "floor": 47, "hp": 82, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 185484, "card": "Strike+", "hand": ["Ascender's Bane", "Juggernaut+"], "floor": 47, "hp": 82, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 186038, "card": "Flame Barrier+", "hand": ["Defend+", "Strike+", "Dark Embrace"], "floor": 47, "hp": 82, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 186108, "card": "Defend+", "hand": ["Impervious", "Exhume", "Strike+", "Dark Embrace"], "floor": 47, "hp": 82, "maxhp": 82, "block": 22, "energy": 4, "v2.0": false}
+{"frame": 186490, "card": "Disarm", "hand": ["Impervious", "Strike+", "Regret", "Dark Embrace"], "floor": 47, "hp": 82, "maxhp": 82, "block": 34, "energy": 2, "v2.0": false}
+{"frame": 186532, "card": "Impervious", "hand": ["Strike+", "Dark Embrace", "Burning Pact"], "floor": 47, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 187978, "card": "Dark Embrace", "hand": ["Clothesline", "Shrug It Off", "Clash", "Disarm", "Impervious"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 188050, "card": "Disarm", "hand": ["Impervious", "Clothesline", "Clothesline", "Ascender's Bane", "Shrug It Off"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 188260, "card": "Metallicize+", "hand": ["Clothesline", "Clothesline", "Ascender's Bane", "Impervious"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 188304, "card": "Clothesline", "hand": ["Clothesline", "Ascender's Bane", "Impervious", "Shrug It Off"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 188342, "card": "Clothesline", "hand": ["Impervious", "Shrug It Off"], "floor": 48, "hp": 82, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 188780, "card": "Defend+", "hand": ["Defend+", "True Grit+", "Power Through"], "floor": 48, "hp": 77, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 188840, "card": "Flame Barrier+", "hand": ["Defend+", "True Grit+"], "floor": 48, "hp": 77, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 189020, "card": "Power Through", "hand": ["Body Slam", "Defend", "True Grit+", "Impervious"], "floor": 48, "hp": 77, "maxhp": 82, "block": 24, "energy": 2, "v2.0": false}
+{"frame": 190086, "card": "Juggernaut+", "hand": ["Bash", "Defend", "Rupture", "Defend"], "floor": 48, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 190132, "card": "Juggernaut+", "hand": ["Defend+"], "floor": 48, "hp": 77, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 190176, "card": "Defend+", "hand": ["Burning Pact", "Defend+", "Bash"], "floor": 48, "hp": 77, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 190228, "card": "Burning Pact", "hand": ["Exhume", "Defend+", "Bash", "Shockwave", "Shockwave"], "floor": 48, "hp": 77, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 190316, "card": "Burning Pact", "hand": ["Exhume", "Defend+", "Shockwave", "Burning Pact"], "floor": 48, "hp": 77, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 190474, "card": "Battle Trance", "hand": ["Offering"], "floor": 48, "hp": 77, "maxhp": 82, "block": 18, "energy": 0, "v2.0": false}
+{"frame": 190582, "card": "Clothesline", "hand": ["Exhume", "Defend+", "Shockwave", "Burning Pact", "Impervious", "Flame Barrier+"], "floor": 48, "hp": 77, "maxhp": 82, "block": 18, "energy": 0, "v2.0": false}
+{"frame": 191274, "card": "Defend+", "hand": ["Defend+", "Impervious", "Body Slam", "Shame", "Burning Pact"], "floor": 48, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 191326, "card": "Shrug It Off", "hand": ["Defend+", "Impervious", "Body Slam", "Power Through", "Burning Pact"], "floor": 48, "hp": 77, "maxhp": 82, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 191504, "card": "Power Through", "hand": ["Impervious", "Body Slam", "Defend+", "Burning Pact"], "floor": 48, "hp": 77, "maxhp": 82, "block": 24, "energy": 4, "v2.0": false}
+{"frame": 191616, "card": "Body Slam", "hand": ["Impervious", "Defend+", "Burning Pact", "Wound"], "floor": 48, "hp": 77, "maxhp": 82, "block": 39, "energy": 4, "v2.0": false}
+{"frame": 191650, "card": "Burning Pact", "hand": ["Defend+", "Wound"], "floor": 48, "hp": 77, "maxhp": 82, "block": 39, "energy": 4, "v2.0": false}
+{"frame": 191720, "card": "Burning Pact", "hand": ["Impervious", "Defend+"], "floor": 48, "hp": 77, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 191976, "card": "Clothesline", "hand": ["Impervious", "Defend+", "Wound", "Power Through"], "floor": 48, "hp": 77, "maxhp": 82, "block": 49, "energy": 1, "v2.0": false}
+{"frame": 192024, "card": "Impervious", "hand": ["Defend+", "Power Through"], "floor": 48, "hp": 77, "maxhp": 82, "block": 0, "energy": 1, "v2.0": false}
+{"frame": 192170, "card": "Flame Barrier+", "hand": ["Power Through"], "floor": 48, "hp": 77, "maxhp": 82, "block": 83, "energy": 1, "v2.0": false}
+{"frame": 192244, "card": "Power Through", "hand": [], "floor": 48, "hp": 77, "maxhp": 82, "block": 929, "energy": 0, "v2.0": false}
+{"frame": 192758, "card": "Shrug It Off", "hand": ["Defend+", "Battle Trance", "Burning Pact"], "floor": 48, "hp": 77, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 192996, "card": "Impervious", "hand": ["Defend+", "Battle Trance", "Burning Pact", "Shockwave"], "floor": 48, "hp": 77, "maxhp": 82, "block": 12, "energy": 3, "v2.0": false}
+{"frame": 194814, "card": "Juggernaut+", "hand": ["Clothesline", "Exhume", "Clothesline", "Dazed", "Burning Pact", "Feel No Pain+"], "floor": 50, "hp": 82, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 195830, "card": "Disarm+", "hand": ["Ascender's Bane", "Defend", "Defend", "Defend", "Juggernaut+", "Battle Trance"], "floor": 50, "hp": 56, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 196082, "card": "True Grit+", "hand": ["Ascender's Bane", "Defend+", "Bite", "Body Slam", "Juggernaut+", "Metallicize+"], "floor": 50, "hp": 56, "maxhp": 82, "block": 12, "energy": 4, "v2.0": false}
+{"frame": 197352, "card": "Dark Embrace", "hand": ["Impervious", "Evolve+", "Flame Barrier+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 197492, "card": "Burning Pact+", "hand": ["Impervious", "Strike+", "Shockwave"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 197682, "card": "Impervious", "hand": ["Strike+", "Power Through", "Shrug It Off", "Shockwave"], "floor": 50, "hp": 50, "maxhp": 82, "block": 4, "energy": 4, "v2.0": false}
+{"frame": 197976, "card": "Shockwave", "hand": ["Shrug It Off", "Bash", "Strike+", "Power Through"], "floor": 50, "hp": 50, "maxhp": 82, "block": 38, "energy": 3, "v2.0": false}
+{"frame": 198384, "card": "Strike+", "hand": ["Flame Barrier+", "Power Through", "Shrug It Off", "Bash"], "floor": 50, "hp": 50, "maxhp": 82, "block": 48, "energy": 1, "v2.0": false}
+{"frame": 198916, "card": "Exhume", "hand": ["Clothesline", "Body Slam"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 199134, "card": "Juggernaut+", "hand": ["Clothesline", "True Grit+", "Clothesline", "Body Slam", "Burning Pact"], "floor": 50, "hp": 50, "maxhp": 82, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 199174, "card": "Disarm+", "hand": ["Clothesline", "True Grit+", "Clothesline", "Body Slam", "Defend+", "Burning Pact"], "floor": 50, "hp": 50, "maxhp": 82, "block": 4, "energy": 3, "v2.0": false}
+{"frame": 199298, "card": "Clothesline", "hand": ["True Grit+", "Clothesline", "Body Slam", "Defend+", "Dazed", "Burning Pact"], "floor": 50, "hp": 50, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 199350, "card": "True Grit+", "hand": ["Pride", "Defend+", "Defend+", "Burning Pact"], "floor": 50, "hp": 50, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 199426, "card": "True Grit+", "hand": ["Clothesline", "Body Slam", "Defend+", "Defend+", "Burning Pact"], "floor": 50, "hp": 50, "maxhp": 82, "block": 8, "energy": 3, "v2.0": false}
+{"frame": 199606, "card": "Burning Pact", "hand": ["Body Slam", "Defend+", "Battle Trance"], "floor": 50, "hp": 50, "maxhp": 82, "block": 21, "energy": 3, "v2.0": false}
+{"frame": 199670, "card": "Burning Pact", "hand": ["Defend+", "Defend+", "Body Slam"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 199844, "card": "Defend+", "hand": ["Defend+", "Defend+", "Clothesline", "Body Slam"], "floor": 50, "hp": 50, "maxhp": 82, "block": 31, "energy": 2, "v2.0": false}
+{"frame": 199882, "card": "Defend+", "hand": ["Clothesline", "Body Slam", "Defend+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 3, "energy": 1, "v2.0": false}
+{"frame": 199928, "card": "Clothesline", "hand": ["Iron Wave", "Body Slam", "Defend+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 7, "energy": 0, "v2.0": false}
+{"frame": 201172, "card": "Burning Pact", "hand": [], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 201250, "card": "Burning Pact", "hand": ["True Grit+", "Impervious", "Defend+", "Power Through"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 201668, "card": "True Grit+", "hand": ["Shrug It Off", "Strike+", "Flame Barrier+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 202482, "card": "Defend+", "hand": ["Defend+", "Defend+", "Defend+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 202702, "card": "Burning Pact", "hand": ["Defend+", "Defend+", "Impervious", "Trip", "Burning Pact"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 202816, "card": "Shrug It Off", "hand": ["Defend+", "Slimed+", "True Grit"], "floor": 50, "hp": 50, "maxhp": 82, "block": 18, "energy": 4, "v2.0": false}
+{"frame": 203024, "card": "Flame Barrier+", "hand": ["Defend+", "Defend+", "True Grit+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 32, "energy": 4, "v2.0": false}
+{"frame": 203084, "card": "Defend+", "hand": ["Defend", "True Grit"], "floor": 50, "hp": 50, "maxhp": 82, "block": 45, "energy": 3, "v2.0": false}
+{"frame": 203128, "card": "Defend+", "hand": ["Body Slam", "Burning Pact", "Clothesline"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 203186, "card": "Body Slam", "hand": ["Burning Pact", "Power Through", "Impervious", "True Grit+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 64, "energy": 1, "v2.0": false}
+{"frame": 203448, "card": "Burning Pact", "hand": ["Clothesline", "Power Through", "Pummel", "True Grit+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 203524, "card": "Burning Pact", "hand": ["Clothesline", "Power Through", "Impervious", "True Grit+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 0, "v2.0": false}
+{"frame": 203698, "card": "Shrug It Off", "hand": ["Clothesline", "Power Through", "Impervious", "True Grit+", "Burn"], "floor": 50, "hp": 50, "maxhp": 82, "block": 74, "energy": 0, "v2.0": false}
+{"frame": 204210, "card": "Clothesline", "hand": ["Body Slam", "True Grit+", "Defend+", "Flame Barrier+", "Power Through"], "floor": 50, "hp": 50, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 204298, "card": "Power Through", "hand": ["Body Slam", "True Grit+", "Defend+", "Impervious"], "floor": 50, "hp": 50, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 204358, "card": "True Grit+", "hand": ["Body Slam", "Impervious", "Flame Barrier+", "Defend+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 21, "energy": 2, "v2.0": false}
+{"frame": 204746, "card": "Defend+", "hand": ["Impervious", "Flame Barrier+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 34, "energy": 1, "v2.0": false}
+{"frame": 205212, "card": "Shrug It Off", "hand": ["Body Slam", "True Grit+", "Dazed", "Burning Pact"], "floor": 50, "hp": 50, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 205498, "card": "True Grit+", "hand": ["Defend+", "Burning Pact", "Body Slam"], "floor": 50, "hp": 50, "maxhp": 82, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 205900, "card": "Flame Barrier+", "hand": ["Defend+"], "floor": 50, "hp": 0, "maxhp": 82, "block": 27, "energy": 4, "v2.0": false}
+{"frame": 205994, "card": "Burning Pact", "hand": ["Burning Pact", "Body Slam", "Defend+", "Clothesline"], "floor": 50, "hp": 50, "maxhp": 82, "block": 43, "energy": 4, "v2.0": false}
+{"frame": 206104, "card": "Burning Pact", "hand": ["Defend+", "Clothesline", "Burning Pact"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 206344, "card": "Clothesline", "hand": ["Defend+", "Impervious", "Defend+", "Burning Pact", "Power Through"], "floor": 50, "hp": 50, "maxhp": 82, "block": 47, "energy": 3, "v2.0": false}
+{"frame": 206826, "card": "True Grit+", "hand": ["Shrug It Off", "Defend+", "Void", "Flame Barrier+", "Burn"], "floor": 50, "hp": 50, "maxhp": 82, "block": 6, "energy": 3, "v2.0": false}
+{"frame": 207140, "card": "Burning Pact", "hand": ["Shrug It Off", "Clothesline", "Flame Barrier+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 207308, "card": "Power Through", "hand": ["Clothesline", "Impervious", "Shrug It Off", "Flame Barrier+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 23, "energy": 3, "v2.0": false}
+{"frame": 207354, "card": "Burning Pact", "hand": ["Clothesline", "Defend+", "Flame Barrier+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 36, "energy": 3, "v2.0": false}
+{"frame": 207438, "card": "Burning Pact", "hand": ["Clothesline", "Impervious", "Defend+", "Shrug It Off", "Flame Barrier+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 207696, "card": "Burning Pact", "hand": ["Defend+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 208124, "card": "Defend+", "hand": ["Impervious", "True Grit", "Shrug It Off", "Flame Barrier+"], "floor": 50, "hp": 50, "maxhp": 82, "block": 70, "energy": 2, "v2.0": false}
+{"frame": 209162, "card": "Shrug It Off", "hand": ["Defend+", "Defend+", "Body Slam", "Power Through"], "floor": 51, "hp": 81, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 209884, "card": "Feel No Pain+", "hand": ["Body Slam", "Defend+", "Defend+", "Disarm+"], "floor": 51, "hp": 1, "maxhp": 82, "block": 8, "energy": 4, "v2.0": false}
+{"frame": 209928, "card": "Juggernaut+", "hand": ["Body Slam", "Defend+", "Defend+", "Disarm+"], "floor": 51, "hp": 81, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 209956, "card": "Defend+", "hand": ["Body Slam", "Power Through", "Defend+", "Disarm+"], "floor": 51, "hp": 81, "maxhp": 82, "block": 8, "energy": 0, "v2.0": false}
+{"frame": 209996, "card": "Defend+", "hand": ["Body Slam"], "floor": 51, "hp": 81, "maxhp": 82, "block": 15, "energy": 0, "v2.0": false}
+{"frame": 211032, "card": "Battle Trance+", "hand": ["Exhume", "Flame Barrier+"], "floor": 51, "hp": 81, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 211216, "card": "Impervious", "hand": ["Strike+", "Clothesline", "Shockwave"], "floor": 51, "hp": 81, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 211282, "card": "Evolve+", "hand": ["Strike+", "Clothesline", "Shockwave"], "floor": 51, "hp": 81, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 212090, "card": "Metallicize+", "hand": ["Bash", "Clothesline", "Burning Pact", "Defend+"], "floor": 51, "hp": 81, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 212172, "card": "Shrug It Off", "hand": ["Bash", "Clothesline", "Ascender's Bane", "Defend+", "Burning Pact"], "floor": 51, "hp": 81, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 212318, "card": "Disarm+", "hand": ["Bash", "Clothesline", "Ascender's Bane", "Defend+"], "floor": 51, "hp": 81, "maxhp": 82, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 212986, "card": "Exhume", "hand": [], "floor": 51, "hp": 76, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 213470, "card": "Shockwave", "hand": ["Defend+", "Battle Trance", "Impervious", "True Grit+"], "floor": 51, "hp": 76, "maxhp": 82, "block": 8, "energy": 1, "v2.0": false}
+{"frame": 213634, "card": "Clothesline+", "hand": ["Defend+", "Impervious", "True Grit+", "Flame Barrier+", "Power Through"], "floor": 51, "hp": 76, "maxhp": 82, "block": 12, "energy": 1, "v2.0": false}
+{"frame": 214188, "card": "Burning Pact", "hand": ["Strike+", "Body Slam", "Bash", "Battle Trance"], "floor": 51, "hp": 76, "maxhp": 82, "block": 6, "energy": 4, "v2.0": false}
+{"frame": 214258, "card": "Burning Pact+", "hand": ["Body Slam", "Bash", "Shrug It Off"], "floor": 51, "hp": 76, "maxhp": 82, "block": 0, "energy": 2, "v2.0": false}
+{"frame": 214578, "card": "Juggernaut+", "hand": ["Shrug It Off", "Defend+"], "floor": 51, "hp": 76, "maxhp": 82, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 214606, "card": "Defend+", "hand": ["Shrug It Off", "Body Slam", "Bash", "Battle Trance"], "floor": 51, "hp": 76, "maxhp": 82, "block": 10, "energy": 2, "v2.0": false}
+{"frame": 214658, "card": "Shrug It Off", "hand": ["Body Slam", "Bash", "Battle Trance"], "floor": 51, "hp": 76, "maxhp": 82, "block": 16, "energy": 2, "v2.0": false}
+{"frame": 215340, "card": "Burning Pact", "hand": ["True Grit+", "Defend+", "Pummel", "Shame", "Defend+"], "floor": 51, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 215410, "card": "Burning Pact", "hand": ["Defend+", "Shame", "Impervious", "Clothesline", "True Grit+"], "floor": 51, "hp": 71, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 215702, "card": "Defend+", "hand": ["Impervious", "Defend+", "Clothesline", "True Grit+"], "floor": 51, "hp": 71, "maxhp": 82, "block": 10, "energy": 3, "v2.0": false}
+{"frame": 215786, "card": "True Grit+", "hand": ["Bash", "Impervious", "Defend+", "Clothesline"], "floor": 51, "hp": 71, "maxhp": 82, "block": 0, "energy": 3, "v2.0": false}
+{"frame": 216082, "card": "Flame Barrier+", "hand": ["Impervious", "Defend+", "Clothesline", "Clash"], "floor": 51, "hp": 71, "maxhp": 82, "block": 31, "energy": 1, "v2.0": false}
+{"frame": 217120, "card": "Slimed+", "hand": ["Bash", "Slimed", "Defend+"], "floor": 51, "hp": 71, "maxhp": 82, "block": 6, "energy": 1, "v2.0": false}
+{"frame": 217706, "card": "Defend+", "hand": ["Shrug It Off", "Impervious", "Clothesline", "Clothesline", "True Grit+"], "floor": 51, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 217844, "card": "True Grit+", "hand": ["Impervious", "Clothesline"], "floor": 51, "hp": 71, "maxhp": 82, "block": 14, "energy": 4, "v2.0": false}
+{"frame": 218166, "card": "Flame Barrier+", "hand": ["Shrug It Off", "Slimed"], "floor": 51, "hp": 71, "maxhp": 82, "block": 27, "energy": 4, "v2.0": false}
+{"frame": 218248, "card": "Clothesline", "hand": ["Shrug It Off", "Impervious", "Burning Pact"], "floor": 51, "hp": 71, "maxhp": 82, "block": 43, "energy": 4, "v2.0": false}
+{"frame": 218354, "card": "Burning Pact", "hand": ["Impervious", "Burning Pact", "Shrug It Off"], "floor": 51, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 218496, "card": "Bash", "hand": ["Shrug It Off", "Impervious", "Defend+", "Burning Pact"], "floor": 51, "hp": 71, "maxhp": 82, "block": 47, "energy": 4, "v2.0": false}
+{"frame": 218538, "card": "Burning Pact", "hand": ["Shrug It Off", "Impervious", "Power Through", "Defend+"], "floor": 51, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 218608, "card": "Burning Pact", "hand": ["Shrug It Off", "Impervious", "Power Through", "Defend+"], "floor": 51, "hp": 71, "maxhp": 82, "block": 0, "energy": 4, "v2.0": false}
+{"frame": 218904, "card": "Flame Barrier+", "hand": ["Defend+", "Body Slam", "Defend+"], "floor": 51, "hp": 71, "maxhp": 82, "block": 57, "energy": 4, "v2.0": false}
+{"frame": 219014, "card": "Clothesline", "hand": ["Impervious", "Defend+", "Body Slam", "Shrug It Off", "Shame"], "floor": 51, "hp": 71, "maxhp": 82, "block": 73, "energy": 2, "v2.0": false}
+{"frame": 219050, "card": "Body Slam", "hand": [], "floor": 51, "hp": 71, "maxhp": 82, "block": 73, "energy": 1, "v2.0": false}
+done
